@@ -1,0 +1,2702 @@
+# Review RU → EN
+
+
+## Slide 0
+
+- `s0000`
+  - RU: 'Dinobutin — стратегия 2027 · Акрихин × OMD'
+  - EN: 'Dinobutin — 2027 strategy · Akrikhin × OMD'
+- `s0001`
+  - RU: 'Знак Акрихин'
+  - EN: 'Akrikhin logo'
+
+## Slide 1
+
+- `s0002`
+  - RU: 'Акрихин + OMD'
+  - EN: 'Akrikhin + OMD'
+- `s0003`
+  - RU: 'Классификация документа: конфиденциальная информация для внутреннего использования'
+  - EN: 'Document classification: confidential, for internal use only'
+
+## Slide 2
+
+- `s0004`
+  - RU: 'Цели и задачи для Динобутин в 2027 году'
+  - EN: 'Dinobutin goals and objectives for 2027'
+- `s0005`
+  - RU: 'Продолжить поддержку после запуска Динобутин в медиа и достичь продаж [[**328 тыс. упаковок**]] и [[**147 млн рублей**]] в 2027 году'
+  - EN: 'Continue post-launch media support for Dinobutin and reach [[**328K units**]] and [[**RUB\xa0147M**]] in sales in 2027'
+- `s0006`
+  - RU: 'Иконка'
+  - EN: 'Icon'
+- `s0007`
+  - RU: 'В брендметриках **вырастить знание** Динобутин и **конвертировать его в первую и повторную покупку**'
+  - EN: 'Brand metrics: **grow awareness** of Dinobutin and **convert it into first and repeat purchases**'
+- `s0008`
+  - RU: 'В коммуникации убедить маму, что Динобутин — это **лучший выбор** при функциональных нарушениях работы ЖКТ у ребенка и донести до нее **УТП\xa0Динобутина**'
+  - EN: 'Messaging: convince mom that Dinobutin is the **best choice** for her child’s functional GI disorders, and get **Dinobutin’s USP** across'
+
+## Slide 3
+
+- `s0009`
+  - RU: 'Динобутин / Offline Competitive Landscape / 2025–2026'
+  - EN: 'Dinobutin / Offline Competitive Landscape / 2025–2026'
+- `s0010`
+  - RU: 'Необутин и Тримедат находятся в паритете по уровню инвестиций в январе–июле 2026. При этом по уровню продаж Тримедат, как минимум, в 2 раза превосходит Необутин'
+  - EN: 'Neobutin and Trimedat spent on par in Jan–Jul 2026, yet Trimedat sells at least twice as much'
+- `s0011`
+  - RU: 'Динамика инвестиций'
+  - EN: 'Investment trend'
+- `s0012`
+  - RU: 'ДИНАМИКА ИНВЕСТИЦИЙ'
+  - EN: 'INVESTMENT TREND'
+- `s0013`
+  - RU: 'млн ₽, Mediascope'
+  - EN: 'RUB M, Mediascope'
+- `s0014`
+  - RU: 'Тримедат'
+  - EN: 'Trimedat'
+- `s0015`
+  - RU: 'Необутин'
+  - EN: 'Neobutin'
+- `s0016`
+  - RU: 'Тримедат, млн ₽'
+  - EN: 'Trimedat, RUB M'
+- `s0017`
+  - RU: 'янв 2025'
+  - EN: 'Jan 2025'
+- `s0018`
+  - RU: 'фев 2025'
+  - EN: 'Feb 2025'
+- `s0019`
+  - RU: 'мар 2025'
+  - EN: 'Mar 2025'
+- `s0020`
+  - RU: 'апр 2025'
+  - EN: 'Apr 2025'
+- `s0021`
+  - RU: 'май 2025'
+  - EN: 'May 2025'
+- `s0022`
+  - RU: 'июн 2025'
+  - EN: 'Jun 2025'
+- `s0023`
+  - RU: 'июл 2025'
+  - EN: 'Jul 2025'
+- `s0024`
+  - RU: 'авг 2025'
+  - EN: 'Aug 2025'
+- `s0025`
+  - RU: 'сен 2025'
+  - EN: 'Sep 2025'
+- `s0026`
+  - RU: 'окт 2025'
+  - EN: 'Oct 2025'
+- `s0027`
+  - RU: 'ноя 2025'
+  - EN: 'Nov 2025'
+- `s0028`
+  - RU: 'дек 2025'
+  - EN: 'Dec 2025'
+- `s0029`
+  - RU: 'янв 2026'
+  - EN: 'Jan 2026'
+- `s0030`
+  - RU: 'фев 2026'
+  - EN: 'Feb 2026'
+- `s0031`
+  - RU: 'мар 2026'
+  - EN: 'Mar 2026'
+- `s0032`
+  - RU: 'апр 2026'
+  - EN: 'Apr 2026'
+- `s0033`
+  - RU: 'май 2026'
+  - EN: 'May 2026'
+- `s0034`
+  - RU: 'июн 2026'
+  - EN: 'Jun 2026'
+- `s0035`
+  - RU: 'июл 2026'
+  - EN: 'Jul 2026'
+- `s0036`
+  - RU: 'авг 2026'
+  - EN: 'Aug 2026'
+- `s0037`
+  - RU: 'сен 2026'
+  - EN: 'Sep 2026'
+- `s0038`
+  - RU: 'Необутин, млн ₽'
+  - EN: 'Neobutin, RUB M'
+- `s0039`
+  - RU: '2,1'
+  - EN: '2.1'
+- `s0040`
+  - RU: '7,1'
+  - EN: '7.1'
+- `s0041`
+  - RU: '0,6'
+  - EN: '0.6'
+- `s0042`
+  - RU: 'Тримедат, доля в инвестициях месяца'
+  - EN: 'Trimedat, share of monthly investment'
+- `s0043`
+  - RU: 'Необутин, доля в инвестициях месяца'
+  - EN: 'Neobutin, share of monthly investment'
+- `s0044`
+  - RU: 'Динамика продаж'
+  - EN: 'Sales trend'
+- `s0045`
+  - RU: 'ДИНАМИКА ПРОДАЖ'
+  - EN: 'SALES TREND'
+- `s0046`
+  - RU: 'млн ₽, IQVIA'
+  - EN: 'RUB M, IQVIA'
+- `s0047`
+  - RU: '57,6'
+  - EN: '57.6'
+- `s0048`
+  - RU: '58,7'
+  - EN: '58.7'
+- `s0049`
+  - RU: '64,6'
+  - EN: '64.6'
+- `s0050`
+  - RU: '55,7'
+  - EN: '55.7'
+- `s0051`
+  - RU: '47,4'
+  - EN: '47.4'
+- `s0052`
+  - RU: '43,7'
+  - EN: '43.7'
+- `s0053`
+  - RU: '45,4'
+  - EN: '45.4'
+- `s0054`
+  - RU: '45,3'
+  - EN: '45.3'
+- `s0055`
+  - RU: '50,7'
+  - EN: '50.7'
+- `s0056`
+  - RU: '58,8'
+  - EN: '58.8'
+- `s0057`
+  - RU: '54,5'
+  - EN: '54.5'
+- `s0058`
+  - RU: '59,4'
+  - EN: '59.4'
+- `s0059`
+  - RU: '58,0'
+  - EN: '58.0'
+- `s0060`
+  - RU: '53,2'
+  - EN: '53.2'
+- `s0061`
+  - RU: '48,6'
+  - EN: '48.6'
+- `s0062`
+  - RU: '22,0'
+  - EN: '22.0'
+- `s0063`
+  - RU: '22,7'
+  - EN: '22.7'
+- `s0064`
+  - RU: '19,7'
+  - EN: '19.7'
+- `s0065`
+  - RU: '18,9'
+  - EN: '18.9'
+- `s0066`
+  - RU: '16,2'
+  - EN: '16.2'
+- `s0067`
+  - RU: '15,1'
+  - EN: '15.1'
+- `s0068`
+  - RU: '17,8'
+  - EN: '17.8'
+- `s0069`
+  - RU: '17,0'
+  - EN: '17.0'
+- `s0070`
+  - RU: '20,2'
+  - EN: '20.2'
+- `s0071`
+  - RU: '24,5'
+  - EN: '24.5'
+- `s0072`
+  - RU: '23,0'
+  - EN: '23.0'
+- `s0073`
+  - RU: '27,4'
+  - EN: '27.4'
+- `s0074`
+  - RU: '26,7'
+  - EN: '26.7'
+- `s0075`
+  - RU: '27,8'
+  - EN: '27.8'
+- `s0076`
+  - RU: '23,2'
+  - EN: '23.2'
+- `s0077`
+  - RU: '21,2'
+  - EN: '21.2'
+- `s0078`
+  - RU: 'янв'
+  - EN: 'Jan'
+- `s0079`
+  - RU: 'фев'
+  - EN: 'Feb'
+- `s0080`
+  - RU: 'мар'
+  - EN: 'Mar'
+- `s0081`
+  - RU: 'апр'
+  - EN: 'Apr'
+- `s0082`
+  - RU: 'май'
+  - EN: 'May'
+- `s0083`
+  - RU: 'июн'
+  - EN: 'Jun'
+- `s0084`
+  - RU: 'июл'
+  - EN: 'Jul'
+- `s0085`
+  - RU: 'авг'
+  - EN: 'Aug'
+- `s0086`
+  - RU: 'сен'
+  - EN: 'Sep'
+- `s0087`
+  - RU: 'окт'
+  - EN: 'Oct'
+- `s0088`
+  - RU: 'ноя'
+  - EN: 'Nov'
+- `s0089`
+  - RU: 'дек'
+  - EN: 'Dec'
+- `s0090`
+  - RU: '292 млн ₽'
+  - EN: 'RUB 292M'
+- `s0091`
+  - RU: '240 млн ₽'
+  - EN: 'RUB 240M'
+- `s0092`
+  - RU: 'Тримедат и Необутин инвестируют сопоставимые объемы (**292\xa0млн\xa0₽ и 240\xa0млн\xa0₽**), однако **продажи Тримедата остаются более чем в 2 раза выше**, что указывает на влияние силы бренда и накопленного спроса'
+  - EN: 'Trimedat and Neobutin invest similar amounts (**RUB 292M and 240M**), yet **Trimedat’s sales stay more than 2x higher** — a sign of brand strength and built-up demand'
+- `s0093`
+  - RU: 'Несмотря на **рост инвестиций Тримедата в 2,2 раза** в 2026 году, **продажи остались стабильными (−3% YoY)**, подтверждая необходимость комплексной работы с потребительским спросом'
+  - EN: 'Despite **Trimedat raising investment 2.2x** in 2026, **sales stayed flat (−3%\xa0YoY)** — proof that consumer demand needs a joined-up approach'
+- `s0094`
+  - RU: 'Источник: Mediascope, IQVIA. 2026 budget — январь–август 2026; рост в 2,2 раза — инвестиции январь–август 2026 к январю–августу 2025; −3% YoY — продажи январь–июнь 2026 к январю–июню 2025 (расчёт OMD). SOS — доля бренда в инвестициях месяца'
+  - EN: 'Source: Mediascope, IQVIA. 2026 budget — Jan–Aug 2026; 2.2x growth — investment Jan–Aug 2026 vs Jan–Aug 2025; −3% YoY — sales Jan–Jun 2026 vs Jan–Jun 2025 (OMD calculation). SOS — brand’s share of monthly investment'
+
+## Slide 4
+
+- `s0095`
+  - RU: 'Вся категория играет через Нац.\xa0ТВ как основной инструмент формирования знания и доверия'
+  - EN: 'The whole category relies on National TV as its main tool for building awareness and trust'
+- `s0096`
+  - RU: 'Доля инвестиций по каналам'
+  - EN: 'Investment share by channel'
+- `s0097`
+  - RU: 'ДОЛЯ ИНВЕСТИЦИЙ ПО КАНАЛАМ'
+  - EN: 'INVESTMENT SHARE BY CHANNEL'
+- `s0098`
+  - RU: 'Инвестиции по каналам'
+  - EN: 'Investment by channel'
+- `s0099`
+  - RU: 'ИНВЕСТИЦИИ ПО КАНАЛАМ'
+  - EN: 'INVESTMENT BY CHANNEL'
+- `s0100`
+  - RU: 'млн ₽'
+  - EN: 'RUB M'
+- `s0101`
+  - RU: 'Нац.\xa0ТВ'
+  - EN: 'Nat. TV'
+- `s0102`
+  - RU: 'Необутин, янв–авг 2025'
+  - EN: 'Neobutin, Jan–Aug 2025'
+- `s0103`
+  - RU: 'Необутин, янв–авг 2026'
+  - EN: 'Neobutin, Jan–Aug 2026'
+- `s0104`
+  - RU: 'Тримедат, янв–авг 2025'
+  - EN: 'Trimedat, Jan–Aug 2025'
+- `s0105`
+  - RU: 'Тримедат, янв–авг 2026'
+  - EN: 'Trimedat, Jan–Aug 2026'
+- `s0106`
+  - RU: 'Нац.\xa0ТВ, млн ₽'
+  - EN: 'Nat. TV, RUB M'
+- `s0107`
+  - RU: 'OLV, млн ₽'
+  - EN: 'OLV, RUB M'
+- `s0108`
+  - RU: 'OOH, млн ₽'
+  - EN: 'OOH, RUB M'
+- `s0109`
+  - RU: 'янв–авг 2025'
+  - EN: 'Jan–Aug 2025'
+- `s0110`
+  - RU: '258,1'
+  - EN: '258.1'
+- `s0111`
+  - RU: 'янв–авг 2026'
+  - EN: 'Jan–Aug 2026'
+- `s0112`
+  - RU: '240,1'
+  - EN: '240.1'
+- `s0113`
+  - RU: '131,1'
+  - EN: '131.1'
+- `s0114`
+  - RU: '291,6'
+  - EN: '291.6'
+- `s0115`
+  - RU: 'OOH 7,1'
+  - EN: 'OOH 7.1'
+- `s0116`
+  - RU: 'Динамика рейтингов Нац.\xa0ТВ'
+  - EN: 'National TV ratings trend'
+- `s0117`
+  - RU: 'ДИНАМИКА РЕЙТИНГОВ НАЦ.\xa0ТВ'
+  - EN: 'NATIONAL TV RATINGS TREND'
+- `s0118`
+  - RU: 'TVR, Ж 25–50 с детьми 3–10 лет'
+  - EN: 'TVR, F 25–50 with kids 3–10'
+- `s0119`
+  - RU: 'Тримедат, TVR'
+  - EN: 'Trimedat, TVR'
+- `s0120`
+  - RU: 'янв 2025, неделя 1'
+  - EN: 'Jan 2025, week 1'
+- `s0121`
+  - RU: 'янв 2025, неделя 2'
+  - EN: 'Jan 2025, week 2'
+- `s0122`
+  - RU: 'янв 2025, неделя 3'
+  - EN: 'Jan 2025, week 3'
+- `s0123`
+  - RU: 'янв 2025, неделя 4'
+  - EN: 'Jan 2025, week 4'
+- `s0124`
+  - RU: 'янв 2025, неделя 5'
+  - EN: 'Jan 2025, week 5'
+- `s0125`
+  - RU: 'фев 2025, неделя 6'
+  - EN: 'Feb 2025, week 6'
+- `s0126`
+  - RU: 'фев 2025, неделя 7'
+  - EN: 'Feb 2025, week 7'
+- `s0127`
+  - RU: 'фев 2025, неделя 8'
+  - EN: 'Feb 2025, week 8'
+- `s0128`
+  - RU: 'фев 2025, неделя 9'
+  - EN: 'Feb 2025, week 9'
+- `s0129`
+  - RU: 'мар 2025, неделя 10'
+  - EN: 'Mar 2025, week 10'
+- `s0130`
+  - RU: 'мар 2025, неделя 11'
+  - EN: 'Mar 2025, week 11'
+- `s0131`
+  - RU: 'мар 2025, неделя 12'
+  - EN: 'Mar 2025, week 12'
+- `s0132`
+  - RU: 'мар 2025, неделя 13'
+  - EN: 'Mar 2025, week 13'
+- `s0133`
+  - RU: 'апр 2025, неделя 14'
+  - EN: 'Apr 2025, week 14'
+- `s0134`
+  - RU: 'апр 2025, неделя 15'
+  - EN: 'Apr 2025, week 15'
+- `s0135`
+  - RU: 'апр 2025, неделя 16'
+  - EN: 'Apr 2025, week 16'
+- `s0136`
+  - RU: 'апр 2025, неделя 17'
+  - EN: 'Apr 2025, week 17'
+- `s0137`
+  - RU: 'май 2025, неделя 18'
+  - EN: 'May 2025, week 18'
+- `s0138`
+  - RU: 'май 2025, неделя 19'
+  - EN: 'May 2025, week 19'
+- `s0139`
+  - RU: 'май 2025, неделя 20'
+  - EN: 'May 2025, week 20'
+- `s0140`
+  - RU: 'май 2025, неделя 21'
+  - EN: 'May 2025, week 21'
+- `s0141`
+  - RU: 'май 2025, неделя 22'
+  - EN: 'May 2025, week 22'
+- `s0142`
+  - RU: 'июн 2025, неделя 23'
+  - EN: 'Jun 2025, week 23'
+- `s0143`
+  - RU: 'июн 2025, неделя 24'
+  - EN: 'Jun 2025, week 24'
+- `s0144`
+  - RU: 'июн 2025, неделя 25'
+  - EN: 'Jun 2025, week 25'
+- `s0145`
+  - RU: 'июн 2025, неделя 26'
+  - EN: 'Jun 2025, week 26'
+- `s0146`
+  - RU: 'июл 2025, неделя 27'
+  - EN: 'Jul 2025, week 27'
+- `s0147`
+  - RU: 'июл 2025, неделя 28'
+  - EN: 'Jul 2025, week 28'
+- `s0148`
+  - RU: 'июл 2025, неделя 29'
+  - EN: 'Jul 2025, week 29'
+- `s0149`
+  - RU: 'июл 2025, неделя 30'
+  - EN: 'Jul 2025, week 30'
+- `s0150`
+  - RU: 'июл 2025, неделя 31'
+  - EN: 'Jul 2025, week 31'
+- `s0151`
+  - RU: 'авг 2025, неделя 32'
+  - EN: 'Aug 2025, week 32'
+- `s0152`
+  - RU: 'авг 2025, неделя 33'
+  - EN: 'Aug 2025, week 33'
+- `s0153`
+  - RU: 'авг 2025, неделя 34'
+  - EN: 'Aug 2025, week 34'
+- `s0154`
+  - RU: 'авг 2025, неделя 35'
+  - EN: 'Aug 2025, week 35'
+- `s0155`
+  - RU: 'сен 2025, неделя 36'
+  - EN: 'Sep 2025, week 36'
+- `s0156`
+  - RU: 'сен 2025, неделя 37'
+  - EN: 'Sep 2025, week 37'
+- `s0157`
+  - RU: 'сен 2025, неделя 38'
+  - EN: 'Sep 2025, week 38'
+- `s0158`
+  - RU: 'сен 2025, неделя 39'
+  - EN: 'Sep 2025, week 39'
+- `s0159`
+  - RU: 'окт 2025, неделя 40'
+  - EN: 'Oct 2025, week 40'
+- `s0160`
+  - RU: 'окт 2025, неделя 41'
+  - EN: 'Oct 2025, week 41'
+- `s0161`
+  - RU: 'окт 2025, неделя 42'
+  - EN: 'Oct 2025, week 42'
+- `s0162`
+  - RU: 'окт 2025, неделя 43'
+  - EN: 'Oct 2025, week 43'
+- `s0163`
+  - RU: 'окт 2025, неделя 44'
+  - EN: 'Oct 2025, week 44'
+- `s0164`
+  - RU: 'ноя 2025, неделя 45'
+  - EN: 'Nov 2025, week 45'
+- `s0165`
+  - RU: 'ноя 2025, неделя 46'
+  - EN: 'Nov 2025, week 46'
+- `s0166`
+  - RU: 'ноя 2025, неделя 47'
+  - EN: 'Nov 2025, week 47'
+- `s0167`
+  - RU: 'ноя 2025, неделя 48'
+  - EN: 'Nov 2025, week 48'
+- `s0168`
+  - RU: 'дек 2025, неделя 49'
+  - EN: 'Dec 2025, week 49'
+- `s0169`
+  - RU: 'дек 2025, неделя 50'
+  - EN: 'Dec 2025, week 50'
+- `s0170`
+  - RU: 'дек 2025, неделя 51'
+  - EN: 'Dec 2025, week 51'
+- `s0171`
+  - RU: 'дек 2025, неделя 52'
+  - EN: 'Dec 2025, week 52'
+- `s0172`
+  - RU: 'янв 2026, неделя 53'
+  - EN: 'Jan 2026, week 53'
+- `s0173`
+  - RU: 'янв 2026, неделя 54'
+  - EN: 'Jan 2026, week 54'
+- `s0174`
+  - RU: 'янв 2026, неделя 55'
+  - EN: 'Jan 2026, week 55'
+- `s0175`
+  - RU: 'янв 2026, неделя 56'
+  - EN: 'Jan 2026, week 56'
+- `s0176`
+  - RU: 'янв 2026, неделя 57'
+  - EN: 'Jan 2026, week 57'
+- `s0177`
+  - RU: 'фев 2026, неделя 58'
+  - EN: 'Feb 2026, week 58'
+- `s0178`
+  - RU: 'фев 2026, неделя 59'
+  - EN: 'Feb 2026, week 59'
+- `s0179`
+  - RU: 'фев 2026, неделя 60'
+  - EN: 'Feb 2026, week 60'
+- `s0180`
+  - RU: 'фев 2026, неделя 61'
+  - EN: 'Feb 2026, week 61'
+- `s0181`
+  - RU: 'мар 2026, неделя 62'
+  - EN: 'Mar 2026, week 62'
+- `s0182`
+  - RU: 'мар 2026, неделя 63'
+  - EN: 'Mar 2026, week 63'
+- `s0183`
+  - RU: 'мар 2026, неделя 64'
+  - EN: 'Mar 2026, week 64'
+- `s0184`
+  - RU: 'мар 2026, неделя 65'
+  - EN: 'Mar 2026, week 65'
+- `s0185`
+  - RU: 'апр 2026, неделя 66'
+  - EN: 'Apr 2026, week 66'
+- `s0186`
+  - RU: 'апр 2026, неделя 67'
+  - EN: 'Apr 2026, week 67'
+- `s0187`
+  - RU: 'апр 2026, неделя 68'
+  - EN: 'Apr 2026, week 68'
+- `s0188`
+  - RU: 'апр 2026, неделя 69'
+  - EN: 'Apr 2026, week 69'
+- `s0189`
+  - RU: 'апр 2026, неделя 70'
+  - EN: 'Apr 2026, week 70'
+- `s0190`
+  - RU: 'май 2026, неделя 71'
+  - EN: 'May 2026, week 71'
+- `s0191`
+  - RU: 'май 2026, неделя 72'
+  - EN: 'May 2026, week 72'
+- `s0192`
+  - RU: 'май 2026, неделя 73'
+  - EN: 'May 2026, week 73'
+- `s0193`
+  - RU: 'май 2026, неделя 74'
+  - EN: 'May 2026, week 74'
+- `s0194`
+  - RU: 'июн 2026, неделя 75'
+  - EN: 'Jun 2026, week 75'
+- `s0195`
+  - RU: 'июн 2026, неделя 76'
+  - EN: 'Jun 2026, week 76'
+- `s0196`
+  - RU: 'июн 2026, неделя 77'
+  - EN: 'Jun 2026, week 77'
+- `s0197`
+  - RU: 'июн 2026, неделя 78'
+  - EN: 'Jun 2026, week 78'
+- `s0198`
+  - RU: 'июл 2026, неделя 79'
+  - EN: 'Jul 2026, week 79'
+- `s0199`
+  - RU: 'июл 2026, неделя 80'
+  - EN: 'Jul 2026, week 80'
+- `s0200`
+  - RU: 'июл 2026, неделя 81'
+  - EN: 'Jul 2026, week 81'
+- `s0201`
+  - RU: 'июл 2026, неделя 82'
+  - EN: 'Jul 2026, week 82'
+- `s0202`
+  - RU: 'июл 2026, неделя 83'
+  - EN: 'Jul 2026, week 83'
+- `s0203`
+  - RU: 'авг 2026, неделя 84'
+  - EN: 'Aug 2026, week 84'
+- `s0204`
+  - RU: 'авг 2026, неделя 85'
+  - EN: 'Aug 2026, week 85'
+- `s0205`
+  - RU: 'авг 2026, неделя 86'
+  - EN: 'Aug 2026, week 86'
+- `s0206`
+  - RU: 'авг 2026, неделя 87'
+  - EN: 'Aug 2026, week 87'
+- `s0207`
+  - RU: 'сен 2026, неделя 88'
+  - EN: 'Sep 2026, week 88'
+- `s0208`
+  - RU: 'Необутин, TVR'
+  - EN: 'Neobutin, TVR'
+- `s0209`
+  - RU: 'Необутин и Тримедат направляют **100% рекламных инвестиций в Нац.\xa0ТВ**, обеспечивая масштабное присутствие среди целевой аудитории через регулярные сезонные флайты'
+  - EN: 'Neobutin and Trimedat put **100% of ad investment into National TV**, reaching the target audience at scale through regular seasonal flights'
+- `s0210`
+  - RU: '**Конкуренты используют ТВ не как разовую поддержку, а как постоянный драйвер видимости бренда.**'
+  - EN: '**Competitors use TV as a constant driver of brand visibility, not as one-off support.**'
+- `s0211`
+  - RU: 'В 2026 году **Необутин реализовал 3 флайта с суммарным весом 5\xa0326\xa0TVR, Тримедат — 4 флайта с 5\xa0781\xa0TVR**, поддерживая высокий уровень контакта с аудиторией'
+  - EN: 'In 2026, **Neobutin ran 3\xa0flights totaling 5,326 TVR and Trimedat 4\xa0flights totaling 5,781 TVR**, keeping audience contact high'
+- `s0212`
+  - RU: 'Источник: Mediascope. 2026 budget — январь–август 2026. Рейтинги Нац.\xa0ТВ — по неделям'
+  - EN: 'Source: Mediascope. 2026 budget — Jan–Aug 2026. National TV ratings — weekly'
+
+## Slide 5
+
+- `s0213`
+  - RU: 'Динобутин / Digital Competitive Landscape / 2025–2026'
+  - EN: 'Dinobutin / Digital Competitive Landscape / 2025–2026'
+- `s0214`
+  - RU: 'Динобутин смог быстро занять место в категории при минимальном уровне инвестиций, но для дальнейшего роста необходимо закрепить достигнутый результат и проверить масштабируемость поддержки'
+  - EN: 'Dinobutin quickly carved out a place in the category on minimal investment; to keep growing, it now needs to lock in these gains and test whether support can scale'
+- `s0215`
+  - RU: 'Динамика инвестиций в digital-медиа и продаж'
+  - EN: 'Digital media investment and sales trend'
+- `s0216`
+  - RU: 'ДИНАМИКА ИНВЕСТИЦИЙ В DIGITAL-МЕДИА И ПРОДАЖ'
+  - EN: 'DIGITAL MEDIA INVESTMENT AND SALES TREND'
+- `s0217`
+  - RU: 'Динобутин'
+  - EN: 'Dinobutin'
+- `s0218`
+  - RU: 'Тримебутин'
+  - EN: 'Trimebutine'
+- `s0219`
+  - RU: 'Продажи, млн ₽'
+  - EN: 'Sales, RUB M'
+- `s0220`
+  - RU: 'Динобутин, млн ₽'
+  - EN: 'Dinobutin, RUB M'
+- `s0221`
+  - RU: '0,04'
+  - EN: '0.04'
+- `s0222`
+  - RU: '0,35'
+  - EN: '0.35'
+- `s0223`
+  - RU: '0,96'
+  - EN: '0.96'
+- `s0224`
+  - RU: '2,09'
+  - EN: '2.09'
+- `s0225`
+  - RU: '2,95'
+  - EN: '2.95'
+- `s0226`
+  - RU: '3,36'
+  - EN: '3.36'
+- `s0227`
+  - RU: '3,49'
+  - EN: '3.49'
+- `s0228`
+  - RU: '1,00'
+  - EN: '1.00'
+- `s0229`
+  - RU: '0,81'
+  - EN: '0.81'
+- `s0230`
+  - RU: '0,84'
+  - EN: '0.84'
+- `s0231`
+  - RU: '0,78'
+  - EN: '0.78'
+- `s0232`
+  - RU: '0,56'
+  - EN: '0.56'
+- `s0233`
+  - RU: '0,65'
+  - EN: '0.65'
+- `s0234`
+  - RU: '0,63'
+  - EN: '0.63'
+- `s0235`
+  - RU: '0,75'
+  - EN: '0.75'
+- `s0236`
+  - RU: '0,85'
+  - EN: '0.85'
+- `s0237`
+  - RU: '0,54'
+  - EN: '0.54'
+- `s0238`
+  - RU: '0,23'
+  - EN: '0.23'
+- `s0239`
+  - RU: '0,12'
+  - EN: '0.12'
+- `s0240`
+  - RU: '0,09'
+  - EN: '0.09'
+- `s0241`
+  - RU: '0,05'
+  - EN: '0.05'
+- `s0242`
+  - RU: '0,02'
+  - EN: '0.02'
+- `s0243`
+  - RU: 'Доля продаж, %'
+  - EN: 'Sales share, %'
+- `s0244`
+  - RU: '0,0'
+  - EN: '0.0'
+- `s0245`
+  - RU: '0,4'
+  - EN: '0.4'
+- `s0246`
+  - RU: '1,1'
+  - EN: '1.1'
+- `s0247`
+  - RU: '2,4'
+  - EN: '2.4'
+- `s0248`
+  - RU: '3,5'
+  - EN: '3.5'
+- `s0249`
+  - RU: '4,5'
+  - EN: '4.5'
+- `s0250`
+  - RU: '4,8'
+  - EN: '4.8'
+- `s0251`
+  - RU: '71,5'
+  - EN: '71.5'
+- `s0252`
+  - RU: '71,4'
+  - EN: '71.4'
+- `s0253`
+  - RU: '75,9'
+  - EN: '75.9'
+- `s0254`
+  - RU: '73,9'
+  - EN: '73.9'
+- `s0255`
+  - RU: '73,5'
+  - EN: '73.5'
+- `s0256`
+  - RU: '71,2'
+  - EN: '71.2'
+- `s0257`
+  - RU: '72,0'
+  - EN: '72.0'
+- `s0258`
+  - RU: '70,8'
+  - EN: '70.8'
+- `s0259`
+  - RU: '69,8'
+  - EN: '69.8'
+- `s0260`
+  - RU: '70,3'
+  - EN: '70.3'
+- `s0261`
+  - RU: '70,2'
+  - EN: '70.2'
+- `s0262`
+  - RU: '66,2'
+  - EN: '66.2'
+- `s0263`
+  - RU: '66,8'
+  - EN: '66.8'
+- `s0264`
+  - RU: '63,3'
+  - EN: '63.3'
+- `s0265`
+  - RU: '65,7'
+  - EN: '65.7'
+- `s0266`
+  - RU: '27,3'
+  - EN: '27.3'
+- `s0267`
+  - RU: '27,6'
+  - EN: '27.6'
+- `s0268`
+  - RU: '23,1'
+  - EN: '23.1'
+- `s0269`
+  - RU: '25,0'
+  - EN: '25.0'
+- `s0270`
+  - RU: '25,3'
+  - EN: '25.3'
+- `s0271`
+  - RU: '25,4'
+  - EN: '25.4'
+- `s0272`
+  - RU: '27,9'
+  - EN: '27.9'
+- `s0273`
+  - RU: '27,0'
+  - EN: '27.0'
+- `s0274`
+  - RU: '28,1'
+  - EN: '28.1'
+- `s0275`
+  - RU: '29,1'
+  - EN: '29.1'
+- `s0276`
+  - RU: '29,0'
+  - EN: '29.0'
+- `s0277`
+  - RU: '32,5'
+  - EN: '32.5'
+- `s0278`
+  - RU: '30,7'
+  - EN: '30.7'
+- `s0279`
+  - RU: '33,0'
+  - EN: '33.0'
+- `s0280`
+  - RU: '30,8'
+  - EN: '30.8'
+- `s0281`
+  - RU: '29,4'
+  - EN: '29.4'
+- `s0282`
+  - RU: '1,2'
+  - EN: '1.2'
+- `s0283`
+  - RU: '1,0'
+  - EN: '1.0'
+- `s0284`
+  - RU: '0,9'
+  - EN: '0.9'
+- `s0285`
+  - RU: '0,3'
+  - EN: '0.3'
+- `s0286`
+  - RU: '0,1'
+  - EN: '0.1'
+- `s0287`
+  - RU: 'Digital-бюджет, млн ₽'
+  - EN: 'Digital budget, RUB M'
+- `s0288`
+  - RU: '0,00'
+  - EN: '0.00'
+- `s0289`
+  - RU: '0,15'
+  - EN: '0.15'
+- `s0290`
+  - RU: '0,34'
+  - EN: '0.34'
+- `s0291`
+  - RU: '0,08'
+  - EN: '0.08'
+- `s0292`
+  - RU: '0,07'
+  - EN: '0.07'
+- `s0293`
+  - RU: '10,01'
+  - EN: '10.01'
+- `s0294`
+  - RU: '6,03'
+  - EN: '6.03'
+- `s0295`
+  - RU: '5,18'
+  - EN: '5.18'
+- `s0296`
+  - RU: '3,93'
+  - EN: '3.93'
+- `s0297`
+  - RU: '6,35'
+  - EN: '6.35'
+- `s0298`
+  - RU: '2,22'
+  - EN: '2.22'
+- `s0299`
+  - RU: '1,21'
+  - EN: '1.21'
+- `s0300`
+  - RU: '2,75'
+  - EN: '2.75'
+- `s0301`
+  - RU: '3,33'
+  - EN: '3.33'
+- `s0302`
+  - RU: '1,98'
+  - EN: '1.98'
+- `s0303`
+  - RU: '5,66'
+  - EN: '5.66'
+- `s0304`
+  - RU: '2,28'
+  - EN: '2.28'
+- `s0305`
+  - RU: '0,67'
+  - EN: '0.67'
+- `s0306`
+  - RU: '0,48'
+  - EN: '0.48'
+- `s0307`
+  - RU: '0,30'
+  - EN: '0.30'
+- `s0308`
+  - RU: '0,25'
+  - EN: '0.25'
+- `s0309`
+  - RU: '1,56'
+  - EN: '1.56'
+- `s0310`
+  - RU: '1,23'
+  - EN: '1.23'
+- `s0311`
+  - RU: '0,22'
+  - EN: '0.22'
+- `s0312`
+  - RU: '0,37'
+  - EN: '0.37'
+- `s0313`
+  - RU: '0,41'
+  - EN: '0.41'
+- `s0314`
+  - RU: '0,17'
+  - EN: '0.17'
+- `s0315`
+  - RU: '0,14'
+  - EN: '0.14'
+- `s0316`
+  - RU: '0,19'
+  - EN: '0.19'
+- `s0317`
+  - RU: '0,13'
+  - EN: '0.13'
+- `s0318`
+  - RU: '0,18'
+  - EN: '0.18'
+- `s0319`
+  - RU: '0,38'
+  - EN: '0.38'
+- `s0320`
+  - RU: '2,05'
+  - EN: '2.05'
+- `s0321`
+  - RU: '2,68'
+  - EN: '2.68'
+- `s0322`
+  - RU: '2,92'
+  - EN: '2.92'
+- `s0323`
+  - RU: '2,34'
+  - EN: '2.34'
+- `s0324`
+  - RU: '1,80'
+  - EN: '1.80'
+- `s0325`
+  - RU: '1,32'
+  - EN: '1.32'
+- `s0326`
+  - RU: '1,07'
+  - EN: '1.07'
+- `s0327`
+  - RU: '0,40'
+  - EN: '0.40'
+- `s0328`
+  - RU: '1,42'
+  - EN: '1.42'
+- `s0329`
+  - RU: '0,01'
+  - EN: '0.01'
+- `s0330`
+  - RU: '0,16'
+  - EN: '0.16'
+- `s0331`
+  - RU: '0,03'
+  - EN: '0.03'
+- `s0332`
+  - RU: '11,9 млн ₽'
+  - EN: 'RUB 11.9M'
+- `s0333`
+  - RU: '4,3 млн ₽'
+  - EN: 'RUB 4.3M'
+- `s0334`
+  - RU: '0,7 млн ₽'
+  - EN: 'RUB 0.7M'
+- `s0335`
+  - RU: 'Тримебутин*'
+  - EN: 'Trimebutine*'
+- `s0336`
+  - RU: '0,4 млн ₽'
+  - EN: 'RUB 0.4M'
+- `s0337`
+  - RU: 'Тримедат по доле продаж **сохраняет лидерство**, однако **его доля снизилась с 70,2% в январе до 65,7% в июне**. Доля Необутина колебалась в диапазоне 29–33%, тогда как **Динобутин последовательно укреплял позицию**. Это создаёт потенциал для дальнейшего роста нового бренда, но не позволяет напрямую говорить о перетоке продаж от конкретного конкурента'
+  - EN: 'Trimedat **keeps the lead** in sales share, but **its share fell from 70.2% in January to 65.7% in June**. Neobutin’s share hovered at 29–33%, while **Dinobutin steadily strengthened its position**. This leaves room for the new brand to grow, but does not show sales shifting directly from any one competitor'
+- `s0338`
+  - RU: 'Источник: DigitalBudget (estimated), IQVIA. Доля продаж — доля бренда в продажах четырёх брендов на графике; Digital budgets — январь–август 2026 (расчёт OMD). * Тримебутин в мониторинге DigitalBudget — сайт gastrocanon.ru'
+  - EN: 'Source: DigitalBudget (estimated), IQVIA. Sales share — brand’s share of sales of the four charted brands; Digital budgets — Jan–Aug 2026 (OMD calculation). * Trimebutine is tracked in DigitalBudget via gastrocanon.ru'
+
+## Slide 6
+
+- `s0339`
+  - RU: 'Необутин в 2026 году размещался с видео- и баннерным форматами, а также в ко-промо с аптеками, но со взрослой формой препарата'
+  - EN: 'In 2026, Neobutin ran video, banners and pharmacy co-promos — but for its adult form'
+- `s0340`
+  - RU: 'НЕОБУТИН'
+  - EN: 'NEOBUTIN'
+- `s0341`
+  - RU: 'Необутин — OLV-ролик'
+  - EN: 'Neobutin — OLV video'
+- `s0342`
+  - RU: 'Необутин — ко-промо с аптеками, «Товар дня»'
+  - EN: 'Neobutin — pharmacy co-promo, “Deal of the Day”'
+- `s0343`
+  - RU: 'Необутин — display-баннер'
+  - EN: 'Neobutin — display banner'
+
+## Slide 7
+
+- `s0344`
+  - RU: 'Тримедат в 2026 году активно размещается в OLV и display'
+  - EN: 'In 2026, Trimedat is advertising heavily in OLV and display'
+- `s0345`
+  - RU: 'В дисплее использовались ситуационные креативы (под сезон шашлыков)'
+  - EN: 'Display ran situational creatives tied to barbecue season'
+- `s0346`
+  - RU: 'Дополнительная промоция была в рамках\nко-промо с аптеками'
+  - EN: 'Extra promotion came through\npharmacy co-promos'
+- `s0347`
+  - RU: 'ТРИМЕДАТ'
+  - EN: 'TRIMEDAT'
+- `s0348`
+  - RU: 'В рамках OLV-роликов использовалась персонализация креатива в зависимости от пола и возраста потенциального потребителя — в видеоряде делался акцент на главном герое ролика'
+  - EN: 'OLV videos were tailored to the viewer’s gender and age — each version centered on the matching lead character'
+- `s0349`
+  - RU: 'Тримедат — OLV-ролик 1'
+  - EN: 'Trimedat — OLV video 1'
+- `s0350`
+  - RU: 'Тримедат — OLV-ролик 2'
+  - EN: 'Trimedat — OLV video 2'
+- `s0351`
+  - RU: 'Тримедат — OLV-ролик 3'
+  - EN: 'Trimedat — OLV video 3'
+- `s0352`
+  - RU: 'Тримедат — display-креатив «В сезон шашлыков»'
+  - EN: 'Trimedat — display creative “Barbecue season”'
+- `s0353`
+  - RU: 'Ко-промо с аптеками'
+  - EN: 'Pharmacy co-promo'
+- `s0354`
+  - RU: 'Тримедат — ко-промо с аптеками, «Товар дня»'
+  - EN: 'Trimedat — pharmacy co-promo, “Deal of the Day”'
+
+## Slide 8
+
+- `s0355`
+  - RU: 'Динобутин / Search demand dynamics / 2026'
+  - EN: 'Dinobutin / Search demand trends / 2026'
+- `s0356`
+  - RU: 'Динобутин существенно увеличивает брендовый поисковый спрос, однако рост пока не отражается в усилении позиций бренда на Ozon'
+  - EN: 'Dinobutin has sharply grown brand search demand, but the growth has yet to translate into a\xa0stronger position on Ozon'
+- `s0357`
+  - RU: 'WORDSTAT: ДИНАМИКА ЗАПРОСОВ'
+  - EN: 'WORDSTAT: SEARCH TREND'
+- `s0358`
+  - RU: 'Wordstat: динамика запросов'
+  - EN: 'Wordstat: search trend'
+- `s0359`
+  - RU: 'линии — индекс запросов'
+  - EN: 'lines — query index'
+- `s0360`
+  - RU: 'категория'
+  - EN: 'category'
+- `s0361`
+  - RU: 'янв–фев'
+  - EN: 'Jan–Feb'
+- `s0362`
+  - RU: 'июнь–август'
+  - EN: 'Jun–Aug'
+- `s0363`
+  - RU: 'Wordstat · категория, индекс'
+  - EN: 'Wordstat · category, index'
+- `s0364`
+  - RU: 'Wordstat · Динобутин, индекс'
+  - EN: 'Wordstat · Dinobutin, index'
+- `s0365`
+  - RU: 'OZON: ДИНАМИКА ЗАПРОСОВ'
+  - EN: 'OZON: SEARCH TREND'
+- `s0366`
+  - RU: 'Ozon: динамика запросов'
+  - EN: 'Ozon: search trend'
+- `s0367`
+  - RU: 'март–апрель'
+  - EN: 'Mar–Apr'
+- `s0368`
+  - RU: 'август'
+  - EN: 'Aug'
+- `s0369`
+  - RU: 'Данные Ozon доступны с 23.03.2026'
+  - EN: 'Ozon data from Mar 23, 2026'
+- `s0370`
+  - RU: 'Ozon · категория, индекс'
+  - EN: 'Ozon · category, index'
+- `s0371`
+  - RU: 'Ozon · Динобутин, индекс'
+  - EN: 'Ozon · Dinobutin, index'
+- `s0372`
+  - RU: 'ПОКАЗЫ КАМПАНИИ, ТЫС.'
+  - EN: 'CAMPAIGN IMPRESSIONS, K'
+- `s0373`
+  - RU: 'Показы кампании, тыс.'
+  - EN: 'Campaign impressions, K'
+- `s0374`
+  - RU: 'Средний недельный спрос июнь–август vs янв–фев'
+  - EN: 'Average weekly demand, Jun–Aug vs Jan–Feb'
+- `s0375`
+  - RU: 'Средний недельный спрос по Динобутину в июне–августе был на 181% выше уровня января–февраля, тогда как категорийный спрос прирос всего на 5%. Это указывает на рост интереса именно к бренду, а не на следование общей категорийной динамике. В 2027 важно закрепить динамику через always-on Search и сезонную охватную поддержку, оценивая долю брендовых запросов и CR'
+  - EN: 'Dinobutin’s average weekly demand in Jun–Aug was 181% above Jan–Feb, while category demand grew only 5%. This points to interest in the brand itself rather than a category-wide trend. In 2027, lock in the momentum with always-on Search and seasonal reach support, tracking branded query share and CR'
+- `s0376`
+  - RU: 'На Ozon спрос по Динобутину остался стабильным (0%) при небольшом падении категории (−2%). Для роста динамики спроса в e-com необходимо усилить продвижение карточки в поиске Ozon, вести на неё трафик из внешней коммуникации и повышать конверсию за счёт контента, отзывов, наличия и промо'
+  - EN: 'On Ozon, Dinobutin demand held flat (0%) while the category dipped slightly (−2%). To grow e-com demand, push the product page in Ozon search, drive traffic to it from external media and lift conversion with content, reviews, availability and promos'
+- `s0377`
+  - RU: 'Динобутин · Wordstat'
+  - EN: 'Dinobutin · Wordstat'
+- `s0378`
+  - RU: 'Категория · Wordstat'
+  - EN: 'Category · Wordstat'
+- `s0379`
+  - RU: 'ВЫВОД'
+  - EN: 'TAKEAWAY'
+- `s0380`
+  - RU: 'Динобутин · Ozon'
+  - EN: 'Dinobutin · Ozon'
+- `s0381`
+  - RU: 'Категория · Ozon'
+  - EN: 'Category · Ozon'
+- `s0382`
+  - RU: 'Средний недельный спрос август vs март–апрель'
+  - EN: 'Average weekly demand, Aug vs Mar–Apr'
+- `s0383`
+  - RU: 'Источник: данные Ozon* и Яндекс Вордстат; данные Ozon доступны с 23.03.2026. Индекс запросов = значение недели / значение предыдущей недели × 100\nДля сравнения в выводах: Wordstat — средняя неделя июнь–август vs январь–февраль; Ozon — средний недельный спрос август vs март–апрель. По данным Wordstat средний недельный спрос апр–июнь vs янв–фев — 106%'
+  - EN: 'Source: Ozon* and Yandex Wordstat data; Ozon data from Mar 23, 2026. Query index = week value / previous week value × 100\nComparisons in takeaways: Wordstat — average week, Jun–Aug vs Jan–Feb; Ozon — average weekly demand, Aug vs Mar–Apr. Wordstat average weekly demand, Apr–Jun vs Jan–Feb: 106%'
+
+## Slide 9
+
+- `s0384`
+  - RU: 'Сезонность поискового спроса в категории'
+  - EN: 'Seasonality of category search demand'
+- `s0385`
+  - RU: '2026 (янв–июн)'
+  - EN: '2026 (Jan–Jun)'
+- `s0386`
+  - RU: 'Показатель'
+  - EN: 'Metric'
+- `s0387`
+  - RU: 'Бренды'
+  - EN: 'Brands'
+- `s0388`
+  - RU: 'Проблематика'
+  - EN: 'Problem queries'
+- `s0389`
+  - RU: 'Вздутие'
+  - EN: 'Bloating'
+- `s0390`
+  - RU: 'Метеоризм'
+  - EN: 'Flatulence'
+- `s0391`
+  - RU: 'Боль в животе у ребёнка'
+  - EN: 'Child’s tummy pain'
+- `s0392`
+  - RU: 'ниже 100'
+  - EN: 'below 100'
+- `s0393`
+  - RU: 'выше 100'
+  - EN: 'above 100'
+- `s0394`
+  - RU: 'Индексы: 100 = средний уровень периода. Для 2025 — средний уровень 2025 года; для 2026 — средний уровень января–июня 2026 года. Данные по 2026 году — за январь–июнь. Источник: Яндекс Wordstat.'
+  - EN: 'Indices: 100 = period average. For 2025, the 2025 average; for 2026, the Jan–Jun 2026 average. 2026 data cover Jan–Jun. Source: Yandex Wordstat.'
+- `s0395`
+  - RU: 'Брендовый спрос в 1ПГ 2026 вырос к 1ПГ 2025:'
+  - EN: 'Brand demand grew in H1 2026 vs H1 2025:'
+- `s0396`
+  - RU: 'Рост особенно заметен в начале года; к маю спрос снижается, а в июне видны первые признаки восстановления.'
+  - EN: 'Growth was strongest early in the year; demand dipped by May, and June showed the first signs of recovery.'
+- `s0397`
+  - RU: 'Проблематика в 1ПГ 2026 в целом близка к прошлому году:'
+  - EN: 'Problem queries in H1 2026 broadly match last year:'
+- `s0398`
+  - RU: '«вздутие»'
+  - EN: '“bloating”'
+- `s0399`
+  - RU: '«боль в животе у ребёнка» — на уровне 1ПГ\xa02025'
+  - EN: '“child’s tummy pain” — on par with H1 2025'
+- `s0400`
+  - RU: '«метеоризм» снизился на'
+  - EN: '“flatulence” fell by'
+- `s0401`
+  - RU: 'По динамике 2025 года категория имеет два окна повышенного интереса:'
+  - EN: 'In 2025, the category had two windows of higher interest:'
+- `s0402`
+  - RU: 'январь–март\nи октябрь–декабрь.'
+  - EN: 'Jan–Mar\nand Oct–Dec.'
+- `s0403`
+  - RU: 'Самый спокойный период — май–июль.'
+  - EN: 'The quietest period is May–Jul.'
+- `s0404`
+  - RU: 'В 1ПГ 2026 паттерн сохраняется:'
+  - EN: 'In H1 2026, the pattern holds:'
+- `s0405`
+  - RU: 'высокий старт года, весеннее снижение и первые признаки восстановления уже в июне.'
+  - EN: 'a strong start, a spring dip and first signs of recovery as early as June.'
+
+## Slide 10
+
+- `s0406`
+  - RU: 'География Digital: на втором году лонча усиливаем ядро и точки роста, сохраняя национальное присутствие'
+  - EN: 'Digital geography, year two after launch: boost the core and growth pockets, keep a national presence'
+- `s0407`
+  - RU: 'ЯДРО DIGITAL'
+  - EN: 'DIGITAL CORE'
+- `s0408`
+  - RU: '52,5%'
+  - EN: '52.5%'
+- `s0409`
+  - RU: 'продаж янв.–июль’26 в 14\xa0регионах'
+  - EN: 'of Jan–Jul ’26 sales in 14\xa0regions'
+- `s0410`
+  - RU: 'АКТУАЛЬНЫЙ СПРОС'
+  - EN: 'CURRENT DEMAND'
+- `s0411`
+  - RU: '57,3%'
+  - EN: '57.3%'
+- `s0412`
+  - RU: 'июльских продаж в ядре'
+  - EN: 'of July sales in the core'
+- `s0413`
+  - RU: 'DI* МАЙ → ИЮЛЬ'
+  - EN: 'DI* MAY → JUL'
+- `s0414`
+  - RU: 'при продажах июля ≈ маю (−1%)'
+  - EN: 'with July sales ≈ May (−1%)'
+- `s0415`
+  - RU: 'ПЛАНИРОВОЧНАЯ ГИПОТЕЗА'
+  - EN: 'PLANNING HYPOTHESIS'
+- `s0416`
+  - RU: 'digital-инвестиций — ядро'
+  - EN: 'of digital spend to\xa0the\xa0core'
+- `s0417`
+  - RU: 'Высокий объём продаж + актуальный спрос + достаточная доступность'
+  - EN: 'High sales volume + current demand +\xa0sufficient\xa0availability'
+- `s0418`
+  - RU: '16,8% продаж: ускоряем точки роста'
+  - EN: '16.8% of sales: boost growth pockets'
+- `s0419`
+  - RU: 'Логика выбора'
+  - EN: 'Selection logic'
+- `s0420`
+  - RU: 'Ядро Digital'
+  - EN: 'Digital core'
+- `s0421`
+  - RU: 'Москва'
+  - EN: 'Moscow'
+- `s0422`
+  - RU: 'Красноярский край'
+  - EN: 'Krasnoyarsk Krai'
+- `s0423`
+  - RU: 'МО'
+  - EN: 'Moscow Oblast'
+- `s0424`
+  - RU: 'Татарстан'
+  - EN: 'Tatarstan'
+- `s0425`
+  - RU: 'Краснодарский край'
+  - EN: 'Krasnodar Krai'
+- `s0426`
+  - RU: 'Ростовская обл.'
+  - EN: 'Rostov Oblast'
+- `s0427`
+  - RU: 'СПб + ЛО'
+  - EN: 'St. Petersburg + region'
+- `s0428`
+  - RU: 'Нижегородская обл.'
+  - EN: 'Nizhny Novgorod Oblast'
+- `s0429`
+  - RU: 'Свердловская обл.'
+  - EN: 'Sverdlovsk Oblast'
+- `s0430`
+  - RU: 'Воронежская обл.'
+  - EN: 'Voronezh Oblast'
+- `s0431`
+  - RU: 'Самарская обл.'
+  - EN: 'Samara Oblast'
+- `s0432`
+  - RU: 'Тюменская обл.'
+  - EN: 'Tyumen Oblast'
+- `s0433`
+  - RU: 'Челябинская обл.'
+  - EN: 'Chelyabinsk Oblast'
+- `s0434`
+  - RU: 'Ставропольский край'
+  - EN: 'Stavropol Krai'
+- `s0435`
+  - RU: 'продаж, янв.–июль 2026'
+  - EN: 'of sales, Jan–Jul 2026'
+- `s0436`
+  - RU: 'Рост и восстановление'
+  - EN: 'Growth and recovery'
+- `s0437`
+  - RU: 'Волгоградская обл.'
+  - EN: 'Volgograd Oblast'
+- `s0438`
+  - RU: 'Тверская обл.'
+  - EN: 'Tver Oblast'
+- `s0439`
+  - RU: 'Саратовская обл.'
+  - EN: 'Saratov Oblast'
+- `s0440`
+  - RU: 'Пермский край'
+  - EN: 'Perm Krai'
+- `s0441`
+  - RU: 'Рязанская обл.'
+  - EN: 'Ryazan Oblast'
+- `s0442`
+  - RU: 'Башкортостан'
+  - EN: 'Bashkortostan'
+- `s0443`
+  - RU: 'Калининградская обл.'
+  - EN: 'Kaliningrad Oblast'
+- `s0444`
+  - RU: 'Приморский край'
+  - EN: 'Primorsky Krai'
+- `s0445`
+  - RU: 'Ярославская обл.'
+  - EN: 'Yaroslavl Oblast'
+- `s0446`
+  - RU: 'Оренбургская обл.'
+  - EN: 'Orenburg Oblast'
+- `s0447`
+  - RU: '16,8%'
+  - EN: '16.8%'
+- `s0448`
+  - RU: 'Планировочная гипотеза'
+  - EN: 'Planning hypothesis'
+- `s0449`
+  - RU: '**Ядро = 52,5% продаж → 55–60% инвестиций**: максимальный вес в регионах с доказанным спросом и достаточным DI'
+  - EN: '**Core = 52.5% of sales → 55–60% of spend**: maximum weight in regions with proven demand and sufficient DI'
+- `s0450`
+  - RU: '**Рост + восстановление = 16,8% продаж → 25–30% инвестиций**: перевзвешиваем в пользу зон ускорения'
+  - EN: '**Growth + recovery = 16.8% of sales → 25–30% of\xa0spend**: we overweight the acceleration zones'
+- `s0451`
+  - RU: '**Остальная РФ = 30,7% продаж → 15–20% инвестиций**: сохраняем базовый национальный слой, т.к. на втором году лонча важно создавать новый спрос, а не только следовать текущим продажам'
+  - EN: '**Rest of Russia = 30.7% of sales → 15–20% of spend**: we keep a baseline national layer, since in year two after launch we must build new demand rather than just follow current sales'
+- `s0452`
+  - RU: 'География задает вес инвестиций, а не ограничивает кампанию: 69,3% продаж уже сосредоточено в ядре и 2-м слое, но 30,7% long tail требует базового присутствия по РФ'
+  - EN: 'Geography sets spend weights, not campaign limits: 69.3% of sales are already concentrated in the core and growth layer, but the 30.7% long tail needs a baseline presence across Russia'
+- `s0453`
+  - RU: '*DI — Distribution Index = показатель аптечной дистрибуции препарата'
+  - EN: '*DI — Distribution Index = pharmacy distribution of the drug'
+
+## Slide 11
+
+- `s0454`
+  - RU: 'Проверка сегментов Динобутин с ORM-фильтром'
+  - EN: 'Dinobutin segment check with an ORM filter'
+- `s0455`
+  - RU: 'ЧТО ПОКАЗАЛА ПРОВЕРКА'
+  - EN: 'WHAT THE CHECK SHOWED'
+- `s0456`
+  - RU: 'MEDIA-СЕГМЕНТЫ'
+  - EN: 'MEDIA SEGMENTS'
+- `s0457`
+  - RU: 'Повторная проверка сегментов ИИ-агентом через отзывы с добавлением ORM-фильтра показала, что **2\xa0сегмента** не требуют корректировок.'
+  - EN: 'An AI agent rechecked the segments against reviews with an ORM filter: **2 segments** need no changes.'
+- `s0458`
+  - RU: 'При этом новый массив отзывов позволил найти **дополнительный сегмент** и показал необходимость небольшой корректировки сегмента **Стресс-стул**.'
+  - EN: 'The new set of reviews also revealed an **additional segment** and showed that the **“Stress stools”** segment needs a small adjustment.'
+- `s0459`
+  - RU: '**Стресс-стул** меняем на **стресс-живот**, потому что в свежих обсуждениях первым проявлением чаще становятся боль, спазм и вздутие на фоне волнения.'
+  - EN: 'We change **“Stress stools”** to **“Nervous tummy”**: in recent discussions, the first sign is more often pain, cramps and bloating triggered by worry.'
+- `s0460`
+  - RU: 'Также в отзывах появился сегмент **Нестабильный стул**. Он строится вокруг ситуаций, когда у ребёнка запор или, наоборот, жидкий стул и так далее.'
+  - EN: 'Reviews also surfaced an **“Unstable stools”** segment, built around a child with constipation or, at the other extreme, loose stools.'
+- `s0461`
+  - RU: 'ОПИСАНИЕ'
+  - EN: 'DESCRIPTION'
+- `s0462`
+  - RU: 'Повторяющиеся хронические боли или спазмы в ЖКТ'
+  - EN: 'Recurring tummy pain and\xa0cramps'
+- `s0463`
+  - RU: 'Дети 3–10 лет'
+  - EN: 'Children 3–10'
+- `s0464`
+  - RU: 'Боль возвращается снова и снова; мама ищет понятное и устойчивое решение.'
+  - EN: 'The pain keeps coming back; mom wants a clear, lasting solution.'
+- `s0465`
+  - RU: 'Сегмент подтвержден'
+  - EN: 'Segment confirmed'
+- `s0466`
+  - RU: 'Боли, вздутие, метеоризм на фоне изменения диеты/режима'
+  - EN: 'Pain, bloating, flatulence after a diet/routine change'
+- `s0467`
+  - RU: 'Симптомы появляются после новой еды, праздников, поездок или смены привычного режима.'
+  - EN: 'Symptoms appear after new foods, holidays, trips or a change in the usual routine.'
+- `s0468`
+  - RU: 'Стресс-живот'
+  - EN: 'Nervous tummy'
+- `s0469`
+  - RU: 'Живот реагирует на волнение, адаптацию, садик или школу.'
+  - EN: 'The tummy reacts to worry and to settling in at kindergarten or school.'
+- `s0470`
+  - RU: 'Сегмент уточнен и скорректирован'
+  - EN: 'Segment refined and adjusted'
+- `s0471`
+  - RU: 'Нестабильный стул'
+  - EN: 'Unstable stools'
+- `s0472`
+  - RU: 'То запор, то жидкий стул; нужен более предсказуемый ритм и комфорт.'
+  - EN: 'Constipation, then loose stools; the goal is a steadier rhythm and comfort.'
+- `s0473`
+  - RU: 'Новый сегмент'
+  - EN: 'New segment'
+
+## Slide 12
+
+- `s0474`
+  - RU: 'Взрослая аудитория для Динобутина: отдельный тест не выглядит целесообразным'
+  - EN: 'Adult audience for Dinobutin: a separate test doesn’t look worthwhile'
+- `s0475`
+  - RU: 'Взрослому требуется 10–20 мл геля за приём, 3 раза в день (100–200 мг). Это 2–4 мерные ложки за один раз и 6–12 ложек в день. Тубы 100 г хватает примерно на 1,5–3 дня.'
+  - EN: 'An adult needs 10–20\xa0ml of gel per dose, 3 times a day (100–200\xa0mg). That is 2–4 measuring spoons per dose and 6–12 spoons a day. A 100\xa0g tube lasts about 1.5–3 days.'
+- `s0476`
+  - RU: 'Курс 28 дней обойдётся ориентировочно в **7–14\xa0тыс.\xa0₽**, что в несколько раз дороже таблетированных аналогов.'
+  - EN: 'A 28-day course would cost roughly **RUB 7–14K**, several times more than tablet alternatives.'
+- `s0477`
+  - RU: 'Проблема дозировки и стоимости'
+  - EN: 'Dosing and cost problem'
+- `s0478`
+  - RU: 'Тримебутин в таблетках — проще и привычнее: разовая доза 200 мг принимается 1 таблеткой за приём (обычно 2–3 раза в день).'
+  - EN: 'Trimebutine tablets are simpler and more familiar: the 200\xa0mg dose is one tablet, usually 2–3 times a day.'
+- `s0479`
+  - RU: 'Есть пролонгированные формы: Тримедат Форте 300\xa0мг — 1\xa0табл. 2\xa0раза в день.'
+  - EN: 'There are also extended-release forms: Trimedat Forte 300\xa0mg, one tablet twice a day.'
+- `s0480`
+  - RU: 'Российский рынок подтверждает этот тренд: таблетки — наиболее востребованная форма и формируют **46,5% расходов** на лекарства.'
+  - EN: 'The Russian market confirms the trend: tablets are the most popular form and account for **46.5% of spending** on medicines.'
+- `s0481`
+  - RU: 'Проще выпить таблетку'
+  - EN: 'Easier to take a tablet'
+- `s0482`
+  - RU: 'Органических отзывов взрослых о Динобутине немного. Главный сигнал — сомнения в удобстве и экономике курса:'
+  - EN: 'Organic reviews of Dinobutin from adults are scarce. The main theme is doubt about convenience and the cost of a course:'
+- `s0483`
+  - RU: '«при СРК его надо несколько тюбиков. эта форма только для детей, в общем»'
+  - EN: '“with IBS you need several tubes. basically this form is just for\xa0kids”'
+- `s0484`
+  - RU: 'Взрослые чаще выбирают таблетки из-за простоты: одна таблетка за приём, без ложек, вкуса и мерной формы.'
+  - EN: 'Adults tend to choose tablets for simplicity: one tablet per dose, no spoons, no taste, no measuring.'
+- `s0485`
+  - RU: 'Что говорят отзывы со стороны взрослых'
+  - EN: 'What adult reviews say'
+- `s0486`
+  - RU: 'Совокупно все факторы говорят о том, что смысла в отдельном тесте взрослого сегмента немного. Дополнительно проверка поискового спроса это подтвердила: запросы, связанные с дисфагией, трудностями глотания и поиском жидкой формы тримебутина, либо практически отсутствуют, либо дают лишь **50–100 запросов в месяц**. Такой объём слишком мал, чтобы рассчитывать на заметный охват и устойчивый результат теста.'
+  - EN: 'Taken together, these factors suggest a separate adult segment test makes little sense. A search demand check confirmed it: queries about dysphagia, difficulty swallowing or a liquid form of trimebutine are either almost absent or reach only **50–100 queries a month**. That volume is too small to expect noticeable reach or a reliable test result.'
+- `s0487`
+  - RU: 'Отдельный тест сегмента не оправдан'
+  - EN: 'No case for a separate segment test'
+- `s0488`
+  - RU: 'курс 28 дней'
+  - EN: '28-day course'
+- `s0489`
+  - RU: 'тыс. ₽'
+  - EN: 'RUB K'
+- `s0490`
+  - RU: 'Взрослому требуется 10–20 мл геля за приём, 3 раза в день (100–200 мг). Это 2–4 мерные ложки за один раз и 6–12 ложек в день. Тубы 100 г хватает примерно на 1,5–3 дня.\n\nКурс 28 дней обойдётся ориентировочно в **7–14\xa0тыс.\xa0₽**, что в несколько раз дороже таблетированных аналогов.'
+  - EN: 'An adult needs 10–20\xa0ml of gel per dose, 3 times a day (100–200\xa0mg). That is 2–4 measuring spoons per dose and 6–12 spoons a day. A 100\xa0g tube lasts about 1.5–3 days.\n\nA 28-day course would cost roughly **RUB 7–14K**, several times more than tablet alternatives.'
+- `s0491`
+  - RU: 'расходов на лекарства — таблетки'
+  - EN: 'of drug spending is on\xa0tablets'
+- `s0492`
+  - RU: '46,5%'
+  - EN: '46.5%'
+- `s0493`
+  - RU: 'Тримебутин в таблетках — проще и привычнее: разовая доза 200 мг принимается 1 таблеткой за приём (обычно 2–3 раза в день).\n\nЕсть пролонгированные формы: Тримедат Форте 300\xa0мг — 1\xa0табл. 2\xa0раза в день.\n\nРоссийский рынок подтверждает этот тренд: таблетки — наиболее востребованная форма и формируют **46,5% расходов** на лекарства.'
+  - EN: 'Trimebutine tablets are simpler and more familiar: the 200\xa0mg dose is one tablet, usually 2–3 times a day.\n\nThere are also extended-release forms: Trimedat Forte 300\xa0mg, one tablet twice a day.\n\nThe Russian market confirms the trend: tablets are the most popular form and account for **46.5% of spending** on medicines.'
+- `s0494`
+  - RU: 'запросов в месяц'
+  - EN: 'queries a month'
+
+## Slide 13
+
+- `s0495`
+  - RU: 'Динобутин 2027: от продуктовых сюжетов — к жизненным ситуациям'
+  - EN: 'Dinobutin 2027: from product stories to real-life moments'
+- `s0496`
+  - RU: 'В 2026 мы персонализировали коммуникацию по ключевым проблемам детей 3–10 лет. В 2027 следующий шаг — [[**очеловечить креативы**]]: добавить ребенка в центр истории, чтобы родитель быстрее узнавал знакомую ситуацию и вовлекался в сообщение'
+  - EN: 'In 2026, we personalized messaging around the key problems of kids 3–10. In 2027, the next step is to [[**humanize the creatives**]]: put the child at the center of the story so parents recognize a\xa0familiar situation faster and engage with the message'
+- `s0497`
+  - RU: 'Что изменили в 2026'
+  - EN: 'What changed in 2026'
+- `s0498`
+  - RU: 'Единая продуктовая коммуникация'
+  - EN: 'One product message for all'
+- `s0499`
+  - RU: 'Персонализация по симптомам и ситуациям'
+  - EN: 'Personalized by symptom and situation'
+- `s0500`
+  - RU: 'БЫЛО'
+  - EN: 'BEFORE'
+- `s0501`
+  - RU: 'СТАЛО'
+  - EN: 'NOW'
+- `s0502`
+  - RU: 'Текущие сегментированные креативы'
+  - EN: 'Current segmented creatives'
+- `s0503`
+  - RU: 'сообщение адаптировано под разные проблемы'
+  - EN: 'message adapted to different problems'
+- `s0504`
+  - RU: 'рациональный claim привязан к оккейжну'
+  - EN: 'rational claim tied to the occasion'
+- `s0505`
+  - RU: 'продукт и бренд хорошо считываются'
+  - EN: 'product and brand read clearly'
+- `s0506`
+  - RU: 'Визуальная подача остается преимущественно продуктовой: симптом понятен, но ребенок и жизненная сцена не становятся главным крючком вовлечения'
+  - EN: 'The visuals are still mostly product-led: the symptom is clear, but the child and the real-life scene are not yet the main engagement hook'
+- `s0507`
+  - RU: 'Боли / спазмы'
+  - EN: 'Pain / cramps'
+- `s0508`
+  - RU: 'Креатив Динобутин 2026'
+  - EN: 'Dinobutin 2026 creative'
+- `s0509`
+  - RU: 'Диета / поездки'
+  - EN: 'Diet / travel'
+- `s0510`
+  - RU: 'Стресс-стул'
+  - EN: 'Stress stools'
+- `s0511`
+  - RU: 'Что уже работает'
+  - EN: 'What already works'
+- `s0512`
+  - RU: 'Где резерв на 2027'
+  - EN: 'Room to grow in 2027'
+- `s0513`
+  - RU: 'Текущий vs новый креатив'
+  - EN: 'Current vs new creative'
+- `s0514`
+  - RU: '2026: показываем проблему'
+  - EN: '2026: we show the\xa0problem'
+- `s0515`
+  - RU: '2027: показываем ребенка'
+  - EN: '2027: we show the\xa0child'
+- `s0516`
+  - RU: 'продуктовый, иллюстративный'
+  - EN: 'product-led, illustrated'
+- `s0517`
+  - RU: 'живой сюжет с ситуацией'
+  - EN: 'real-life story'
+- `s0518`
+  - RU: 'Формула нового креатива: ребенок → узнаваемая ситуация → проблема → Динобутин как решение'
+  - EN: 'New creative formula: child\xa0→ familiar situation\xa0→ problem\xa0→ Dinobutin as the solution'
+- `s0519`
+  - RU: 'Не усложнять сегментацию, а усилить эмоциональную и жизненную визуализацию уже найденных оккейженов: ребенок становится первым кадром истории'
+  - EN: 'Don’t complicate segmentation — make the occasions we’ve found more emotional and true to life: the child becomes the story’s opening shot'
+- `s0520`
+  - RU: 'Симптом считывается, но ситуация остается абстрактной'
+  - EN: 'The symptom reads, but the situation stays abstract'
+- `s0521`
+  - RU: 'Родитель узнает знакомый момент, затем считывает решение в виде бренда'
+  - EN: 'The parent spots a familiar moment, then reads the brand as the answer'
+- `s0522`
+  - RU: 'Креатив Динобутин 2027'
+  - EN: 'Dinobutin 2027 creative'
+- `s0523`
+  - RU: 'Главный сдвиг 2027'
+  - EN: 'Key shift in 2027'
+- `s0524`
+  - RU: 'Инсайты и доработка 2027'
+  - EN: 'Insights & 2027 refinements'
+- `s0525`
+  - RU: '**Итог:** рациональную персонализацию сохраняем, но очеловечиваем ее — ребенок становится центром истории, а Динобутин естественно закрывает знакомую родителю ситуацию'
+  - EN: '**Bottom line:** we keep the rational personalization but humanize it — the child becomes the center of the story, and Dinobutin naturally resolves a situation parents recognize'
+- `s0526`
+  - RU: 'Ребенок — визуальный якорь'
+  - EN: 'Child as visual anchor'
+- `s0527`
+  - RU: 'Симптом показываем через эмоцию, позу и поведение ребенка: держится за живот, отказывается от еды / игры, выглядит уставшим'
+  - EN: 'Show the symptom through the child’s emotion, posture and behavior: holding their tummy, refusing food / play, looking tired'
+- `s0528`
+  - RU: 'Оккейжн → жизненная сцена'
+  - EN: 'Occasion → real-life scene'
+- `s0529`
+  - RU: 'Абстрактный симптом переводим в понятный момент: дома, перед школой, в поездке или в гостях'
+  - EN: 'Turn an abstract symptom into a relatable moment: at\xa0home, before school, on a trip or at a friend’s'
+- `s0530`
+  - RU: 'Продукт — финальное решение'
+  - EN: 'Product as final answer'
+- `s0531`
+  - RU: 'Сначала родитель узнает ситуацию с ребенком, затем видит проблему и после этого — Динобутин и benefit'
+  - EN: 'First the parent recognizes the child’s situation, then the problem, then Dinobutin and the benefit'
+
+## Slide 14
+
+- `s0532`
+  - RU: 'Переход от работы преимущественно со сформированным спросом в 2026'
+  - EN: 'From working mostly with existing demand in 2026'
+- `s0533`
+  - RU: 'к раннему объяснению проблемы, формированию знания и последующей конвертации интереса в выбор бренда в 2027'
+  - EN: 'to explaining the problem early, building awareness and turning interest into brand choice in 2027'
+- `s0534`
+  - RU: 'СОБСТВЕННЫЙ СПРОС'
+  - EN: 'OWN DEMAND'
+- `s0535`
+  - RU: '2,05%'
+  - EN: '2.05%'
+- `s0536`
+  - RU: '138 тыс.'
+  - EN: '138K'
+- `s0537`
+  - RU: 'кликов'
+  - EN: 'clicks'
+- `s0538`
+  - RU: '55 тыс.'
+  - EN: '55K'
+- `s0539`
+  - RU: 'качественных визитов'
+  - EN: 'quality visits'
+- `s0540`
+  - RU: '4,03'
+  - EN: '4.03'
+- `s0541`
+  - RU: 'рейтинг'
+  - EN: 'rating'
+- `s0542`
+  - RU: 'TOP-результатов позитивные'
+  - EN: 'of top results are positive'
+- `s0543`
+  - RU: 'СИГНАЛЫ ПО СЕГМЕНТАМ'
+  - EN: 'SEGMENT SIGNALS'
+- `s0544`
+  - RU: '«Диета/режим» и «хронические боли» — **лучшие сигналы**\n«Стресс-живот» — **validate**'
+  - EN: '“Diet/routine” and “Recurring pain” — **best signals**\n“Nervous tummy” — **validate**'
+- `s0545`
+  - RU: 'Search + ORM остаются обязательной базой конверсии и доверия'
+  - EN: 'Search + ORM remain the must-have base for conversion and trust'
+- `s0546`
+  - RU: 'Awareness + Consideration до активного поиска: CTV/OLV, сегментная медийная поддержка, релевантный путь.'
+  - EN: 'Awareness + Consideration before active search: CTV/OLV, segment-level media support, a relevant path.'
+- `s0547`
+  - RU: '«Диета/Режим, Хронические боли» — **Scale**\n«Стресс-живот» — **Validate**\n«Нестабильный стул» — **Develop**'
+  - EN: '“Diet/routine”, “Recurring pain” — **Scale**\n“Nervous tummy” — **Validate**\n“Unstable stools” — **Develop**'
+- `s0548`
+  - RU: 'СОХРАНЯЕМ ДОКАЗАННОЕ ЯДРО'
+  - EN: 'KEEP THE PROVEN CORE'
+- `s0549`
+  - RU: 'ДОБАВЛЯЕМ BRAND-BUILDING LAYER'
+  - EN: 'ADD A BRAND-BUILDING LAYER'
+- `s0550`
+  - RU: 'УПРАВЛЯЕМ СЕГМЕНТАМИ ОТ РЕЗУЛЬТАТОВ'
+  - EN: 'MANAGE SEGMENTS BY RESULTS'
+- `s0551`
+  - RU: 'МАСШТАБИРУЕМ ТОЛЬКО ПОСЛЕ ДОКАЗАТЕЛЬСТВА'
+  - EN: 'SCALE ONLY AFTER PROOF'
+
+## Slide 15
+
+- `s0552`
+  - RU: 'Динобутин 2027: от перехвата спроса к устойчивому выбору'
+  - EN: 'Dinobutin 2027: from capturing demand to lasting choice'
+- `s0553`
+  - RU: 'В 2026 Digital в основном работал с уже возникшим интересом; в 2027 сохраняем конверсионное ядро и расширяем слои влияния до момента выбора'
+  - EN: 'In 2026, digital mostly worked with existing interest; in 2027 we keep the conversion core and add layers of influence before the moment of choice'
+- `s0554`
+  - RU: 'Search + ORM / performance + CTV test → сформированный спрос'
+  - EN: 'Search + ORM / performance + CTV test → existing demand'
+- `s0555`
+  - RU: 'Paid Search + GEO/AEO + Внешние публикации + ORM'
+  - EN: 'Paid Search + GEO/AEO + External publications + ORM'
+- `s0556`
+  - RU: 'Перехватываем сформированный спрос; выходим в AI-поиск, защищаем выбор и поддерживаем репутацию до действия'
+  - EN: 'We capture existing demand, move into AI\xa0search, protect the choice and support reputation right up to purchase'
+- `s0557`
+  - RU: 'Формируем знание, помогаем маме узнать знакомую ситуацию и связать ее с брендом, объясняем разные проявления функциональных нарушений ЖКТ до возникновения активного поиска, создаем спрос'
+  - EN: 'We build awareness, help moms recognize a familiar situation and link it to the brand, explain the different forms of functional GI disorders before active search starts, and create demand'
+- `s0558`
+  - RU: 'Продолжаем сегментный путь после видеоконтакта: находим пользователя по сигналу потребности, персонализируем сообщение и ведём к Search / покупке'
+  - EN: 'We continue the segment path after video exposure: find users by need signal, personalize the message and lead them to Search / purchase'
+- `s0559`
+  - RU: 'Добавляем живые истории и экспертный proof-layer в social'
+  - EN: 'We add real-life stories and an expert proof layer in social'
+- `s0560`
+  - RU: '2026 CORE → сохраняем и усиливаем эффективность AON'
+  - EN: '2026 CORE → keep AON and make it more efficient'
+- `s0561`
+  - RU: 'NEW 2027 → системный brand-building layer, Sprints'
+  - EN: 'NEW 2027 → a systematic brand-building layer, Sprints'
+- `s0562`
+  - RU: '2027 EXTENDED → от таргетинга к сегментному пути, Sprints'
+  - EN: '2027 EXTENDED → from targeting to a segment path, Sprints'
+- `s0563`
+  - RU: 'ИНСТРУМЕНТЫ'
+  - EN: 'TOOLS'
+- `s0564`
+  - RU: 'РОЛЬ'
+  - EN: 'ROLE'
+- `s0565`
+  - RU: 'ЛОГИКА 2027'
+  - EN: '2027 LOGIC'
+- `s0566`
+  - RU: 'Сохранить работающий спрос → создать новый спрос → перевести его в рассмотрение → усилить доверие и довести до выбора'
+  - EN: 'Keep the demand that works → create new demand → move it into consideration → build trust and carry it through to choice'
+
+## Slide 16
+
+- `s0567`
+  - RU: 'Варианты распределения охватной и персонализированной поддержки в течение 2027 года'
+  - EN: 'Options for phasing reach and personalized support over 2027'
+- `s0568`
+  - RU: 'Все варианты сохраняют always-on базу Search / ORM / GEO'
+  - EN: 'All options keep the always-on Search / ORM / GEO base'
+- `s0569`
+  - RU: 'Видео-only распределяется по-разному в зависимости от сценария'
+  - EN: 'Video-only budget is phased differently in each scenario'
+- `s0570`
+  - RU: 'Финальный выбор зависит от business value и результатов тестов'
+  - EN: 'The final choice depends on business value and test results'
+- `s0571`
+  - RU: 'медийные KPI выполнены и есть сигналы ниже по воронке'
+  - EN: 'media KPIs met, with signals further down the funnel'
+- `s0572`
+  - RU: 'медийные KPI выполнены, но сигналы ниже по воронке неоднозначны'
+  - EN: 'media KPIs met, but lower-funnel signals are mixed'
+- `s0573`
+  - RU: 'сильнее сработал альтернативный календарный сценарий'
+  - EN: 'the alternative calendar scenario performed better'
+- `s0574`
+  - RU: 'GEO + AEO / Внешние публикации / ORM / Paid Search'
+  - EN: 'GEO + AEO / External publications / ORM / Paid Search'
+- `s0575`
+  - RU: 'Формирование знания, CTV big screen, январь–март'
+  - EN: 'Awareness via CTV big screen, Jan–Mar'
+- `s0576`
+  - RU: 'Концентрация знания в Q1'
+  - EN: 'Q1 awareness focus'
+- `s0577`
+  - RU: 'ВАРИАНТ 1'
+  - EN: 'OPTION 1'
+- `s0578`
+  - RU: 'Анализ результатов и корректировка подхода'
+  - EN: 'Analyze results, adjust approach'
+- `s0579`
+  - RU: 'Перераспределение бюджета в наиболее эффективные решения без CTV'
+  - EN: 'Reallocate budget to top performers, no CTV'
+- `s0580`
+  - RU: 'Две волны знания: январь–февраль и сентябрь–октябрь'
+  - EN: 'Two awareness waves: Jan–Feb, Sep–Oct'
+- `s0581`
+  - RU: 'Две волны поддержки в течение года'
+  - EN: 'Two support waves across the year'
+- `s0582`
+  - RU: 'ВАРИАНТ 2'
+  - EN: 'OPTION 2'
+- `s0583`
+  - RU: 'Перераспределение бюджета в наиболее эффективные решения'
+  - EN: 'Reallocate budget to top performers'
+- `s0584`
+  - RU: 'Максимальная концентрация в период повышенного категорийного спроса'
+  - EN: 'Maximum weight at peak category demand'
+- `s0585`
+  - RU: 'Между периодами — анализ результатов и корректировка подхода'
+  - EN: 'Between waves — analyze results, adjust approach'
+- `s0586`
+  - RU: 'ВАРИАНТ 3'
+  - EN: 'OPTION 3'
+- `s0587`
+  - RU: 'CTV / master video —\nформирование знания'
+  - EN: 'CTV / master video —\nbuilding awareness'
+- `s0588`
+  - RU: 'OLV / персонализированные видео по сегментам — добор охвата на частоте'
+  - EN: 'OLV / personalized videos by segment — incremental reach at frequency'
+- `s0589`
+  - RU: 'Логика сценариев'
+  - EN: 'Scenario logic'
+- `s0590`
+  - RU: 'Как принимать решение'
+  - EN: 'How to decide'
+
+## Slide 17
+
+- `s0591`
+  - RU: 'Динобутин 2027: архитектура кампании vs 2026'
+  - EN: 'Dinobutin 2027: campaign architecture vs 2026'
+- `s0592`
+  - RU: 'млн ₽*'
+  - EN: 'RUB M*'
+- `s0593`
+  - RU: '20,3'
+  - EN: '20.3'
+- `s0594`
+  - RU: '26,8'
+  - EN: '26.8'
+- `s0595`
+  - RU: 'Тестирование видео-канала с последующей валидацией эффекта'
+  - EN: 'Testing the video channel, then validating the effect'
+- `s0596`
+  - RU: '3,1 млн ₽'
+  - EN: 'RUB 3.1M'
+- `s0597`
+  - RU: '5,3 млн ₽'
+  - EN: 'RUB 5.3M'
+- `s0598`
+  - RU: '6,9 млн ₽'
+  - EN: 'RUB 6.9M'
+- `s0599`
+  - RU: 'Создаём новый спрос до Search через заметный и релевантный видеоконтакт'
+  - EN: 'We create new demand before Search with visible, relevant video exposure'
+- `s0600`
+  - RU: '2,0 млн ₽'
+  - EN: 'RUB 2.0M'
+- `s0601`
+  - RU: 'Присутствие в медиапространстве через широкие сегменты интересов'
+  - EN: 'Media presence through broad interest segments'
+- `s0602`
+  - RU: '5,4 млн ₽'
+  - EN: 'RUB 5.4M'
+- `s0603`
+  - RU: '7,5 млн ₽'
+  - EN: 'RUB 7.5M'
+- `s0604`
+  - RU: '9,7 млн ₽'
+  - EN: 'RUB 9.7M'
+- `s0605`
+  - RU: 'От широкого таргетинга → к персонализированному пути по сигналу потребности'
+  - EN: 'From broad targeting → personalized paths by need signal'
+- `s0606`
+  - RU: '1,1 млн ₽'
+  - EN: 'RUB 1.1M'
+- `s0607`
+  - RU: 'Формирование дополнительного доверия к бренду через авторитетную коммуникацию'
+  - EN: 'Building extra brand trust through authoritative communication'
+- `s0608`
+  - RU: '2,6 млн ₽'
+  - EN: 'RUB 2.6M'
+- `s0609`
+  - RU: '4,8 млн ₽'
+  - EN: 'RUB 4.8M'
+- `s0610`
+  - RU: 'Усиливаем основание выбора и масштабируем только доказанные trust-связки'
+  - EN: 'We strengthen the reason to choose and scale only proven trust combinations'
+- `s0611`
+  - RU: '4,0 млн ₽'
+  - EN: 'RUB 4.0M'
+- `s0612`
+  - RU: 'Перехват спроса, присутствие на всех этапах выбора'
+  - EN: 'Capturing demand, presence at every stage of choice'
+- `s0613`
+  - RU: 'Конвертируем сформированный спрос в выбор и покупку'
+  - EN: 'We convert existing demand into choice and purchase'
+- `s0614`
+  - RU: 'КАНАЛЫ'
+  - EN: 'CHANNELS'
+- `s0615`
+  - RU: 'СЕГМЕНТЫ'
+  - EN: 'SEGMENTS'
+- `s0616`
+  - RU: 'Хронические боли и спазмы ЖКТ'
+  - EN: 'Recurring tummy pain and cramps'
+- `s0617`
+  - RU: 'Смена питания/диеты'
+  - EN: 'Diet change'
+- `s0618`
+  - RU: 'Внешние публикации'
+  - EN: 'External publications'
+- `s0619`
+  - RU: '*Бюджеты тотал представлены с учетом тех костов, АК и РС, бюджеты блоков указаны с АК и РС без учета тех костов'
+  - EN: '*Totals include tech costs, agency commission and ad levy; block budgets include agency commission and ad levy but not tech costs'
+
+## Slide 18
+
+- `s0620`
+  - RU: 'Динобутин 2027: Video Value для бизнеса'
+  - EN: 'Dinobutin 2027: Video Value for business'
+- `s0621`
+  - RU: 'Видео не просто добавляет охват: оно заранее объясняет проблему, формирует знание и создает спрос, который затем перехватывают Search, ORM и конверсионные инструменты'
+  - EN: 'Video does more than add reach: it explains the problem early, builds awareness and creates demand that Search, ORM and conversion tools then capture'
+- `s0622`
+  - RU: 'Зачем Video Динобутину'
+  - EN: 'Why Dinobutin needs Video'
+- `s0623`
+  - RU: '**Проблема бизнеса:** Динобутин — относительно новый бренд в категории, где выбор часто происходит уже на этапе сформированного спроса, а мама ищет понятное решение знакомой ЖКТ-ситуации.'
+  - EN: '**Business problem:** Dinobutin is a fairly new brand in a category where the choice is often made once demand already exists, and moms look for a clear fix for a familiar tummy problem.'
+- `s0624`
+  - RU: '**Роль Video:** до активного поиска видео помогает объяснить разные проявления функциональных нарушений ЖКТ, показать знакомую жизненную ситуацию и связать её с брендом.'
+  - EN: '**Video’s role:** before active search, video helps explain the different forms of functional GI disorders, show a familiar real-life situation and link it to the brand.'
+- `s0625`
+  - RU: '**Бизнес-задача:** сформировать знание и первичный спрос, который дальше конвертируют Search / ORM / «Где купить» / e-pharm.'
+  - EN: '**Business goal:** build awareness and initial demand that Search / ORM / “Where to buy” / e-pharm then convert.'
+- `s0626`
+  - RU: '2026 доказал: бренд способен создавать собственный спрос.\n2027 — **масштабируем** это через видео.'
+  - EN: '2026 proved the brand can create its own demand.\n2027: we **scale** it with video.'
+- `s0627`
+  - RU: '**рост брендового спроса**\nvs +5% категория'
+  - EN: '**brand demand growth**\nvs +5% category'
+- `s0628`
+  - RU: 'Какую бизнес-роль играет видео'
+  - EN: 'What business role video plays'
+- `s0629`
+  - RU: 'CTV = слой знания и доверия'
+  - EN: 'CTV = awareness & trust layer'
+- `s0630`
+  - RU: 'масштабно объясняет проблему до поиска'
+  - EN: 'explains the problem at scale before search'
+- `s0631`
+  - RU: 'дает широкий качественный контакт на большом экране'
+  - EN: 'broad, high-quality big-screen exposure'
+- `s0632`
+  - RU: 'помогает маме узнать ситуацию и запомнить бренд'
+  - EN: 'helps moms recognize the situation and remember the brand'
+- `s0633`
+  - RU: 'OLV = слой объяснения и доведения'
+  - EN: 'OLV = detail & follow-through layer'
+- `s0634`
+  - RU: 'добирает частоту в ядре ЦА'
+  - EN: 'adds frequency in the core TA'
+- `s0635`
+  - RU: 'точнее раскрывает релевантные симптомы / ситуации'
+  - EN: 'shows relevant symptoms / situations in more detail'
+- `s0636`
+  - RU: 'подводит к следующему действию: Search / «Где купить» / e-pharm'
+  - EN: 'leads to the next step: Search / “Where to buy” / e-pharm'
+- `s0637`
+  - RU: 'VA при 90–95% площади экрана vs 37,3% в среднем по РК*'
+  - EN: 'VA at 90–95% screen area vs 37.3% campaign average*'
+- `s0638`
+  - RU: 'VTR при 90–95% площади экрана vs 57,6% в среднем по РК*'
+  - EN: 'VTR at 90–95% screen area vs 57.6% campaign average*'
+- `s0639`
+  - RU: 'Высокая видимость на большом экране'
+  - EN: 'High big-screen viewability'
+- `s0640`
+  - RU: '84,6%'
+  - EN: '84.6%'
+- `s0641`
+  - RU: 'Высокая досматриваемость'
+  - EN: 'High completion rate'
+- `s0642`
+  - RU: '92,3%'
+  - EN: '92.3%'
+- `s0643`
+  - RU: 'Как оцениваем бизнес-эффект'
+  - EN: 'How we measure business impact'
+- `s0644`
+  - RU: 'VALUE: Video создает спрос, который затем конвертируют Search и performance-инструменты'
+  - EN: 'VALUE: Video creates demand that Search and performance tools then convert'
+- `s0645`
+  - RU: 'CR по «Где купить», quality visits, e-pharm / PDP traffic'
+  - EN: 'CR “Where to buy”, quality visits, e-pharm / PDP traffic'
+- `s0646`
+  - RU: 'Sales Lift / repeat / incremental sales в ядре и регионах роста'
+  - EN: 'Sales Lift / repeat / incremental sales in core and growth regions'
+- `s0647`
+  - RU: 'Формирование знания'
+  - EN: 'Building awareness'
+- `s0648`
+  - RU: 'Создание спроса'
+  - EN: 'Creating demand'
+- `s0649`
+  - RU: 'Перевод в действие'
+  - EN: 'Driving action'
+- `s0650`
+  - RU: 'Вклад в бизнес'
+  - EN: 'Business contribution'
+- `s0651`
+  - RU: 'Value chain: как видео работает на бизнес'
+  - EN: 'Value chain: how video works for business'
+- `s0652`
+  - RU: 'объясняет проблему'
+  - EN: 'explains the problem'
+- `s0653`
+  - RU: 'углубляет понимание'
+  - EN: 'deepens understanding'
+- `s0654`
+  - RU: 'Узнавание бренда'
+  - EN: 'Brand recognition'
+- `s0655`
+  - RU: 'знание + связь с ситуацией'
+  - EN: 'awareness + situation link'
+- `s0656`
+  - RU: 'Search / ORM / Где купить'
+  - EN: 'Search / ORM / “Where to buy”'
+- `s0657`
+  - RU: 'перехват сформированного спроса'
+  - EN: 'capturing existing demand'
+- `s0658`
+  - RU: 'выбор и продажи'
+  - EN: 'choice and sales'
+- `s0659`
+  - RU: '*Источник: AdRiver, общие результаты по РК, усредненный результат по видеоинвентарю'
+  - EN: '*Source: AdRiver, overall campaign results, average across video inventory'
+
+## Slide 19
+
+- `s0660`
+  - RU: 'CTV как масштабный видеоконтакт для построения знания и доверия в ядре географии'
+  - EN: 'CTV: large-scale video exposure to build awareness and trust in core regions'
+- `s0661`
+  - RU: 'Сценарий 1: Q1 (янв.–март)'
+  - EN: 'Scenario 1: Q1 (Jan–Mar)'
+- `s0662`
+  - RU: 'Масштабное покрытие в начале года для формирования знания'
+  - EN: 'Broad coverage early in the year to build awareness'
+- `s0663`
+  - RU: '**Расчет Universe:** 9,6 млн × 79% (3–10 лет) × 46% от населения РФ'
+  - EN: '**Universe calc:** 9.6M × 79% (aged 3–10) × 46% of Russia’s population'
+- `s0664`
+  - RU: '≈3,4 млн'
+  - EN: '≈3.4M'
+- `s0665`
+  - RU: 'мам с детьми 3–10 в ядре географии'
+  - EN: 'moms of kids 3–10 in core regions'
+- `s0666`
+  - RU: 'ОХВАТ'
+  - EN: 'REACH'
+- `s0667`
+  - RU: 'КОНТАКТЫ'
+  - EN: 'REACHED'
+- `s0668`
+  - RU: '≈2,1 млн'
+  - EN: '≈2.1M'
+- `s0669`
+  - RU: 'мам в контакте 3+'
+  - EN: 'moms at 3+ freq.'
+- `s0670`
+  - RU: 'ПОКАЗЫ'
+  - EN: 'IMPRESSIONS'
+- `s0671`
+  - RU: '≈7,5 млн'
+  - EN: '≈7.5M'
+- `s0672`
+  - RU: 'БЮДЖЕТ'
+  - EN: 'BUDGET'
+- `s0673`
+  - RU: '2,9 млн ₽'
+  - EN: 'RUB 2.9M'
+- `s0674`
+  - RU: 'инвестиции'
+  - EN: 'investment'
+- `s0675`
+  - RU: '**Период:** 12 недель'
+  - EN: '**Period:** 12 weeks'
+- `s0676`
+  - RU: '**Эффективная частота:** 3+'
+  - EN: '**Effective frequency:** 3+'
+- `s0677`
+  - RU: 'Сценарий 2: Q1 + Q4 (янв.–фев. + сен.–окт.)'
+  - EN: 'Scenario 2: Q1 + Q4 (Jan–Feb + Sep–Oct)'
+- `s0678`
+  - RU: 'Два флайта для усиления знания и поддержания присутствия в высокий сезон'
+  - EN: 'Two flights to build awareness and stay visible in peak season'
+- `s0679`
+  - RU: '≈2,2 млн'
+  - EN: '≈2.2M'
+- `s0680`
+  - RU: 'мам в контакте 5+'
+  - EN: 'moms at 5+ freq.'
+- `s0681`
+  - RU: '≈11 млн'
+  - EN: '≈11M'
+- `s0682`
+  - RU: '5 млн ₽'
+  - EN: 'RUB 5M'
+- `s0683`
+  - RU: '**Период:** 19 недель'
+  - EN: '**Period:** 19 weeks'
+- `s0684`
+  - RU: '**Эффективная частота:** 5+'
+  - EN: '**Effective frequency:** 5+'
+- `s0685`
+  - RU: 'Таргетинг:'
+  - EN: 'Targeting:'
+- `s0686`
+  - RU: 'мамы с детьми 3–10 в ядре географии'
+  - EN: 'moms of kids 3–10 in core regions'
+- `s0687`
+  - RU: 'Инвентарь:'
+  - EN: 'Inventory:'
+- `s0688`
+  - RU: 'Креатив:'
+  - EN: 'Creative:'
+- `s0689`
+  - RU: 'AI-видео'
+  - EN: 'AI video'
+- `s0690`
+  - RU: 'Роль в медиа-миксе:'
+  - EN: 'Role in media mix:'
+- `s0691`
+  - RU: 'Что покупаем внутри CTV'
+  - EN: 'What we buy within CTV'
+- `s0692`
+  - RU: 'Что получает бренд'
+  - EN: 'What the brand gets'
+- `s0693`
+  - RU: '**70% ядра ЦА** в целевой географии роста на эффективной частоте'
+  - EN: '**70% of core TA** in target growth regions at effective frequency'
+- `s0694`
+  - RU: 'Видео запускает спрос, который перехватывают Search, ORM и другие конверсионные инструменты'
+  - EN: 'Video sparks demand that Search, ORM and other conversion tools then capture'
+
+## Slide 20
+
+- `s0695`
+  - RU: 'Добавляем к CTV OLV в ядре географии для добора частоты и персонализации сообщения по сегментам'
+  - EN: 'Adding OLV to CTV in core regions to build frequency and personalize messages by segment'
+- `s0696`
+  - RU: 'Сценарий 3: CTV Q1 (янв.–мар) + OLV авг.–ноя.'
+  - EN: 'Scenario 3: CTV Q1 (Jan–Mar) + OLV Aug–Nov'
+- `s0697`
+  - RU: '**InStream слой** качественного контакта на эффективной частоте, а также сегментная точность благодаря precision-таргетингам и персонализации по occasion-based ситуациям'
+  - EN: '**InStream layer** of quality exposure at effective frequency, plus segment accuracy via precision targeting and occasion-based personalization'
+- `s0698`
+  - RU: 'мам с детьми 3–10'
+  - EN: 'moms of kids 3–10'
+- `s0699`
+  - RU: '2,2 млн'
+  - EN: '2.2M'
+- `s0700`
+  - RU: '3,5 млн ₽'
+  - EN: 'RUB 3.5M'
+- `s0701`
+  - RU: 'персонализированные occasion-based ролики из master AI-видео'
+  - EN: 'personalized occasion-based videos cut from the master AI video'
+- `s0702`
+  - RU: 'Что покупаем внутри OLV'
+  - EN: 'What we buy within OLV'
+- `s0703`
+  - RU: 'Выкуп ядра ЦА в целевой географии роста на эффективной частоте в пиковые периоды'
+  - EN: 'Core TA in target growth regions covered at effective frequency in peak periods'
+
+## Slide 21
+
+- `s0704`
+  - RU: 'AI-production роликов Динобутин: единый брендовый каркас и разные сообщения по сегментам'
+  - EN: 'Dinobutin AI videos: one brand framework, different messages by segment'
+- `s0705`
+  - RU: 'Сохраняем узнаваемую визуальную систему бренда, AI используем для быстрого создания вариативных сценариев, кадров и анимаций под разные целевые аудитории'
+  - EN: 'We keep the brand’s recognizable visual system and use AI to quickly create varied scripts, frames and animations for different target audiences'
+- `s0706`
+  - RU: 'Принципы производства AI-роликов'
+  - EN: 'AI video production principles'
+- `s0707`
+  - RU: 'Единая логика помогает быстро масштабировать коммуникацию без распада бренда на разные визуальные стили'
+  - EN: 'A shared logic lets us scale messaging fast without the brand fragmenting into different visual styles'
+- `s0708`
+  - RU: 'Фиксируем общий брендовый каркас: визуальный язык, тональность, пэкшот, CTA и фармацевтическая/регуляторная корректность'
+  - EN: 'We lock in a shared brand framework: visual language, tone of voice, packshot, CTA and pharma/regulatory compliance'
+- `s0709`
+  - RU: 'Меняем только то, что связано с сегментом: инсайт, триггер выбора, жизненный контекст и визуальную метафору'
+  - EN: 'We change only what is segment-specific: insight, choice trigger, life context and visual metaphor'
+- `s0710`
+  - RU: 'AI ускоряет генерацию раскадровок и анимаций, но человек задаёт стратегию, проверяет референсы и собирает финальный ролик'
+  - EN: 'AI speeds up storyboards and animation, but people set the strategy, check references and assemble the final video'
+- `s0711`
+  - RU: 'РАБОЧАЯ СХЕМА АДАПТАЦИИ'
+  - EN: 'ADAPTATION WORKFLOW'
+- `s0712`
+  - RU: 'Сегмент'
+  - EN: 'Segment'
+- `s0713`
+  - RU: 'Инсайт'
+  - EN: 'Insight'
+- `s0714`
+  - RU: 'Сценарий'
+  - EN: 'Script'
+- `s0715`
+  - RU: 'AI-кадры'
+  - EN: 'AI frames'
+- `s0716`
+  - RU: 'Анимация'
+  - EN: 'Animation'
+- `s0717`
+  - RU: 'Финал'
+  - EN: 'Final'
+- `s0718`
+  - RU: 'АУДИТОРНЫЕ СЕГМЕНТЫ 2027'
+  - EN: '2027 AUDIENCE SEGMENTS'
+- `s0719`
+  - RU: 'Сегмент ЦА'
+  - EN: 'TA segment'
+- `s0720`
+  - RU: 'Повторяющиеся хронические боли и спазмы ЖКТ'
+  - EN: 'Recurring tummy pain and cramps'
+- `s0721`
+  - RU: 'Боли, вздутие, метеоризм на фоне изменения диеты или режима'
+  - EN: 'Pain, bloating, flatulence after a diet or routine change'
+- `s0722`
+  - RU: '«Стресс-живот»'
+  - EN: 'Nervous tummy'
+- `s0723`
+  - RU: 'СЕГМЕНТ 1'
+  - EN: 'SEGMENT 1'
+- `s0724`
+  - RU: 'Ролик Динобутин: сегмент 1'
+  - EN: 'Dinobutin video: segment 1'
+- `s0725`
+  - RU: 'СЕГМЕНТ 2'
+  - EN: 'SEGMENT 2'
+- `s0726`
+  - RU: 'Ролик Динобутин: сегмент 2'
+  - EN: 'Dinobutin video: segment 2'
+- `s0727`
+  - RU: 'СЕГМЕНТ 3'
+  - EN: 'SEGMENT 3'
+- `s0728`
+  - RU: 'Ролик Динобутин: сегмент 3'
+  - EN: 'Dinobutin video: segment 3'
+- `s0729`
+  - RU: 'СЕГМЕНТ 4'
+  - EN: 'SEGMENT 4'
+- `s0730`
+  - RU: 'Ролик Динобутин: сегмент 4'
+  - EN: 'Dinobutin video: segment 4'
+- `s0731`
+  - RU: 'ИТОГ'
+  - EN: 'SUMMARY'
+- `s0732`
+  - RU: 'Сначала утверждаем единые правила серии, затем адаптируем инсайт и визуальную метафору под каждый сегмент — это снижает стоимость вариативности и сохраняет брендовый контроль'
+  - EN: 'First we approve shared rules for the series, then adapt the insight and visual metaphor to each segment — this cuts the cost of variation and keeps the brand in control'
+
+## Slide 22
+
+- `s0733`
+  - RU: 'Блогеры 2027: встраиваем канал в Comprehensive-подход после теста в Q4 2026'
+  - EN: 'Influencers 2027: built into the Comprehensive approach after the Q4 2026 test'
+- `s0734`
+  - RU: 'Сегментный автор и сообщение → разрешённая площадка → переход → decision gate между двумя спринтами'
+  - EN: 'Segment-matched creator and message → permitted platform → click → decision gate between two sprints'
+- `s0735`
+  - RU: 'Ж ЦА 25–50 лет, мамы детей с 3 до 10 лет, страдающих функциональными нарушениями ЖКТ'
+  - EN: 'F 25–50, moms of children aged 3–10 with functional GI disorders'
+- `s0736`
+  - RU: 'Портрет автора под сегмент\nНативный сюжет\nПерсональный продуктовый аргумент'
+  - EN: 'Creator fit for the segment\nNative storyline\nPersonal product argument'
+- `s0737`
+  - RU: 'VK — ядро\nMAX — тест\nДзен / RUTUBE — контекст и видео'
+  - EN: 'VK — core\nMAX — test\nDzen / RUTUBE — context and video'
+- `s0738`
+  - RU: 'UTM / кликабельная ссылка\nКачество визита\nПереход «Где купить»'
+  - EN: 'UTM / clickable link\nVisit quality\n“Where to buy” clicks'
+- `s0739`
+  - RU: 'Спринт 1: валидируем\nСпринт 2: усиливаем касание с ЦА\nНе масштабируем слабые связки'
+  - EN: 'Sprint 1: validate\nSprint 2: step up contact with the TA\nDon’t scale weak combinations'
+- `s0740`
+  - RU: 'СЕГМЕНТ'
+  - EN: 'SEGMENT'
+- `s0741`
+  - RU: 'АВТОР + КРЕАТИВ'
+  - EN: 'CREATOR + CREATIVE'
+- `s0742`
+  - RU: 'ПЛОЩАДКА'
+  - EN: 'PLATFORM'
+- `s0743`
+  - RU: '2027: Telegram и YouTube не закладываем в медиаплан'
+  - EN: '2027: no Telegram or YouTube in the media plan'
+- `s0744`
+  - RU: 'ФАС обозначила переходный период для рекламы на этих ресурсах только до конца 2026 года. Альтернативы ниже позволяют сохранять кликабельную ссылку и post-click измерение.'
+  - EN: 'The FAS transition period for ads on these platforms runs only until the end of 2026. The alternatives below keep a clickable link and post-click measurement.'
+- `s0745`
+  - RU: 'РЕКОМЕНДУЕМЫЙ СПЛИТ ПЛОЩАДОК'
+  - EN: 'RECOMMENDED PLATFORM SPLIT'
+- `s0746`
+  - RU: 'ПОРТРЕТЫ БЛОГЕРОВ'
+  - EN: 'INFLUENCER PROFILES'
+- `s0747`
+  - RU: 'Отбираем по соответствию конкретному CJM-сегменту, естественности опыта и способности дать измеримый переход'
+  - EN: 'Selected for CJM segment fit, authentic experience and the ability to drive measurable clicks'
+- `s0748`
+  - RU: 'Основной охват + видео/посты. В форматах без внешнего клика — связка с кликабельным постом.'
+  - EN: 'Main reach + videos/posts. Formats without an outbound click are paired with a clickable post.'
+- `s0749`
+  - RU: 'Тест новой площадки: тематические каналы, видео/пост, встроенные внешние ссылки.'
+  - EN: 'New platform test: themed channels, video/post, embedded external links.'
+- `s0750`
+  - RU: 'Нативные разборы и рутины; длинный контакт + прямой переход на бренд/аптеку.'
+  - EN: 'Native explainers and routines; long-form exposure + direct click to brand/pharmacy.'
+- `s0751`
+  - RU: 'Видео у авторов и тематические размещения; ссылка в описании/сопровождающем материале.'
+  - EN: 'Creator videos and themed placements; link in the description/accompanying content.'
+- `s0752`
+  - RU: 'Дзен'
+  - EN: 'Dzen'
+- `s0753`
+  - RU: 'подписчиков'
+  - EN: 'followers'
+- `s0754`
+  - RU: 'ожидаемый охват'
+  - EN: 'expected reach'
+- `s0755`
+  - RU: '175,5 тыс.'
+  - EN: '175.5K'
+- `s0756`
+  - RU: '120 тыс.'
+  - EN: '120K'
+- `s0757`
+  - RU: '231,1 тыс.'
+  - EN: '231.1K'
+- `s0758`
+  - RU: '60 тыс.'
+  - EN: '60K'
+- `s0759`
+  - RU: '114,6 тыс.'
+  - EN: '114.6K'
+- `s0760`
+  - RU: '50 тыс.'
+  - EN: '50K'
+- `s0761`
+  - RU: 'ФАС России — переходный период по Telegram/YouTube до конца 2026; DIDENOK TEAM / Sostav, август 2026; eLama + Telega.in / Sostav, июнь 2026. Эстимация — плановый ориентир; состав АК/ОРД/продакшна внутри 4,5 млн ₽ требует финального подтверждения.'
+  - EN: 'FAS Russia: Telegram/YouTube transition period until end of 2026; DIDENOK TEAM / Sostav, Aug 2026; eLama + Telega.in / Sostav, Jun 2026. Estimate is a planning guide; the agency commission/ORD/production split within RUB 4.5M needs final confirmation.'
+
+## Slide 23
+
+- `s0762`
+  - RU: 'Paid Search 2027: от структуры спроса к покупке'
+  - EN: 'Paid Search 2027: from demand mix to purchase'
+- `s0763`
+  - RU: 'Search — конверсионное ядро; РСЯ — поддерживающий audience-layer. Оптимизируем не по клику, а по движению к покупке.'
+  - EN: 'Search = conversion core; YAN (Yandex Advertising Network) = supporting audience layer. We\xa0optimize for progress toward purchase, not clicks.'
+- `s0764`
+  - RU: 'Контур Paid Search 2027'
+  - EN: 'Paid Search 2027 split'
+- `s0765`
+  - RU: '83% · Поиск'
+  - EN: '83% · Search'
+- `s0766`
+  - RU: '17% · РСЯ'
+  - EN: '17% · YAN'
+- `s0767`
+  - RU: 'ПОИСК: ДОЛИ ВЫКУПАЕМЫХ КАТЕГОРИЙ ЗАПРОСОВ'
+  - EN: 'SEARCH: SPEND SHARE BY QUERY CATEGORY'
+- `s0768`
+  - RU: 'РСЯ: ОТДЕЛЬНЫЙ СПЛИТ'
+  - EN: 'YAN: SEPARATE SPLIT'
+- `s0769`
+  - RU: 'Бюджетный сплит — по ёмкости спроса и фактической эффективности по CPA'
+  - EN: 'Budget split by demand volume and actual CPA performance'
+- `s0770`
+  - RU: 'Сокращаем долю РСЯ в общей коммуникации\nна 25–30%: качество трафика стабильно ниже Search'
+  - EN: 'We cut YAN’s share of total activity\nby 25–30%: traffic quality stays below Search'
+- `s0771`
+  - RU: 'Принцип 2027'
+  - EN: '2027 PRINCIPLE'
+- `s0772`
+  - RU: 'Бренд — отдельный контур видимости; категория / симптомы / конкуренты оптимизируются по CR / CPA. Транзакционный спрос ведём напрямую в e-pharm.'
+  - EN: 'Brand is a separate visibility track; category / symptoms / competitors are optimized for CR / CPA. Transactional demand goes straight to e-pharm.'
+- `s0773`
+  - RU: '**Роль РСЯ:** ремаркетинг + дополнительный контакт, а не основной performance-driver'
+  - EN: '**YAN’s role:** remarketing + extra exposure, not the main performance driver'
+- `s0774`
+  - RU: '5,1%'
+  - EN: '5.1%'
+- `s0775`
+  - RU: '24,1%'
+  - EN: '24.1%'
+- `s0776`
+  - RU: '23,0%'
+  - EN: '23.0%'
+- `s0777`
+  - RU: '25,6%'
+  - EN: '25.6%'
+- `s0778`
+  - RU: '19,5%'
+  - EN: '19.5%'
+- `s0779`
+  - RU: '2,6%'
+  - EN: '2.6%'
+- `s0780`
+  - RU: 'Динобутин / инструкция / гель'
+  - EN: 'Dinobutin / instructions / gel'
+- `s0781`
+  - RU: 'БРЕНД'
+  - EN: 'BRAND'
+- `s0782`
+  - RU: 'боль в животе / ЖКТ-средства'
+  - EN: 'tummy pain / GI remedies'
+- `s0783`
+  - RU: 'КАТЕГОРИЯ'
+  - EN: 'CATEGORY'
+- `s0784`
+  - RU: 'Тримедат / Необутин'
+  - EN: 'Trimedat / Neobutin'
+- `s0785`
+  - RU: 'КОНКУРЕНТЫ'
+  - EN: 'COMPETITORS'
+- `s0786`
+  - RU: 'боль / запор / понос у ребёнка'
+  - EN: 'pain / constipation / diarrhea in kids'
+- `s0787`
+  - RU: 'СИМПТОМЫ'
+  - EN: 'SYMPTOMS'
+- `s0788`
+  - RU: 'купить / цена → аптека'
+  - EN: 'buy / price → pharmacy'
+- `s0789`
+  - RU: 'ТРАНЗАКЦИОННЫЕ'
+  - EN: 'TRANSACTIONAL'
+- `s0790`
+  - RU: 'диагностическая семантика'
+  - EN: 'diagnostic keywords'
+- `s0791`
+  - RU: 'МКБ'
+  - EN: 'ICD'
+- `s0792`
+  - RU: 'Категория + симптоматика + конкуренты + интересы / ретаргетинг → сайт'
+  - EN: 'Category + symptoms + competitors + interests / retargeting → site'
+- `s0793`
+  - RU: 'ОБЩАЯ ОПТИМИЗИРОВАННАЯ'
+  - EN: 'COMBINED OPTIMIZED CAMPAIGN'
+- `s0794`
+  - RU: 'Запросы с высокой готовностью к покупке → e-pharm / аптечная карточка'
+  - EN: 'Ready-to-buy queries → e-pharm / pharmacy product page'
+- `s0795`
+  - RU: 'ТРАНЗАКЦИОННАЯ'
+  - EN: 'TRANSACTIONAL CAMPAIGN'
+- `s0796`
+  - RU: 'CR / CPA «Где купить / покупка» → quality visits → e-pharm sales'
+  - EN: 'CR / CPA “Where to buy / purchase” → quality visits → e-pharm sales'
+
+## Slide 24
+
+- `s0797`
+  - RU: '20,4M'
+  - EN: '20.4M'
+- `s0798`
+  - RU: 'БЮДЖЕТНЫЙ СПЛИТ'
+  - EN: 'BUDGET SPLIT'
+- `s0799`
+  - RU: '18,7M'
+  - EN: '18.7M'
+- `s0800`
+  - RU: '1,7M'
+  - EN: '1.7M'
+- `s0801`
+  - RU: '55,5M'
+  - EN: '55.5M'
+- `s0802`
+  - RU: '9,9M'
+  - EN: '9.9M'
+- `s0803`
+  - RU: '6,4M'
+  - EN: '6.4M'
+- `s0804`
+  - RU: '246 тыс.'
+  - EN: '246K'
+- `s0805`
+  - RU: '63,4 тыс.'
+  - EN: '63.4K'
+- `s0806`
+  - RU: '1,5 тыс.'
+  - EN: '1.5K'
+- `s0807`
+  - RU: 'ORM + внешние публикации'
+  - EN: 'ORM + external publications'
+- `s0808`
+  - RU: 'Отзывы, обзоры, Q&A, дискуссии'
+  - EN: 'Reviews, write-ups, Q&A, threads'
+- `s0809`
+  - RU: 'GEO-оптимизация под AI-ответы'
+  - EN: 'GEO optimization for AI answers'
+- `s0810`
+  - RU: 'ЭТАП'
+  - EN: 'STAGE'
+- `s0811`
+  - RU: 'КАНАЛ'
+  - EN: 'CHANNEL'
+- `s0812`
+  - RU: 'ПОСТАВЩИКИ'
+  - EN: 'VENDORS'
+- `s0813`
+  - RU: 'ФОРМАТ'
+  - EN: 'FORMAT'
+- `s0814`
+  - RU: '3,1M'
+  - EN: '3.1M'
+- `s0815`
+  - RU: '5,5M'
+  - EN: '5.5M'
+- `s0816`
+  - RU: '0,5M'
+  - EN: '0.5M'
+- `s0817`
+  - RU: '2,1M'
+  - EN: '2.1M'
+- `s0818`
+  - RU: '2,9M'
+  - EN: '2.9M'
+- `s0819`
+  - RU: '1,9M'
+  - EN: '1.9M'
+- `s0820`
+  - RU: '2,7M'
+  - EN: '2.7M'
+- `s0821`
+  - RU: 'спринт'
+  - EN: 'sprint'
+- `s0822`
+  - RU: 'активный период'
+  - EN: 'active period'
+- `s0823`
+  - RU: 'Бюджет до НДС, включая АК/РС. *Конверсия «Где купить»'
+  - EN: 'Excl. VAT, incl. agency commission and ad levy. *“Where to buy” conversions'
+
+## Slide 25
+
+- `s0824`
+  - RU: '26,9M'
+  - EN: '26.9M'
+- `s0825`
+  - RU: '25,2M'
+  - EN: '25.2M'
+- `s0826`
+  - RU: '65,8M'
+  - EN: '65.8M'
+- `s0827`
+  - RU: '11,9M'
+  - EN: '11.9M'
+- `s0828`
+  - RU: '3,6M UU'
+  - EN: '3.6M UU'
+- `s0829`
+  - RU: '9,35M'
+  - EN: '9.35M'
+- `s0830`
+  - RU: '285 тыс.'
+  - EN: '285K'
+- `s0831`
+  - RU: '68 тыс.'
+  - EN: '68K'
+- `s0832`
+  - RU: '2,3 тыс.'
+  - EN: '2.3K'
+- `s0833`
+  - RU: 'Аренда статьи'
+  - EN: 'Paid article'
+- `s0834`
+  - RU: '5,4M'
+  - EN: '5.4M'
+- `s0835`
+  - RU: '6,2M'
+  - EN: '6.2M'
+- `s0836`
+  - RU: '1,3M'
+  - EN: '1.3M'
+- `s0837`
+  - RU: '4,3M'
+  - EN: '4.3M'
+
+## Slide 26
+
+- `s0838`
+  - RU: '4,5M UU'
+  - EN: '4.5M UU'
+- `s0839`
+  - RU: '14,6M'
+  - EN: '14.6M'
+- `s0840`
+  - RU: '412 тыс.'
+  - EN: '412K'
+- `s0841`
+  - RU: '83,4 тыс.'
+  - EN: '83.4K'
+- `s0842`
+  - RU: '3,2 тыс.'
+  - EN: '3.2K'
+- `s0843`
+  - RU: '6,9M'
+  - EN: '6.9M'
+- `s0844`
+  - RU: '7,5M'
+  - EN: '7.5M'
+- `s0845`
+  - RU: '2,2M'
+  - EN: '2.2M'
+
+## Slide 27
+
+- `s0846`
+  - RU: 'Динобутин 2027'
+  - EN: 'Dinobutin 2027'
+- `s0847`
+  - RU: '3 сценария инвестиций: как меняется роль видео'
+  - EN: '3 investment scenarios: how video’s role shifts'
+- `s0848`
+  - RU: '190 млн ₽'
+  - EN: 'RUB 190M'
+- `s0849`
+  - RU: '15% доли в детском сегменте'
+  - EN: '15% share of the kids’ segment'
+- `s0850`
+  - RU: 'БИЗНЕС-ЦЕЛЬ 2027'
+  - EN: '2027 BUSINESS GOAL'
+- `s0851`
+  - RU: '12,3 → 20,4 / 26,9 / 32 млн ₽'
+  - EN: 'RUB 12.3 → 20.4 / 26.9 / 32M'
+- `s0852`
+  - RU: '+65% / +120% / +160% к 2026'
+  - EN: '+65% / +120% / +160% vs 2026'
+- `s0853`
+  - RU: 'ИНВЕСТИЦИИ'
+  - EN: 'INVESTMENT'
+- `s0854`
+  - RU: '3M / 3,6M / 4,5M'
+  - EN: '3M / 3.6M / 4.5M'
+- `s0855`
+  - RU: 'Unique Reach, Universe 7,6M UU'
+  - EN: 'Unique Reach, Universe 7.6M UU'
+- `s0856`
+  - RU: 'МАСШТАБ DIGITAL'
+  - EN: 'DIGITAL SCALE'
+- `s0857`
+  - RU: '3,1 / 5,4 / 6,9 млн ₽'
+  - EN: 'RUB 3.1 / 5.4 / 6.9M'
+- `s0858`
+  - RU: 'Search + ORM + CTV-test: бренд умеет создавать собственный спрос (+181% Brand Search)'
+  - EN: 'Search + ORM + CTV test: the brand can create its own demand (+181% Brand Search)'
+- `s0859`
+  - RU: '**V1:** создать знание → **V2:** поддержать знание в двух окнах спроса → **V3:** добавить targeted frequency и персонализацию → Programmatic с сегментными сообщениями → AI Visibility Stream конвертируют новый спрос в выбор'
+  - EN: '**V1:** build awareness → **V2:** sustain awareness in two demand windows → **V3:** add targeted frequency and personalization → Programmatic with segment messaging and AI Visibility Stream convert new demand into choice'
+- `s0860`
+  - RU: 'КАК РАБОТАЕТ COMPREHENSIVE В 3 СЦЕНАРИЯХ'
+  - EN: 'HOW COMPREHENSIVE WORKS IN 3 SCENARIOS'
+- `s0861`
+  - RU: 'ALWAYS-ON: SEARCH · ORM · GEO/AEO · ПУБЛИКАЦИИ'
+  - EN: 'ALWAYS-ON: SEARCH · ORM · GEO/AEO · PUBLICATIONS'
+- `s0862`
+  - RU: '**Общий принцип:** AON AI Visibility Stream; рост бюджета идёт в создание нового спроса и качество видеоконтакта'
+  - EN: '**Shared principle:** AON AI Visibility Stream; budget growth goes into new demand and quality video exposure'
+- `s0863`
+  - RU: 'ЧТО МЕНЯЕТ ДОПОЛНИТЕЛЬНАЯ ИНВЕСТИЦИЯ'
+  - EN: 'WHAT THE EXTRA INVESTMENT CHANGES'
+- `s0864`
+  - RU: '20,4 млн ₽ total · 3,1 млн ₽ CTV'
+  - EN: 'RUB 20.4M total · RUB 3.1M CTV'
+- `s0865`
+  - RU: '60% F 3+ в ядре · знание до активного поиска'
+  - EN: '60% at 3+ freq. in core · awareness before active search'
+- `s0866`
+  - RU: '26,9 млн ₽ total · 5,4 млн ₽ video'
+  - EN: 'RUB 26.9M total · RUB 5.4M video'
+- `s0867`
+  - RU: '65% F 5+ в ядре · две волны знания в Q1 и Q4'
+  - EN: '65% at 5+ freq. in core · two awareness waves, Q1 + Q4'
+- `s0868`
+  - RU: '32,0 млн ₽ total · 6,9 млн ₽ video'
+  - EN: 'RUB 32.0M total · RUB 6.9M video'
+- `s0869`
+  - RU: 'КАК РАСТЁТ БИЗНЕС-ЦЕННОСТЬ ПО МЕРЕ УВЕЛИЧЕНИЯ ИНВЕСТИЦИЙ'
+  - EN: 'HOW BUSINESS VALUE GROWS AS INVESTMENT RISES'
+- `s0870`
+  - RU: '2026 · ДОКАЗАНО'
+  - EN: '2026 · PROVEN'
+- `s0871`
+  - RU: '2027 · 3 УРОВНЯ МАСШТАБИРОВАНИЯ'
+  - EN: '2027 · 3 SCALING LEVELS'

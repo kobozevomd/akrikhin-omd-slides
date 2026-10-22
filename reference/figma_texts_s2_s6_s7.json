@@ -1,0 +1,785 @@
+{
+ "2": [
+  [
+   58,
+   46,
+   863,
+   94,
+   "Market 2027: 5 ключевых трендов, которые меняют путь потребителя"
+  ],
+  [
+   97,
+   351,
+   255,
+   120,
+   "ВИДЕО = ЭКОСИСТЕМА ЭКРАНОВ"
+  ],
+  [
+   115,
+   593,
+   255,
+   70,
+   "80%"
+  ],
+  [
+   97,
+   483,
+   258,
+   57,
+   "CTV становится самостоятельным слоем на фоне фрагментации просмотра и роста Smart TV."
+  ],
+  [
+   97,
+   793,
+   258,
+   57,
+   "Нужна единая роль CTV + OLV, AI-видео продакшн, а не конкуренция видеоформатов."
+  ],
+  [
+   115,
+   665,
+   191,
+   38,
+   "проникновение Smart TV к 2029"
+  ],
+  [
+   97,
+   764,
+   258,
+   19,
+   "Что это меняет"
+  ],
+  [
+   125,
+   243,
+   27,
+   42,
+   "1"
+  ],
+  [
+   462,
+   351,
+   255,
+   120,
+   "ПОИСК СТАНОВИТСЯ AI-ASSISTED"
+  ],
+  [
+   480,
+   593,
+   255,
+   70,
+   "49,5 млн"
+  ],
+  [
+   462,
+   483,
+   258,
+   76,
+   "Пользователь все чаще получает готовый ответ, а не только список ссылок -  особенно в health-information journey."
+  ],
+  [
+   462,
+   793,
+   258,
+   57,
+   "Бренду нужно управлять присутствием не только в SERP, но и в AI-ответах / LLM."
+  ],
+  [
+   480,
+   665,
+   227,
+   38,
+   "ежемесячно взаимодействуют с ответами Алисы AI"
+  ],
+  [
+   462,
+   764,
+   258,
+   19,
+   "Что это меняет"
+  ],
+  [
+   490,
+   243,
+   27,
+   42,
+   "2"
+  ],
+  [
+   827,
+   351,
+   255,
+   120,
+   "DIGITAL ДОРОЖАЕТ БЫСТРЕЕ ЭФФЕКТИВНОСТИ"
+  ],
+  [
+   845,
+   593,
+   255,
+   70,
+   "+26%"
+  ],
+  [
+   827,
+   483,
+   258,
+   57,
+   "Инфляция медиа и рост стоимости действия делают fixedsplit менее устойчивым."
+  ],
+  [
+   827,
+   793,
+   258,
+   76,
+   "Инвестиции должны следовать за доказанным эффектом, а не за прошлогодним сплитом."
+  ],
+  [
+   845,
+   665,
+   191,
+   38,
+   "рост стоимости целевого действия в Q1’26"
+  ],
+  [
+   827,
+   764,
+   258,
+   19,
+   "Что это меняет"
+  ],
+  [
+   855,
+   243,
+   27,
+   42,
+   "3"
+  ],
+  [
+   1192,
+   351,
+   255,
+   120,
+   "ПОКУПКА СТАНОВИТСЯ ГИБРИДНОЙ"
+  ],
+  [
+   1210,
+   593,
+   255,
+   70,
+   "28%"
+  ],
+  [
+   1192,
+   483,
+   258,
+   76,
+   "Фарма остается офлайн-категорией, но ePharm быстро растет — online и offline работают в одном пути."
+  ],
+  [
+   1192,
+   793,
+   258,
+   76,
+   "CJM должен доводить пользователя от медиа и поиска до доступной покупки."
+  ],
+  [
+   1210,
+   665,
+   191,
+   38,
+   "доля online в фармрознице"
+  ],
+  [
+   1192,
+   764,
+   258,
+   19,
+   "Что это меняет"
+  ],
+  [
+   1220,
+   243,
+   27,
+   42,
+   "4"
+  ],
+  [
+   1557,
+   351,
+   255,
+   78,
+   "INFLUENCE ФРАГМЕНТИРУЕТСЯ ПО ПЛАТФОРМАМ"
+  ],
+  [
+   1575,
+   593,
+   255,
+   70,
+   "64%"
+  ],
+  [
+   1557,
+   455,
+   258,
+   95,
+   "Блогеры и бренды распределяют активность между несколькими площадками; растет роль качества контента и системного контроля"
+  ],
+  [
+   1557,
+   793,
+   258,
+   76,
+   "Нужны единый Playbook и AI-scoring, а не ручная логика под каждую платформу."
+  ],
+  [
+   1575,
+   665,
+   226,
+   38,
+   "блогеров планируют осваивать новые платформы"
+  ],
+  [
+   1557,
+   764,
+   258,
+   19,
+   "Что это меняет"
+  ],
+  [
+   1585,
+   243,
+   27,
+   42,
+   "5"
+  ],
+  [
+   535,
+   964,
+   207,
+   25,
+   "ОБЩИЙ ВЫВОД"
+  ],
+  [
+   832,
+   951,
+   728,
+   48,
+   "Рынок дробится на множество точек контакта, но путь пользователя должен оставаться единым — от первого контакта до выбора и покупки"
+  ]
+ ],
+ "6": [
+  [
+   58,
+   44,
+   1431,
+   98,
+   "Операционный цикл Comprehensive 2027: Understand → Validate → Activate → Personalize → Measure → Learn"
+  ],
+  [
+   438,
+   964,
+   401,
+   25,
+   "ЗАМКНУТЫЙ ЦИКЛ ОБУЧЕНИЯ"
+  ],
+  [
+   933,
+   952,
+   728,
+   48,
+   "Одна система, много инструментов: каждый пилот 2027 должен завершаться правилом принятия решения, а не только результатом кампании"
+  ],
+  [
+   388,
+   341,
+   234,
+   33,
+   "VALIDATE"
+  ],
+  [
+   388,
+   425,
+   234,
+   32,
+   "OMD Voice"
+  ],
+  [
+   388,
+   467,
+   234,
+   57,
+   "Потребности, барьеры, окейжены, сегментные гипотезы"
+  ],
+  [
+   411,
+   243,
+   23,
+   35,
+   "2"
+  ],
+  [
+   402,
+   684,
+   197,
+   58,
+   "Challenge the hypothesis"
+  ],
+  [
+   691,
+   341,
+   234,
+   33,
+   "ACTIVATE"
+  ],
+  [
+   691,
+   425,
+   234,
+   32,
+   "AI DSPs"
+  ],
+  [
+   691,
+   467,
+   234,
+   57,
+   "Потребности, барьеры, окейжены, сегментные гипотезы"
+  ],
+  [
+   714,
+   243,
+   23,
+   35,
+   "3"
+  ],
+  [
+   705,
+   684,
+   197,
+   58,
+   "Find the right people"
+  ],
+  [
+   994,
+   341,
+   234,
+   33,
+   "PERSONALIZE"
+  ],
+  [
+   994,
+   425,
+   234,
+   64,
+   "Creative + Experience"
+  ],
+  [
+   994,
+   500,
+   234,
+   57,
+   "Потребности, барьеры, окейжены, сегментные гипотезы"
+  ],
+  [
+   1017,
+   243,
+   23,
+   35,
+   "4"
+  ],
+  [
+   1008,
+   684,
+   197,
+   58,
+   "Deliver the right message"
+  ],
+  [
+   1297,
+   341,
+   234,
+   33,
+   "MEASURE"
+  ],
+  [
+   1297,
+   425,
+   234,
+   64,
+   "Signals → Business"
+  ],
+  [
+   1297,
+   500,
+   234,
+   57,
+   "Потребности, барьеры, окейжены, сегментные гипотезы"
+  ],
+  [
+   1320,
+   243,
+   23,
+   35,
+   "5"
+  ],
+  [
+   1311,
+   684,
+   197,
+   58,
+   "Prove what changed"
+  ],
+  [
+   1600,
+   341,
+   234,
+   66,
+   "LEARN & RE-APPLY"
+  ],
+  [
+   1600,
+   425,
+   234,
+   32,
+   "Benchmarks"
+  ],
+  [
+   1600,
+   467,
+   234,
+   57,
+   "Потребности, барьеры, окейжены, сегментные гипотезы"
+  ],
+  [
+   1623,
+   243,
+   23,
+   35,
+   "6"
+  ],
+  [
+   1614,
+   684,
+   197,
+   58,
+   "Make the next decision better"
+  ],
+  [
+   85,
+   341,
+   234,
+   33,
+   "UNDERSTAND"
+  ],
+  [
+   85,
+   425,
+   234,
+   32,
+   "AI CJM"
+  ],
+  [
+   85,
+   467,
+   234,
+   57,
+   "Потребности, барьеры, окейжены, сегментные гипотезы"
+  ],
+  [
+   108,
+   243,
+   23,
+   35,
+   "1"
+  ],
+  [
+   100,
+   684,
+   197,
+   58,
+   "Find the right problem"
+  ],
+  [
+   154,
+   850,
+   1613,
+   24,
+   "Результаты кампании → обновленное правило по сегменту / креативу / поставщику → планирование следующего флайта → cross-brand использование"
+  ]
+ ],
+ "7": [
+  [
+   58,
+   34,
+   1450,
+   41,
+   "OMD Voice: AI CJM Evolves into a Calibrated Synthetic Audience Panel"
+  ],
+  [
+   58,
+   87,
+   1185,
+   68,
+   "Same segment logic as AI CJM, much higher precision: every segment is calibrated on open, industry and brand data and can be questioned like a live respondent"
+  ],
+  [
+   275,
+   965,
+   1367,
+   25,
+   "AI CJM segment map → calibration on open, industry and brand data → OMD Voice panel → validated answer before media spend"
+  ],
+  [
+   371,
+   1030,
+   1179,
+   19,
+   "*SSR — Semantic SimilarityRating: the respondentanswers in its own words, the answer is matchedby meaning to scale statementsand turned into a score distribution"
+  ],
+  [
+   91,
+   293,
+   502,
+   74,
+   "OMD Voice continues AI CJM, with far higher precision"
+  ],
+  [
+   91,
+   255,
+   227,
+   22,
+   "LOGICAL NEXT STEP"
+  ],
+  [
+   110,
+   419,
+   197,
+   28,
+   "AI CJM · 2026"
+  ],
+  [
+   110,
+   459,
+   476,
+   44,
+   "Reads digital signals and consumer language. Builds segments, needs, barriers and occasions."
+  ],
+  [
+   110,
+   525,
+   476,
+   22,
+   "Output: audience hypothesis"
+  ],
+  [
+   110,
+   657,
+   264,
+   28,
+   "OMD VOICE · 2027"
+  ],
+  [
+   110,
+   697,
+   476,
+   66,
+   "Each segment becomes a group of modeled respondents with defined soc-dem, motives and barriers. It answers questions and rates messages, offers and creatives."
+  ],
+  [
+   110,
+   782,
+   476,
+   66,
+   "Output: validated hypothesis, segmentsize in people, touchpoint map incl. e-com, the doctor's role in the choice"
+  ],
+  [
+   293,
+   592,
+   167,
+   13,
+   "+ calibration on real data"
+  ],
+  [
+   1307,
+   293,
+   331,
+   74,
+   "Built-in protection from hallucinations"
+  ],
+  [
+   1307,
+   255,
+   214,
+   22,
+   "QUALITY CONTROL"
+  ],
+  [
+   1326,
+   692,
+   244,
+   28,
+   "DIALOGUE MODE"
+  ],
+  [
+   1326,
+   732,
+   476,
+   66,
+   "Ask any segmentin free form, like a focus group or an in-depth interview. Answer in 15 minutes to 2 hours."
+  ],
+  [
+   1326,
+   805,
+   476,
+   44,
+   "Example: how much does a doctor's advice drive choice in this segment?"
+  ],
+  [
+   1359,
+   396,
+   440,
+   44,
+   "3 independent builds from scratch, hundreds of runs: only reproducible segments enter the map"
+  ],
+  [
+   1359,
+   461,
+   440,
+   44,
+   "Every figure is confirmed by external data and research"
+  ],
+  [
+   1359,
+   526,
+   440,
+   44,
+   "Placebo traps and repeated runs: a result counts only if the gap between options is stable"
+  ],
+  [
+   1359,
+   591,
+   440,
+   44,
+   "SSR method*: up to 90% of human test-retestreliability in 57 real surveys (PyMC Labs, 2025)"
+  ],
+  [
+   699,
+   293,
+   450,
+   74,
+   "Every segmentis anchored to real data"
+  ],
+  [
+   699,
+   255,
+   158,
+   22,
+   "CALIBRATION"
+  ],
+  [
+   712,
+   399,
+   12,
+   19,
+   "1"
+  ],
+  [
+   758,
+   394,
+   440,
+   23,
+   "Open research & official statistics"
+  ],
+  [
+   758,
+   426,
+   440,
+   38,
+   "Rosstat, VCIOM, published studies → segment sizes and demographics"
+  ],
+  [
+   712,
+   494,
+   12,
+   19,
+   "2"
+  ],
+  [
+   758,
+   490,
+   440,
+   23,
+   "Mediascope Brand Pulse"
+  ],
+  [
+   758,
+   522,
+   440,
+   38,
+   "Brand awareness and funnel by category → brand positionin each segment"
+  ],
+  [
+   712,
+   590,
+   12,
+   19,
+   "3"
+  ],
+  [
+   758,
+   585,
+   440,
+   23,
+   "Mediascope TV Index & Cross Web"
+  ],
+  [
+   758,
+   617,
+   440,
+   38,
+   "Media consumption → channelroles and touchpointmap for each segment"
+  ],
+  [
+   712,
+   685,
+   12,
+   19,
+   "4"
+  ],
+  [
+   758,
+   680,
+   440,
+   23,
+   "Consumer language"
+  ],
+  [
+   758,
+   712,
+   440,
+   38,
+   "Reviews, forums, social media, e-pharmacies → motives, barriers and real wording"
+  ],
+  [
+   712,
+   781,
+   12,
+   19,
+   "5"
+  ],
+  [
+   758,
+   776,
+   440,
+   46,
+   "Campaign results & external AI segments"
+  ],
+  [
+   758,
+   831,
+   440,
+   38,
+   "Post-click, BLS, overlaps with supplier AI clusters → learningsreturn to the panel"
+  ]
+ ]
+}

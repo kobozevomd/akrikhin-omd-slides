@@ -1,0 +1,1201 @@
+[
+ {
+  "id": "ppt/slides/slide47.xml#0",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "Golden Rules и библиотека решений 2027: каждый тест\nдолжен формировать правило для повторного использования"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#1",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "Ценность Test & Learn — в правиле принятия решения, которое можно повторно использовать для следующего бренда в портфеле"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#2",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "ОТ ТЕСТА К ПРАВИЛУ"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#4",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "ТЕСТ"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#5",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "Проводим тест в сопоставимых условиях"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#6",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "одинаковая задача / тип инвентаря / логика креатива"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#8",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "ДОКАЗАТЕЛЬСТВО"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#9",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "Оцениваем полный результат"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#10",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "media + post-click\nbrand / business — где применимо"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#13",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "Фиксируем конкретное решение"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#14",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "масштабировать / оптимизировать / остановить / повторить тест"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#17",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "Переводим результат в правило"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#18",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "порог / маршрут / поставщик /\nQA-критерий"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#20",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "ПОВТОРНОЕ ИСПОЛЬЗОВАНИЕ"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#21",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "Применяем между брендами"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#22",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "добавляем в библиотеку планирования и бриф следующего запуска"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#23",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "ПРИМЕРЫ GOLDEN RULES"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#26",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "ТАРГЕТИНГ"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#28",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "Пересечение / частота"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#29",
+  "slide": 47,
+  "kind": "slide",
+  "ru": ">25% пересечения = диагностика, не автоматическая остановка; сохраняем сегмент при высокой эффективности"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#34",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "Выбор поставщика"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#35",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "выбираем по связке аудитория × KPI × подтвержденный результат"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#40",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "Выбор production-маршрута"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#41",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "Classic / CMP / гибридная модель выбираем заранее по связке master × объем работ × legal risk"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#46",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "Критерий масштабирования"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#47",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "масштабируем только варианты с подтвержденным дополнительным media / brand эффектом"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#50",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "БЛОГЕРЫ"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#52",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "Проверка рисков"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#53",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "AI pre-score → shortlist / ручная проверка / stop-list до начала переговоров"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#58",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "Экосистема спроса"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#59",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "SEO / GEO / ORM / Paid Search управляются как единый контур спроса и доверия"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#62",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "ПРИНЦИП 2027"
+ },
+ {
+  "id": "ppt/slides/slide47.xml#64",
+  "slide": 47,
+  "kind": "slide",
+  "ru": "Каждый пилот завершается зафиксированным Decision Gate и условиями повторного\nиспользования — иначе это остается кейсом, а не системной компетенцией"
+ },
+ {
+  "id": "ppt/notesSlides/notesSlide47.xml#1",
+  "slide": 47,
+  "kind": "notes",
+  "ru": "Слайд 44 · новый вариант: крупная лента-шевроны «Тест → … → Повторное использование» с акцентом на Golden rule + 6 правил карточками 3×2"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#0",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "Segment overlap: от контроля пересечений\nк управлению синергией сегментов"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#1",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "Overlap — диагностический сигнал, а не критерий исключения: сохраняем эффективные пересечения и управляем каналами, сообщениями и частотой после подтверждения результата"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#3",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "2026 ЛОГИКА"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#4",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "Overlap = риск дублирования / потери эффективности"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#7",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "2027 ЛОГИКА"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#8",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "Overlap = потенциальная синергия после проверки эффективности и частоты"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#12",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "ДИАГНОСТИРУЕМ"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#13",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "Оцениваем overlap в контексте, а не как самостоятельный KPI"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#16",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "Уровень overlap"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#17",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "≤25% — рабочий уровень;\n>25% — диагностируем причины"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#21",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "30%+ — минимум;\n40%+ — целевой уровень"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#25",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "2–4 контакта — рабочий диапазон"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#28",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "Эффективность"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#29",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "media + post-click / конверсия"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#31",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "[1]ПЛАН:[/1][2] AiData — прогноз  |  [/2][1]ФАКТ:[/1][2] AdRiver — результат кампании[/2]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide48.xml#35",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "ПРИНИМАЕМ РЕШЕНИЕ"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#36",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "Одинаковый overlap может вести к разным действиям"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#38",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "≤25% + сильный KPI"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#39",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "ОСТАВИТЬ"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#40",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "Используем как multi-occasion охват"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#42",
+  "slide": 48,
+  "kind": "slide",
+  "ru": ">25% + сильный KPI"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#43",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "ОСТАВИТЬ / ОПТИМИЗИРОВАТЬ"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#44",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "Разводим роли / каналы / вес"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#46",
+  "slide": 48,
+  "kind": "slide",
+  "ru": ">25% + слабый KPI"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#47",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "СОКРАТИТЬ / ИСКЛЮЧИТЬ"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#48",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "Убираем дублирование без ценности"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#52",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "СОЗДАЕМ СИНЕРГИЮ"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#53",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "Один пользователь ≠ одно сообщение"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#54",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "Синергия возникает, когда каждый контакт отражает другой релевантный окейжен или CJM-роль"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#60",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "Проблема /\nтриггер"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#61",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "Контекст /\nокейжен"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#62",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "Альтернативное сообщение"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#63",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "Синергия возможна только при 3 условиях:"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#64",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "разные роли / сообщения по оккейженам"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#65",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "частота в диапазоне 2–4"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#66",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "качество post-click не ухудшается"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#69",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "ПРИНЦИП 2027"
+ },
+ {
+  "id": "ppt/slides/slide48.xml#71",
+  "slide": 48,
+  "kind": "slide",
+  "ru": "Оптимизируем портфель сегментов, а не отдельные аудитории — сохраняем эффективных\nпользователей в пересечении и сокращаем только overlap, который не создает дополнительной ценности"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#0",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "Targeting Accuracy Methodology: управляем\nкачеством попадания в ЦА по совокупности сигналов"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#1",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "Подтверждаем попадание корзиной media + post-click данных и улучшаем показатели в 2-недельном цикле"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#3",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "СБОРКА СЕГМЕНТА"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#4",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "Разные цифровые сигналы → единая гипотеза аудитории"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#7",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "ПРОВЕРКА КАЧЕСТВА"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#8",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "Несколько систем → единый Targeting Accuracy Index → действие"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#12",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "СТРОИМ СЕГМЕНТ"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#13",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "Не один ID, а комбинация цифровых признаков"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#18",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "вероятность пола / возраста по digital-сигналам"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#21",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "ИНТЕРЕСЫ И ТЕМЫ"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#22",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "категории интересов + смежные темы"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#25",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "ПОВЕДЕНИЕ"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#26",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "потребление контента + digital-активность"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#30",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "похожие cookies / unified IDs + платформенные модели"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#34",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "ПОДТВЕРЖДАЕМ"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#35",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "Ни одна система не является единственной «истиной»"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#39",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "доставка в ЦА • frequency • overlap • площадки"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#42",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "Я.МЕТРИКА / POST-CLICK"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#43",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "профиль визитов после клика — сигнал ближе к покупке"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#47",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "независимая panel check при достаточной базе"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#52",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "ОПТИМИЗИРУЕМ"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#53",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "2-недельный цикл: сигнал → действие → повторная проверка"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#54",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "Если Targeting Accuracy ниже 70%, запускаем диагностику и корректировки, а затем повторно измеряем эффект."
+ },
+ {
+  "id": "ppt/slides/slide49.xml#56",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "[1]ЕЖЕНЕДЕЛЬНО[/1]\n[2]AdRiver + Метрика[/2]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide49.xml#58",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "[1]ДИАГНОСТИКА[/1]\n[2]Mediascope / Tiburon[/2]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide49.xml#65",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "[1]КОРРЕКТИРУЕМ[/1]\n[2]веса • filters • exclusions • sources[/2]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide49.xml#68",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "ПРИНЦИП 2027"
+ },
+ {
+  "id": "ppt/slides/slide49.xml#70",
+  "slide": 49,
+  "kind": "slide",
+  "ru": "Targeting Accuracy — управляемая вероятность попадания, а не «паспортная» точность: строим сегмент на совокупности\nцифровых сигналов, подтверждаем качество несколькими системами и масштабируем только после KPI ≥70%."
+ },
+ {
+  "id": "ppt/slides/slide50.xml#0",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "Transparency & Traffic Verification:\nкачество трафика становится стандартом закупки"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#1",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "Управляемый контур: benchmark → еженедельный контроль → оптимизация → выводы по поставщику → следующий флайт"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#6",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "Единый quality gate для измеримого digital-инвентаря"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#10",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "невалидный технический трафик"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#14",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "сложный невалидный трафик"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#18",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "видимый контакт"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#22",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "видимый видеоконтакт"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#26",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "безопасный контекст"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#27",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "Источник benchmark: AdRiver — GIVT/SIVT/Viewability;\nАРИР — Brand Safety"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#32",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "Отклонение от benchmark автоматически запускает действие"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#36",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "ДО КАМПАНИИ"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#37",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "quality KPI + benchmarks + blacklists + full verification, где технически возможно"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#40",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "ЕЖЕНЕДЕЛЬНО"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#44",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "ТРИГГЕР"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#45",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "GIVT/SIVT: +0,5 п.п. | Viewability/BS: –5 п.п. | либо повтор 2 недели"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#48",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "ДЕЙСТВИЕ"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#49",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "площадка / SSP → blacklist / whitelist → перераспределение бюджета"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#52",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "ПОСЛЕ ФЛАЙТА"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#53",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "final quality score → learnings → обновленные правила для следующей закупки"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#58",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "От мониторинга → к стандарту качества закупки"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#61",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "покрытие технически верифицируемого сплита"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#63",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "[1]≤ 3[/1][2] дней[/2]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide50.xml#64",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "реакция на отклонение"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#67",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "повтор проблемных источников"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#68",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "Скоринг поставщиков + blacklist/whitelist переходят в следующий бренд внутри категории"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#71",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "ПРИНЦИП 2027"
+ },
+ {
+  "id": "ppt/slides/slide50.xml#73",
+  "slide": 50,
+  "kind": "slide",
+  "ru": "Качество трафика = условие масштабирования: если benchmark нарушен,\nсначала исправляем источник / закупку, не выделяем доп. инвестиции"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#0",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "Paid Search 2027: объявление должно отвечать намерению пользователя"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#1",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "До запуска каждое поисковое объявление проходит единую проверку качества: намерение пользователя → полнота объявления → призыв к действию → ценность предложения для покупки"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#3",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "ПРОВЕРКА КАЧЕСТВА ПЕРЕД ЗАПУСКОМ"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#7",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "ЗАГОЛОВОК = НАМЕРЕНИЕ"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#8",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "Бренд, симптом / категория, конкурент и покупка получают разные формулировки"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#12",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "РАСШИРЕНИЯ = МАКСИМУМ"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#13",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "Быстрые ссылки, описания, уточнения, визитка и промо заполняются там, где доступны"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#17",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "CTA = ЭТАП CJM"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#18",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "Призыв соответствует задаче пользователя: узнать → сравнить → купить"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#22",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "ЦЕНА / СКИДКА = ПОКУПКА"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#23",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "Цена, скидка и наличие используются в транзакционных кампаниях — когда усиливают готовность к заказу"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#25",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "ТЕКСТ ПО ТИПУ ПОИСКОВОГО НАМЕРЕНИЯ"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#26",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "Единая согласованная база объявлений — разные акценты в зависимости от типа поискового намерения"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#28",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "БРЕНД"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#29",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "официальность • доверие • удобство • быстрый переход к действию"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#32",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "КАТЕГОРИЯ / СИМПТОМ"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#33",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "понимание проблемы • экспертность • решение конкретной потребности"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#36",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "КОНКУРЕНТ"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#37",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "сравнительные преимущества • критерии выбора • УТП"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#40",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "ПОКУПКА"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#41",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "наличие • цена • скидка • простой путь к заказу"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#44",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "ПРОШЛО 4 ПРОВЕРКИ"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#45",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "объявление готово к запуску"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#47",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "НЕ ПРОШЛО ХОТЯ БЫ 1"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#48",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "возвращаем на корректировку"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#51",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "ПЕРЕПРОВЕРКА ПРИ ИЗМЕНЕНИИ СЕМАНТИКИ"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#52",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "правило действует для всех Tier-2 Paid Search РК"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#55",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "ПРИНЦИП 2027"
+ },
+ {
+  "id": "ppt/slides/slide51.xml#57",
+  "slide": 51,
+  "kind": "slide",
+  "ru": "Нет универсального поискового объявления: intent определяет заголовок,\nнабор расширений, CTA и допустимость транзакционного оффера"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#15",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "СТАРТОВАЯ ТОЧКА"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#19",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "ПОДВОДИМ РЕЗУЛЬТАТЫ"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#20",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "ИТОГИ И LEARNINGS 2026"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#26",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "ПОДТВЕРДИТЬ"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#27",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "ДОКАЗАТЕЛЬСТВО"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#33",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "СТАНДАРТИЗИРОВАТЬ"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#34",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "ОПЕРАЦИОННАЯ МОДЕЛЬ"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#40",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "МАСШТАБИРОВАТЬ"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#41",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "МАСШТАБИРУЕМАЯ КОМПЕТЕНЦИЯ"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#42",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "Comprehensive-подход подтвержден на реальных кампаниях:"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#43",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "сегментная модель"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#46",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "DMP-тесты"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#47",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "оценка бизнес-эффекта"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#49",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "[1]360° [/1][2]оценка эффективности[/2]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide52.xml#50",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "[1]GEO/AEO: [/1][2]Азелик, Акриол, Боботик[/2]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide52.xml#52",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "[1]SEO + Paid Search [/1][2]синхронизация[/2]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide52.xml#54",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "[1]AI-video на CTV: [/1][2]Азелик — personalization; Динобутин — AI-video[/2]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide52.xml#55",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "[1]Комфодерм: [/1][2]AI-обучающий ролик для фармпредставителей[/2]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide52.xml#56",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "[1]Personalized LPs: [/1][2]OMD Voice — Аквадетрим, Биотиналь GLP-1; SEO-контент — педиатрия[/2]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide52.xml#59",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "ПРОВЕРИТЬ НОВЫЕ ВОЗМОЖНОСТИ НА РЕАЛЬНЫХ ЗАДАЧАХ БРЕНДОВ"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#61",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "Калибровка OMD Voice"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#63",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "AI-DSP-сегменты из OMD Voice"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#64",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "Тесты созданных personalized LP"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#65",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "AI-video для новых брендов"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#66",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "ПЕРЕВЕСТИ УСПЕШНЫЕ ПИЛОТЫ В УПРАВЛЯЕМЫЕ ОПЕРАЦИОННЫЕ ПРАВИЛА"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#69",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "AI-скоринг блогеров + экспертная проверка"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#70",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "DO & DON’Ts playbook для Influence"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#71",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "Comprehensive для E-com"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#72",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "МАСШТАБИРУЕМ ТОЛЬКО ТО, ЧТО ИМЕЕТ ДОКАЗАННЫЙ ЭФФЕКТ И ПОВТОРЯЕМЫЙ ПРОЦЕСС"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#75",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "Сегмент + креатив"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#76",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "выше отклик и продажи"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#79",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "LP и AI-видео"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#80",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "сильнее бренд и конверсия"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#83",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "AI-скоринг и PlayBooks"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#84",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "меньше рисков и доработок"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#88",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "больше онлайн-продаж"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#91",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "Единые измерения"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#92",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "управление инвестициями"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#96",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "правила для других брендов"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#99",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "РЕЗУЛЬТАТ 2027"
+ },
+ {
+  "id": "ppt/slides/slide52.xml#101",
+  "slide": 52,
+  "kind": "slide",
+  "ru": "От отдельных AI-пилотов к масштабируемой системе, которая превращает успешные тесты в общие правила для брендов и повышает отдачу от инвестиций год к году"
+ },
+ {
+  "id": "ppt/notesSlides/notesSlide52.xml#1",
+  "slide": 52,
+  "kind": "notes",
+  "ru": "Слайд 49 · новый вариант: настоящий таймлайн H2 2026 | Q1 | Q2 | H2 2027 — этапы полосами на своих периодах, лесенкой вверх, итог-веха (ромб) на конце каждой полосы; задача и пункты — колонкой под своим периодом"
+ }
+]

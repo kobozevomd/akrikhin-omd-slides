@@ -1,0 +1,2480 @@
+# Review RU → EN
+
+
+## Slide 0
+
+- `s0000`
+  - RU: 'Akrimycol — стратегия 2027 · Акрихин × OMD'
+  - EN: 'Akrimycol — 2027 strategy · Akrikhin × OMD'
+- `s0001`
+  - RU: 'Знак Акрихин'
+  - EN: 'Akrikhin logo'
+
+## Slide 1
+
+- `s0002`
+  - RU: 'Акрихин + OMD'
+  - EN: 'Akrikhin + OMD'
+- `s0003`
+  - RU: 'Классификация документа: конфиденциальная информация для внутреннего использования'
+  - EN: 'Document classification: confidential, for internal use only'
+
+## Slide 2
+
+- `s0004`
+  - RU: 'Цели и задачи для Акримиколь в 2027 году'
+  - EN: 'Akrimycol 2027: goals and objectives'
+- `s0005`
+  - RU: 'Усилить рекламу для бренда **Акримиколь** в медиа и нивелировать снижение промоции через врачей'
+  - EN: 'Step up **Akrimycol** media advertising to offset the cut in HCP promo'
+- `s0006`
+  - RU: 'Иконка'
+  - EN: 'Icon'
+- `s0007`
+  - RU: 'Стать **препаратом первого выбора** у потребителей с грибковыми поражениями кожи и достичь продаж в [[**420 тыс. упаковок**]] и доли рынка в [[**3,8%**]] в упаковках в 2027 году'
+  - EN: 'Become the **first-choice treatment** for consumers with fungal skin infections, with sales of [[**420K units**]] and a unit market share of [[**3.8%**]] in 2027'
+- `s0008`
+  - RU: 'В коммуникации донести до потребителей, что Акримиколь является **современным препаратом** для лечения грибка кожи и обладает **важными\xa0УТП**'
+  - EN: 'In our messaging, show consumers that Akrimycol is a **modern treatment** for skin fungus with **key USPs**'
+
+## Slide 3
+
+- `s0009`
+  - RU: '2027: Digital должен компенсировать снижение врачебных выписок'
+  - EN: '2027: digital must offset the drop in doctor prescriptions'
+- `s0010`
+  - RU: 'Этап роста — перевод части выбора препарата из врачебного контура\nв самостоятельный consumer choice'
+  - EN: 'Growth stage — moving part of the product choice away from doctors\nto consumer self-choice'
+- `s0011`
+  - RU: 'ТЕКУЩАЯ БАЗА'
+  - EN: 'CURRENT BASE'
+- `s0012`
+  - RU: '50% продаж'
+  - EN: '50% of sales'
+- `s0013`
+  - RU: 'Акримиколь — TOP-3 в назначениях дерматологов. Врачебная выписка сегодня является **ключевым драйвером продаж**.'
+  - EN: 'Akrimycol is in the top 3 for dermatologist prescriptions. Doctor prescriptions are now the **key sales driver**.'
+- `s0014`
+  - RU: 'ЧТО МЕНЯЕТСЯ В 2027'
+  - EN: 'WHAT CHANGES IN 2027'
+- `s0015`
+  - RU: 'Промодавление на врачей снижается → бренд **не может продолжать опираться** на данный источник спроса.'
+  - EN: 'Promo pressure on doctors is falling → the brand **can no longer rely** on this source of demand.'
+- `s0016`
+  - RU: 'ГДЕ ЕСТЬ ПОТЕНЦИАЛ'
+  - EN: 'GROWTH POTENTIAL'
+- `s0017`
+  - RU: 'В категории крупнейший драйвер покупки — **самостоятельный выбор потребителя**.'
+  - EN: 'The biggest purchase driver in the category is **consumer self-choice**.'
+- `s0018`
+  - RU: '26% — врач'
+  - EN: '26% — doctor'
+- `s0019`
+  - RU: '31% — фармацевт'
+  - EN: '31% — pharmacist'
+- `s0020`
+  - RU: '43% — самостоятельный выбор'
+  - EN: '43% — self-choice'
+- `s0021`
+  - RU: 'СТРАТЕГИЧЕСКИЙ ВЫВОД'
+  - EN: 'STRATEGIC TAKEAWAY'
+- `s0022`
+  - RU: 'Digital в 2027 должен **не только перехватывать готовый спрос**, но и **заранее формировать знание и основания для выбора** Акримиколя — до момента брендового запроса.'
+  - EN: 'In 2027, digital must **capture existing demand** — and **build awareness and reasons to choose** Akrimycol early, before people search for the brand.'
+
+## Slide 4
+
+- `s0023`
+  - RU: 'Из конкурентов в виде кремовых форм по данным мониторинга\nразмещался только бренд Офломил'
+  - EN: 'Monitoring shows that among competing creams,\nonly Oflomil advertised'
+- `s0024`
+  - RU: 'Динамика инвестиций'
+  - EN: 'Investment trend'
+- `s0025`
+  - RU: 'ДИНАМИКА ИНВЕСТИЦИЙ'
+  - EN: 'INVESTMENT TREND'
+- `s0026`
+  - RU: 'млн ₽, Mediascope'
+  - EN: 'RUB M, Mediascope'
+- `s0027`
+  - RU: 'Офломил'
+  - EN: 'Oflomil'
+- `s0028`
+  - RU: 'Акримиколь — размещений нет'
+  - EN: 'Akrimycol — no placements'
+- `s0029`
+  - RU: 'Офломил — инвестиции в ТВ, млн ₽'
+  - EN: 'Oflomil — TV investment, RUB M'
+- `s0030`
+  - RU: 'янв 2025'
+  - EN: 'Jan 2025'
+- `s0031`
+  - RU: 'фев 2025'
+  - EN: 'Feb 2025'
+- `s0032`
+  - RU: 'мар 2025'
+  - EN: 'Mar 2025'
+- `s0033`
+  - RU: 'апр 2025'
+  - EN: 'Apr 2025'
+- `s0034`
+  - RU: 'май 2025'
+  - EN: 'May 2025'
+- `s0035`
+  - RU: 'июн 2025'
+  - EN: 'Jun 2025'
+- `s0036`
+  - RU: 'июл 2025'
+  - EN: 'Jul 2025'
+- `s0037`
+  - RU: 'авг 2025'
+  - EN: 'Aug 2025'
+- `s0038`
+  - RU: 'сен 2025'
+  - EN: 'Sep 2025'
+- `s0039`
+  - RU: 'окт 2025'
+  - EN: 'Oct 2025'
+- `s0040`
+  - RU: 'ноя 2025'
+  - EN: 'Nov 2025'
+- `s0041`
+  - RU: 'дек 2025'
+  - EN: 'Dec 2025'
+- `s0042`
+  - RU: 'янв 2026'
+  - EN: 'Jan 2026'
+- `s0043`
+  - RU: 'фев 2026'
+  - EN: 'Feb 2026'
+- `s0044`
+  - RU: 'мар 2026'
+  - EN: 'Mar 2026'
+- `s0045`
+  - RU: 'апр 2026'
+  - EN: 'Apr 2026'
+- `s0046`
+  - RU: 'май 2026'
+  - EN: 'May 2026'
+- `s0047`
+  - RU: 'июн 2026'
+  - EN: 'Jun 2026'
+- `s0048`
+  - RU: 'июл 2026'
+  - EN: 'Jul 2026'
+- `s0049`
+  - RU: '1,6'
+  - EN: '1.6'
+- `s0050`
+  - RU: '3,4'
+  - EN: '3.4'
+- `s0051`
+  - RU: '1,8'
+  - EN: '1.8'
+- `s0052`
+  - RU: '0,5'
+  - EN: '0.5'
+- `s0053`
+  - RU: '1,2'
+  - EN: '1.2'
+- `s0054`
+  - RU: '0,8'
+  - EN: '0.8'
+- `s0055`
+  - RU: 'Динамика продаж'
+  - EN: 'Sales trend'
+- `s0056`
+  - RU: 'ДИНАМИКА ПРОДАЖ'
+  - EN: 'SALES TREND'
+- `s0057`
+  - RU: 'млн ₽, IQVIA'
+  - EN: 'RUB M, IQVIA'
+- `s0058`
+  - RU: 'Микодерил — продажи, млн ₽'
+  - EN: 'Mikoderil — sales, RUB M'
+- `s0059`
+  - RU: 'Офломикол — продажи, млн ₽'
+  - EN: 'Oflomikol — sales, RUB M'
+- `s0060`
+  - RU: 'Термикон — продажи, млн ₽'
+  - EN: 'Termikon — sales, RUB M'
+- `s0061`
+  - RU: 'Офломил — продажи, млн ₽'
+  - EN: 'Oflomil — sales, RUB M'
+- `s0062`
+  - RU: 'Залаин — продажи, млн ₽'
+  - EN: 'Zalain — sales, RUB M'
+- `s0063`
+  - RU: 'Акримиколь — продажи, млн ₽'
+  - EN: 'Akrimycol — sales, RUB M'
+- `s0064`
+  - RU: '10,6'
+  - EN: '10.6'
+- `s0065`
+  - RU: '13,9'
+  - EN: '13.9'
+- `s0066`
+  - RU: '7,9'
+  - EN: '7.9'
+- `s0067`
+  - RU: '19,0'
+  - EN: '19.0'
+- `s0068`
+  - RU: '9,1'
+  - EN: '9.1'
+- `s0069`
+  - RU: '22,1'
+  - EN: '22.1'
+- `s0070`
+  - RU: '10,7'
+  - EN: '10.7'
+- `s0071`
+  - RU: '23,3'
+  - EN: '23.3'
+- `s0072`
+  - RU: '9,9'
+  - EN: '9.9'
+- `s0073`
+  - RU: '22,3'
+  - EN: '22.3'
+- `s0074`
+  - RU: '14,1'
+  - EN: '14.1'
+- `s0075`
+  - RU: '17,0'
+  - EN: '17.0'
+- `s0076`
+  - RU: '25,3'
+  - EN: '25.3'
+- `s0077`
+  - RU: '17,4'
+  - EN: '17.4'
+- `s0078`
+  - RU: '22,8'
+  - EN: '22.8'
+- `s0079`
+  - RU: '14,2'
+  - EN: '14.2'
+- `s0080`
+  - RU: '14,6'
+  - EN: '14.6'
+- `s0081`
+  - RU: '22,0'
+  - EN: '22.0'
+- `s0082`
+  - RU: '15,0'
+  - EN: '15.0'
+- `s0083`
+  - RU: '19,5'
+  - EN: '19.5'
+- `s0084`
+  - RU: '16,7'
+  - EN: '16.7'
+- `s0085`
+  - RU: '14,7'
+  - EN: '14.7'
+- `s0086`
+  - RU: '9,8'
+  - EN: '9.8'
+- `s0087`
+  - RU: '18,3'
+  - EN: '18.3'
+- `s0088`
+  - RU: '6,9'
+  - EN: '6.9'
+- `s0089`
+  - RU: '22,2'
+  - EN: '22.2'
+- `s0090`
+  - RU: '5,5'
+  - EN: '5.5'
+- `s0091`
+  - RU: '26,0'
+  - EN: '26.0'
+- `s0092`
+  - RU: '3,8'
+  - EN: '3.8'
+- `s0093`
+  - RU: '21,7'
+  - EN: '21.7'
+- `s0094`
+  - RU: '14,0'
+  - EN: '14.0'
+- `s0095`
+  - RU: '25,1'
+  - EN: '25.1'
+- `s0096`
+  - RU: '18,6'
+  - EN: '18.6'
+- `s0097`
+  - RU: 'Микодерил'
+  - EN: 'Mikoderil'
+- `s0098`
+  - RU: 'Микодерил 13,4'
+  - EN: 'Mikoderil 13.4'
+- `s0099`
+  - RU: 'Офломикол'
+  - EN: 'Oflomikol'
+- `s0100`
+  - RU: 'Офломикол 13,6'
+  - EN: 'Oflomikol 13.6'
+- `s0101`
+  - RU: 'Термикон'
+  - EN: 'Termikon'
+- `s0102`
+  - RU: 'Термикон 22,7'
+  - EN: 'Termikon 22.7'
+- `s0103`
+  - RU: 'Офломил 3,4'
+  - EN: 'Oflomil 3.4'
+- `s0104`
+  - RU: 'Залаин'
+  - EN: 'Zalain'
+- `s0105`
+  - RU: 'Залаин 20,7'
+  - EN: 'Zalain 20.7'
+- `s0106`
+  - RU: 'Акримиколь'
+  - EN: 'Akrimycol'
+- `s0107`
+  - RU: 'Акримиколь 29,4'
+  - EN: 'Akrimycol 29.4'
+- `s0108`
+  - RU: 'янв'
+  - EN: 'Jan'
+- `s0109`
+  - RU: 'фев'
+  - EN: 'Feb'
+- `s0110`
+  - RU: 'мар'
+  - EN: 'Mar'
+- `s0111`
+  - RU: 'апр'
+  - EN: 'Apr'
+- `s0112`
+  - RU: 'май'
+  - EN: 'May'
+- `s0113`
+  - RU: 'июн'
+  - EN: 'Jun'
+- `s0114`
+  - RU: 'июл'
+  - EN: 'Jul'
+- `s0115`
+  - RU: 'авг'
+  - EN: 'Aug'
+- `s0116`
+  - RU: 'сен'
+  - EN: 'Sep'
+- `s0117`
+  - RU: 'окт'
+  - EN: 'Oct'
+- `s0118`
+  - RU: 'ноя'
+  - EN: 'Nov'
+- `s0119`
+  - RU: 'дек'
+  - EN: 'Dec'
+- `s0120`
+  - RU: '3,5'
+  - EN: '3.5'
+- `s0121`
+  - RU: ' млн ₽'
+  - EN: ' RUB M'
+- `s0122`
+  - RU: 'Офломил из медиаканалов использовал **только Нац. ТВ**. Бренд размещался небольшим объемом спонсорской рекламы (50 рейтингов 25–55 и 52 выхода тотал за 1–7 2026) на каналах ТНТ и ТНТ 4. **Значительного влияния на продажи такая рекламная активность не оказала.**'
+  - EN: 'In Jan–Jul 2026, Oflomil used **National TV only**: a small sponsorship buy on TNT and TNT4 (50\xa0GRPs in 25–55 and 52 airings in total). **This had no significant impact on sales.**'
+- `s0123`
+  - RU: 'Продажи Акримиколя **выросли в 2 раза** с начала года, и сейчас **бренд лидирует**. Таким же темпом выросли продажи у Термикона в этом году. Продажи Офломикола и Микодерила находятся на уровне 11–14 млн на протяжении последних 5 месяцев. У Залаина наблюдается **резкий рост продаж с мая 2026** (с 4 млн в апреле до 21 млн в июле).'
+  - EN: 'Akrimycol sales have **doubled** since the start of the year, and the **brand now leads**. Termikon sales grew at the same pace this year. Oflomikol and Mikoderil have held at RUB 11–14M for the last 5\xa0months. Zalain sales have **risen sharply since May 2026** (from RUB 4M in April to 21M in July).'
+- `s0124`
+  - RU: 'Источник: Mediascope, IQVIA'
+  - EN: 'Source: Mediascope, IQVIA'
+
+## Slide 5
+
+- `s0125`
+  - RU: 'Крем'
+  - EN: 'Cream'
+- `s0126`
+  - RU: 'Спрей и гель'
+  - EN: 'Spray and gel'
+- `s0127`
+  - RU: 'Ламизил крем — продажи, млн ₽'
+  - EN: 'Lamisil cream — sales, RUB M'
+- `s0128`
+  - RU: 'Ламизил спрей и гель — продажи, млн ₽'
+  - EN: 'Lamisil spray and gel — sales, RUB M'
+- `s0129`
+  - RU: 'Динамика инвестиций Нац. ТВ'
+  - EN: 'National TV investment trend'
+- `s0130`
+  - RU: 'ДИНАМИКА ИНВЕСТИЦИЙ НАЦ. ТВ'
+  - EN: 'NATIONAL TV INVESTMENT TREND'
+- `s0131`
+  - RU: 'Ламизил для женщин'
+  - EN: 'Lamisil for Women'
+- `s0132`
+  - RU: 'Другие кампании'
+  - EN: 'Other campaigns'
+- `s0133`
+  - RU: 'Ламизил для женщин — инвестиции в Нац. ТВ, млн ₽'
+  - EN: 'Lamisil for Women — Nat. TV investment, RUB M'
+- `s0134`
+  - RU: 'Другие кампании — инвестиции в Нац. ТВ, млн ₽'
+  - EN: 'Other campaigns — Nat. TV investment, RUB M'
+- `s0135`
+  - RU: 'Периоды размещений'
+  - EN: 'Flight periods'
+- `s0136`
+  - RU: 'май–июль'
+  - EN: 'May–Jul'
+- `s0137`
+  - RU: 'май–август'
+  - EN: 'May–Aug'
+- `s0138`
+  - RU: 'февраль–март'
+  - EN: 'Feb–Mar'
+- `s0139`
+  - RU: 'март–апрель'
+  - EN: 'Mar–Apr'
+- `s0140`
+  - RU: 'Запуск кампании «Любимые пяточки» (2006–2010) обеспечил **рост продаж крема в 1,5 раза** относительно 2005 г. После прекращения рекламной поддержки видно **снижение на 7%** (с 368 до 342–349 млн руб.)'
+  - EN: 'The “Lovely Heels” campaign (2006–2010) **grew cream sales 1.5x** vs 2005. After ad support stopped, sales **fell 7%** (from RUB\xa0368M to 342–349M)'
+- `s0141`
+  - RU: 'Ламизил размещался 5, 10 и 20-секундными роликами, постепенно **расширяя микс каналов, с 4 в 2006 до 17 в 2011**.'
+  - EN: 'Lamisil ran 5-, 10- and 20-second spots, gradually **widening its channel mix from 4 in 2006 to 17 in 2011**.'
+- `s0142`
+  - RU: 'Длина роликов'
+  - EN: 'Spot length'
+- `s0143`
+  - RU: 'ДЛИНА РОЛИКОВ'
+  - EN: 'SPOT LENGTH'
+- `s0144`
+  - RU: 'Ролики 5"'
+  - EN: '5-sec spots'
+- `s0145`
+  - RU: 'Ролики 10"'
+  - EN: '10-sec spots'
+- `s0146`
+  - RU: 'Ролики 20"'
+  - EN: '20-sec spots'
+- `s0147`
+  - RU: 'Каналы'
+  - EN: 'Channels'
+- `s0148`
+  - RU: 'КАНАЛЫ'
+  - EN: 'CHANNELS'
+- `s0149`
+  - RU: 'НТВ'
+  - EN: 'NTV'
+- `s0150`
+  - RU: 'ТНТ'
+  - EN: 'TNT'
+- `s0151`
+  - RU: 'ТВ-3'
+  - EN: 'TV-3'
+- `s0152`
+  - RU: 'РЕН ТВ'
+  - EN: 'REN TV'
+- `s0153`
+  - RU: 'ТВ Центр'
+  - EN: 'TV Center'
+- `s0154`
+  - RU: 'СТС'
+  - EN: 'STS'
+- `s0155`
+  - RU: 'Первый канал'
+  - EN: 'Channel One'
+- `s0156`
+  - RU: 'Россия 1'
+  - EN: 'Russia 1'
+- `s0157`
+  - RU: 'Другие'
+  - EN: 'Other'
+- `s0158`
+  - RU: 'Ламизил для женщин — ролик 5 секунд'
+  - EN: 'Lamisil for Women — 5-second spot'
+- `s0159`
+  - RU: 'Ламизил для женщин — ролик 10 секунд'
+  - EN: 'Lamisil for Women — 10-second spot'
+- `s0160`
+  - RU: 'Ламизил для женщин — ролик 20 секунд'
+  - EN: 'Lamisil for Women — 20-second spot'
+- `s0161`
+  - RU: 'ВЫВОД'
+  - EN: 'TAKEAWAY'
+- `s0162`
+  - RU: 'ТВ-кампания демонстрирует измеримый эффект на продажи'
+  - EN: 'The TV campaign had a measurable effect on sales'
+
+## Slide 6
+
+- `s0163`
+  - RU: 'Акримиколь показывает потенциал роста при ограниченной digital-поддержке, но неравномерное медиадавление пока не позволяет устойчиво закрепить долю продаж'
+  - EN: 'Akrimycol shows growth potential despite limited digital support, but uneven media pressure still keeps its sales share from settling'
+- `s0164`
+  - RU: 'Динамика инвестиций в digital-медиа и продаж'
+  - EN: 'Digital media spend and sales trend'
+- `s0165`
+  - RU: 'ДИНАМИКА ИНВЕСТИЦИЙ В DIGITAL-МЕДИА И ПРОДАЖ'
+  - EN: 'DIGITAL MEDIA SPEND AND SALES TREND'
+- `s0166`
+  - RU: 'Экзодерил'
+  - EN: 'Exoderil'
+- `s0167`
+  - RU: 'Продажи, млн ₽'
+  - EN: 'Sales, RUB M'
+- `s0168`
+  - RU: 'Экзодерил, млн ₽'
+  - EN: 'Exoderil, RUB M'
+- `s0169`
+  - RU: 'Залаин, млн ₽'
+  - EN: 'Zalain, RUB M'
+- `s0170`
+  - RU: 'Акримиколь, млн ₽'
+  - EN: 'Akrimycol, RUB M'
+- `s0171`
+  - RU: '29,4'
+  - EN: '29.4'
+- `s0172`
+  - RU: '20,7'
+  - EN: '20.7'
+- `s0173`
+  - RU: '31,2'
+  - EN: '31.2'
+- `s0174`
+  - RU: '29,0'
+  - EN: '29.0'
+- `s0175`
+  - RU: '33,1'
+  - EN: '33.1'
+- `s0176`
+  - RU: '38,0'
+  - EN: '38.0'
+- `s0177`
+  - RU: '37,2'
+  - EN: '37.2'
+- `s0178`
+  - RU: '34,8'
+  - EN: '34.8'
+- `s0179`
+  - RU: '34,6'
+  - EN: '34.6'
+- `s0180`
+  - RU: '33,6'
+  - EN: '33.6'
+- `s0181`
+  - RU: '31,8'
+  - EN: '31.8'
+- `s0182`
+  - RU: '36,8'
+  - EN: '36.8'
+- `s0183`
+  - RU: '29,9'
+  - EN: '29.9'
+- `s0184`
+  - RU: '28,5'
+  - EN: '28.5'
+- `s0185`
+  - RU: '25,4'
+  - EN: '25.4'
+- `s0186`
+  - RU: '28,2'
+  - EN: '28.2'
+- `s0187`
+  - RU: '24,1'
+  - EN: '24.1'
+- `s0188`
+  - RU: '21,9'
+  - EN: '21.9'
+- `s0189`
+  - RU: '28,6'
+  - EN: '28.6'
+- `s0190`
+  - RU: '31,7'
+  - EN: '31.7'
+- `s0191`
+  - RU: 'Доля продаж, %'
+  - EN: 'Sales share, %'
+- `s0192`
+  - RU: 'Digital-бюджет, млн ₽'
+  - EN: 'Digital budget, RUB M'
+- `s0193`
+  - RU: '0,03'
+  - EN: '0.03'
+- `s0194`
+  - RU: '0,05'
+  - EN: '0.05'
+- `s0195`
+  - RU: '0,18'
+  - EN: '0.18'
+- `s0196`
+  - RU: '0,02'
+  - EN: '0.02'
+- `s0197`
+  - RU: '0,13'
+  - EN: '0.13'
+- `s0198`
+  - RU: '0,08'
+  - EN: '0.08'
+- `s0199`
+  - RU: '0,35'
+  - EN: '0.35'
+- `s0200`
+  - RU: '0,38'
+  - EN: '0.38'
+- `s0201`
+  - RU: '0,06'
+  - EN: '0.06'
+- `s0202`
+  - RU: '2,50'
+  - EN: '2.50'
+- `s0203`
+  - RU: '1,23'
+  - EN: '1.23'
+- `s0204`
+  - RU: '0,66'
+  - EN: '0.66'
+- `s0205`
+  - RU: '0,46'
+  - EN: '0.46'
+- `s0206`
+  - RU: '0,31'
+  - EN: '0.31'
+- `s0207`
+  - RU: '0,52'
+  - EN: '0.52'
+- `s0208`
+  - RU: '0,95'
+  - EN: '0.95'
+- `s0209`
+  - RU: '0,23'
+  - EN: '0.23'
+- `s0210`
+  - RU: '0,25'
+  - EN: '0.25'
+- `s0211`
+  - RU: '1,30'
+  - EN: '1.30'
+- `s0212`
+  - RU: '4,50'
+  - EN: '4.50'
+- `s0213`
+  - RU: '5,46'
+  - EN: '5.46'
+- `s0214`
+  - RU: '2,54'
+  - EN: '2.54'
+- `s0215`
+  - RU: '0,50'
+  - EN: '0.50'
+- `s0216`
+  - RU: '4,18'
+  - EN: '4.18'
+- `s0217`
+  - RU: '6,31'
+  - EN: '6.31'
+- `s0218`
+  - RU: '4,49'
+  - EN: '4.49'
+- `s0219`
+  - RU: '0,64'
+  - EN: '0.64'
+- `s0220`
+  - RU: '0,71'
+  - EN: '0.71'
+- `s0221`
+  - RU: '0,72'
+  - EN: '0.72'
+- `s0222`
+  - RU: '3,93'
+  - EN: '3.93'
+- `s0223`
+  - RU: '2,90'
+  - EN: '2.90'
+- `s0224`
+  - RU: '1,57'
+  - EN: '1.57'
+- `s0225`
+  - RU: '1,70'
+  - EN: '1.70'
+- `s0226`
+  - RU: '6,77'
+  - EN: '6.77'
+- `s0227`
+  - RU: '2,07'
+  - EN: '2.07'
+- `s0228`
+  - RU: '0,00'
+  - EN: '0.00'
+- `s0229`
+  - RU: '0,77'
+  - EN: '0.77'
+- `s0230`
+  - RU: '1,59'
+  - EN: '1.59'
+- `s0231`
+  - RU: '2,41'
+  - EN: '2.41'
+- `s0232`
+  - RU: '0,69'
+  - EN: '0.69'
+- `s0233`
+  - RU: '1,35'
+  - EN: '1.35'
+- `s0234`
+  - RU: '0,74'
+  - EN: '0.74'
+- `s0235`
+  - RU: '0,15'
+  - EN: '0.15'
+- `s0236`
+  - RU: '40 млн ₽'
+  - EN: 'RUB 40M'
+- `s0237`
+  - RU: '7,9 млн ₽'
+  - EN: 'RUB 7.9M'
+- `s0238`
+  - RU: '5,7 млн ₽'
+  - EN: 'RUB 5.7M'
+- `s0239`
+  - RU: '* Бюджет указан за весь период 2025–2026 гг. Estimated by DigitalBudget'
+  - EN: '* Budget for the full 2025–2026 period. Estimated by DigitalBudget'
+- `s0240`
+  - RU: '**Залаин сохраняет значительное преимущество по масштабу digital-поддержки:** инвестиции за январь 2025 — июль 2026 года составили 40 млн ₽ — в 8 раз больше бюджета Акримиколя. Бюджет Акримиколя — 5,7 млн ₽ — сопоставим с Экзодерилом, но распределён неравномерно, с отдельными пиками активности.'
+  - EN: '**Zalain keeps a large lead in digital support:** it invested RUB\xa040M in Jan 2025–Jul 2026, 8x Akrimycol’s budget. Akrimycol’s RUB\xa05.7M is comparable to Exoderil’s, but was spent unevenly, in isolated bursts.'
+- `s0241`
+  - RU: 'С января по июль 2026 года **доля Акримиколя в продажах выросла с 5% до 7%**, а доля Залаина — с 3% до 6%, тогда как доля Экзодерила снизилась.'
+  - EN: 'From January to July 2026, **Akrimycol’s sales share grew from 5% to 7%**, and Zalain’s from 3% to 6%, while Exoderil’s share fell.'
+- `s0242`
+  - RU: 'Результаты указывают, что для закрепления динамики важны не только общий объём инвестиций, но и **своевременность и непрерывность поддержки**. Целесообразно синхронизировать усиление медиа с ключевыми периодами спроса и поддерживать достаточный базовый уровень присутствия'
+  - EN: 'The results suggest that holding the momentum depends on **timely, continuous support** as much as on total spend. Media boosts should be timed to key demand periods, with a solid baseline presence in between'
+
+## Slide 7
+
+- `s0243`
+  - RU: 'При ручном мониторинге зафиксировано, что в 2026 году конкуренты активно размещаются, но с другими формами — свечи при молочнице или капли/крем при грибке ногтей'
+  - EN: 'Manual monitoring shows competitors were active in 2026, but with other forms: thrush suppositories or nail fungus drops/cream'
+- `s0244`
+  - RU: 'Средства от микоза кожи в этом году со стороны конкурентов продвигались [[**только у Розилака**]]'
+  - EN: 'Of competitors’ skin mycosis treatments, [[**only Rozilak**]] was advertised this year'
+- `s0245`
+  - RU: 'Залаин — баннер'
+  - EN: 'Zalain — banner'
+- `s0246`
+  - RU: 'Залаин — ролик'
+  - EN: 'Zalain — video'
+- `s0247`
+  - RU: 'Экзодерил — ролик'
+  - EN: 'Exoderil — video'
+- `s0248`
+  - RU: 'Офломил — ролик'
+  - EN: 'Oflomil — spot'
+- `s0249`
+  - RU: 'Фунгодерил'
+  - EN: 'Fungoderil'
+- `s0250`
+  - RU: 'Фунгодерил — ролик'
+  - EN: 'Fungoderil — spot'
+- `s0251`
+  - RU: 'Мизол Эвалар'
+  - EN: 'Mizol Evalar'
+- `s0252`
+  - RU: 'Мизол Эвалар — ролик'
+  - EN: 'Mizol Evalar — video'
+- `s0253`
+  - RU: 'Розилак'
+  - EN: 'Rozilak'
+- `s0254`
+  - RU: 'Розилак — ролик'
+  - EN: 'Rozilak — video'
+
+## Slide 8
+
+- `s0255`
+  - RU: 'Сезонность поискового спроса в категории грибковых инфекций кожи'
+  - EN: 'Search demand seasonality: fungal skin infections'
+- `s0256`
+  - RU: 'тыс. запросов в месяц'
+  - EN: 'K queries per month'
+- `s0257`
+  - RU: '2026 (янв–июн)'
+  - EN: '2026 (Jan–Jun)'
+- `s0258`
+  - RU: 'Среднее в мес.*'
+  - EN: 'Monthly avg.*'
+- `s0259`
+  - RU: '1ПГ 2026\nvs 1ПГ 2025'
+  - EN: 'H1 2026\nvs H1 2025'
+- `s0260`
+  - RU: 'Показатель'
+  - EN: 'Metric'
+- `s0261`
+  - RU: '~46 тыс.'
+  - EN: '~46K'
+- `s0262`
+  - RU: '~117 тыс.'
+  - EN: '~117K'
+- `s0263`
+  - RU: '~70 тыс.'
+  - EN: '~70K'
+- `s0264`
+  - RU: '~81 тыс.'
+  - EN: '~81K'
+- `s0265`
+  - RU: 'Грибок стопы / между пальцами'
+  - EN: 'Athlete’s foot / between toes'
+- `s0266`
+  - RU: 'Общий микоз / грибок кожи'
+  - EN: 'General mycosis / skin fungus'
+- `s0267`
+  - RU: 'Разноцветный отрубевидный лишай'
+  - EN: 'Tinea / pityriasis versicolor'
+- `s0268`
+  - RU: 'Стригущий лишай / микроспория'
+  - EN: 'Ringworm / microsporia'
+- `s0269`
+  - RU: 'ниже среднего строки'
+  - EN: 'below row average'
+- `s0270`
+  - RU: 'выше среднего строки'
+  - EN: 'above row average'
+- `s0271`
+  - RU: '* Среднее число каждой группы — среднее число запросов в месяц за январь 2025 — июнь 2026'
+  - EN: '* Each group’s average is the mean number of queries per month, Jan 2025–Jun 2026'
+- `s0272`
+  - RU: 'Грибок стопы — летний сценарий'
+  - EN: 'Athlete’s foot — a summer pattern'
+- `s0273`
+  - RU: 'Общий микоз — более ровный спрос'
+  - EN: 'General mycosis — steadier demand'
+- `s0274`
+  - RU: 'Разноцветный лишай — самый крупный сезонный всплеск'
+  - EN: 'Tinea versicolor — the biggest seasonal spike'
+- `s0275`
+  - RU: 'Стригущий лишай — осеннее окно спроса'
+  - EN: 'Ringworm — a fall demand window'
+- `s0276`
+  - RU: 'Спрос оживает весной и достигает максимума в июне–июле. В начале 2026 года был спад, но в мае–июне интерес снова приближается к летнему пику.'
+  - EN: 'Demand picks up in spring and peaks in Jun–Jul. It dipped in early 2026, but by May–Jun interest was nearing its summer peak again.'
+- `s0277`
+  - RU: 'Категория менее сезонная: заметные подъёмы приходятся на март–апрель и октябрь–ноябрь. В 1-м полугодии 2026 года спрос снизился на 4%.'
+  - EN: 'Less seasonal: rises in Mar–Apr and in Oct–Nov. In H1\xa02026, demand fell 4%.'
+- `s0278`
+  - RU: 'Рост начинается весной, максимумы приходятся на июнь–июль. Зимой интерес снижается почти вдвое относительно летнего пика.'
+  - EN: 'Rises in spring, peaks in Jun–Jul. In winter, interest drops to almost half the summer peak.'
+- `s0279`
+  - RU: 'После спокойного лета запросы быстро растут с августа и достигают максимума в октябре–ноябре. В 1-м полугодии 2026 года спрос вырос на 1% к 2025 году.'
+  - EN: 'After a quiet summer, queries climb fast from August and peak in Oct–Nov. Demand grew 1% YoY in H1\xa02026.'
+- `s0280`
+  - RU: 'Источник: Yandex Wordstat, данные поисковых запросов. Категории: грибок стопы / общий микоз, разноцветный лишай, «отрубевидный лишай», «стригущий лишай» и микроспория'
+  - EN: 'Source: Yandex Wordstat, search query data. Categories: athlete’s foot / general mycosis, tinea versicolor, “pityriasis versicolor”, “ringworm” and microsporia'
+
+## Slide 9
+
+- `s0281`
+  - RU: 'Акримиколь растёт быстрее категории в поиске и на Ozon, демонстрируя усиление интереса к бренду'
+  - EN: 'Akrimycol outpaces the category in search and on Ozon: brand interest is rising'
+- `s0282`
+  - RU: 'WORDSTAT: ДИНАМИКА ЗАПРОСОВ'
+  - EN: 'WORDSTAT: SEARCH TRENDS'
+- `s0283`
+  - RU: 'Wordstat: динамика запросов'
+  - EN: 'Wordstat: search trends'
+- `s0284`
+  - RU: 'линии — индекс запросов'
+  - EN: 'lines — query index'
+- `s0285`
+  - RU: 'категория'
+  - EN: 'Category'
+- `s0286`
+  - RU: 'янв–фев'
+  - EN: 'Jan–Feb'
+- `s0287`
+  - RU: 'июнь–август'
+  - EN: 'Jun–Aug'
+- `s0288`
+  - RU: 'Wordstat · категория, индекс'
+  - EN: 'Wordstat · category, index'
+- `s0289`
+  - RU: 'Wordstat · Акримиколь, индекс'
+  - EN: 'Wordstat · Akrimycol, index'
+- `s0290`
+  - RU: 'OZON: ДИНАМИКА ЗАПРОСОВ'
+  - EN: 'OZON: SEARCH TRENDS'
+- `s0291`
+  - RU: 'Ozon: динамика запросов'
+  - EN: 'Ozon: search trends'
+- `s0292`
+  - RU: 'август'
+  - EN: 'Aug'
+- `s0293`
+  - RU: 'Данные Ozon доступны с 23.03.2026'
+  - EN: 'Ozon data from Mar 23, 2026'
+- `s0294`
+  - RU: 'Ozon · категория, индекс'
+  - EN: 'Ozon · category, index'
+- `s0295`
+  - RU: 'Ozon · Акримиколь, индекс'
+  - EN: 'Ozon · Akrimycol, index'
+- `s0296`
+  - RU: 'WORDSTAT · АКРИМИКОЛЬ, ТЫС. ЗАПРОСОВ В НЕДЕЛЮ'
+  - EN: 'WORDSTAT · AKRIMYCOL, K QUERIES PER WEEK'
+- `s0297`
+  - RU: 'Wordstat · Акримиколь, тыс. запросов в неделю'
+  - EN: 'Wordstat · Akrimycol, K queries per week'
+- `s0298`
+  - RU: 'Средний недельный спрос июнь–август vs янв–фев'
+  - EN: 'Average weekly demand, Jun–Aug vs Jan–Feb'
+- `s0299`
+  - RU: 'В Wordstat брендовый спрос заметно опережает категорию. Среднее недельное число запросов по Акримиколю в июне–августе выросло на 158% относительно января–февраля, тогда как категорийный спрос увеличился на 101%. Разница динамики составляет 57 п.п., что говорит о более высокой динамике брендового спроса относительно категории'
+  - EN: 'On Wordstat, brand demand is clearly ahead of the category. Akrimycol’s average weekly queries in Jun–Aug rose 158% vs Jan–Feb, while category demand grew 101%. The 57 pp gap confirms brand demand is outgrowing the category'
+- `s0300`
+  - RU: 'На Ozon у Акримиколя наблюдается положительная динамика при сравнении уровня спроса августа vs март–апрель (+104%), тогда как категория падает. В 2027 году рекомендуем поддерживать e-com активность и вести часть транзакционного трафика на Ozon'
+  - EN: 'On Ozon, Akrimycol is growing: August demand is up 104% vs Mar–Apr, while the category is declining. For 2027, we recommend sustaining e-com activity and driving part of the transactional traffic to Ozon'
+- `s0301`
+  - RU: 'Акримиколь · Wordstat'
+  - EN: 'Akrimycol · Wordstat'
+- `s0302`
+  - RU: 'Категория · Wordstat'
+  - EN: 'Category · Wordstat'
+- `s0303`
+  - RU: 'Акримиколь · Ozon'
+  - EN: 'Akrimycol · Ozon'
+- `s0304`
+  - RU: 'Категория · Ozon'
+  - EN: 'Category · Ozon'
+- `s0305`
+  - RU: 'Средний недельный спрос август vs март–апрель'
+  - EN: 'Average weekly demand, Aug vs Mar–Apr'
+- `s0306`
+  - RU: 'Источник: данные Ozon* и Яндекс Вордстат; данные Ozon доступны с 23.03.2026. Индекс запросов = значение недели / значение предыдущей недели × 100\nДля сравнения в выводах: Wordstat — средняя неделя июнь–август vs январь–февраль; Ozon — средний недельный спрос август vs март–апрель'
+  - EN: 'Source: Ozon* and Yandex Wordstat data; Ozon data from Mar 23, 2026. Query index = week value / previous week value × 100\nComparisons in takeaways: Wordstat — average week, Jun–Aug vs Jan–Feb; Ozon — average weekly demand, Aug vs Mar–Apr'
+
+## Slide 10
+
+- `s0307`
+  - RU: 'Анализ сегментов Акримиколь'
+  - EN: 'Akrimycol segment analysis'
+- `s0308`
+  - RU: 'Сегментацию перестраивать не нужно: свежие данные подтверждают её основу, а новых полноценных сегментов не обнаружено'
+  - EN: 'The segmentation holds: fresh data confirm its core and show no new full-scale segments'
+- `s0309`
+  - RU: 'Новички в категории грибка'
+  - EN: 'Newcomers to skin fungus'
+- `s0310`
+  - RU: '**Полностью подтверждается.**'
+  - EN: '**Fully confirmed.**'
+- `s0311`
+  - RU: 'Хроники с грибком стопы'
+  - EN: 'Athlete’s foot chronics'
+- `s0312`
+  - RU: '**Очень сильное подтверждение.**'
+  - EN: '**Very strongly confirmed.**'
+- `s0313`
+  - RU: 'Разноцветный / отрубевидный / солнечный лишай'
+  - EN: 'Tinea versicolor / pityriasis / sun\xa0fungus'
+- `s0314`
+  - RU: '**Сегмент небольшой, но чётко подтверждается в отзывах.**'
+  - EN: '**A small segment, but clearly confirmed in reviews.**'
+- `s0315`
+  - RU: 'Стригущий / кошачий лишай'
+  - EN: 'Ringworm / cat ringworm'
+- `s0316`
+  - RU: 'Сегмент **не очень сильно заметен в отзывах**, он скорее имеет узкий\nврачебно-ориентированный сценарий.'
+  - EN: 'The segment is **not very visible in reviews**; it is more of a narrow,\ndoctor-led scenario.'
+- `s0317`
+  - RU: 'Источник: AI анализ отзывов'
+  - EN: 'Source: AI review analysis'
+
+## Slide 11
+
+- `s0318`
+  - RU: 'Релевантность коммуникации для основных сегментов мы усиливаем через ключевые оккейжены'
+  - EN: 'We use key occasions to make messaging more relevant to the core segments'
+- `s0319`
+  - RU: 'Из-за специфичности, нишевости и более выраженной врачебной ориентированности эту территорию целесообразно отрабатывать через поиск и ORM: перехватывать сформированный спрос, помогать разобраться с симптомами и поддерживать выбор бренда.'
+  - EN: 'Specific, niche and more doctor-led, this territory is best covered by search and ORM: capture existing demand, help people make sense of symptoms and support brand choice.'
+- `s0320`
+  - RU: 'Новички'
+  - EN: 'Newcomers'
+- `s0321`
+  - RU: 'Хроники'
+  - EN: 'Chronics'
+- `s0322`
+  - RU: 'Не просто сухость'
+  - EN: 'More than dry skin'
+- `s0323`
+  - RU: 'Шелушение, зуд и трещинки сначала воспринимают как сухость или раздражение. Коммуникация должна помочь распознать проблему и подтолкнуть к первому выбору Акримиколя.'
+  - EN: 'Peeling, itching and cracks are first mistaken for dryness or irritation. Communication should help people spot the problem and pick Akrimycol first.'
+- `s0324`
+  - RU: 'Больше для новичков'
+  - EN: 'Mostly for Newcomers'
+- `s0325`
+  - RU: 'После отпуска / отеля'
+  - EN: 'After vacation / hotel'
+- `s0326`
+  - RU: 'Симптомы появляются после моря, поездки или общей душевой в отеле. Это понятный сезонный сценарий с высоким потенциалом для отдельного креатива.'
+  - EN: 'Symptoms appear after a beach vacation, a trip or a shared hotel shower. A clear seasonal scenario with high potential for a dedicated creative.'
+- `s0327`
+  - RU: 'Весь день в обуви'
+  - EN: 'All day in shoes'
+- `s0328`
+  - RU: 'Закрытая обувь, потливость и дискомфорт сначала кажутся бытовой проблемой, а затем приводят к поиску лечения. Хороший контекст для симптомной коммуникации.'
+  - EN: 'Closed shoes, sweating and discomfort first seem like an everyday nuisance, then lead to a search for treatment. A good context for symptom-led messaging.'
+- `s0329`
+  - RU: 'Для обоих сегментов'
+  - EN: 'For both segments'
+- `s0330`
+  - RU: 'Бассейны / сауны / залы'
+  - EN: 'Pools / saunas / gyms'
+- `s0331`
+  - RU: 'Понятный триггер первого или повторного заражения. Подходит для точного таргетинга и отдельного креатива как место, где проблема могла начаться снова.'
+  - EN: 'A clear trigger for first infection or reinfection. Good for precise targeting and a dedicated creative showing where the problem may have started again.'
+- `s0332`
+  - RU: 'Когда грибок возвращается'
+  - EN: 'Fungus is back'
+- `s0333`
+  - RU: 'Самый сильный сценарий хроников: после первых улучшений лечение прерывают, и проблема возвращается. Это сильная территория для коммуникации про рецидив и контроль.'
+  - EN: 'The strongest scenario for chronic sufferers: people stop treatment at the first improvement and the problem returns. Fertile ground for messaging about relapse and control.'
+- `s0334`
+  - RU: 'Больше для хроников'
+  - EN: 'Mostly for Chronics'
+- `s0335`
+  - RU: 'Привычное средство больше не справилось'
+  - EN: 'Usual treatment didn’t work'
+- `s0336`
+  - RU: 'Люди с опытом лечения ищут новое решение после неудачного прошлого опыта. Сценарий хорошо подходит для переключения с конкурентов.'
+  - EN: 'People who have treated it before look for a new option after a past failure. Works well for winning switchers from competitors.'
+- `s0337`
+  - RU: 'Лишай'
+  - EN: 'Tinea'
+- `s0338`
+  - RU: '**Каналы:** Поиск + ORM'
+  - EN: '**Channels:** Search + ORM'
+
+## Slide 12
+
+- `s0339`
+  - RU: 'Анализ отзывов показывает краткость CJM, а U&A подтверждает важность ключевых диджитал-каналов'
+  - EN: 'Reviews point to a short CJM, and U&A confirms the key digital channels matter'
+- `s0340`
+  - RU: 'искали информацию о лечении'
+  - EN: 'searched for treatment info'
+- `s0341`
+  - RU: 'уже при первых симптомах'
+  - EN: 'as soon as symptoms appeared'
+- `s0342`
+  - RU: 'ПУТЬ СБОРА ИНФОРМАЦИИ ПО ОТЗЫВАМ'
+  - EN: 'INFO-SEEKING PATH (FROM REVIEWS)'
+- `s0343`
+  - RU: 'Симптом'
+  - EN: 'Symptom'
+- `s0344`
+  - RU: 'поиск'
+  - EN: 'search'
+- `s0345`
+  - RU: 'статьи и отзывы'
+  - EN: 'articles, reviews'
+- `s0346`
+  - RU: 'аптека или врач'
+  - EN: 'pharmacy or doctor'
+- `s0347`
+  - RU: 'выбор препарата'
+  - EN: 'product choice'
+- `s0348`
+  - RU: 'Знакомый симптом'
+  - EN: 'Familiar symptom'
+- `s0349`
+  - RU: 'прошлый опыт'
+  - EN: 'past experience'
+- `s0350`
+  - RU: 'привычное средство'
+  - EN: 'usual product'
+- `s0351`
+  - RU: 'сравнение альтернатив'
+  - EN: 'comparing alternatives'
+- `s0352`
+  - RU: 'врач при рецидиве'
+  - EN: 'doctor if it returns'
+- `s0353`
+  - RU: 'Внутри онлайна лидируют:'
+  - EN: 'Top online sources:'
+- `s0354`
+  - RU: 'поисковики'
+  - EN: 'search'
+- `s0355`
+  - RU: 'тематические статьи'
+  - EN: 'health articles'
+- `s0356`
+  - RU: 'Q&A врача'
+  - EN: 'doctor Q&A'
+- `s0357`
+  - RU: 'медобзоры'
+  - EN: 'med guides'
+- `s0358`
+  - RU: 'отзовики, отзывы и сравнения'
+  - EN: 'review sites & comparisons'
+- `s0359`
+  - RU: 'A. Поиск в интернете'
+  - EN: 'A. Online search'
+- `s0360`
+  - RU: 'B. Статьи и медобзоры'
+  - EN: 'B. Articles & med\xa0guides'
+- `s0361`
+  - RU: 'C. Отзывы и сравнения'
+  - EN: 'C. Reviews & comparisons'
+- `s0362`
+  - RU: 'D. Врач / Q&A врача'
+  - EN: 'D. Doctor / doctor Q&A'
+- `s0363`
+  - RU: 'E. Фармацевт / интернет-аптеки'
+  - EN: 'E. Pharmacist / online pharmacies'
+- `s0364`
+  - RU: 'Новички: Стартуют с симптомов: зуд, шелушение, трещинки.'
+  - EN: 'Newcomers: Start from symptoms (itching, peeling, cracks).'
+- `s0365`
+  - RU: 'Хроники: Ищут препарат, аналоги и причины возврата.'
+  - EN: 'Chronics: Look up the drug, alternatives and why it recurs.'
+- `s0366`
+  - RU: 'Новички: Нужны, чтобы быстро понять, что делать.'
+  - EN: 'Newcomers: Need a quick answer on what to do.'
+- `s0367`
+  - RU: 'Хроники: Помогают сверить схему и рассмотреть альтернативы.'
+  - EN: 'Chronics: Help them check the regimen and weigh alternatives.'
+- `s0368`
+  - RU: 'Новички: Проверяют, помогает ли средство в похожей ситуации.'
+  - EN: 'Newcomers: Check whether the product helps in a similar case.'
+- `s0369`
+  - RU: 'Хроники: Сравнивают, что сработало после другого средства.'
+  - EN: 'Chronics: Compare what worked after another product.'
+- `s0370`
+  - RU: 'Новички: Идут, когда сомневаются в диагнозе.'
+  - EN: 'Newcomers: Turn to them when unsure of the diagnosis.'
+- `s0371`
+  - RU: 'Хроники: Возвращаются, когда привычная схема не сработала.'
+  - EN: 'Chronics: Come back when the usual regimen fails.'
+- `s0372`
+  - RU: 'Новички: Нужен понятный бренд и быстрая рекомендация.'
+  - EN: 'Newcomers: Need a clear brand and quick advice.'
+- `s0373`
+  - RU: 'Хроники: Чаще приходят уже с пониманием, что ищут.'
+  - EN: 'Chronics: Often arrive knowing what they want.'
+- `s0374`
+  - RU: '51% / поисковики 48%'
+  - EN: '51% / search 48%'
+- `s0375`
+  - RU: '**Новички:** Стартуют с симптомов: зуд, шелушение, трещинки.'
+  - EN: '**Newcomers:** Start from symptoms (itching, peeling, cracks).'
+- `s0376`
+  - RU: '**Хроники:** Ищут препарат, аналоги и причины возврата.'
+  - EN: '**Chronics:** Look up the drug, alternatives and why it recurs.'
+- `s0377`
+  - RU: 'Важность по отзывам:'
+  - EN: 'Importance in reviews:'
+- `s0378`
+  - RU: 'Новички — очень важно;\nХроники — важно'
+  - EN: 'Newcomers — very high;\nChronics — high'
+- `s0379`
+  - RU: '**Новички:** Нужны, чтобы быстро понять, что делать.'
+  - EN: '**Newcomers:** Need a quick answer on what to do.'
+- `s0380`
+  - RU: '**Хроники:** Помогают сверить схему и рассмотреть альтернативы.'
+  - EN: '**Chronics:** Help them check the regimen and weigh alternatives.'
+- `s0381`
+  - RU: 'Важно для обоих'
+  - EN: 'Important for both'
+- `s0382`
+  - RU: '**Новички:** Проверяют, помогает ли средство в похожей ситуации.'
+  - EN: '**Newcomers:** Check whether the product helps in a similar case.'
+- `s0383`
+  - RU: '**Хроники:** Сравнивают, что сработало после другого средства.'
+  - EN: '**Chronics:** Compare what worked after another product.'
+- `s0384`
+  - RU: 'Очень важно для обоих'
+  - EN: 'Very important for both'
+- `s0385`
+  - RU: '**Новички:** Идут, когда сомневаются в диагнозе.'
+  - EN: '**Newcomers:** Turn to them when unsure of the diagnosis.'
+- `s0386`
+  - RU: '**Хроники:** Возвращаются, когда привычная схема не сработала.'
+  - EN: '**Chronics:** Come back when the usual regimen fails.'
+- `s0387`
+  - RU: 'Точечно, но значимо'
+  - EN: 'Situational but significant'
+- `s0388`
+  - RU: '**Новички:** Нужен понятный бренд и быстрая рекомендация.'
+  - EN: '**Newcomers:** Need a clear brand and quick advice.'
+- `s0389`
+  - RU: '**Хроники:** Чаще приходят уже с пониманием, что ищут.'
+  - EN: '**Chronics:** Often arrive knowing what they want.'
+- `s0390`
+  - RU: 'Новички — важно;\nХроники — умеренно'
+  - EN: 'Newcomers — high;\nChronics — moderate'
+- `s0391`
+  - RU: 'ГЛАВНЫЙ ВЫВОД'
+  - EN: 'KEY TAKEAWAY'
+- `s0392`
+  - RU: 'Короткий CJM усиливает роль поиска и отзывов, а повторяемость проблемы делает важной запоминаемость бренда, которую можно строить через видео.'
+  - EN: 'A short CJM makes search and reviews more important, and a recurring problem makes brand recall key — something video can build.'
+- `s0393`
+  - RU: 'Источник: Акрихин U&A + AI анализ отзывов'
+  - EN: 'Source: Akrikhin U&A + AI review analysis'
+
+## Slide 13
+
+- `s0394`
+  - RU: 'Как распределить роли каналов при коротком CJM'
+  - EN: 'Assigning channel roles in a short CJM'
+- `s0395`
+  - RU: 'Короткий CJM не делает Video конверсионным каналом: его роль — заранее сформировать выбор бренда, а момент потребности забрать через search, баннеры и контент.'
+  - EN: 'A short CJM doesn’t make video a conversion channel: its job is to shape brand choice in advance, while search, banners and content capture the moment of need.'
+- `s0396`
+  - RU: 'Короткий путь не удлиняем — распределяем задачи каналов'
+  - EN: 'Keep the path short — split tasks across channels'
+- `s0397`
+  - RU: 'Видео'
+  - EN: 'Video'
+- `s0398`
+  - RU: 'создаёт знание'
+  - EN: 'builds awareness'
+- `s0399`
+  - RU: 'ловит спрос'
+  - EN: 'catches demand'
+- `s0400`
+  - RU: 'Баннеры'
+  - EN: 'Banners'
+- `s0401`
+  - RU: 'добавляют релевантность'
+  - EN: 'add relevance'
+- `s0402`
+  - RU: 'ORM / контент'
+  - EN: 'ORM / content'
+- `s0403`
+  - RU: 'снимают сомнения'
+  - EN: 'ease doubts'
+- `s0404`
+  - RU: 'Видео: создаёт знание до симптома'
+  - EN: 'Video: awareness before symptoms'
+- `s0405`
+  - RU: 'Исследование категории показывает: проблема часто повторяется'
+  - EN: 'Category research shows the problem often recurs'
+- `s0406`
+  - RU: 'болеют больше года'
+  - EN: 'have had it for over a year'
+- `s0407`
+  - RU: 'сталкиваются минимум раз в год'
+  - EN: 'face it at least once a year'
+- `s0408`
+  - RU: 'впервые столкнулись с проблемой'
+  - EN: 'faced it for the first time'
+- `s0409`
+  - RU: 'Видео помогает **заранее запомнить Акримиколь**'
+  - EN: 'Video helps **make Akrimycol top of mind early**'
+- `s0410`
+  - RU: 'Работает на широкую аудиторию **М/Ж 25–55** без дробления на узкие сегменты,\n**но с категорийным таргетингом**'
+  - EN: 'Reaches a broad **M+F 25–55** audience, with no split into narrow segments,\n**but with category targeting**'
+- `s0411`
+  - RU: '**Сообщение:** зуд, шелушение, трещинки и раздражение кожи могут быть признаками грибка; Акримиколь помогает бороться с грибком кожи и неприятными симптомами'
+  - EN: '**Message:** itching, peeling, cracks and skin irritation can be signs of fungus; Akrimycol helps fight skin fungus and its unpleasant symptoms'
+- `s0412`
+  - RU: 'Роль каналов'
+  - EN: 'Channel roles'
+- `s0413`
+  - RU: 'Персонализируют вход под occasion-сигналы: после бассейна, работа в закрытой обуви, симптомы, рецидив.'
+  - EN: 'Tailor the entry point to occasion signals: after the pool, working in closed shoes, symptoms, relapse.'
+- `s0414`
+  - RU: 'Баннеры / programmatic'
+  - EN: 'Banners / programmatic'
+- `s0415`
+  - RU: 'Помогают распознать проблему, подтвердить выбор и снять сомнения перед покупкой.'
+  - EN: 'Help people recognize the problem, confirm their choice and ease doubts before purchase.'
+- `s0416`
+  - RU: 'Присутствие бренда в нейропоиске и AI-ответах на этапе изучения и выбора.'
+  - EN: 'Brand presence in AI search and AI answers when people research options and choose.'
+- `s0417`
+  - RU: 'Перехватывает уже сформированный спрос: симптомы, лечение, рецидив, поиск нового решения.'
+  - EN: 'Captures existing demand: symptom, treatment and relapse queries, plus searches for a new option.'
+- `s0418`
+  - RU: 'Видео даёт бренду шанс быть вспомненным, а digital-инструменты забирают короткий момент выбора.'
+  - EN: 'Video gives the brand a chance to be remembered, and digital tools capture the brief moment of choice.'
+- `s0419`
+  - RU: 'Источник: Акрихин U&A'
+  - EN: 'Source: Akrikhin U&A'
+
+## Slide 14
+
+- `s0420`
+  - RU: 'География 2027: ядро продаж — для концентрации'
+  - EN: 'Geography 2027: focus on the sales core'
+- `s0421`
+  - RU: 'Недопроникнутые регионы — для роста, long tail — национальное покрытие в рамках Paid\xa0Search'
+  - EN: 'Under-penetrated regions drive growth; Paid Search covers the long tail nationally'
+- `s0422`
+  - RU: 'ЯДРО ДЛЯ CONSUMER DIGITAL'
+  - EN: 'CONSUMER DIGITAL CORE'
+- `s0423`
+  - RU: '8 кластеров'
+  - EN: '8 clusters'
+- `s0424`
+  - RU: '51% продаж H1 2026'
+  - EN: '51% of H1 2026 sales'
+- `s0425`
+  - RU: 'ЯДРО + ЗОНА РОСТА'
+  - EN: 'CORE + GROWTH ZONE'
+- `s0426`
+  - RU: 'продаж Акримиколя H1 2026'
+  - EN: 'of Akrimycol H1 2026 sales'
+- `s0427`
+  - RU: 'Защита текущей базы: 51% продаж H1 и 52% продаж июля.'
+  - EN: 'Defend the base: 51% of H1 sales, 52% of July sales.'
+- `s0428`
+  - RU: 'Категория >90 тыс. уп. H1; доля бренда ≤3,0% при среднем по РФ 3,1%.'
+  - EN: 'Category >90K units in H1; brand share ≤3.0% vs the national average of 3.1%.'
+- `s0429`
+  - RU: 'Доля — от продаж Акримиколя в упаковках, H1 2026.'
+  - EN: '% of Akrimycol unit sales, H1 2026.'
+- `s0430`
+  - RU: 'Эти 6 регионов добавляют ещё ≈9% продаж бренда H1 2026.'
+  - EN: 'These 6 regions add another ≈9% of H1 2026 brand sales.'
+- `s0431`
+  - RU: 'Логика выбора географии'
+  - EN: 'How we pick the regions'
+- `s0432`
+  - RU: 'МЕДИА-СПЛИТ ПО ГЕОГРАФИИ'
+  - EN: 'MEDIA SPLIT BY GEOGRAPHY'
+- `s0433`
+  - RU: 'ядро'
+  - EN: 'core'
+- `s0434`
+  - RU: 'рост'
+  - EN: 'growth'
+- `s0435`
+  - RU: '**Масштаб текущих продаж бренда:** защищаем территории, которые уже дают основной объём'
+  - EN: '**Scale of current sales:** defend the regions that already deliver most of the volume'
+- `s0436`
+  - RU: '**Потенциал роста:** крупная категория + доля Акримиколя ниже / около среднего по РФ (3,1%).'
+  - EN: '**Growth potential:** big category + Akrimycol share below / near Russia’s 3.1% average.'
+- `s0437`
+  - RU: '**Подтверждаем динамикой** H1 2026 vs H1 2025 и не масштабируем регионы только из-за разового всплеска.'
+  - EN: '**Confirm with the trend** (H1 2026 vs H1 2025) and never scale a region on a one-off spike alone.'
+- `s0438`
+  - RU: 'Приоритет 1 — ядро'
+  - EN: 'Priority 1 — core'
+- `s0439`
+  - RU: '24,3%'
+  - EN: '24.3%'
+- `s0440`
+  - RU: 'Москва + МО'
+  - EN: 'Moscow + region'
+- `s0441`
+  - RU: '8,7%'
+  - EN: '8.7%'
+- `s0442`
+  - RU: 'СПб + ЛО'
+  - EN: 'SPb + region'
+- `s0443`
+  - RU: '4,5%'
+  - EN: '4.5%'
+- `s0444`
+  - RU: 'Краснодар'
+  - EN: 'Krasnodar'
+- `s0445`
+  - RU: '3,5%'
+  - EN: '3.5%'
+- `s0446`
+  - RU: 'Свердловская'
+  - EN: 'Sverdlovsk'
+- `s0447`
+  - RU: '2,7%'
+  - EN: '2.7%'
+- `s0448`
+  - RU: 'Ростовская'
+  - EN: 'Rostov'
+- `s0449`
+  - RU: '2,6%'
+  - EN: '2.6%'
+- `s0450`
+  - RU: 'Самарская'
+  - EN: 'Samara'
+- `s0451`
+  - RU: '2,3%'
+  - EN: '2.3%'
+- `s0452`
+  - RU: 'Татарстан'
+  - EN: 'Tatarstan'
+- `s0453`
+  - RU: 'Новосибирская'
+  - EN: 'Novosibirsk'
+- `s0454`
+  - RU: 'Приоритет 2 — география роста'
+  - EN: 'Priority 2 — growth regions'
+- `s0455`
+  - RU: '3,0%'
+  - EN: '3.0%'
+- `s0456`
+  - RU: 'Башкортостан'
+  - EN: 'Bashkortostan'
+- `s0457`
+  - RU: 'Челябинская'
+  - EN: 'Chelyabinsk'
+- `s0458`
+  - RU: '2,4%'
+  - EN: '2.4%'
+- `s0459`
+  - RU: 'Нижегородская'
+  - EN: 'Nizhny Novgorod'
+- `s0460`
+  - RU: '2,9%'
+  - EN: '2.9%'
+- `s0461`
+  - RU: 'Красноярский'
+  - EN: 'Krasnoyarsk'
+- `s0462`
+  - RU: 'Ставропольский'
+  - EN: 'Stavropol'
+- `s0463`
+  - RU: '1,7%'
+  - EN: '1.7%'
+- `s0464`
+  - RU: 'Приморский'
+  - EN: 'Primorsky'
+- `s0465`
+  - RU: 'РЕКОМЕНДАЦИЯ'
+  - EN: 'RECOMMENDATION'
+- `s0466`
+  - RU: 'Long tail закрываем через AON Search для национального присутствия, концентрация в ядре и географии роста в рамках медиа-активностей. Приоритет № 1 — концентрация OLV в географии с ядром продаж.'
+  - EN: 'AON Search covers the long tail for national presence; media activity focuses on the core and growth regions. Priority #1: concentrate OLV in the sales core.'
+
+## Slide 15
+
+- `s0467`
+  - RU: 'Сезонность 2027: основной флайт — апрель–июль'
+  - EN: 'Seasonality 2027: main flight — Apr–Jul'
+- `s0468`
+  - RU: 'Охватное давление усиливаем перед и в пик фактических продаж, AON-инструменты работают весь год'
+  - EN: 'We step up reach pressure before and during the actual sales peak; AON tools run all year'
+- `s0469`
+  - RU: 'КАТЕГОРИЯ · СЕЗОННОСТЬ'
+  - EN: 'CATEGORY · SEASONALITY'
+- `s0470`
+  - RU: 'Июль = индекс 113'
+  - EN: 'July = index 113'
+- `s0471`
+  - RU: 'максимум среднего профиля 2024–2025'
+  - EN: 'peak of the 2024–2025 average profile'
+- `s0472`
+  - RU: 'АКРИМИКОЛЬ · ФАКТ 2026'
+  - EN: 'AKRIMYCOL · 2026 ACTUAL'
+- `s0473`
+  - RU: '23,9 → 39,8 тыс. уп.'
+  - EN: '23.9K → 39.8K units'
+- `s0474`
+  - RU: 'январь → июль; июль — максимум YTD'
+  - EN: 'Jan → Jul; July is the YTD high'
+- `s0475`
+  - RU: 'ПОИСКОВЫЙ СПРОС'
+  - EN: 'SEARCH DEMAND'
+- `s0476`
+  - RU: 'Июнь–июль — главный летний пик'
+  - EN: 'Jun–Jul — main summer peak'
+- `s0477`
+  - RU: 'осенью хвост: микроспория / стригущий лишай'
+  - EN: 'smaller fall wave: microsporia / ringworm'
+- `s0478`
+  - RU: 'Принцип медиадавления по году'
+  - EN: 'Media pressure across the year'
+- `s0479`
+  - RU: 'Низкая'
+  - EN: 'Low'
+- `s0480`
+  - RU: 'Янв'
+  - EN: 'Jan'
+- `s0481`
+  - RU: 'Фев'
+  - EN: 'Feb'
+- `s0482`
+  - RU: 'Мар'
+  - EN: 'Mar'
+- `s0483`
+  - RU: 'Апр'
+  - EN: 'Apr'
+- `s0484`
+  - RU: 'Май'
+  - EN: 'May'
+- `s0485`
+  - RU: 'Июн'
+  - EN: 'Jun'
+- `s0486`
+  - RU: 'Июл'
+  - EN: 'Jul'
+- `s0487`
+  - RU: 'Авг'
+  - EN: 'Aug'
+- `s0488`
+  - RU: 'Сен'
+  - EN: 'Sep'
+- `s0489`
+  - RU: 'Окт'
+  - EN: 'Oct'
+- `s0490`
+  - RU: 'Ноя'
+  - EN: 'Nov'
+- `s0491`
+  - RU: 'Дек'
+  - EN: 'Dec'
+- `s0492`
+  - RU: 'Средняя'
+  - EN: 'Medium'
+- `s0493`
+  - RU: 'Высокая'
+  - EN: 'High'
+- `s0494`
+  - RU: 'Акримиколь 2026, тыс. уп.'
+  - EN: 'Akrimycol 2026, K units'
+- `s0495`
+  - RU: '23,9'
+  - EN: '23.9'
+- `s0496`
+  - RU: '28,7'
+  - EN: '28.7'
+- `s0497`
+  - RU: '33,8'
+  - EN: '33.8'
+- `s0498`
+  - RU: '37,6'
+  - EN: '37.6'
+- `s0499`
+  - RU: '30,6'
+  - EN: '30.6'
+- `s0500`
+  - RU: '39,8'
+  - EN: '39.8'
+- `s0501`
+  - RU: 'Индекс продаж категории*'
+  - EN: 'Category sales index*'
+- `s0502`
+  - RU: 'Цвет столбца = рекомендуемая интенсивность медиа'
+  - EN: 'Bar color = recommended media intensity'
+- `s0503`
+  - RU: 'высокая'
+  - EN: 'high'
+- `s0504`
+  - RU: 'средняя'
+  - EN: 'medium'
+- `s0505`
+  - RU: 'низкая'
+  - EN: 'low'
+- `s0506`
+  - RU: 'Распределение инструментов'
+  - EN: 'Channel allocation'
+- `s0507`
+  - RU: 'Стартуем до сезонного пика, держим максимум reach-давления в апреле–июле, сохраняем AON-контур весь год'
+  - EN: 'Start before the seasonal peak, hold peak reach pressure in Apr–Jul, keep the AON layer all year'
+- `s0508`
+  - RU: 'Внешние публикации / контент'
+  - EN: 'External publications / content'
+- `s0509`
+  - RU: '*Индекс месяца = средние продажи этого месяца за 2024–2025 / средние месячные продажи за 2024–2025 × 100'
+  - EN: '*Month index = average sales of that month in 2024–2025 / average monthly sales in 2024–2025 × 100'
+
+## Slide 16
+
+- `s0510`
+  - RU: 'Акримиколь 2027: архитектура кампании vs 2026'
+  - EN: 'Akrimycol 2027: campaign architecture vs 2026'
+- `s0511`
+  - RU: 'AON круглый год защищает и конвертирует сформированный спрос, сезонный Sprint расширяет его за счёт новых потребителей и релевантных жизненных ситуаций'
+  - EN: 'Year-round AON protects and converts existing demand; the seasonal Sprint grows it with new consumers and relevant life situations'
+- `s0512`
+  - RU: '(вкл. доп. кост)*'
+  - EN: '(incl. extra costs)*'
+- `s0513`
+  - RU: '3,3 млн ₽'
+  - EN: 'RUB 3.3M'
+- `s0514`
+  - RU: 'Основное размещение в рамках 2026 года'
+  - EN: 'Main 2026 placements'
+- `s0515`
+  - RU: 'СЕГМЕНТЫ'
+  - EN: 'SEGMENTS'
+- `s0516`
+  - RU: 'Брендовые, транзакционные и запросы по симптомам'
+  - EN: 'Brand, transactional and symptom\xa0queries'
+- `s0517`
+  - RU: '5,6 млн ₽'
+  - EN: 'RUB 5.6M'
+- `s0518`
+  - RU: 'Не теряем сформированный спрос'
+  - EN: 'Don’t lose existing demand'
+- `s0519`
+  - RU: 'Внешние публикации'
+  - EN: 'External publications'
+- `s0520`
+  - RU: '2,1 млн ₽'
+  - EN: 'RUB 2.1M'
+- `s0521`
+  - RU: 'Сентябрь–октябрь'
+  - EN: 'Sep–Oct'
+- `s0522`
+  - RU: 'Новички, страдающие грибком или лишаем'
+  - EN: 'Newcomers with skin fungus or\xa0tinea'
+- `s0523`
+  - RU: 'Хроник с грибком кожи стоп'
+  - EN: 'Athlete’s foot chronics'
+- `s0524`
+  - RU: '11,5 млн ₽'
+  - EN: 'RUB 11.5M'
+- `s0525`
+  - RU: 'Создаём новый consumer demand в сезонный пик'
+  - EN: 'Create new consumer demand at the seasonal peak'
+- `s0526`
+  - RU: 'Март–сентябрь'
+  - EN: 'Mar–Sep'
+- `s0527`
+  - RU: 'Новички, Хроники'
+  - EN: 'Newcomers, Chronics'
+- `s0528`
+  - RU: 'Симптомы после отпуска'
+  - EN: 'Post-vacation symptoms'
+- `s0529`
+  - RU: 'Работа, связанная с длительным пребыванием в обуви'
+  - EN: 'Jobs with long hours in shoes'
+- `s0530`
+  - RU: 'Залы / бассейны / сауны'
+  - EN: 'Gyms / pools / saunas'
+- `s0531`
+  - RU: '+ Production 300 тыс. ₽ | Adriver 300 тыс. ₽'
+  - EN: '+ Production RUB 300K | Adriver RUB 300K'
+- `s0532`
+  - RU: '+ Production 2 млн ₽ | Adriver 900 тыс. ₽'
+  - EN: '+ Production RUB 2M | Adriver RUB 900K'
+- `s0533`
+  - RU: '+2,3 млн ₽'
+  - EN: '+RUB 2.3M'
+- `s0534`
+  - RU: '+9,4 млн ₽'
+  - EN: '+RUB 9.4M'
+- `s0535`
+  - RU: '*Бюджеты тотал представлены с учетом тех костов, АК, РС и продакшн. Приросты 2027 vs 2026 по слоям — расчёт OMD'
+  - EN: '*Totals include tech costs, agency commission, ad levy and production. 2027 vs 2026 layer increases: OMD estimate'
+- `s0536`
+  - RU: 'Слайд 16 исходника: матрица ALWAYS ON / SPRINT × 2026 / 2027. Скрытые надписи под метками слоёв исходника (SPRINT, FREQUENCY) не переносятся.'
+  - EN: 'Source slide 16: ALWAYS ON / SPRINT × 2026 / 2027 matrix. Hidden labels under the source layer labels (SPRINT, FREQUENCY) are not carried over.'
+
+## Slide 17
+
+- `s0537`
+  - RU: 'Роль каналов: каждый слой отвечает за отдельный шаг к покупке'
+  - EN: 'Channel roles: each layer owns one step toward purchase'
+- `s0538`
+  - RU: 'Медиамикс строится не вокруг форматов,\nа вокруг задачи Create → Capture → Reassure → Convert'
+  - EN: 'We build the media mix around tasks, not formats:\nCreate → Capture → Reassure → Convert'
+- `s0539`
+  - RU: 'ORM · GEO/AEO · внешние публикации'
+  - EN: 'ORM · GEO/AEO · external publications'
+- `s0540`
+  - RU: 'Сформировать релевантность категории и бренда до активного поиска'
+  - EN: 'Make the category and brand relevant before active search'
+- `s0541`
+  - RU: 'Перехватить симптомный, категорийный и брендовый спрос'
+  - EN: 'Capture symptom, category and brand demand'
+- `s0542`
+  - RU: 'Дать доказательства выбора и снизить неопределённость'
+  - EN: 'Back up the choice and reduce uncertainty'
+- `s0543`
+  - RU: 'Сократить путь до карточки товара и покупки в рамках промо-акций в пик сезона'
+  - EN: 'Shorten the path to the product page and purchase with peak-season promos'
+- `s0544`
+  - RU: 'ПРИНЦИП'
+  - EN: 'PRINCIPLE'
+- `s0545`
+  - RU: 'Верхняя часть воронки создаёт новый спрос, эффективность оцениваем по медиа и бизнес-сигналам: Search Lift, post-click, CR, Sales lift, продажи'
+  - EN: 'The upper funnel creates new demand. We judge its impact by media and business signals: Search Lift, post-click, CR, Sales lift, sales'
+- `s0546`
+  - RU: 'Слайд 17 исходника: картинка-макет; все тексты перенесены живым текстом. Цвета этапов — общие для слайдов 16–17 и 24–25.'
+  - EN: 'Source slide 17: image mockup; all text rebuilt as live text. Stage colors are shared by slides 16–17 and 24–25.'
+
+## Slide 18
+
+- `s0547`
+  - RU: 'Видео в стратегии Акримиколь: модульная персонализация'
+  - EN: 'Video in the Akrimycol strategy: modular personalization'
+- `s0548`
+  - RU: 'Один брендовый каркас и персонализированные первые секунды под ключевые ситуации и стадию проблемы'
+  - EN: 'One brand framework plus first seconds personalized by key situation and problem stage'
+- `s0549`
+  - RU: 'Задачи, которые решает видео'
+  - EN: 'What the video does'
+- `s0550`
+  - RU: '**Формируем знание бренда** и попадаем в consideration list между периодами обострения'
+  - EN: '**Build brand awareness** and get on the consideration list between flare-ups'
+- `s0551`
+  - RU: '**Создаём образ современного,** понятного и надёжного решения при грибке кожи'
+  - EN: '**Position the brand as a modern,** clear and reliable solution for skin\xa0fungus'
+- `s0552`
+  - RU: '**Помогаем простым языком объяснить значение симптомов** и снизить барьер начала лечения'
+  - EN: '**Explain the symptoms in plain words** and lower the barrier to starting treatment'
+- `s0553`
+  - RU: '**Работаем на таргетированный охват и будущий выбор бренда,** пока поиск и баннеры перехватывают текущий спрос'
+  - EN: '**Deliver targeted reach and seed future brand choice,** while search and banners capture current demand'
+- `s0554`
+  - RU: 'Используем 1 AI-мастер с модульной персонализацией'
+  - EN: 'One AI master with modular personalization'
+- `s0555`
+  - RU: '**Один брендовый каркас** (70–80% контента) для всех версий.'
+  - EN: '**One brand framework** (70–80% of content) for all versions.'
+- `s0556`
+  - RU: '**Персонализируем первые секунды** под ключевые ситуации и стадию проблемы.'
+  - EN: '**Personalize the first seconds** by key situation and problem\xa0stage.'
+- `s0557`
+  - RU: 'Создаём **набор модулей** с помощью AI-продакшена без существенного увеличения бюджета.'
+  - EN: 'Build a **set of modules** with AI production, without a big budget increase.'
+- `s0558`
+  - RU: '**Тестируем и масштабируем** наиболее эффективные версии по VTR / post-view / Search Lift.'
+  - EN: '**Test and scale** the best versions by VTR / post-view / Search\xa0Lift.'
+- `s0559`
+  - RU: 'Слайд 18 исходника (1 из 2): левая колонка картинки — задачи видео и принцип «1 AI-мастер». Продолжение — на следующем слайде.'
+  - EN: 'Source slide 18 (1 of 2): left column of the image — video tasks and the “1 AI master” principle. Continued on the next slide.'
+- `s0560`
+  - RU: 'Как строим ролик: один мастер → персонализированные версии'
+  - EN: 'How we build the video: one master → personalized versions'
+- `s0561`
+  - RU: 'Единый брендовый каркас (70–80%)'
+  - EN: 'Shared brand framework (70–80%)'
+- `s0562`
+  - RU: 'Кадр ролика Акримиколь: Симптомы'
+  - EN: 'Akrimycol video frame: Symptoms'
+- `s0563`
+  - RU: 'Симптомы'
+  - EN: 'Symptoms'
+- `s0564`
+  - RU: 'Кадр ролика Акримиколь: Узнаваемая ситуация'
+  - EN: 'Akrimycol video frame: Familiar situation'
+- `s0565`
+  - RU: 'Узнаваемая ситуация'
+  - EN: 'Familiar situation'
+- `s0566`
+  - RU: 'Кадр ролика Акримиколь: Акримиколь — современное решение'
+  - EN: 'Akrimycol video frame: Akrimycol — a modern solution'
+- `s0567`
+  - RU: 'Акримиколь — современное решение'
+  - EN: 'Akrimycol — a modern solution'
+- `s0568`
+  - RU: '5 действий против грибка кожи'
+  - EN: '5 actions against skin\xa0fungus'
+- `s0569`
+  - RU: 'Устраняет грибок · Снимает зуд · Уменьшает воспаление · Способствует восстановлению кожи · Предотвращает повторение'
+  - EN: 'Eliminates fungus · Relieves itching · Reduces inflammation · Helps skin recover · Prevents recurrence'
+- `s0570`
+  - RU: 'Ключевые преимущества'
+  - EN: 'Key benefits'
+- `s0571`
+  - RU: 'Кадр ролика Акримиколь: Packshot / CTA'
+  - EN: 'Akrimycol video frame: Packshot / CTA'
+- `s0572`
+  - RU: '[[**Модульные первые секунды (20–30%)**]] — адаптируем под ключевые сегменты и ситуации'
+  - EN: '[[**Modular first seconds (20–30%)**]] — tailored to key segments and situations'
+- `s0573`
+  - RU: 'НОВИЧКИ'
+  - EN: 'NEWCOMERS'
+- `s0574`
+  - RU: 'Первые симптомы:\n«Это может быть грибок?»'
+  - EN: 'First symptoms:\n“Could this be fungus?”'
+- `s0575`
+  - RU: 'Новички: «Зуд? Шелушение? Трещинки?»'
+  - EN: 'Newcomers: “Itching? Peeling? Cracks?”'
+- `s0576`
+  - RU: '«Зуд? Шелушение? Трещинки?»'
+  - EN: '“Itching? Peeling? Cracks?”'
+- `s0577`
+  - RU: 'Новички: «Зуд после бассейна?»'
+  - EN: 'Newcomers: “Itchy after the pool?”'
+- `s0578`
+  - RU: '«Зуд после бассейна?»'
+  - EN: '“Itchy after the pool?”'
+- `s0579`
+  - RU: 'Новички: «После отпуска или в бассейне?»'
+  - EN: 'Newcomers: “After vacation or the pool?”'
+- `s0580`
+  - RU: '«После отпуска или в бассейне?»'
+  - EN: '“After vacation or the pool?”'
+- `s0581`
+  - RU: 'ХРОНИКИ'
+  - EN: 'CHRONICS'
+- `s0582`
+  - RU: 'Рецидив:\n«Привычные симптомы снова вернулись?»'
+  - EN: 'Relapse:\n“Familiar symptoms back again?”'
+- `s0583`
+  - RU: 'Хроники: «Снова те же симптомы?»'
+  - EN: 'Chronics: “Same symptoms again?”'
+- `s0584`
+  - RU: '«Снова те же симптомы?»'
+  - EN: '“Same symptoms again?”'
+- `s0585`
+  - RU: 'Хроники: «Мешает в спорте и повседневной жизни?»'
+  - EN: 'Chronics: “Getting in the way of sports and daily life?”'
+- `s0586`
+  - RU: '«Мешает в спорте и повседневной жизни?»'
+  - EN: '“Getting in the way of sports and daily life?”'
+- `s0587`
+  - RU: 'Хроники: «Пробовали, но не помогло надолго?»'
+  - EN: 'Chronics: “Tried something, but it didn’t last?”'
+- `s0588`
+  - RU: '«Пробовали, но не помогло надолго?»'
+  - EN: '“Tried something, but it didn’t last?”'
+- `s0589`
+  - RU: '**Дополнительные микросцены** (при необходимости)'
+  - EN: '**Extra micro-scenes** (if needed)'
+- `s0590`
+  - RU: 'Микросцена: После отпуска'
+  - EN: 'Micro-scene: After vacation'
+- `s0591`
+  - RU: 'После отпуска'
+  - EN: 'After vacation'
+- `s0592`
+  - RU: 'Микросцена: Бассейн / спорт'
+  - EN: 'Micro-scene: Pool / sports'
+- `s0593`
+  - RU: 'Бассейн / спорт'
+  - EN: 'Pool / sports'
+- `s0594`
+  - RU: 'Микросцена: Активный образ жизни'
+  - EN: 'Micro-scene: Active lifestyle'
+- `s0595`
+  - RU: 'Активный образ жизни'
+  - EN: 'Active lifestyle'
+- `s0596`
+  - RU: 'Микросцена: Ранние симптомы'
+  - EN: 'Micro-scene: Early symptoms'
+- `s0597`
+  - RU: 'Ранние симптомы'
+  - EN: 'Early symptoms'
+- `s0598`
+  - RU: 'Микросцена: Рецидив'
+  - EN: 'Micro-scene: Relapse'
+- `s0599`
+  - RU: 'Рецидив'
+  - EN: 'Relapse'
+- `s0600`
+  - RU: 'Примеры версий'
+  - EN: 'Sample versions'
+- `s0601`
+  - RU: 'Версия для новичков'
+  - EN: 'Newcomers version'
+- `s0602`
+  - RU: 'Превью: версия для новичков'
+  - EN: 'Preview: Newcomers version'
+- `s0603`
+  - RU: 'Зуд?\nШелушение?\nТрещинки?'
+  - EN: 'Itching?\nPeeling?\nCracks?'
+- `s0604`
+  - RU: 'Версия для хроников'
+  - EN: 'Chronics version'
+- `s0605`
+  - RU: 'Превью: версия для хроников'
+  - EN: 'Preview: Chronics version'
+- `s0606`
+  - RU: 'Привычные симптомы снова вернулись?'
+  - EN: 'Familiar symptoms back again?'
+- `s0607`
+  - RU: 'Слайд 18 исходника (2 из 2): средняя и правая колонки картинки — брендовый каркас, модульные первые секунды, микросцены, примеры версий. Фото — вырезки из картинок исходника (crops/d_18_*.png); надпись на превью «Привычные симптомы снова верпулись?» исправлена на «вернулись» и вынесена живым текстом.'
+  - EN: 'Source slide 18 (2 of 2): middle and right columns of the image — brand framework, modular first seconds, micro-scenes, sample versions. Photos are crops from the source images (crops/d_18_*.png); the typo in the preview caption was fixed and the caption set as live text.'
+
+## Slide 19
+
+- `s0608`
+  - RU: 'OLV работает двумя волнами: строим знание до роста поискового спроса и обновляем контакт перед пиком спроса'
+  - EN: 'OLV runs in two waves: build awareness before search demand grows, then refresh contact before the demand peak'
+- `s0609`
+  - RU: 'Концентрируем медиавес в апреле–июне и сохраняем поддержку в июле, чтобы обеспечить охват 60–70% ЦА в ядре продаж на частоте 5+'
+  - EN: 'We focus media weight on Apr–Jun and keep support in July to reach 60–70% of the sales-core TA at 5+ frequency'
+- `s0610`
+  - RU: 'Рекомендуемое распределение OLV в сезон (март–июль)'
+  - EN: 'Recommended OLV split for the season (Mar–Jul)'
+- `s0611`
+  - RU: 'Волны'
+  - EN: 'Waves'
+- `s0612`
+  - RU: 'Март'
+  - EN: 'March'
+- `s0613`
+  - RU: 'Апрель'
+  - EN: 'April'
+- `s0614`
+  - RU: 'Июнь'
+  - EN: 'June'
+- `s0615`
+  - RU: 'Июль'
+  - EN: 'July'
+- `s0616`
+  - RU: 'Остальные месяцы'
+  - EN: 'Other months'
+- `s0617`
+  - RU: 'Вход в сезон / priming'
+  - EN: 'Season entry / priming'
+- `s0618`
+  - RU: 'Пауза / снижение давления'
+  - EN: 'Pause / lower pressure'
+- `s0619`
+  - RU: 'Reminder в июле'
+  - EN: 'Reminder in July'
+- `s0620`
+  - RU: 'Доля OLV-бюджета'
+  - EN: 'Share of OLV budget'
+- `s0621`
+  - RU: 'Роль коммуникации'
+  - EN: 'Communication role'
+- `s0622`
+  - RU: 'Почему такая модель работает'
+  - EN: 'Why this model works'
+- `s0623`
+  - RU: 'Концентрация в апреле–июне'
+  - EN: 'Focus in Apr–Jun'
+- `s0624`
+  - RU: 'Быстрее набираем охват и знание, чтобы стимулировать рост поискового спроса перед пиком категории'
+  - EN: 'Build reach and awareness faster to lift search demand ahead of the category peak'
+- `s0625`
+  - RU: 'Поддержка в июле'
+  - EN: 'Support in July'
+- `s0626`
+  - RU: 'Сохраняем присутствие в момент максимального спроса и продаж'
+  - EN: 'Stay present when demand and sales peak'
+- `s0627`
+  - RU: 'Эффективная частота'
+  - EN: 'Effective frequency'
+- `s0628`
+  - RU: 'Оптимизируем давление по неделям, избегаем избыточной частоты и повышаем качество контакта'
+  - EN: 'Optimize weekly pressure, avoid excess frequency and improve contact quality'
+- `s0629`
+  - RU: 'От KPI к требуемому медиавесу'
+  - EN: 'KPI → required media weight'
+- `s0630`
+  - RU: 'Для выхода на **Effective Reach 5+ ~70%** при **Universe 2,95 млн** в географии ядра продаж требуется **~10,3 млн показов**, что при **~320 CPM** требует инвестиций в **3,3 млн рублей**.'
+  - EN: 'To hit **Effective Reach 5+ ~70%** with a **Universe of 2.95M** in the sales-core regions, we need **~10.3M impressions**; at **~320\xa0CPM**, that means investing **RUB\xa03.3M**.'
+- `s0631`
+  - RU: '≈2,95 млн*'
+  - EN: '≈2.95M*'
+- `s0632`
+  - RU: '25–55 с проблемами заболеваниями кожи'
+  - EN: '25–55 with skin conditions'
+- `s0633`
+  - RU: '2,07 млн'
+  - EN: '2.07M'
+- `s0634`
+  - RU: 'ЦА в контакте 5+'
+  - EN: 'TA at 5+ freq.'
+- `s0635`
+  - RU: '≈10,3 млн'
+  - EN: '≈10.3M'
+- `s0636`
+  - RU: 'инвестиции'
+  - EN: 'investment'
+- `s0637`
+  - RU: 'Что получает бренд'
+  - EN: 'What the brand gets'
+- `s0638`
+  - RU: '**70% ядра ЦА** в целевой географии (ядро продаж) на эффективной частоте'
+  - EN: '**70% of core TA** in target regions (sales core) at effective frequency'
+- `s0639`
+  - RU: '* Расчетная оценка OMD: население М/Ж 25–55 РФ × оценочная распространенность дерматофитий × корректировка на симптомное/актуальное состояние\n36,9% — доля географии ядра продаж внутри РФ'
+  - EN: '* OMD estimate: Russian population M+F 25–55 × estimated prevalence of dermatophytosis × adjustment for symptomatic/current condition\n36.9% — sales-core regions’ share of Russia'
+- `s0640`
+  - RU: 'Слайд 19 исходника: картинка-макет; все тексты перенесены живым текстом, распределение OLV по месяцам — живым графиком. Звёздочка сноски в исходнике не стоит ни у одной цифры — поставлена у Universe (≈2,95 млн), к которому относится расчёт.'
+  - EN: 'Source slide 19: image mockup; all text rebuilt as live text, OLV monthly split as a live chart. The source footnote asterisk was attached to no figure; it is placed at Universe (≈2.95M), which the calculation refers to.'
+
+## Slide 20
+
+- `s0641`
+  - RU: 'Календарь баннерной коммуникации: сегменты и оккейжены'
+  - EN: 'Banner messaging calendar: segments and occasions'
+- `s0642`
+  - RU: 'Сегмент / оккейжен'
+  - EN: 'Segment / occasion'
+- `s0643`
+  - RU: 'Весь день в закрытой обуви'
+  - EN: 'All day in closed shoes'
+- `s0644`
+  - RU: 'Оба сегмента'
+  - EN: 'Both segments'
+- `s0645`
+  - RU: 'Бассейны / сауны / спортзалы'
+  - EN: 'Pools / saunas / gyms'
+- `s0646`
+  - RU: 'Грибок возвращается'
+  - EN: 'Fungus is back'
+- `s0647`
+  - RU: 'Привычное средство не справилось'
+  - EN: 'Usual treatment didn’t\xa0work'
+- `s0648`
+  - RU: 'Примеры баннерных сообщений'
+  - EN: 'Banner message examples'
+- `s0649`
+  - RU: 'Пример баннера: Не просто сухость'
+  - EN: 'Banner example: More than dry skin'
+- `s0650`
+  - RU: 'Шелушение, зуд и дискомфорт между пальцами могут быть признаками грибка кожи. Акримиколь помогает вовремя взять ситуацию под контроль.'
+  - EN: 'Peeling, itching and discomfort between the toes can be signs of skin fungus. Akrimycol helps you get it under control early.'
+- `s0651`
+  - RU: 'Пример баннера: Весь день в закрытой обуви'
+  - EN: 'Banner example: All day in closed shoes'
+- `s0652`
+  - RU: 'Когда ноги весь день в закрытой обуви, важно не игнорировать зуд и раздражение. Акримиколь помогает вернуть коже комфорт.'
+  - EN: 'When your feet are in closed shoes all day, don’t ignore itching and irritation. Akrimycol helps restore skin comfort.'
+- `s0653`
+  - RU: 'Пример баннера: Бассейны / сауны / спортзалы'
+  - EN: 'Banner example: Pools / saunas / gyms'
+- `s0654`
+  - RU: 'После бассейна или душевой важно не игнорировать дискомфорт кожи. Акримиколь помогает быстро перейти от неприятных ощущений к контролю.'
+  - EN: 'After the pool or a shared shower, don’t ignore skin discomfort. Akrimycol helps you quickly get it under control.'
+- `s0655`
+  - RU: 'Пример баннера: После отпуска / отеля'
+  - EN: 'Banner example: After vacation / hotel'
+- `s0656`
+  - RU: 'После поездки кожа стоп может напомнить о себе зудом и шелушением. Акримиколь помогает быстро перейти от дискомфорта к контролю.'
+  - EN: 'After a trip, your feet may start itching and peeling. Akrimycol helps you quickly get it under control.'
+- `s0657`
+  - RU: 'Пример баннера: Грибок возвращается'
+  - EN: 'Banner example: Fungus is back'
+- `s0658`
+  - RU: 'Если симптомы возвращаются, не откладывайте лечение. Акримиколь помогает снова взять грибок кожи под контроль.'
+  - EN: 'If symptoms come back, don’t put off treatment. Akrimycol helps you get skin fungus under control again.'
+- `s0659`
+  - RU: 'Пример баннера: Привычное средство не справилось'
+  - EN: 'Banner example: Usual treatment didn’t work'
+- `s0660`
+  - RU: 'Если прошлое средство не дало нужного результата, стоит выбрать понятное современное решение. Акримиколь помогает бороться с грибком кожи.'
+  - EN: 'If your last treatment didn’t work, choose a straightforward, modern solution. Akrimycol helps fight skin\xa0fungus.'
+- `s0661`
+  - RU: 'Слайд 20 исходника: картинка-макет; гант и тексты — живые, фото примеров — вырезки (crops/d_20_*.png). Светлые и тёмные полосы перенесены как в исходнике (легенды к ним в исходнике нет).'
+  - EN: 'Source slide 20: image mockup; Gantt and text are live, example photos are crops (crops/d_20_*.png). Light and dark bars kept as in the source (the source has no legend for them).'
+
+## Slide 21
+
+- `s0662`
+  - RU: 'AI targeting в Programmatic: ищем аудиторию по сигналам проблемы'
+  - EN: 'AI targeting in Programmatic: finding audiences by problem signals'
+- `s0663`
+  - RU: 'Задача — превратить набор AI-сигналов (кластеры / контекстуальный таргетинг / пользовательские намерения) в сегменты и быстро определить связки, которые лучше переводят рекламный контакт в CR и покупку'
+  - EN: 'Goal: turn AI signals (clusters / contextual targeting / user intent) into segments and quickly find the combinations that best convert ad exposure into CR and purchases'
+- `s0664`
+  - RU: 'СИГНАЛЫ'
+  - EN: 'SIGNALS'
+- `s0665`
+  - RU: 'КРЕАТИВ'
+  - EN: 'CREATIVE'
+- `s0666`
+  - RU: 'ОЦЕНКА'
+  - EN: 'METRICS'
+- `s0667`
+  - RU: 'Спорт / бассейн / сауна'
+  - EN: 'Sports / pool / sauna'
+- `s0668`
+  - RU: 'Отпуск'
+  - EN: 'Vacation'
+- `s0669`
+  - RU: 'История поиска лечения'
+  - EN: 'Treatment search history'
+- `s0670`
+  - RU: 'первичное распознавание'
+  - EN: 'recognizing the problem'
+- `s0671`
+  - RU: 'после отпуска / отеля'
+  - EN: 'after vacation / hotel'
+- `s0672`
+  - RU: 'Новички + Хроники'
+  - EN: 'Newcomers + Chronics'
+- `s0673`
+  - RU: 'спортзал / бассейн / сауна'
+  - EN: 'gym / pool / sauna'
+- `s0674`
+  - RU: 'рецидив'
+  - EN: 'relapse'
+- `s0675`
+  - RU: 'современное решение'
+  - EN: 'modern solution'
+- `s0676`
+  - RU: 'качество контакта'
+  - EN: 'exposure quality'
+- `s0677`
+  - RU: 'глубина / переходы'
+  - EN: 'page depth / clicks'
+- `s0678`
+  - RU: 'рост поискового интереса'
+  - EN: 'search interest growth'
+- `s0679`
+  - RU: 'конверсия'
+  - EN: 'conversion'
+- `s0680`
+  - RU: 'бизнес-эффект'
+  - EN: 'business impact'
+- `s0681`
+  - RU: 'H2 2026 результаты теста AI DSP vs AI DMP, дерматология Акрихин'
+  - EN: 'H2 2026 test results: AI DSP vs AI DMP, Akrikhin dermatology'
+- `s0682`
+  - RU: '0,45% vs 0,40%'
+  - EN: '0.45% vs 0.40%'
+- `s0683`
+  - RU: 'Bounce -3,6 p.p. | Depth +12% | Time +55%'
+  - EN: 'Bounce -3.6 pp | Depth +12% | Time +55%'
+- `s0684`
+  - RU: 'Качество post-click ↑'
+  - EN: 'Post-click quality ↑'
+- `s0685`
+  - RU: '«Где купить» CR ×2,6 | 2,0% vs 0,8%'
+  - EN: '“Where to buy” CR ×2.6 | 2.0% vs 0.8%'
+- `s0686`
+  - RU: 'Совершение покупки ↑'
+  - EN: 'Purchases ↑'
+- `s0687`
+  - RU: 'Цена инвентаря ↓'
+  - EN: 'Inventory cost ↓'
+- `s0688`
+  - RU: '**SCALE** — связки, которые дают качественный post-click / CR; **STOP** — сегменты без эффекта за 1-й месяц'
+  - EN: '**SCALE** — combinations that deliver quality post-click / CR; **STOP** — segments with no effect in month 1'
+
+## Slide 22
+
+- `s0689`
+  - RU: 'Целевой таргетинг на Авито'
+  - EN: 'Targeting on Avito'
+- `s0690`
+  - RU: 'Используем поведенческий контекст как триггер для поиска аудитории с повышенной вероятностью проблем кожи стоп'
+  - EN: 'We use behavioral context as a trigger to find people more likely to have foot skin problems'
+- `s0691`
+  - RU: 'Авито: подработка в Москве'
+  - EN: 'Avito: side jobs in Moscow'
+- `s0692`
+  - RU: 'Пакет DMP-сегментов с учетом таргетинга на аудиторию'
+  - EN: 'DMP segment package with audience targeting'
+- `s0693`
+  - RU: 'МЖ 24–64'
+  - EN: 'M+F 24–64'
+- `s0694`
+  - RU: '**Подработка**, включенные категории: обслуживание покупателей, курьерская доставка, приготовление пищи, уборка, складские работы, сбор и выдача заказов, курьеры'
+  - EN: '**Side jobs**, categories included: customer service, courier delivery, cooking, cleaning, warehouse work, order picking and pickup\xa0points, couriers'
+- `s0695`
+  - RU: 'Почему этот сегмент «Новички + Хроники: весь день в обуви»'
+  - EN: 'Why this segment: “Newcomers + Chronics: all day in shoes”'
+- `s0696`
+  - RU: 'Длительное время на ногах — высокая ежедневная нагрузка на стопы'
+  - EN: 'Long hours standing — heavy daily strain on the feet'
+- `s0697`
+  - RU: 'Закрытая рабочая обувь — тепло, влажность и трение повышают актуальность проблем кожи стоп'
+  - EN: 'Closed work shoes — heat, moisture and friction make foot skin problems more likely'
+- `s0698`
+  - RU: 'Повторяющийся рабочий контекст — фактор риска возникает регулярно, а не эпизодически'
+  - EN: 'Recurring work context — the risk factor is regular, not occasional'
+- `s0699`
+  - RU: 'Стратегическая гипотеза'
+  - EN: 'Strategic hypothesis'
+- `s0700`
+  - RU: 'Подработка → длительная смена на ногах → закрытая обувь / влажность / трение → выше актуальность проблем кожи стоп → **релевантные коммуникации Акримиколя**'
+  - EN: 'Side job → long shift on your feet → closed shoes / moisture / friction → foot skin problems more likely → **relevant Akrimycol messaging**'
+- `s0701`
+  - RU: '~CTR 0,16%'
+  - EN: '~CTR 0.16%'
+- `s0702`
+  - RU: 'Форматы'
+  - EN: 'Formats'
+- `s0703`
+  - RU: 'Медийный премиум + Медийный стандарт + Нативный баннер'
+  - EN: 'Display Premium + Display Standard + Native banner'
+- `s0704`
+  - RU: 'Пример формата на Авито'
+  - EN: 'Avito format example'
+- `s0705`
+  - RU: 'ГЛАВНЫЙ ПРИНЦИП'
+  - EN: 'KEY PRINCIPLE'
+- `s0706`
+  - RU: 'Используем поведенческие сигналы и контекст интересов, чтобы находить аудиторию с повышенным риском проблем кожи стоп и показывать релевантные сообщения в момент, когда потребность наиболее актуальна'
+  - EN: 'We use behavioral signals and interest context to find people at higher risk of foot skin problems and show relevant messages when the need is most pressing'
+
+## Slide 23
+
+- `s0707`
+  - RU: 'Paid Search 2027: защищаем спрос и сокращаем путь до покупки'
+  - EN: 'Paid Search 2027: protect demand, shorten the path to purchase'
+- `s0708`
+  - RU: 'AON-слой работает весь год: готовый спрос ведём в e-com, информационный — на персонализированные LPs на сайте; оптимизируем по конверсии и качеству трафика'
+  - EN: 'The AON layer runs year-round: ready-to-buy demand goes to e-com, informational to personalized site LPs; we optimize for conversion and traffic quality'
+- `s0709`
+  - RU: 'АРХИТЕКТУРА КАМПАНИИ 2027'
+  - EN: '2027 CAMPAIGN ARCHITECTURE'
+- `s0710`
+  - RU: 'Маршрутизируем спрос по степени готовности к покупке'
+  - EN: 'We route demand by readiness to buy'
+- `s0711`
+  - RU: 'Чем выше намерение купить, тем короче путь пользователя. Информационный спрос сначала получает аргументы выбора.'
+  - EN: 'The stronger the intent to buy, the shorter the path. Informational demand first gets reasons to choose.'
+- `s0712`
+  - RU: 'Бренд + транзакционные'
+  - EN: 'Brand + transactional'
+- `s0713`
+  - RU: 'Аптека.ру / e-com'
+  - EN: 'Apteka.ru / e-com'
+- `s0714`
+  - RU: 'готовый спрос → к покупке'
+  - EN: 'ready-to-buy → purchase'
+- `s0715`
+  - RU: 'Диагноз · симптомы · конкуренты · продукт'
+  - EN: 'Diagnosis · symptoms · competitors · product'
+- `s0716`
+  - RU: 'Сайт → блок аптек'
+  - EN: 'Site → pharmacy list'
+- `s0717`
+  - RU: 'изучение → доказательства → выбор'
+  - EN: 'research → proof → choice'
+- `s0718`
+  - RU: 'РСЯ / occasion-сигналы'
+  - EN: 'YAN / occasion signals'
+- `s0719`
+  - RU: 'Сайт'
+  - EN: 'Site'
+- `s0720`
+  - RU: 'инкрементальный спрос → контроль качества'
+  - EN: 'incremental demand → quality control'
+- `s0721`
+  - RU: 'Приоритет семантики внутри Search'
+  - EN: 'Keyword priorities in Search'
+- `s0722`
+  - RU: 'бренд + транзакционные'
+  - EN: 'brand + transactional'
+- `s0723`
+  - RU: 'диагноз'
+  - EN: 'diagnosis'
+- `s0724`
+  - RU: 'симптомы'
+  - EN: 'symptoms'
+- `s0725`
+  - RU: 'конкуренты'
+  - EN: 'competitors'
+- `s0726`
+  - RU: 'продукт'
+  - EN: 'product'
+- `s0727`
+  - RU: 'ОПТИМИЗАЦИЯ И KPI'
+  - EN: 'OPTIMIZATION & KPIs'
+- `s0728`
+  - RU: '— растёт CR / снижается CPA'
+  - EN: '— CR up / CPA down'
+- `s0729`
+  - RU: '— перераспределяем бюджет между семантиками'
+  - EN: '— shift budget between keyword groups'
+- `s0730`
+  - RU: '— ограничиваем РСЯ без quality / conversion эффекта'
+  - EN: '— cap YAN if no quality / conversion effect'
+- `s0731`
+  - RU: 'Search — основной conversion-layer'
+  - EN: 'Search is the main conversion layer'
+- `s0732`
+  - RU: 'РСЯ сохраняем как контролируемый источник дополнительного спроса, но не масштабируем трафик без post-click эффекта.'
+  - EN: 'We keep YAN (Yandex Advertising Network) as a controlled source of extra demand; no scaling without post-click impact.'
+- `s0733`
+  - RU: 'CR 0,4%'
+  - EN: 'CR 0.4%'
+- `s0734`
+  - RU: 'CPA 4,46 тыс. ₽'
+  - EN: 'CPA RUB 4.46K'
+- `s0735`
+  - RU: 'РСЯ'
+  - EN: 'YAN'
+- `s0736`
+  - RU: 'CR 0,2%'
+  - EN: 'CR 0.2%'
+- `s0737`
+  - RU: 'CPA 6,85 тыс. ₽'
+  - EN: 'CPA RUB 6.85K'
+- `s0738`
+  - RU: 'Бренд + транзакционные → e-com'
+  - EN: 'Brand + transactional → e-com'
+- `s0739`
+  - RU: 'Диагноз / симптомы → сайт'
+  - EN: 'Diagnosis / symptoms → site'
+- `s0740`
+  - RU: 'РСЯ → сайт, долю контролируем'
+  - EN: 'YAN → site, share controlled'
+- `s0741`
+  - RU: 'Главный KPI → покупательское действие'
+  - EN: 'Main KPI → purchase action'
+
+## Slide 24
+
+- `s0742`
+  - RU: 'Digital support calendar 2027: full-funnel flowchart Акримиколь'
+  - EN: 'Digital support calendar 2027: Akrimycol full-funnel flowchart'
+- `s0743`
+  - RU: 'БЮДЖЕТНЫЙ СПЛИТ'
+  - EN: 'BUDGET SPLIT'
+- `s0744`
+  - RU: '16,6M'
+  - EN: '16.6M'
+- `s0745`
+  - RU: '12,5M'
+  - EN: '12.5M'
+- `s0746`
+  - RU: '4,3M'
+  - EN: '4.3M'
+- `s0747`
+  - RU: '23,8K'
+  - EN: '23.8K'
+- `s0748`
+  - RU: 'Авито'
+  - EN: 'Avito'
+- `s0749`
+  - RU: 'Медийные форматы'
+  - EN: 'Display formats'
+- `s0750`
+  - RU: 'Работа в обуви'
+  - EN: 'Working in shoes'
+- `s0751`
+  - RU: 'Общий (микросцены)'
+  - EN: 'Broad (micro-scenes)'
+- `s0752`
+  - RU: 'Хроники / Новички'
+  - EN: 'Chronics / Newcomers'
+- `s0753`
+  - RU: 'Хроники / Новички + Общий'
+  - EN: 'Chronics / Newcomers + Broad'
+- `s0754`
+  - RU: 'Статьи'
+  - EN: 'Articles'
+- `s0755`
+  - RU: 'Общий'
+  - EN: 'Broad'
+- `s0756`
+  - RU: 'GEO-оптимизация\nпод AI-ответы'
+  - EN: 'GEO optimization\nfor AI answers'
+- `s0757`
+  - RU: 'Отзывы, обзоры, Q&A, дискуссии'
+  - EN: 'Reviews, write-ups, Q&A, threads'
+- `s0758`
+  - RU: 'Текст + баннеры'
+  - EN: 'Text + banners'
+- `s0759`
+  - RU: 'Расширенные сегменты'
+  - EN: 'Expanded segments'
+- `s0760`
+  - RU: 'ЭТАП'
+  - EN: 'STAGE'
+- `s0761`
+  - RU: 'КАНАЛ'
+  - EN: 'CHANNEL'
+- `s0762`
+  - RU: 'ПОСТАВЩИКИ'
+  - EN: 'VENDORS'
+- `s0763`
+  - RU: 'ФОРМАТ'
+  - EN: 'FORMAT'
+- `s0764`
+  - RU: 'СЕГМЕНТ'
+  - EN: 'SEGMENT'
+- `s0765`
+  - RU: 'БЮДЖЕТ'
+  - EN: 'BUDGET'
+- `s0766`
+  - RU: '2,1M'
+  - EN: '2.1M'
+- `s0767`
+  - RU: '3,5M'
+  - EN: '3.5M'
+- `s0768`
+  - RU: '3,4M'
+  - EN: '3.4M'
+- `s0769`
+  - RU: '1,2M'
+  - EN: '1.2M'
+- `s0770`
+  - RU: '1,7M'
+  - EN: '1.7M'
+- `s0771`
+  - RU: 'буст / приоритетный флайт'
+  - EN: 'boost / priority flight'
+- `s0772`
+  - RU: 'активный период'
+  - EN: 'active period'
+- `s0773`
+  - RU: '*Бюджет до НДС, включая АК/РС'
+  - EN: '*Excl. VAT, incl. agency commission and ad levy'
+
+## Slide 25
+
+- `s0774`
+  - RU: 'Акримиколь 2027'
+  - EN: 'Akrimycol 2027'
+- `s0775`
+  - RU: 'Что даёт рост инвестиций vs 2026'
+  - EN: 'What higher spend vs 2026 delivers'
+- `s0776`
+  - RU: '420 тыс. уп.'
+  - EN: '420K units'
+- `s0777`
+  - RU: '3,8% доля рынка · ≈ +14% volume'
+  - EN: '3.8% market share · ≈ +14% volume'
+- `s0778`
+  - RU: 'БИЗНЕС-ЦЕЛЬ 2027'
+  - EN: '2027 BUSINESS GOAL'
+- `s0779`
+  - RU: '6 млн ₽ → 20 млн ₽'
+  - EN: 'RUB 6M → 20M'
+- `s0780`
+  - RU: 'ИНВЕСТИЦИИ'
+  - EN: 'INVESTMENT'
+- `s0781`
+  - RU: '5,4M → 12,5M'
+  - EN: '5.4M → 12.5M'
+- `s0782`
+  - RU: '+131% | Unique Reach 4,3M'
+  - EN: '+131% | Unique Reach 4.3M'
+- `s0783`
+  - RU: 'ТЕХ. ОХВАТ'
+  - EN: 'TECH. REACH'
+- `s0784`
+  - RU: 'F 5+ · 70% ядра ЦА'
+  - EN: '5+ freq. · 70% core TA'
+- `s0785`
+  - RU: 'Концентрированный охват в целевой географии'
+  - EN: 'Concentrated reach in target regions'
+- `s0786`
+  - RU: '**OLV** формирует знание в приоритетной географии продаж, **Programmatic / Social** активируют релевантные жизненные ситуации, **GEO/AEO + ORM + внешние публикации** укрепляют выбор, **Paid Search** переводит сформированный спрос в e-pharm во время сезонных акций.'
+  - EN: '**OLV** builds awareness in priority sales regions; **Programmatic / Social** reach people in relevant life situations; **GEO/AEO + ORM + external publications** reinforce the choice; **Paid Search** turns existing demand into e-pharm sales during seasonal promos.'
+- `s0787`
+  - RU: 'КАК МАСШТАБИРУЕМ COMPREHENSIVE В 2027'
+  - EN: 'HOW WE SCALE COMPREHENSIVE IN 2027'
+- `s0788`
+  - RU: 'март–авг'
+  - EN: 'Mar–Aug'
+- `s0789`
+  - RU: 'сен–дек'
+  - EN: 'Sep–Dec'
+- `s0790`
+  - RU: '**AON** защищает и конвертирует сформированный спрос круглый год'
+  - EN: '**AON** protects and converts existing demand year-round'
+- `s0791`
+  - RU: '**Sprint** создает новый пользовательский спрос в сезонный пик, строим знание о бренде'
+  - EN: '**Sprint** creates new consumer demand at the seasonal peak and builds brand awareness'
+- `s0792`
+  - RU: '**AON:** Search + GEO/AEO + ORM + внешние публикации'
+  - EN: '**AON:** Search + GEO/AEO + ORM + external publications'
+- `s0793`
+  - RU: 'ЗОНЫ РАСШИРЕНИЯ'
+  - EN: 'EXPANSION AREAS'
+- `s0794`
+  - RU: 'Расширение сегментов Новички и Хроники через оккейжены'
+  - EN: 'Growing the Newcomers and Chronics segments via occasions'
+- `s0795`
+  - RU: 'AI-video для расширения покрытия инвентаря и охвата в целевой географии max доли продаж'
+  - EN: 'AI video to expand inventory coverage and reach in regions with the highest sales share'
+- `s0796`
+  - RU: 'GEO/AEO + ORM + публикации + Search; high-intent спрос ведём в e-pharm'
+  - EN: 'GEO/AEO + ORM + publications + Search; high-intent demand goes to e-pharm'
+- `s0797`
+  - RU: 'КАК РАСШИРЯЕМ COMPREHENSIVE В 2027'
+  - EN: 'HOW WE EXPAND COMPREHENSIVE IN 2027'
+- `s0798`
+  - RU: 'ОТ SEARCH-FIRST\nК FULL-FUNNEL'
+  - EN: 'FROM SEARCH-FIRST\nTO FULL-FUNNEL'
+- `s0799`
+  - RU: 'Каналы работают как единый путь CREATE → CAPTURE → REASSURE → CONVERT'
+  - EN: 'Channels work as one path: CREATE → CAPTURE → REASSURE → CONVERT'

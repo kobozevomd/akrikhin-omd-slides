@@ -1,0 +1,2252 @@
+# Review RU → EN
+
+
+## Slide 0
+
+- `s0000`
+  - RU: 'Acriol PRO — стратегия 2027 · Акрихин × OMD'
+  - EN: 'Acriol Pro — 2027 strategy · Akrikhin × OMD'
+
+## Slide 1
+
+- `s0001`
+  - RU: 'Классификация документа: конфиденциальная информация для внутреннего использования'
+  - EN: 'Document classification: confidential, for internal use only'
+
+## Slide 2
+
+- `s0002`
+  - RU: 'Акриол 2027: Защитить лидерство, ускорить рост в аппаратной косметологии и расширить профессиональное использование'
+  - EN: 'Acriol 2027: defend leadership, accelerate growth in device-based aesthetics and expand professional use'
+- `s0003`
+  - RU: 'Акриол 2027: Защитить лидерство, ускорить рост в\xa0аппаратной\nкосметологии и\xa0расширить профессиональное использование'
+  - EN: 'Acriol 2027: defend leadership, accelerate growth\nin device-based aesthetics and expand professional use'
+- `s0004`
+  - RU: 'Защитить лидерство Акриол\xa0Про в косметологии'
+  - EN: 'Defend Acriol Pro’s leadership in aesthetics'
+- `s0005`
+  - RU: 'Сохранить долю и статус препарата выбора в инъекционных процедурах и противостоять усилению конкурентов, включая новые косметологические анестетики и ЛС'
+  - EN: 'Hold share and drug-of-choice status in injectable procedures and counter rising competition, including new cosmetic anesthetics and drugs'
+- `s0006`
+  - RU: 'Обеспечить рост в аппаратной косметологии'
+  - EN: 'Secure growth in device-based aesthetics'
+- `s0007`
+  - RU: 'Увеличить долю назначений Акриол Про за счёт отстройки от косметологических анестетиков и более активного присутствия в профессиональной среде'
+  - EN: 'Grow Acriol Pro’s prescription share by differentiating from cosmetic anesthetics and building a stronger presence among professionals'
+- `s0008`
+  - RU: 'Расширить использование бренда среди специалистов и потребителей'
+  - EN: 'Expand brand use among professionals and consumers'
+- `s0009`
+  - RU: 'Выстроить эффективную digital-стратегию на весь год'
+  - EN: 'Build an effective full-year digital strategy'
+- `s0010`
+  - RU: 'Сформировать оптимальный медиамикс с сохранением digital KPI 2026 года, обеспечить качественное попадание в ЦА, рост SOV и конверсию в использование и покупку'
+  - EN: 'Build an optimal media mix that holds digital KPIs at 2026 levels; ensure precise TA targeting, SOV growth and conversion into use and purchase'
+
+## Slide 3
+
+- `s0011`
+  - RU: 'Акриол сохраняет лидерство в категории, однако снижение digital-поддержки в апреле–июне совпало с сокращением доли продаж с 71% до 66%'
+  - EN: 'Acriol remains the category leader, but lower digital support in April–June coincided with sales share falling from 71% to 66%'
+- `s0012`
+  - RU: 'ДИНАМИКА ИНВЕСТИЦИЙ В DIGITAL-МЕДИА И ПРОДАЖ'
+  - EN: 'DIGITAL MEDIA SPEND AND SALES TRENDS'
+- `s0013`
+  - RU: 'Акриол Про'
+  - EN: 'Acriol Pro'
+- `s0014`
+  - RU: 'Эмла'
+  - EN: 'EMLA'
+- `s0015`
+  - RU: 'Анеста'
+  - EN: 'Anesta'
+- `s0016`
+  - RU: 'апрель–июнь'
+  - EN: 'Apr–Jun'
+- `s0017`
+  - RU: 'Доля продаж, %'
+  - EN: 'Sales share, %'
+- `s0018`
+  - RU: 'Акриол Про, доля продаж %'
+  - EN: 'Acriol Pro, sales share %'
+- `s0019`
+  - RU: 'Эмла, доля продаж %'
+  - EN: 'EMLA, sales share %'
+- `s0020`
+  - RU: 'Анеста, доля продаж %'
+  - EN: 'Anesta, sales share %'
+- `s0021`
+  - RU: 'Продажи, млн ₽'
+  - EN: 'Sales, RUB M'
+- `s0022`
+  - RU: 'Акриол Про, продажи млн ₽'
+  - EN: 'Acriol Pro, sales RUB M'
+- `s0023`
+  - RU: 'Эмла, продажи млн ₽'
+  - EN: 'EMLA, sales RUB M'
+- `s0024`
+  - RU: 'Анеста, продажи млн ₽'
+  - EN: 'Anesta, sales RUB M'
+- `s0025`
+  - RU: '29,1'
+  - EN: '29.1'
+- `s0026`
+  - RU: '30,4'
+  - EN: '30.4'
+- `s0027`
+  - RU: '34,1'
+  - EN: '34.1'
+- `s0028`
+  - RU: '34,2'
+  - EN: '34.2'
+- `s0029`
+  - RU: '35,5'
+  - EN: '35.5'
+- `s0030`
+  - RU: '29,4'
+  - EN: '29.4'
+- `s0031`
+  - RU: '29,3'
+  - EN: '29.3'
+- `s0032`
+  - RU: '28,5'
+  - EN: '28.5'
+- `s0033`
+  - RU: '34,9'
+  - EN: '34.9'
+- `s0034`
+  - RU: '36,4'
+  - EN: '36.4'
+- `s0035`
+  - RU: '36,7'
+  - EN: '36.7'
+- `s0036`
+  - RU: '33,0'
+  - EN: '33.0'
+- `s0037`
+  - RU: '36,3'
+  - EN: '36.3'
+- `s0038`
+  - RU: '42,8'
+  - EN: '42.8'
+- `s0039`
+  - RU: '40,2'
+  - EN: '40.2'
+- `s0040`
+  - RU: '36,8'
+  - EN: '36.8'
+- `s0041`
+  - RU: '10,7'
+  - EN: '10.7'
+- `s0042`
+  - RU: '11,1'
+  - EN: '11.1'
+- `s0043`
+  - RU: '11,7'
+  - EN: '11.7'
+- `s0044`
+  - RU: '12,0'
+  - EN: '12.0'
+- `s0045`
+  - RU: '10,9'
+  - EN: '10.9'
+- `s0046`
+  - RU: '9,9'
+  - EN: '9.9'
+- `s0047`
+  - RU: '10,0'
+  - EN: '10.0'
+- `s0048`
+  - RU: '10,3'
+  - EN: '10.3'
+- `s0049`
+  - RU: '9,4'
+  - EN: '9.4'
+- `s0050`
+  - RU: '10,2'
+  - EN: '10.2'
+- `s0051`
+  - RU: '10,4'
+  - EN: '10.4'
+- `s0052`
+  - RU: '9,1'
+  - EN: '9.1'
+- `s0053`
+  - RU: '9,7'
+  - EN: '9.7'
+- `s0054`
+  - RU: '11,5'
+  - EN: '11.5'
+- `s0055`
+  - RU: '10,8'
+  - EN: '10.8'
+- `s0056`
+  - RU: '2,3'
+  - EN: '2.3'
+- `s0057`
+  - RU: '2,2'
+  - EN: '2.2'
+- `s0058`
+  - RU: '2,1'
+  - EN: '2.1'
+- `s0059`
+  - RU: '1,5'
+  - EN: '1.5'
+- `s0060`
+  - RU: '1,6'
+  - EN: '1.6'
+- `s0061`
+  - RU: '1,4'
+  - EN: '1.4'
+- `s0062`
+  - RU: '1,9'
+  - EN: '1.9'
+- `s0063`
+  - RU: '1,1'
+  - EN: '1.1'
+- `s0064`
+  - RU: '0,9'
+  - EN: '0.9'
+- `s0065`
+  - RU: '0,8'
+  - EN: '0.8'
+- `s0066`
+  - RU: 'Digital-бюджет, млн ₽'
+  - EN: 'Digital budget, RUB M'
+- `s0067`
+  - RU: '0,11'
+  - EN: '0.11'
+- `s0068`
+  - RU: '0,85'
+  - EN: '0.85'
+- `s0069`
+  - RU: '0,20'
+  - EN: '0.20'
+- `s0070`
+  - RU: '2,97'
+  - EN: '2.97'
+- `s0071`
+  - RU: '1,57'
+  - EN: '1.57'
+- `s0072`
+  - RU: '0,38'
+  - EN: '0.38'
+- `s0073`
+  - RU: '2,86'
+  - EN: '2.86'
+- `s0074`
+  - RU: '1,01'
+  - EN: '1.01'
+- `s0075`
+  - RU: '0,89'
+  - EN: '0.89'
+- `s0076`
+  - RU: '1,06'
+  - EN: '1.06'
+- `s0077`
+  - RU: '0,61'
+  - EN: '0.61'
+- `s0078`
+  - RU: '0,33'
+  - EN: '0.33'
+- `s0079`
+  - RU: '0,81'
+  - EN: '0.81'
+- `s0080`
+  - RU: '1,64'
+  - EN: '1.64'
+- `s0081`
+  - RU: '0,97'
+  - EN: '0.97'
+- `s0082`
+  - RU: '1,43'
+  - EN: '1.43'
+- `s0083`
+  - RU: '0,72'
+  - EN: '0.72'
+- `s0084`
+  - RU: '0,26'
+  - EN: '0.26'
+- `s0085`
+  - RU: '0,56'
+  - EN: '0.56'
+- `s0086`
+  - RU: '0,31'
+  - EN: '0.31'
+- `s0087`
+  - RU: '0,13'
+  - EN: '0.13'
+- `s0088`
+  - RU: '0,76'
+  - EN: '0.76'
+- `s0089`
+  - RU: '0,40'
+  - EN: '0.40'
+- `s0090`
+  - RU: '0,10'
+  - EN: '0.10'
+- `s0091`
+  - RU: '0,12'
+  - EN: '0.12'
+- `s0092`
+  - RU: '0,34'
+  - EN: '0.34'
+- `s0093`
+  - RU: '0,44'
+  - EN: '0.44'
+- `s0094`
+  - RU: '0,30'
+  - EN: '0.30'
+- `s0095`
+  - RU: '1,22'
+  - EN: '1.22'
+- `s0096`
+  - RU: '0,99'
+  - EN: '0.99'
+- `s0097`
+  - RU: '0,35'
+  - EN: '0.35'
+- `s0098`
+  - RU: '0,22'
+  - EN: '0.22'
+- `s0099`
+  - RU: '0,03'
+  - EN: '0.03'
+- `s0100`
+  - RU: '0,05'
+  - EN: '0.05'
+- `s0101`
+  - RU: '0,25'
+  - EN: '0.25'
+- `s0102`
+  - RU: '0,00'
+  - EN: '0.00'
+- `s0103`
+  - RU: '0,19'
+  - EN: '0.19'
+- `s0104`
+  - RU: '0,45'
+  - EN: '0.45'
+- `s0105`
+  - RU: '0,15'
+  - EN: '0.15'
+- `s0106`
+  - RU: '0,09'
+  - EN: '0.09'
+- `s0107`
+  - RU: '0,02'
+  - EN: '0.02'
+- `s0108`
+  - RU: '0,04'
+  - EN: '0.04'
+- `s0109`
+  - RU: '0,01'
+  - EN: '0.01'
+- `s0110`
+  - RU: 'янв'
+  - EN: 'Jan'
+- `s0111`
+  - RU: 'фев'
+  - EN: 'Feb'
+- `s0112`
+  - RU: 'мар'
+  - EN: 'Mar'
+- `s0113`
+  - RU: 'апр'
+  - EN: 'Apr'
+- `s0114`
+  - RU: 'май'
+  - EN: 'May'
+- `s0115`
+  - RU: 'июн'
+  - EN: 'Jun'
+- `s0116`
+  - RU: 'июл'
+  - EN: 'Jul'
+- `s0117`
+  - RU: 'авг'
+  - EN: 'Aug'
+- `s0118`
+  - RU: 'сен'
+  - EN: 'Sep'
+- `s0119`
+  - RU: 'окт'
+  - EN: 'Oct'
+- `s0120`
+  - RU: 'ноя'
+  - EN: 'Nov'
+- `s0121`
+  - RU: 'дек'
+  - EN: 'Dec'
+- `s0122`
+  - RU: '9,7 млн ₽'
+  - EN: 'RUB 9.7M'
+- `s0123`
+  - RU: '4,4 млн ₽'
+  - EN: 'RUB 4.4M'
+- `s0124`
+  - RU: '1,7 млн ₽'
+  - EN: 'RUB 1.7M'
+- `s0125`
+  - RU: 'В 2026 Акриол сохраняет доминирующую позицию в категории: доля бренда по продажам находилась в диапазоне **66–71%**. В феврале рост digital-бюджета до **1,64 млн ₽** совпал с увеличением продаж относительно января, однако дальнейшая динамика не подтверждает прямую помесячную зависимость: максимальные продажи были достигнуты в марте при более низком объёме инвестиций. При этом на участке апрель–июнь сокращение digital-бюджета **с 1,43 до 0,72 млн ₽** сопровождалось снижением доли продаж **с 71% до 66%**. Это не доказывает прямого влияния медиа, но указывает на риск ослабления позиции бренда при снижении рекламной поддержки.'
+  - EN: 'In 2026 Acriol remains dominant in the category, holding a **66–71%** sales share. In February, a digital budget increase to **RUB 1.64M** coincided with higher sales vs January, but later months show no direct month-to-month link: sales peaked in March on lower spend. In April–June, the digital budget cut **from RUB 1.43M to 0.72M** came with a drop in sales share **from 71% to 66%**. This does not prove a direct media effect, but it signals a risk that the brand weakens when advertising support is cut.'
+- `s0126`
+  - RU: 'ВЫВОД'
+  - EN: 'TAKEAWAY'
+- `s0127`
+  - RU: 'Это указывает на необходимость поддерживать достаточное инвестиционное давление в ключевые периоды'
+  - EN: 'This shows the need to keep investment pressure high enough in key periods'
+- `s0128`
+  - RU: 'Это указывает на\xa0необходимость поддерживать достаточное инвестиционное давление в\xa0ключевые периоды'
+  - EN: 'This shows the need to keep investment pressure high enough in key periods'
+- `s0129`
+  - RU: 'Источник: DigitalBudget, IQVIA. * Бюджет указан за весь период 2025–2026'
+  - EN: 'Source: DigitalBudget, IQVIA. * Budget for the full 2025–2026 period'
+
+## Slide 4
+
+- `s0130`
+  - RU: 'Конкуренты продвигаются в основном с баннерными форматами. При этом использование персонализированного подхода в рамках креативной стратегии брендов не замечено'
+  - EN: 'Competitors mostly run banner formats. We saw no personalized approach in their creative strategies'
+- `s0131`
+  - RU: 'ЭМЛА'
+  - EN: 'EMLA'
+- `s0132`
+  - RU: 'АНЕСТА'
+  - EN: 'ANESTA'
+
+## Slide 5
+
+- `s0133`
+  - RU: 'Рост брендового интереса к Акриол Про опережает категорию, следующий шаг — конвертация спроса в e-commerce'
+  - EN: 'Branded interest in Acriol Pro is outgrowing the category — next step: convert demand in e-commerce'
+- `s0134`
+  - RU: 'WORDSTAT: ДИНАМИКА ЗАПРОСОВ'
+  - EN: 'WORDSTAT: SEARCH TRENDS'
+- `s0135`
+  - RU: 'Wordstat: динамика запросов'
+  - EN: 'Wordstat: search trends'
+- `s0136`
+  - RU: 'линии — индекс запросов'
+  - EN: 'lines — query index'
+- `s0137`
+  - RU: 'категория'
+  - EN: 'category'
+- `s0138`
+  - RU: 'Wordstat · категория, индекс'
+  - EN: 'Wordstat · category, index'
+- `s0139`
+  - RU: 'Wordstat · Акриол Про, индекс'
+  - EN: 'Wordstat · Acriol Pro, index'
+- `s0140`
+  - RU: 'OZON: ДИНАМИКА ЗАПРОСОВ'
+  - EN: 'OZON: SEARCH TRENDS'
+- `s0141`
+  - RU: 'Ozon: динамика запросов'
+  - EN: 'Ozon: search trends'
+- `s0142`
+  - RU: 'Данные Ozon доступны с 23.03.2026'
+  - EN: 'Ozon data from Mar 23, 2026'
+- `s0143`
+  - RU: 'Ozon · категория, индекс'
+  - EN: 'Ozon · category, index'
+- `s0144`
+  - RU: 'Ozon · Акриол Про, индекс'
+  - EN: 'Ozon · Acriol Pro, index'
+- `s0145`
+  - RU: 'ПОКАЗЫ КАМПАНИИ, ТЫС.'
+  - EN: 'CAMPAIGN IMPRESSIONS, K'
+- `s0146`
+  - RU: 'Показы кампании, тыс.'
+  - EN: 'Campaign impressions, K'
+- `s0147`
+  - RU: 'Акриол Про · Wordstat'
+  - EN: 'Acriol Pro · Wordstat'
+- `s0148`
+  - RU: 'Категория · Wordstat'
+  - EN: 'Category · Wordstat'
+- `s0149`
+  - RU: 'Средний недельный спрос июнь–август vs январь–февраль'
+  - EN: 'Average weekly demand, Jun–Aug vs Jan–Feb'
+- `s0150`
+  - RU: 'Поисковый спрос на Акриол Про вырос на 54%, тогда как категория росла медленнее (+27%). В 2027 следует продолжать присутствие Акриол Про в категорийном и контентном поиске и связывать его с брендовой коммуникацией'
+  - EN: 'Search demand for Acriol Pro grew 54%, while the category grew more slowly (+27%). In 2027, Acriol Pro should stay present in category and content search, linked to brand communication'
+- `s0151`
+  - RU: 'Акриол Про · Ozon'
+  - EN: 'Acriol Pro · Ozon'
+- `s0152`
+  - RU: 'Категория · Ozon'
+  - EN: 'Category · Ozon'
+- `s0153`
+  - RU: 'Средний недельный спрос август vs март–апрель'
+  - EN: 'Average weekly demand, Aug vs Mar–Apr'
+- `s0154`
+  - RU: 'На Ozon спрос на Акриол Про демонстрирует ограниченную положительную динамику (+3% vs +30% у категории). В 2027 важно усиливать брендовую коммуникацию с CTA «Ищите Акриол Про на Ozon», повышать видимость в категорийной выдаче и конверсию карточки товара'
+  - EN: 'On Ozon, Acriol Pro demand shows only modest growth (+3% vs +30% for the category). In 2027, step up brand communication with the CTA “Find Acriol Pro on Ozon”, raise visibility in category search results and improve product page conversion'
+- `s0155`
+  - RU: 'Источник: данные Ozon* и Яндекс Вордстат. Индекс запросов = значение недели / значение предыдущей недели × 100\n* Категория Ozon: обезболивающий крем / для эпиляции / для депиляции, крем с лидокаином обезболивающий, анестетик'
+  - EN: 'Source: Ozon* and Yandex Wordstat data. Query index = week value / previous week value × 100\n* Ozon category: numbing cream / for epilation / for depilation, lidocaine numbing cream, anesthetic'
+
+## Slide 6
+
+- `s0156`
+  - RU: 'Целевая аудитория фокусируется на тех, кто формирует выбор и использование анестетика'
+  - EN: 'Target audience: the people who shape anesthetic choice and use'
+- `s0157`
+  - RU: 'Целевая аудитория фокусируется на\xa0тех,\nкто формирует выбор и\xa0использование анестетика'
+  - EN: 'Target audience: the people\nwho shape anesthetic choice and use'
+- `s0158`
+  - RU: 'В 2027 сохраняем профессиональную ЦА как ядро, но разделяем ее по роли в выборе и бизнес-задаче'
+  - EN: 'In 2027 professionals remain the core TA, split by role in the choice and by business goal'
+- `s0159`
+  - RU: 'Врачи-косметологи'
+  - EN: 'Aesthetic doctors'
+- `s0160`
+  - RU: 'Инъекционная косметология'
+  - EN: 'Injectable aesthetics'
+- `s0161`
+  - RU: 'Защита лидерства и статуса препарата выбора'
+  - EN: 'Defend leadership and drug-of-choice status'
+- `s0162`
+  - RU: 'Аппаратная косметология'
+  - EN: 'Device-based aesthetics'
+- `s0163`
+  - RU: 'Основная зона роста назначений'
+  - EN: 'Main prescription growth area'
+- `s0164`
+  - RU: 'Специалисты / мастера'
+  - EN: 'Beauty technicians'
+- `s0165`
+  - RU: 'Лазерная эпиляция'
+  - EN: 'Laser hair removal'
+- `s0166`
+  - RU: 'Расширение использования'
+  - EN: 'Broader use'
+- `s0167`
+  - RU: 'Перманентный макияж'
+  - EN: 'Permanent makeup'
+- `s0168`
+  - RU: 'Рост рекомендации'
+  - EN: 'More recommendations'
+- `s0169`
+  - RU: 'Удаление тату'
+  - EN: 'Tattoo removal'
+- `s0170`
+  - RU: 'Рост использования'
+  - EN: 'More use'
+- `s0171`
+  - RU: 'Потребители услуг'
+  - EN: 'Beauty clients'
+- `s0172`
+  - RU: 'Инъекции и аппаратная косметология'
+  - EN: 'Injectables & device-based aesthetics'
+- `s0173`
+  - RU: 'Дополнительный спрос'
+  - EN: 'Extra demand'
+- `s0174`
+  - RU: 'Эпиляция и ПМ'
+  - EN: 'Hair removal & PMU'
+- `s0175`
+  - RU: 'Поддержка самостоятельного выбора'
+  - EN: 'Support independent choice'
+- `s0176`
+  - RU: 'КЛЮЧЕВОЙ ПРИНЦИП'
+  - EN: 'KEY PRINCIPLE'
+- `s0177`
+  - RU: 'Не расширяем ЦА ради охвата — каждому профессиональному сегменту даем собственную причину предпочесть Акриол Про'
+  - EN: 'We don’t broaden the TA just for reach — each professional segment gets its own reason to prefer Acriol Pro'
+- `s0178`
+  - RU: 'Не\xa0расширяем ЦА ради охвата\xa0— каждому профессиональному\nсегменту даем собственную причину предпочесть Акриол\xa0Про'
+  - EN: 'We don’t broaden the TA just for reach — each professional\nsegment gets its own reason to prefer Acriol Pro'
+
+## Slide 7
+
+- `s0179`
+  - RU: 'Актуализация сегментов и проверка на данных 2026: есть различия в выборе у разных сегментов'
+  - EN: 'Segments updated and checked against 2026 data: each segment chooses differently'
+- `s0180`
+  - RU: 'Актуализация сегментов и\xa0проверка на\xa0данных 2026:\nесть различия в\xa0выборе у\xa0разных сегментов'
+  - EN: 'Segments updated and checked against 2026 data:\neach segment chooses differently'
+- `s0181`
+  - RU: 'ЭТАП CJM'
+  - EN: 'CJM STAGE'
+- `s0182`
+  - RU: 'ИНЪЕКЦИОННАЯ КОСМЕТОЛОГИЯ'
+  - EN: 'INJECTABLE AESTHETICS'
+- `s0183`
+  - RU: 'АППАРАТНАЯ КОСМЕТОЛОГИЯ'
+  - EN: 'DEVICE-BASED AESTHETICS'
+- `s0184`
+  - RU: 'МАСТЕРА ЛАЗЕРНОЙ ЭПИЛЯЦИИ'
+  - EN: 'LASER HAIR REMOVAL TECHNICIANS'
+- `s0185`
+  - RU: 'МАСТЕРА ПМ И ТАТУ'
+  - EN: 'PMU & TATTOO TECHNICIANS'
+- `s0186`
+  - RU: 'ПОТРЕБИТЕЛИ УСЛУГ'
+  - EN: 'BEAUTY CLIENTS'
+- `s0187`
+  - RU: 'ВОЗНИКНОВЕНИЕ ПОТРЕБНОСТИ'
+  - EN: 'NEED TRIGGER'
+- `s0188`
+  - RU: 'Комфорт пациента во время процедуры'
+  - EN: 'Patient comfort during the procedure'
+- `s0189`
+  - RU: 'Снижение дискомфорта при процедуре'
+  - EN: 'Less discomfort during the procedure'
+- `s0190`
+  - RU: 'Комфорт клиента и качество сервиса'
+  - EN: 'Client comfort and service quality'
+- `s0191`
+  - RU: 'Контроль ощущений клиента'
+  - EN: 'Managing client sensations'
+- `s0192`
+  - RU: 'Страх боли перед процедурой'
+  - EN: 'Fear of procedure pain'
+- `s0193`
+  - RU: 'ЧТО ДУМАЕТ АУДИТОРИЯ'
+  - EN: 'WHAT THEY THINK'
+- `s0194`
+  - RU: '«Нужно решение, которому можно доверять»'
+  - EN: '“I need a solution I can trust”'
+- `s0195`
+  - RU: '«Какой анестетик подходит для процедуры?»'
+  - EN: '“Which anesthetic suits this procedure?”'
+- `s0196`
+  - RU: '«Что поможет клиенту легче пройти процедуру?»'
+  - EN: '“How can I make it easier for my client?”'
+- `s0197`
+  - RU: '«Как провести процедуру комфортно?»'
+  - EN: '“How do I make it comfortable?”'
+- `s0198`
+  - RU: '«Как сделать процедуру менее болезненной?»'
+  - EN: '“How can the procedure hurt less?”'
+- `s0199`
+  - RU: 'ПОИСК РЕШЕНИЯ'
+  - EN: 'SOLUTION SEARCH'
+- `s0200`
+  - RU: 'Опыт коллег и привычные препараты'
+  - EN: 'Peer experience, familiar drugs'
+- `s0201`
+  - RU: 'Сравнение ЛС и косметических анестетиков'
+  - EN: 'Comparing drugs and cosmetic anesthetics'
+- `s0202`
+  - RU: 'Рекомендации коллег, маркетплейсы, сообщества'
+  - EN: 'Peer advice, marketplaces, communities'
+- `s0203`
+  - RU: 'Отзывы и рекомендации, предложения рынка'
+  - EN: 'Reviews, recommendations, market offers'
+- `s0204`
+  - RU: 'Интернет, рекомендации специалиста'
+  - EN: 'Internet, specialist advice'
+- `s0205`
+  - RU: 'ГЛАВНЫЙ БАРЬЕР'
+  - EN: 'MAIN BARRIER'
+- `s0206`
+  - RU: 'Новые альтернативы снижают уникальность привычного решения'
+  - EN: 'New alternatives make the usual choice less unique'
+- `s0207`
+  - RU: 'Косметические анестетики кажутся более профессиональными'
+  - EN: 'Cosmetic anesthetics seem more professional'
+- `s0208`
+  - RU: 'Цена, доступность и привычка к маркетплейсам'
+  - EN: 'Price, availability, marketplace habit'
+- `s0209`
+  - RU: 'Недоверие к аптечному препарату'
+  - EN: 'Distrust of pharmacy products'
+- `s0210`
+  - RU: 'Не понимает различий между анестетиками'
+  - EN: 'Doesn’t see how anesthetics differ'
+- `s0211`
+  - RU: 'СРАВНЕНИЕ ВАРИАНТОВ'
+  - EN: 'COMPARING OPTIONS'
+- `s0212`
+  - RU: 'Эффективность, безопасность, статус препарата'
+  - EN: 'Efficacy, safety, drug status'
+- `s0213`
+  - RU: 'Удобство, скорость, отзывы, цена'
+  - EN: 'Convenience, speed, reviews, price'
+- `s0214`
+  - RU: 'Цена и удобство применения'
+  - EN: 'Price and ease of use'
+- `s0215`
+  - RU: 'Обещания брендов и опыт коллег'
+  - EN: 'Brand claims, peer experience'
+- `s0216`
+  - RU: 'Рекомендация специалиста'
+  - EN: 'Specialist advice'
+- `s0217`
+  - RU: 'ТОЧКА ВЛИЯНИЯ АКРИОЛ\xa0ПРО'
+  - EN: 'ACRIOL PRO IMPACT POINT'
+- `s0218`
+  - RU: 'Закрепить статус препарата выбора'
+  - EN: 'Lock in drug-of-choice status'
+- `s0219`
+  - RU: 'Переопределить «профессиональность» через надежность ЛП'
+  - EN: 'Redefine “professional” through drug reliability'
+- `s0220`
+  - RU: 'Показать профессиональную ценность, а не цену упаковки'
+  - EN: 'Show professional value, not pack price'
+- `s0221`
+  - RU: 'Показать профессиональность через управляемость процесса'
+  - EN: 'Show professionalism through process control'
+- `s0222`
+  - RU: 'Объяснить ценность зарегистрированного препарата'
+  - EN: 'Explain the value of a registered drug'
+- `s0223`
+  - RU: 'БАРЬЕР ПОКУПКИ'
+  - EN: 'PURCHASE BARRIER'
+- `s0224`
+  - RU: 'Нет причины менять привычный процесс'
+  - EN: 'No reason to change the routine'
+- `s0225`
+  - RU: 'Неочевидна причина перехода'
+  - EN: 'No clear reason to switch'
+- `s0226`
+  - RU: 'Цена и доступность альтернатив'
+  - EN: 'Alternatives’ price and access'
+- `s0227`
+  - RU: 'Привычка к другому средству'
+  - EN: 'Used to another product'
+- `s0228`
+  - RU: 'Не знает, где купить'
+  - EN: 'Unsure where to buy'
+- `s0229`
+  - RU: 'РОЛЬ АКРИОЛ\xa0ПРО'
+  - EN: 'ACRIOL PRO’S ROLE'
+- `s0230`
+  - RU: 'Подтвердить профессиональный стандарт'
+  - EN: 'Confirm the professional standard'
+- `s0231`
+  - RU: 'Показать применение в разных сценариях'
+  - EN: 'Show use across scenarios'
+- `s0232`
+  - RU: 'Стать частью рабочего процесса'
+  - EN: 'Become part of the workflow'
+- `s0233`
+  - RU: 'Закрепиться как профессиональный инструмент'
+  - EN: 'Establish itself as a professional tool'
+- `s0234`
+  - RU: 'Сформировать доверие к выбору'
+  - EN: 'Build trust in the choice'
+
+## Slide 8
+
+- `s0235`
+  - RU: 'Как защитить Акриол\xa0Про от выхода Глейсы'
+  - EN: 'Defending Acriol Pro as Gleisa launches'
+- `s0236`
+  - RU: 'У нового конкурента совпадает ключевой фарм-код, поэтому защита должна строиться на профессиональном предпочтении, а не только на статусе ЛП'
+  - EN: 'The new rival shares our core formula, so the defense has to rest on professional preference, not on drug status alone'
+- `s0237`
+  - RU: 'АКРИОЛ\xa0ПРО VS ГЛЕЙСА'
+  - EN: 'ACRIOL PRO VS GLEISA'
+- `s0238`
+  - RU: 'Критерий'
+  - EN: 'Criterion'
+- `s0239`
+  - RU: 'Акриол\xa0Про'
+  - EN: 'Acriol Pro'
+- `s0240`
+  - RU: 'Глейса'
+  - EN: 'Gleisa'
+- `s0241`
+  - RU: 'Состав'
+  - EN: 'Formula'
+- `s0242`
+  - RU: 'Лидокаин + прилокаин\n2,5% + 2,5%'
+  - EN: 'Lidocaine + prilocaine\n2.5% + 2.5%'
+- `s0243`
+  - RU: 'Лидокаин + прилокаин\n25 + 25 мг/г'
+  - EN: 'Lidocaine + prilocaine\n25 + 25 mg/g'
+- `s0244`
+  - RU: 'Статус'
+  - EN: 'Status'
+- `s0245`
+  - RU: 'Лекарственный препарат;\nбезрецептурный'
+  - EN: 'Medicinal product;\nOTC'
+- `s0246`
+  - RU: 'Регистрация'
+  - EN: 'Registration'
+- `s0247`
+  - RU: 'Акриол\xa0Про на рынке\nс 2017 года'
+  - EN: 'On the market\nsince 2017'
+- `s0248`
+  - RU: 'РУ от 27.04.2026;\nновый бренд'
+  - EN: 'Approved Apr 27, 2026;\nnew brand'
+- `s0249`
+  - RU: 'Фасовки'
+  - EN: 'Pack sizes'
+- `s0250`
+  - RU: '5 / 30 / 100 г'
+  - EN: '5 / 30 / 100 g'
+- `s0251`
+  - RU: 'Профессиональная база'
+  - EN: 'Professional base'
+- `s0252`
+  - RU: '9+ лет опыта;\nсформированная привычка'
+  - EN: '9+ years of use;\nestablished habit'
+- `s0253`
+  - RU: 'Нужно сформировать\nпрофессиональное доверие'
+  - EN: 'Needs to build\nprofessional trust'
+- `s0254`
+  - RU: 'Ключевой актив'
+  - EN: 'Key asset'
+- `s0255`
+  - RU: 'Накопленный опыт,\nдоверие, рабочая привычка'
+  - EN: 'Track record,\ntrust, everyday habit'
+- `s0256`
+  - RU: 'Новизна + ресурс\nкрупной фармгруппы'
+  - EN: 'Novelty + major\npharma backing'
+- `s0257`
+  - RU: 'ЧТО МЕНЯЕМ В ЗАЩИТЕ'
+  - EN: 'DEFENSE: WHAT CHANGES'
+- `s0258`
+  - RU: 'НЕ «МЫ ТОЖЕ ЛП»'
+  - EN: 'NOT “ALSO A DRUG”'
+- `s0259`
+  - RU: '«Акриол\xa0Про уже встроен в работу специалиста»'
+  - EN: '“Specialists already work with Acriol Pro”'
+- `s0260`
+  - RU: 'Заранее задаём критерии выбора: опыт, предсказуемость, удобство процесса, фасовки, доступность, экономика процедуры.'
+  - EN: 'We set choice criteria early: experience, predictability, ease of use, pack sizes, availability, procedure economics.'
+- `s0261`
+  - RU: 'DOL + экспертный контент + кейсы процедур. Закрепляем Акриол\xa0Про как привычный профессиональный инструмент ДО усиления конкуренции.'
+  - EN: 'DOL + expert content + procedure cases. We make Acriol Pro the go-to professional tool BEFORE competition heats up.'
+- `s0262`
+  - RU: 'Search, GEO/AEO, HCP-среда и ретаргетинг забирают момент сравнения: категория + конкурентные запросы + образовательные сценарии.'
+  - EN: 'Search, GEO/AEO, HCP media and retargeting capture the comparison moment: category + competitor queries + educational content.'
+- `s0263`
+  - RU: 'контактов / мес.'
+  - EN: 'contacts / mo'
+- `s0264`
+  - RU: 'ТАКТИЧЕСКАЯ МОДЕЛЬ'
+  - EN: 'TACTICAL MODEL'
+- `s0265`
+  - RU: 'Охват + экспертность'
+  - EN: 'Reach + expertise'
+- `s0266`
+  - RU: 'GEO/AEO + публикации + Search'
+  - EN: 'GEO/AEO + publications + Search'
+- `s0267`
+  - RU: 'ЛОГИКА'
+  - EN: 'LOGIC'
+- `s0268`
+  - RU: 'заранее сформировать профессиональное предпочтение → удержать момент сравнения → расширить использование'
+  - EN: 'build professional preference early → hold the comparison moment → expand use'
+- `s0269`
+  - RU: 'заранее сформировать профессиональное предпочтение →\xa0удержать момент сравнения →\xa0расширить использование'
+  - EN: 'build professional preference early → hold the comparison moment → expand use'
+
+## Slide 9
+
+- `s0270`
+  - RU: 'Стратегический ответ на усиление конкурентов'
+  - EN: 'Strategic response to stronger competitors'
+- `s0271`
+  - RU: 'Защищаем Акриол\xa0Про не от конкретного игрока, а от переключения - заранее укрепляем профессиональное предпочтение'
+  - EN: 'We defend Acriol Pro against switching, not a specific rival, by strengthening professional preference early'
+- `s0272`
+  - RU: 'Закрепляем Акриол\xa0Про\nв профессиональной среде ДО усиления конкуренции'
+  - EN: 'Lock in Acriol Pro\namong professionals BEFORE competition heats up'
+- `s0273`
+  - RU: 'Не отдаем момент сравнения новому ЛС'
+  - EN: 'Win the comparison against the new drug'
+- `s0274`
+  - RU: 'Расширяем территорию использования и дополнительные точки контакта'
+  - EN: 'Expand areas of use and add touchpoints'
+- `s0275`
+  - RU: 'DOL и экспертные мнения врачей'
+  - EN: 'DOLs and doctors’ expert views'
+- `s0276`
+  - RU: 'Search и образовательные сценарии'
+  - EN: 'Search and educational content'
+- `s0277`
+  - RU: 'Аппаратная косметология — ключевая зона роста'
+  - EN: 'Device-based aesthetics — key growth area'
+- `s0278`
+  - RU: 'Кейсы и разборы процедур'
+  - EN: 'Procedure case studies'
+- `s0279`
+  - RU: 'Авторитетные публикации в HCP-контуре'
+  - EN: 'Authoritative publications in HCP media'
+- `s0280`
+  - RU: 'Переводим «профессиональность» с косметики на критерии процедуры'
+  - EN: 'Redefine “professional” by procedure criteria, not cosmetics'
+- `s0281`
+  - RU: 'Критерии выбора анестетика'
+  - EN: 'Anesthetic choice criteria'
+- `s0282`
+  - RU: 'Фокус на профессиональных критериях выбора'
+  - EN: 'Focus on professional choice criteria'
+- `s0283`
+  - RU: 'Эпиляция / ПМ / тату — отдельные причины выбора'
+  - EN: 'Hair removal / PMU / tattoo — a reason for each'
+- `s0284`
+  - RU: 'Преимущества зарегистрированного ЛП'
+  - EN: 'Benefits of a registered drug'
+- `s0285`
+  - RU: 'Усиление присутствия при росте давления'
+  - EN: 'Stronger presence as pressure grows'
+- `s0286`
+  - RU: 'Поддерживаем самостоятельный спрос'
+  - EN: 'Support direct consumer demand'
+- `s0287`
+  - RU: 'качественных контактов'
+  - EN: 'quality contacts'
+- `s0288`
+  - RU: 'ГЛАВНАЯ ЛОГИКА'
+  - EN: 'MAIN LOGIC'
+- `s0289`
+  - RU: 'Заранее формируем профессиональное предпочтение → удерживаем consideration → расширяем использование'
+  - EN: 'Build professional preference early → hold consideration → expand use'
+- `s0290`
+  - RU: 'Заранее формируем профессиональное предпочтение →\xa0удерживаем consideration →\xa0расширяем использование'
+  - EN: 'Build professional preference early → hold consideration → expand use'
+
+## Slide 10
+
+- `s0291`
+  - RU: 'География 2027: система весов внутри национальной кампании для медиа-активаций'
+  - EN: 'Geography 2027: regional weights for media within the national campaign'
+- `s0292`
+  - RU: 'Paid Search - поддержка национального слоя'
+  - EN: 'Paid Search: the national support layer'
+- `s0293`
+  - RU: 'География 2027: система весов внутри\nнациональной кампании для\xa0медиа-активаций'
+  - EN: 'Geography 2027: regional weights for media\nwithin the national campaign'
+- `s0294`
+  - RU: '10 крупнейших регионов формируют две трети H1’26 и растут двузначно - концентрируем максимальный вес в Sprint 1 и 2'
+  - EN: 'The top 10 regions make up two-thirds of H1’26 sales and are growing by double digits — max weight in Sprints 1 and 2'
+- `s0295`
+  - RU: '6 территорий уже растут быстрее ядра. Их доля продаж пока мала, поэтому здесь оправдан повышающий коэффициент к медийному весу'
+  - EN: '6 territories are already outgrowing the core. Their sales share is still small, so a media weight uplift is justified here'
+- `s0296`
+  - RU: 'Гео-веса применяем к медийным инструментам; нижняя воронка остается национальной'
+  - EN: 'Geo weights apply to awareness media; the lower funnel stays national'
+- `s0297`
+  - RU: 'Коммерческое ядро'
+  - EN: 'Commercial core'
+- `s0298`
+  - RU: 'ДОЛЯ ПРОДАЖ'
+  - EN: 'SALES SHARE'
+- `s0299`
+  - RU: '66,6%'
+  - EN: '66.6%'
+- `s0300`
+  - RU: '+12,5%'
+  - EN: '+12.5%'
+- `s0301`
+  - RU: 'РЕГИОНОВ'
+  - EN: 'REGIONS'
+- `s0302`
+  - RU: 'первый приоритет'
+  - EN: 'top priority'
+- `s0303`
+  - RU: 'ЯДРО ПЕРВОГО ПРИОРИТЕТА'
+  - EN: 'TOP-PRIORITY CORE'
+- `s0304`
+  - RU: 'Москва + МО'
+  - EN: 'Moscow + region'
+- `s0305`
+  - RU: 'Ростовская обл.'
+  - EN: 'Rostov Oblast'
+- `s0306`
+  - RU: 'Санкт-Петербург + ЛО'
+  - EN: 'St. Petersburg + region'
+- `s0307`
+  - RU: 'Новосибирская обл.'
+  - EN: 'Novosibirsk Oblast'
+- `s0308`
+  - RU: 'Свердловская обл.'
+  - EN: 'Sverdlovsk Oblast'
+- `s0309`
+  - RU: 'Пермский край'
+  - EN: 'Perm Krai'
+- `s0310`
+  - RU: 'Краснодарский край'
+  - EN: 'Krasnodar Krai'
+- `s0311`
+  - RU: 'Башкортостан'
+  - EN: 'Bashkortostan'
+- `s0312`
+  - RU: 'Челябинская обл.'
+  - EN: 'Chelyabinsk Oblast'
+- `s0313`
+  - RU: 'География роста'
+  - EN: 'Growth regions'
+- `s0314`
+  - RU: '7,0%'
+  - EN: '7.0%'
+- `s0315`
+  - RU: '+26,4%'
+  - EN: '+26.4%'
+- `s0316`
+  - RU: 'агрегировано'
+  - EN: 'combined'
+- `s0317`
+  - RU: 'точки роста'
+  - EN: 'growth pockets'
+- `s0318`
+  - RU: 'УСИЛЕНИЕ / РОСТ'
+  - EN: 'BOOST / GROWTH'
+- `s0319`
+  - RU: 'Хабаровский край'
+  - EN: 'Khabarovsk Krai'
+- `s0320`
+  - RU: 'Красноярский край'
+  - EN: 'Krasnoyarsk Krai'
+- `s0321`
+  - RU: 'Воронежская обл.'
+  - EN: 'Voronezh Oblast'
+- `s0322`
+  - RU: 'Омская обл.'
+  - EN: 'Omsk Oblast'
+- `s0323`
+  - RU: 'Ставропольский край'
+  - EN: 'Stavropol Krai'
+- `s0324`
+  - RU: 'Алтайский край'
+  - EN: 'Altai Krai'
+- `s0325`
+  - RU: 'Распределение инвестиций'
+  - EN: 'Investment split'
+- `s0326`
+  - RU: 'Ядро'
+  - EN: 'Core'
+- `s0327`
+  - RU: 'Рост'
+  - EN: 'Growth'
+- `s0328`
+  - RU: 'Остальная РФ'
+  - EN: 'Rest of Russia'
+- `s0329`
+  - RU: 'ЯДРО'
+  - EN: 'CORE'
+- `s0330`
+  - RU: 'максимальный вес в Sprint'
+  - EN: 'maximum weight in Sprints'
+- `s0331`
+  - RU: 'РОСТ'
+  - EN: 'GROWTH'
+- `s0332`
+  - RU: 'дополнительное давление'
+  - EN: 'extra pressure'
+- `s0333`
+  - RU: 'ОСТАЛЬНАЯ РФ'
+  - EN: 'REST OF RUSSIA'
+- `s0334`
+  - RU: 'базовое присутствие'
+  - EN: 'baseline presence'
+- `s0335`
+  - RU: 'Paid Search - РФ always-on; гео-веса для Programmatic (HCP-signals) и Social (MAX)'
+  - EN: 'Paid Search: national always-on; geo-weights for Programmatic (HCP signals) & Social (MAX)'
+- `s0336`
+  - RU: 'ПЛАНИРОВОЧНЫЙ ПРИНЦИП'
+  - EN: 'PLANNING PRINCIPLE'
+- `s0337`
+  - RU: '65% защищают коммерческое ядро → 20% ускоряют доказанные точки роста → 15% сохраняют национальное присутствие'
+  - EN: '65% defends the commercial core → 20% speeds up proven growth pockets → 15% keeps national presence'
+- `s0338`
+  - RU: '65% защищают коммерческое ядро →\xa020% ускоряют доказанные\nточки роста →\xa015% сохраняют национальное присутствие'
+  - EN: '65% defends the commercial core → 20% speeds up proven\ngrowth pockets → 15% keeps national presence'
+
+## Slide 11
+
+- `s0339`
+  - RU: 'Сезонность 2027: усиливаем охват в периоды роста продаж, между флайтами - конвертируем сформированный спрос'
+  - EN: 'Seasonality 2027: boost reach as sales rise; between flights, convert existing demand'
+- `s0340`
+  - RU: 'Сезонность 2027: усиливаем охват в\xa0периоды роста продаж,\nмежду флайтами\xa0— конвертируем сформированный спрос'
+  - EN: 'Seasonality 2027: boost reach as sales rise;\nbetween flights, convert existing demand'
+- `s0341`
+  - RU: 'Продажи 2025, млн ₽'
+  - EN: '2025 sales, RUB M'
+- `s0342`
+  - RU: 'Янв'
+  - EN: 'Jan'
+- `s0343`
+  - RU: 'Фев'
+  - EN: 'Feb'
+- `s0344`
+  - RU: 'Мар'
+  - EN: 'Mar'
+- `s0345`
+  - RU: 'Апр'
+  - EN: 'Apr'
+- `s0346`
+  - RU: 'Май'
+  - EN: 'May'
+- `s0347`
+  - RU: 'Июн'
+  - EN: 'Jun'
+- `s0348`
+  - RU: 'Июл'
+  - EN: 'Jul'
+- `s0349`
+  - RU: 'Авг'
+  - EN: 'Aug'
+- `s0350`
+  - RU: 'Сен'
+  - EN: 'Sep'
+- `s0351`
+  - RU: 'Окт'
+  - EN: 'Oct'
+- `s0352`
+  - RU: 'Ноя'
+  - EN: 'Nov'
+- `s0353`
+  - RU: 'Дек'
+  - EN: 'Dec'
+- `s0354`
+  - RU: 'База → max давление → усиленный спрос → max давление'
+  - EN: 'Base → max pressure → demand boost → max pressure'
+- `s0355`
+  - RU: 'ПРОДАЖИ 2025, МЛН\xa0₽'
+  - EN: '2025 SALES, RUB M'
+- `s0356`
+  - RU: 'Сезонный ориентир'
+  - EN: 'Seasonal benchmark'
+- `s0357`
+  - RU: 'КАЛЕНДАРЬ ПРОДВИЖЕНИЯ'
+  - EN: 'PROMOTION CALENDAR'
+- `s0358`
+  - RU: 'Рекомендуемое\nмедиа-давление'
+  - EN: 'Recommended\nmedia pressure'
+- `s0359`
+  - RU: 'СЕЗОННОСТЬ СПРОСА И ПРОДАЖ'
+  - EN: 'DEMAND & SALES SEASONALITY'
+- `s0360`
+  - RU: '+10,6%'
+  - EN: '+10.6%'
+- `s0361`
+  - RU: 'МАР–МАЙ'
+  - EN: 'MAR–MAY'
+- `s0362`
+  - RU: 'продаж H1’26'
+  - EN: 'of H1’26 sales'
+- `s0363`
+  - RU: 'июн–авг vs янв–фев'
+  - EN: 'Jun–Aug vs Jan–Feb'
+- `s0364`
+  - RU: 'Продажи формируют два выраженных пика: весенний рост март–июнь и максимальный Q4; июль–август — окно сезонной просадки, когда важно конвертировать высокий поисковый интерес в покупку.'
+  - EN: 'Sales have two clear peaks: spring growth in March–June and a Q4 high; July–August is a seasonal dip, when the priority is turning high search interest into purchases.'
+- `s0365`
+  - RU: 'РОЛЬ ИНСТРУМЕНТОВ'
+  - EN: 'CHANNEL ROLES'
+- `s0366`
+  - RU: 'Янв–фев, июл–авг'
+  - EN: 'Jan–Feb, Jul–Aug'
+- `s0367`
+  - RU: 'забираем спрос'
+  - EN: 'capture demand'
+- `s0368`
+  - RU: 'GEO/AEO · ORM · Внешние публикации\n· Paid Search'
+  - EN: 'GEO/AEO · ORM · External publications\n· Paid Search'
+- `s0369`
+  - RU: 'Всегда присутствуем в моменте выбора и забираем сформированный спрос'
+  - EN: 'Always there at the moment of choice, capturing existing demand'
+- `s0370`
+  - RU: 'SPRINT 1 И 2'
+  - EN: 'SPRINTS 1 & 2'
+- `s0371`
+  - RU: 'Мар–май · Sprint 1'
+  - EN: 'Mar–May · Sprint 1'
+- `s0372`
+  - RU: 'max охват · рост аппаратки'
+  - EN: 'max reach · device segment growth'
+- `s0373`
+  - RU: 'Сен–ноя · Sprint 2'
+  - EN: 'Sep–Nov · Sprint 2'
+- `s0374`
+  - RU: 'max охват · защита доли'
+  - EN: 'max reach · defend share'
+- `s0375`
+  - RU: 'Формируем знание и закрепляем Акриол\xa0Про в профессиональном выборе'
+  - EN: 'Build awareness and lock in Acriol Pro as the professional choice'
+- `s0376`
+  - RU: 'CAPTURE · УСИЛЕНИЕ СПРОСА'
+  - EN: 'CAPTURE · DEMAND BOOST'
+- `s0377`
+  - RU: 'Июнь, дек'
+  - EN: 'Jun, Dec'
+- `s0378`
+  - RU: 'конвертация спроса в покупку · retargeting'
+  - EN: 'converting demand to purchase · retargeting'
+- `s0379`
+  - RU: 'В июне и декабре акцент на поиске, e-com CTA и возврате заинтересованных пользователей'
+  - EN: 'In June and December, focus on search, e-com CTAs and re-engaging interested users'
+- `s0380`
+  - RU: 'Охват усиливаем в коммерческие пики'
+  - EN: 'We boost reach at commercial peaks'
+
+## Slide 12
+
+- `s0381`
+  - RU: 'Acriol PRO: learnings H1 2026 → H2 2026 и 2027'
+  - EN: 'Acriol Pro: H1 2026 learnings → H2 2026 and 2027'
+- `s0382`
+  - RU: 'Нижняя воронка уже работает; в 2027 масштабируем доказанные механики, новые инвестиции - после подтверждения бизнес-эффекта сегментной коммуникации в Programmatic по итогам H2 2026'
+  - EN: 'The lower funnel already works; in 2027 we scale proven mechanics, and new investment comes once H2 2026 results confirm the business effect of segment messaging in Programmatic'
+- `s0383`
+  - RU: 'ЧТО ДОКАЗАЛ 2026'
+  - EN: 'WHAT 2026 PROVED'
+- `s0384`
+  - RU: 'SEARCH — ДОКАЗАННОЕ PERFORMANCE-ЯДРО'
+  - EN: 'SEARCH — PROVEN PERFORMANCE CORE'
+- `s0385`
+  - RU: 'Competitive дал 5% CR «Где купить», Transaction — 4% в корзину и 1% в покупку. Поиск уже закрывает выбор бренда и аптечную конверсию.'
+  - EN: 'Competitive: 5% “Where to buy” CR; Transaction: 4% to cart, 1% to purchase. Search already secures brand choice and pharmacy conversion.'
+- `s0386`
+  - RU: '5% CR  •  4% корзина  •  1% покупка'
+  - EN: '5% CR  •  4% cart  •  1% purchase'
+- `s0387`
+  - RU: 'РСЯ РАБОТАЕТ ПОСЛЕ ОПТИМИЗАЦИИ, А НЕ «САМА ПО СЕБЕ»'
+  - EN: 'YAN WORKS AFTER OPTIMIZATION, NOT “ON ITS OWN”'
+- `s0388`
+  - RU: 'К июню качество заметно улучшилось: отказы 60%→38%, время 0:24→0:36; CR «Где купить» вырос. Масштаб оправдан только при сохранении post-click качества.'
+  - EN: 'By June, YAN (Yandex Advertising Network) quality improved: bounce rate 60%→38%, time 0:24→0:36; “Where to buy” CR up. Scale only if post-click quality holds.'
+- `s0389`
+  - RU: 'TG / MAX — ПЕРСПЕКТИВНОЕ РАСШИРЕНИЕ, НО ТЕСТ БЫЛ КОРОТКИМ'
+  - EN: 'TG / MAX — PROMISING EXTENSION, BUT THE TEST WAS SHORT'
+- `s0390`
+  - RU: 'За 2 недели получено 160 конверсий «Где купить» и сильный post-click. Для уверенного масштабирования нужен более длинный период и более широкая структура таргетингов.'
+  - EN: 'In 2 weeks: 160 “Where to buy” conversions and strong post-click metrics. Confident scaling needs a longer period and a broader targeting structure.'
+- `s0391`
+  - RU: '160 конверсий  •  2 недели'
+  - EN: '160 conversions  •  2 weeks'
+- `s0392`
+  - RU: 'ВКЛАД ВЕРХНЕЙ ВОРОНКИ В ПРОДАЖИ ПОКА НЕ ДОКАЗАН'
+  - EN: 'UPPER-FUNNEL SALES CONTRIBUTION NOT YET PROVEN'
+- `s0393`
+  - RU: 'H1 был в основном performance-led. Снижение поддержки в апреле–июне совпало со снижением доли продаж 71%→66%, но прямую связь это не подтверждает.'
+  - EN: 'H1 was mostly performance-led. Lower support in April–June coincided with a drop in sales share, 71%→66%, but that does not prove a direct link.'
+- `s0394`
+  - RU: '71% → 66% доля продаж'
+  - EN: '71% → 66% sales share'
+- `s0395`
+  - RU: 'ЧТО ДЕЛАЕМ С ЭТИМ В 2027'
+  - EN: 'WHAT THIS MEANS FOR 2027'
+- `s0396`
+  - RU: 'Paid Search оставить always-on ядром: приоритет Transaction; оптимизировать по CR и аптечным действиям, а не только по кликам'
+  - EN: 'Keep Paid Search as the always-on core: Transaction first; optimize for CR and pharmacy actions, not clicks alone'
+- `s0397`
+  - RU: 'РСЯ масштабировать при сохранении результата по BR / времени / CR'
+  - EN: 'Scale YAN while BR / time / CR results hold'
+- `s0398`
+  - RU: 'TG / MAX продолжить как конверсионное расширение — более длинными флайтами и с расширенным пулом тематик'
+  - EN: 'Continue TG / MAX as a conversion extension — longer flights and a wider pool of topics'
+- `s0399`
+  - RU: 'В рамках второго полугодия запустили репрезентативный comprehensive-тест на «Мастеров» и «Потребителей»: персонализированная коммуникация + измерение Sales Lift'
+  - EN: 'In H2 we launched a representative Comprehensive test among “Beauty technicians” and “Beauty clients”: personalized messaging + Sales Lift measurement'
+- `s0400`
+  - RU: 'GEO / AEO вести как pilot с заранее заданным decision gate: SOV в AI-ответах, упоминания бренда и динамика брендового спроса'
+  - EN: 'Run GEO / AEO as a pilot with a preset decision gate: SOV in AI answers, brand mentions and branded demand trend'
+- `s0401`
+  - RU: 'Не наращивать РСЯ только из-за низкого CPC или объёма кликов — без сохранения post-click качества'
+  - EN: 'Don’t grow YAN on low CPC or click volume alone — only with post-click quality intact'
+- `s0402`
+  - RU: 'Не увеличивать охватные инвестиции только по media KPI — бизнес-вклад должен подтверждаться Sales Lift / инкрементальностью'
+  - EN: 'Don’t raise reach investment on media KPIs alone — business contribution must be proven by Sales Lift / incrementality'
+- `s0403`
+  - RU: 'Не повторяем в 2027 году опыт с площадками, которые плохо себя показали в рамках 2026 года'
+  - EN: 'Don’t rebook platforms that underperformed in 2026'
+- `s0404`
+  - RU: 'МАСШТАБИРОВАТЬ ТО, ЧТО УЖЕ ДОКАЗАЛО ВКЛАД'
+  - EN: 'SCALE WHAT HAS PROVEN ITS CONTRIBUTION'
+- `s0405`
+  - RU: 'ДОБАВИТЬ ТО, ЧЕГО НЕ ХВАТАЛО ДЛЯ РОСТА'
+  - EN: 'ADD WHAT WAS MISSING FOR GROWTH'
+- `s0406`
+  - RU: 'НЕ МАСШТАБИРОВАТЬ БЕЗ ДОКАЗАТЕЛЬСТВА'
+  - EN: 'DON’T SCALE WITHOUT PROOF'
+- `s0407`
+  - RU: 'Search / РСЯ / TG-MAX масштабируем по доказанной эффективности; comprehensive и GEO/AEO — только после прохождения business decision gate'
+  - EN: 'Search / YAN / TG-MAX: scale on proven results; Comprehensive and GEO/AEO — only after passing the business decision gate'
+- `s0408`
+  - RU: 'Search / РСЯ / TG-MAX масштабируем по\xa0доказанной эффективности;\ncomprehensive и\xa0GEO/AEO\xa0— только после прохождения business decision gate'
+  - EN: 'Search / YAN / TG-MAX: scale on proven results;\nComprehensive and GEO/AEO — only after passing the business decision gate'
+- `s0409`
+  - RU: 'Источник: DigitalBudget, IQVIA'
+  - EN: 'Source: DigitalBudget, IQVIA'
+
+## Slide 13
+
+- `s0410`
+  - RU: 'Тактическая архитектура 2027: professional-first'
+  - EN: '2027 tactical architecture: professional-first'
+- `s0411`
+  - RU: 'Сначала формируем профессиональное предпочтение →\nзатем масштабируем контакт → конвертируем спрос'
+  - EN: 'First build professional preference →\nthen scale exposure → convert demand'
+- `s0412`
+  - RU: 'ФОРМИРУЕМ ПРЕДПОЧТЕНИЕ'
+  - EN: 'BUILD PREFERENCE'
+- `s0413`
+  - RU: 'DOLs + HCP-контент'
+  - EN: 'DOLs + HCP content'
+- `s0414`
+  - RU: 'авторитет коллег и лидеров мнений'
+  - EN: 'peer and opinion-leader authority'
+- `s0415`
+  - RU: 'протоколы и процедурные кейсы'
+  - EN: 'protocols and procedure cases'
+- `s0416`
+  - RU: 'экспертные критерии выбора'
+  - EN: 'expert choice criteria'
+- `s0417`
+  - RU: 'ЗАДАЧА'
+  - EN: 'GOAL'
+- `s0418`
+  - RU: 'изменить профессиональную привычку'
+  - EN: 'change professional habits'
+- `s0419`
+  - RU: 'ОХВАТ'
+  - EN: 'REACH'
+- `s0420`
+  - RU: 'МАСШТАБИРУЕМ В HCP-СРЕДЕ'
+  - EN: 'SCALE IN THE HCP SPACE'
+- `s0421`
+  - RU: 'Проф. контент + Programmatic'
+  - EN: 'Prof. content + Programmatic'
+- `s0422`
+  - RU: 'авторитетные индексируемые публикации'
+  - EN: 'authoritative indexed publications'
+- `s0423`
+  - RU: 'таргетинг на основе проф. сигналов'
+  - EN: 'professional-signal targeting'
+- `s0424`
+  - RU: 'повторные контакты по специализации'
+  - EN: 'repeat exposure by specialty'
+- `s0425`
+  - RU: 'перевести специалиста в рассмотрение'
+  - EN: 'move specialists into consideration'
+- `s0426`
+  - RU: 'ЭКСПЕРТНОСТЬ'
+  - EN: 'EXPERTISE'
+- `s0427`
+  - RU: 'ПЕРЕХВАТЫВАЕМ СПРОС'
+  - EN: 'CAPTURE DEMAND'
+- `s0428`
+  - RU: 'брендовые / процедурные / конкурентные запросы'
+  - EN: 'brand / procedure / competitor queries'
+- `s0429`
+  - RU: 'присутствие в AI-ответах и Paid Search'
+  - EN: 'presence in AI answers and Paid Search'
+- `s0430`
+  - RU: 'CTA «где купить» и e-pharm LP'
+  - EN: '“Where to buy” CTA + e-pharm LP'
+- `s0431`
+  - RU: 'конвертировать сформированный спрос'
+  - EN: 'convert the demand we’ve built'
+- `s0432`
+  - RU: 'СПРОС'
+  - EN: 'DEMAND'
+- `s0433`
+  - RU: 'ГЛАВНЫЙ ПРИНЦИП'
+  - EN: 'KEY PRINCIPLE'
+- `s0434`
+  - RU: 'professional influence — отдельный контур, consumer media — поддерживающий слой'
+  - EN: 'professional influence — a separate track, consumer media — a supporting layer'
+- `s0435`
+  - RU: 'professional influence\xa0— отдельный контур,\nconsumer media\xa0— поддерживающий слой'
+  - EN: 'professional influence — a separate track,\nconsumer media — a supporting layer'
+- `s0436`
+  - RU: 'Слайд 13 исходника: три шага professional-first; подложка-скриншот исходника не переносится, тексты — живые.'
+  - EN: 'Source slide 13: three professional-first steps; the source screenshot background is dropped, all text is live.'
+
+## Slide 14
+
+- `s0437`
+  - RU: 'Акриол Про 2027: архитектура кампании vs 2026'
+  - EN: 'Acriol Pro 2027: campaign architecture vs 2026'
+- `s0438`
+  - RU: 'Сохраняем работающее Performance-ядро; дополнительный бюджет переводит кампанию от перехвата сформированного спроса к формированию профессионального предпочтения до момента выбора'
+  - EN: 'We keep the Performance core that works; the extra budget shifts the campaign from capturing existing demand to building professional preference before the point of choice'
+- `s0439`
+  - RU: '9,5'
+  - EN: '9.5'
+- `s0440`
+  - RU: 'млн ₽'
+  - EN: 'RUB M'
+- `s0441`
+  - RU: '(вкл. доп. кост)*'
+  - EN: '(incl. extra costs)*'
+- `s0442`
+  - RU: '+3,5 млн ₽'
+  - EN: '+RUB 3.5M'
+- `s0443`
+  - RU: '4,2 млн ₽'
+  - EN: 'RUB 4.2M'
+- `s0444`
+  - RU: 'КАНАЛЫ'
+  - EN: 'CHANNELS'
+- `s0445`
+  - RU: '6,8 млн ₽'
+  - EN: 'RUB 6.8M'
+- `s0446`
+  - RU: 'Внешние публикации проф. контент'
+  - EN: 'External professional publications'
+- `s0447`
+  - RU: 'АВГ–СЕН'
+  - EN: 'AUG–SEP'
+- `s0448`
+  - RU: '3,4 млн ₽'
+  - EN: 'RUB 3.4M'
+- `s0449`
+  - RU: 'СЕГМЕНТЫ'
+  - EN: 'SEGMENTS'
+- `s0450`
+  - RU: 'Мастера и Потребители'
+  - EN: 'Technicians & beauty clients'
+- `s0451`
+  - RU: 'МАРТ–МАЙ, СЕН–НОЯ'
+  - EN: 'MAR–MAY, SEP–NOV'
+- `s0452`
+  - RU: '5,2 млн ₽'
+  - EN: 'RUB 5.2M'
+- `s0453`
+  - RU: 'Косметологи'
+  - EN: 'Doctors'
+- `s0454`
+  - RU: 'Мастера'
+  - EN: 'Technicians'
+- `s0455`
+  - RU: 'Потребители'
+  - EN: 'Beauty clients'
+- `s0456`
+  - RU: '+ Adriver / SL / Saving — 1,9 млн ₽'
+  - EN: '+ Adriver / SL / Saving — RUB 1.9M'
+- `s0457`
+  - RU: '+ Production 800 тыс. ₽ | Adriver 200 тыс. ₽'
+  - EN: '+ Production RUB 800K | Adriver RUB 200K'
+- `s0458`
+  - RU: '+2,6 млн ₽'
+  - EN: '+RUB 2.6M'
+- `s0459`
+  - RU: '+1,8 млн ₽'
+  - EN: '+RUB 1.8M'
+- `s0460`
+  - RU: '−0,9 млн ₽'
+  - EN: '−RUB 0.9M'
+- `s0461`
+  - RU: '*Бюджеты тотал представлены с учетом тех костов, АК, РС и продакшн. Приросты 2027 vs 2026 — расчёт OMD'
+  - EN: '*Total budgets incl. tech costs, agency commission, ad levy and production. 2027 vs 2026 growth: OMD calculation'
+- `s0462`
+  - RU: 'Слайд 14 исходника: матрица AON core / Sprint reinforcement × 2026 / 2027. Скрытые надписи под полосами исходника (SPRINT, FREQUENCY) не переносятся.'
+  - EN: 'Source slide 14: AON core / Sprint reinforcement × 2026 / 2027 matrix. Hidden labels under the source bars (SPRINT, FREQUENCY) are not carried over.'
+
+## Slide 15
+
+- `s0463`
+  - RU: 'HCP ecosystem: достигаем врача в профессиональной Digital-среде'
+  - EN: 'HCP ecosystem: reaching doctors in the professional digital space'
+- `s0464`
+  - RU: 'HCP ecosystem: достигаем врача\nв\xa0профессиональной Digital-среде'
+  - EN: 'HCP ecosystem: reaching doctors\nin the professional digital space'
+- `s0465`
+  - RU: 'ДОСТУП К СПЕЦИАЛИСТУ'
+  - EN: 'ACCESS TO SPECIALISTS'
+- `s0466`
+  - RU: 'профессиональное community практикующих косметологов'
+  - EN: 'professional community of practicing aesthetic doctors'
+- `s0467`
+  - RU: 'процедуры по специализации косметологов'
+  - EN: 'procedures by doctor specialty'
+- `s0468`
+  - RU: 'масштабирование контента по площадкам присутствия косметолога'
+  - EN: 'scaling content to the platforms aesthetic doctors use'
+- `s0469`
+  - RU: 'РОЛЬ'
+  - EN: 'ROLE'
+- `s0470`
+  - RU: 'Качественный контакт до момента выбора препарата'
+  - EN: 'Quality contact before the product is chosen'
+- `s0471`
+  - RU: 'СИГНАЛЫ И МАСШТАБ'
+  - EN: 'SIGNALS AND SCALE'
+- `s0472`
+  - RU: 'косметология'
+  - EN: 'aesthetics'
+- `s0473`
+  - RU: 'поиск и покупки по аналогичным препаратам'
+  - EN: 'searches and purchases of similar drugs'
+- `s0474`
+  - RU: 'мастера — лазерная эпиляция, ПМ, тату'
+  - EN: 'technicians — laser hair removal, PMU, tattoo'
+- `s0475`
+  - RU: 'Расширить охват за пределы собственной базы'
+  - EN: 'Extend reach beyond the brand’s own base'
+- `s0476`
+  - RU: 'ИСТОЧНИК ДЛЯ ПОИСКА / AI'
+  - EN: 'SOURCE FOR SEARCH / AI'
+- `s0477`
+  - RU: 'экспертные статьи с указанным автором и квалификацией'
+  - EN: 'expert articles with a named author and credentials'
+- `s0478`
+  - RU: 'обзоры / сравнения / интервью / карточки протоколов'
+  - EN: 'reviews / comparisons / interviews / protocol cards'
+- `s0479`
+  - RU: 'бессрочная индексация + ссылки на первоисточники'
+  - EN: 'permanent indexing + links to primary sources'
+- `s0480`
+  - RU: 'Долгоживущий источник для Search / GEO/AEO'
+  - EN: 'Long-lived source for Search / GEO/AEO'
+- `s0481`
+  - RU: 'quality reach HCP · engagement / save · post-click quality · branded/procedure search · «Где купить» · preference shift'
+  - EN: 'quality HCP reach · engagement / save · post-click quality · branded/procedure search · “Where to buy” · preference shift'
+- `s0482`
+  - RU: 'Слайд 15 исходника: три канала HCP-экосистемы и KPIs.'
+  - EN: 'Source slide 15: three HCP-ecosystem channels and KPIs.'
+
+## Slide 16
+
+- `s0483`
+  - RU: 'Авторитетные публикации: HCP + GEO-актив'
+  - EN: 'Authoritative publications: HCP + GEO asset'
+- `s0484`
+  - RU: 'DOL / врач формирует тезис → авторитетная площадка закрепляет → GEO / Paid Search возвращают контент в момент выбора'
+  - EN: 'DOL / doctor makes the case → a trusted outlet reinforces it → GEO / Paid Search bring it back at the moment of choice'
+- `s0485`
+  - RU: '**2-й приоритет:** Estet-portal / Здравсити; широкие СМИ — только под релевантный инфоповод'
+  - EN: '**2nd priority:** Estet-portal / Zdravcity; mainstream media — only with a relevant news hook'
+- `s0486`
+  - RU: '**Доп. occasion:** лазерная / электроэпиляция, ПМ'
+  - EN: '**Extra occasion:** laser hair removal / electrolysis, PMU'
+- `s0487`
+  - RU: 'ПРИОРИТЕТНЫЙ ПУЛ ПЛОЩАДОК'
+  - EN: 'PRIORITY OUTLETS'
+- `s0488`
+  - RU: 'HCP / профессиональный контур'
+  - EN: 'HCP / professional media'
+- `s0489`
+  - RU: 'Медвестник · Фармвестник · Remedium'
+  - EN: 'Medvestnik · Pharmvestnik · Remedium'
+- `s0490`
+  - RU: 'Лечащий врач · Новости эстетической медицины'
+  - EN: 'Lechaschi Vrach · Aesthetic Medicine News'
+- `s0491`
+  - RU: 'Медицинские редакционные площадки'
+  - EN: 'Medical editorial outlets'
+- `s0492`
+  - RU: 'МедПортал · Доктор Питер'
+  - EN: 'MedPortal · Doctor Piter'
+- `s0493`
+  - RU: 'Справочники и e-pharm'
+  - EN: 'Drug references & e-pharm'
+- `s0494`
+  - RU: 'Видаль · РЛС · Apteka.ru · Ютека · Мегаптека'
+  - EN: 'Vidal · RLS · Apteka.ru · Uteka · Megapteka'
+- `s0495`
+  - RU: 'ЧТО ПИШЕМ'
+  - EN: 'TOPICS'
+- `s0496`
+  - RU: 'Аппаратная косметология / рост'
+  - EN: 'Device-based aesthetics / growth'
+- `s0497`
+  - RU: '«До первого импульса»: RF, CO2, лазеры, удаление тату'
+  - EN: '“Before the first pulse”: RF, CO2, lasers, tattoo removal'
+- `s0498`
+  - RU: 'Инъекционная косметология / защита'
+  - EN: 'Injectable aesthetics / defense'
+- `s0499`
+  - RU: '«До первого вкола»: критерии профессионального выбора'
+  - EN: '“Before the first needle”: professional choice criteria'
+- `s0500`
+  - RU: 'Практика местной анестезии'
+  - EN: 'Local anesthesia in practice'
+- `s0501`
+  - RU: 'как выбирать анестетик: статус ЛП, лидокаин + прилокаин'
+  - EN: 'anesthetic choice: drug status, lidocaine + prilocaine'
+- `s0502`
+  - RU: 'время экспозиции / окклюзия / подготовка кожи'
+  - EN: 'application time / occlusion / skin prep'
+- `s0503`
+  - RU: 'безопасность и ожидаемые реакции — строго в рамках инструкции'
+  - EN: 'safety and expected reactions — strictly on-label'
+- `s0504`
+  - RU: 'КАК ОТБИРАЕМ И ЧТО ЭТО ДАЕТ'
+  - EN: 'HOW WE SELECT AND WHAT WE GET'
+- `s0505`
+  - RU: 'Критерии площадки'
+  - EN: 'Outlet criteria'
+- `s0506`
+  - RU: 'профильная релевантность и доверие аудитории'
+  - EN: 'specialty relevance and audience trust'
+- `s0507`
+  - RU: 'возможность указывать автора / квалификацию'
+  - EN: 'allows author byline / credentials'
+- `s0508`
+  - RU: 'индексация + длительный срок жизни материала'
+  - EN: 'indexing + long content shelf life'
+- `s0509`
+  - RU: 'ссылки на первоисточники / корректная маркировка'
+  - EN: 'links to primary sources / proper ad labeling'
+- `s0510`
+  - RU: 'регуляторная совместимость с фарм-контентом'
+  - EN: 'regulatory fit for pharma content'
+- `s0511`
+  - RU: 'третьестороннее подтверждение экспертности'
+  - EN: 'third-party validation of expertise'
+- `s0512`
+  - RU: 'долгоживущий контентный актив для Search / GEO'
+  - EN: 'long-lived content asset for Search / GEO'
+- `s0513`
+  - RU: 'Результат для бренда'
+  - EN: 'What the brand gets'
+- `s0514`
+  - RU: 'РОЛЬ В СИСТЕМЕ 2027'
+  - EN: 'ROLE IN THE 2027 MODEL'
+- `s0515`
+  - RU: 'Эксперт'
+  - EN: 'Expert'
+- `s0516`
+  - RU: 'создает тезис'
+  - EN: 'makes the case'
+- `s0517`
+  - RU: 'Публикация'
+  - EN: 'Publication'
+- `s0518`
+  - RU: 'закрепляет и индексирует'
+  - EN: 'reinforces and indexes'
+- `s0519`
+  - RU: 'возвращают к выбору'
+  - EN: 'bring it back at choice'
+- `s0520`
+  - RU: 'Предпочтение → спрос'
+  - EN: 'Preference → demand'
+- `s0521`
+  - RU: 'измеряем эффект'
+  - EN: 'we measure impact'
+- `s0522`
+  - RU: '# публикаций и индексируемых страниц • охват / дочитывания • HCP-трафик •\nбрендовые запросы • SOV / упоминания в AI-ответах • переходы к продукту'
+  - EN: '# of publications and indexed pages • reach / read-throughs • HCP traffic •\nbranded queries • SOV / mentions in AI answers • clicks to product'
+- `s0523`
+  - RU: '# публикаций и\xa0индексируемых страниц • охват / дочитывания • HCP-трафик •\nбрендовые запросы • SOV / упоминания в\xa0AI-ответах • переходы к\xa0продукту'
+  - EN: '# of publications and indexed pages • reach / read-throughs • HCP traffic •\nbranded queries • SOV / mentions in AI answers • clicks to product'
+- `s0524`
+  - RU: 'Слайд 16 исходника: пул площадок, темы, критерии отбора, роль в системе 2027 и KPI. Ссылка в заметках исходника: https://brandanalytics.ru/blog/social-media-russia-autumn-2025'
+  - EN: 'Source slide 16: outlet pool, topics, selection criteria, role in the 2027 system and KPIs. Link in source notes: https://brandanalytics.ru/blog/social-media-russia-autumn-2025'
+
+## Slide 17
+
+- `s0525`
+  - RU: 'DOLs 2027: comprehensive-подход Акриол Про'
+  - EN: 'Acriol Pro DOLs 2027: Comprehensive approach'
+- `s0526`
+  - RU: 'Формируем систему профессионального подтверждения\nс фокусом на релевантных аппаратных процедурах'
+  - EN: 'We build a system of professional validation\nfocused on relevant device-based procedures'
+- `s0527`
+  - RU: 'КАК МЕНЯЕМ ПРОФЕССИОНАЛЬНЫЙ ВЫБОР'
+  - EN: 'HOW WE SHIFT PROFESSIONAL CHOICE'
+- `s0528`
+  - RU: 'АВТОРИТЕТ'
+  - EN: 'AUTHORITY'
+- `s0529`
+  - RU: '«Коллега, которому я доверяю, объясняет подход»'
+  - EN: '“A colleague I trust explains the approach”'
+- `s0530`
+  - RU: 'ПРАКТИКА'
+  - EN: 'PRACTICE'
+- `s0531`
+  - RU: '«Я вижу, как Акриол применяется именно в моей процедуре»'
+  - EN: '“I see how Acriol is used in my own procedure”'
+- `s0532`
+  - RU: 'ПОВТОРНОЕ ПОДТВЕРЖДЕНИЕ'
+  - EN: 'REPEATED VALIDATION'
+- `s0533`
+  - RU: '«Другие специалисты делают такой же выбор»'
+  - EN: '“Other specialists make the same choice”'
+- `s0534`
+  - RU: 'СОБСТВЕННЫЙ ОПЫТ'
+  - EN: 'OWN EXPERIENCE'
+- `s0535`
+  - RU: '«Я включаю Акриол в свой протокол»'
+  - EN: '“I add Acriol to my protocol”'
+- `s0536`
+  - RU: 'ПРОФ. НОРМА'
+  - EN: 'PROFESSIONAL NORM'
+- `s0537`
+  - RU: 'Использую регулярно → рекомендую коллегам'
+  - EN: 'I use it regularly → recommend it to peers'
+- `s0538`
+  - RU: 'НЕ ОДИН БЛОГЕР УБЕЖДАЕТ ВРАЧА'
+  - EN: 'BEYOND A SINGLE INFLUENCER'
+- `s0539`
+  - RU: 'Профессиональная среда подтверждает его выбор'
+  - EN: 'Professional peers validate the doctor’s choice'
+- `s0540`
+  - RU: 'ЗАДАЧА 2027'
+  - EN: '2027 GOAL'
+- `s0541`
+  - RU: 'Перевести выбор анестезии из привычки в осознанную часть профессионального протокола'
+  - EN: 'Turn anesthetic choice from habit into a deliberate part of the professional protocol'
+- `s0542`
+  - RU: 'Не только доказать преимущество категории, нужно изменить привычный выбор специалиста в пользу Акриол Про через occasion-based коммуникацию'
+  - EN: 'Beyond proving the category’s advantage, we need to switch specialists’ habitual choice to Acriol Pro through occasion-based communication'
+- `s0543`
+  - RU: 'ФОКУС SPRINT 1+2'
+  - EN: 'SPRINT 1+2 FOCUS'
+- `s0544`
+  - RU: 'наиболее релевантные аппаратные процедуры'
+  - EN: 'most relevant device-based procedures'
+- `s0545`
+  - RU: 'ограниченная частота контактов'
+  - EN: 'limited contact frequency'
+- `s0546`
+  - RU: 'тест контентных сценариев'
+  - EN: 'testing content scenarios'
+- `s0547`
+  - RU: 'первичная оценка влияния на стороне DOL'
+  - EN: 'initial impact assessment on the DOL side'
+- `s0548`
+  - RU: 'Авторитет → применение → подтверждение → опыт → **профессиональная норма**'
+  - EN: 'Authority → application → validation → experience → **professional norm**'
+- `s0549`
+  - RU: 'Авторитет →\xa0применение →\xa0подтверждение →\xa0опыт →\xa0**профессиональная норма**'
+  - EN: 'Authority → application → validation → experience → **professional norm**'
+- `s0550`
+  - RU: 'первичная оценка влияния'
+  - EN: 'initial impact assessment'
+- `s0551`
+  - RU: 'Слайд 17 исходника: пять шагов профессионального выбора, 10–15 DOL и фокус Sprint 1+2, тезис и задача 2027, логика. Вторая фраза вводного текста исходника («Задача 2027 — …») объединена с блоком «Задача 2027». Ссылка в заметках исходника: https://brandanalytics.ru/blog/social-media-russia-autumn-2025'
+  - EN: 'Source slide 17: five steps of professional choice, 10–15 DOLs and Sprint 1+2 focus, the thesis and 2027 goal, logic. The second sentence of the source intro (“2027 goal — …”) is merged into the 2027 GOAL block. Link in source notes: https://brandanalytics.ru/blog/social-media-russia-autumn-2025'
+
+## Slide 18
+
+- `s0552`
+  - RU: 'DOLs selection для интеграций: профессиональное влияние важнее размера аккаунта'
+  - EN: 'DOL selection for integrations: professional influence beats account size'
+- `s0553`
+  - RU: 'Trusted DOL Score + предварительный TOP-8 по авторитету, процедурам и цифровому присутствию.\nПринцип — выбор 2–3 крупных авторов, добор за счет средних и микро DOL по процедурам'
+  - EN: 'Trusted DOL Score + preliminary TOP-8 by authority, procedures and digital presence.\nPrinciple: 2–3 big names, topped up with mid-tier and micro DOLs by procedure'
+- `s0554`
+  - RU: 'DOLs selection для\xa0интеграций:\nпрофессиональное влияние важнее размера аккаунта'
+  - EN: 'DOL selection for integrations:\nprofessional influence beats account size'
+- `s0555`
+  - RU: 'Профессиональный авторитет'
+  - EN: 'Professional authority'
+- `s0556`
+  - RU: 'Релевантность процедурам'
+  - EN: 'Procedure relevance'
+- `s0557`
+  - RU: 'Влияние на коллег'
+  - EN: 'Peer influence'
+- `s0558`
+  - RU: 'Качество digital-присутствия'
+  - EN: 'Digital presence quality'
+- `s0559`
+  - RU: 'Безопасность сотрудничества'
+  - EN: 'Collaboration safety'
+- `s0560`
+  - RU: 'Яна Юцковская'
+  - EN: 'Yana Yutskovskaya'
+- `s0561`
+  - RU: 'Елена Гольцова'
+  - EN: 'Elena Goltsova'
+- `s0562`
+  - RU: 'Екатерина Круглик'
+  - EN: 'Ekaterina Kruglik'
+- `s0563`
+  - RU: 'Ирина Брагина'
+  - EN: 'Irina Bragina'
+- `s0564`
+  - RU: 'Наталья Калашникова'
+  - EN: 'Natalia Kalashnikova'
+- `s0565`
+  - RU: 'Ольга Забненкова'
+  - EN: 'Olga Zabnenkova'
+- `s0566`
+  - RU: 'Наталья Михайлова'
+  - EN: 'Natalia Mikhailova'
+- `s0567`
+  - RU: 'Алёна Саромыцкая'
+  - EN: 'Alena Saromytskaya'
+- `s0568`
+  - RU: 'Аппаратные / сочетанные / инъекционные методы'
+  - EN: 'Device / combined / injectable methods'
+- `s0569`
+  - RU: 'Аппаратные протоколы'
+  - EN: 'Device-based protocols'
+- `s0570`
+  - RU: '«До первого импульса»'
+  - EN: '“Before the first pulse”'
+- `s0571`
+  - RU: 'Профессиональный авторитет + релевантный digital'
+  - EN: 'Professional authority + relevant digital'
+- `s0572`
+  - RU: 'Проф. стандарт'
+  - EN: 'Practice standard'
+- `s0573`
+  - RU: 'Доказательный контент'
+  - EN: 'Evidence-based content'
+- `s0574`
+  - RU: 'Защита инъекций'
+  - EN: 'Injection defense'
+- `s0575`
+  - RU: 'ПРИНЦИП'
+  - EN: 'PRINCIPLE'
+- `s0576`
+  - RU: 'Эксперт с 8\xa0000 косметологов в аудитории может быть ценнее автора со 150\xa0000 потребительских подписчиков'
+  - EN: 'An expert followed by 8,000 aesthetic doctors can outweigh a creator with 150,000 consumer followers'
+- `s0577`
+  - RU: 'Эксперт с\xa08\xa0000 косметологов в\xa0аудитории может быть\nценнее автора со\xa0150\xa0000 потребительских подписчиков'
+  - EN: 'An expert followed by 8,000 aesthetic doctors\ncan outweigh a creator with 150,000 consumer followers'
+- `s0578`
+  - RU: 'Слайд 18 исходника: веса Trusted DOLs Score и предварительный TOP-8 DOL (баллы — из исходника). Повторяющиеся описания карточек вынесены подписью над каждым рядом. Ссылка в заметках исходника: https://brandanalytics.ru/blog/social-media-russia-autumn-2025'
+  - EN: 'Source slide 18: Trusted DOL Score weights and the preliminary TOP-8 DOLs (scores from the source). Repeated card descriptions are moved to a caption above each row. Link in source notes: https://brandanalytics.ru/blog/social-media-russia-autumn-2025'
+
+## Slide 19
+
+- `s0579`
+  - RU: 'Потенциал оптимизации стоимости проф. контакта через микс площадок'
+  - EN: 'Platform mix can lower cost per professional contact'
+- `s0580`
+  - RU: 'Сплит учитывает Digital-присутствие выбранных DOL, потенциал CPV, органический добор просмотров и глубину профессионального контакта'
+  - EN: 'The split factors in the selected DOLs’ digital presence, CPV potential, extra organic views and depth of professional contact'
+- `s0581`
+  - RU: 'Сплит по площадкам, %'
+  - EN: 'Split by platform, %'
+- `s0582`
+  - RU: 'Дзен'
+  - EN: 'Dzen'
+- `s0583`
+  - RU: 'TG — частота'
+  - EN: 'TG — frequency'
+- `s0584`
+  - RU: 'IG — органический охват'
+  - EN: 'IG — organic reach'
+- `s0585`
+  - RU: 'VK — масштаб'
+  - EN: 'VK — scale'
+- `s0586`
+  - RU: 'YouTube — доверие'
+  - EN: 'YouTube — trust'
+- `s0587`
+  - RU: 'Дзен — долгий хвост'
+  - EN: 'Dzen — long tail'
+- `s0588`
+  - RU: 'Профильная аудитория пула DOL: регулярность контакта, экспертные посты, видео, кейсы, повторные касания'
+  - EN: 'Specialist audience of the DOL pool: regular contact, expert posts, video, case studies, repeat exposure'
+- `s0589`
+  - RU: 'Естественная визуальная среда косметологии: процедуры, аппараты, Reels. Органический добор + личный бренд врача'
+  - EN: 'A natural visual setting for aesthetics: procedures, devices, Reels. Organic uplift + the doctor’s personal brand'
+- `s0590`
+  - RU: 'Масштабирование контента DOL и video reach через врачей, клиники и школы. Снижение средневзвешенного CPV'
+  - EN: 'Scaling DOL content and video reach via doctors, clinics and schools. Lower weighted average CPV'
+- `s0591`
+  - RU: 'Глубокий контакт: интервью, разбор процедуры, протоколы. Формирует доверие, материал используется повторно'
+  - EN: 'Deep contact: interviews, procedure breakdowns, protocols. Builds trust; content gets reused'
+- `s0592`
+  - RU: 'Экспертные статьи и поисковый трафик. Контент продолжает получать просмотры после завершения флайта'
+  - EN: 'Expert articles and search traffic. Content keeps getting views after the flight ends'
+- `s0593`
+  - RU: 'ОДИН DOL → НЕ ОДИН ВЫХОД'
+  - EN: 'ONE DOL → MANY PLACEMENTS'
+- `s0594`
+  - RU: 'Один сильный экспертный материал'
+  - EN: 'One strong expert piece'
+- `s0595`
+  - RU: 'Не производим пять независимых материалов — масштабируем один сильный экспертный контент между площадками'
+  - EN: 'We don’t make five separate pieces — we scale one strong expert piece across platforms'
+- `s0596`
+  - RU: '**YouTube*** — полный профессиональный разбор'
+  - EN: '**YouTube*** — full professional breakdown'
+- `s0597`
+  - RU: '**Instagram*** — Reels / короткие фрагменты'
+  - EN: '**Instagram*** — Reels / short clips'
+- `s0598`
+  - RU: '**Telegram*** — экспертный пост / видео / обсуждение'
+  - EN: '**Telegram*** — expert post / video / discussion'
+- `s0599`
+  - RU: '**VK** — Clip / Video / пост'
+  - EN: '**VK** — Clip / Video / post'
+- `s0600`
+  - RU: '**Дзен** — экспертная статья / текстовая версия'
+  - EN: '**Dzen** — expert article / text version'
+- `s0601`
+  - RU: 'TG создает частоту. Instagram* дает органику. VK масштабирует.\nYouTube строит доверие. **Дзен продлевает контакт.**'
+  - EN: 'TG delivers frequency. Instagram* adds organic reach. VK scales.\nYouTube builds trust. **Dzen extends the contact.**'
+- `s0602`
+  - RU: 'Сплит предварительный и уточняется после получения фактической статистики выбранных DOL, ставок и прогнозного CPV по каждой площадке.'
+  - EN: 'The split is preliminary and will be refined once we have actual stats for the selected DOLs, rates and projected CPV by platform.'
+- `s0603`
+  - RU: '* Форматы работы с площадками требуют отдельного юридического согласования на 2027.'
+  - EN: '* Platform formats require separate legal approval for 2027.'
+- `s0604`
+  - RU: 'Instagram принадлежит Meta, деятельность которой признана экстремистской и запрещена в РФ'
+  - EN: 'Instagram is owned by Meta, which is designated an extremist organization and banned in Russia'
+
+## Slide 20
+
+- `s0605`
+  - RU: 'Поддерживающий слой: мастера и потребители масштабируют уже сформированный профессиональный выбор'
+  - EN: 'Support layer: beauty technicians and beauty clients scale the professional choice already made'
+- `s0606`
+  - RU: 'Avito Test&Learn 2026 подтверждает потенциал precise targeting - используем как доказанный слой, дополняющий HCP/DOL'
+  - EN: 'Avito Test&Learn 2026 confirms the potential of precise targeting — we use it as a proven layer on top of HCP/DOL'
+- `s0607`
+  - RU: 'Поддерживающий слой: мастера и\xa0потребители масштабируют\nуже сформированный профессиональный выбор'
+  - EN: 'Support layer: beauty technicians and beauty clients scale\nthe professional choice already made'
+- `s0608`
+  - RU: 'АВИТО'
+  - EN: 'AVITO'
+- `s0609`
+  - RU: '**Кастомный таргетинг + персонализированные креативы:** косметология / для салона красоты, татуаж, эпиляция, потребители beauty-услуг'
+  - EN: '**Custom targeting + personalized creatives:** aesthetics / for beauty salons, PMU, hair removal, beauty clients'
+- `s0610`
+  - RU: 'CR «Куки-баннер»'
+  - EN: 'CR “Cookie banner”'
+- `s0611`
+  - RU: 'план 4,5%'
+  - EN: 'target 4.5%'
+- `s0612`
+  - RU: 'в 2,4 раза выше плана'
+  - EN: '2.4× the target'
+- `s0613`
+  - RU: '1,61%'
+  - EN: '1.61%'
+- `s0614`
+  - RU: 'CR «Где купить»'
+  - EN: 'CR “Where to buy”'
+- `s0615`
+  - RU: 'план 0,6%'
+  - EN: 'target 0.6%'
+- `s0616`
+  - RU: 'в 2,7 раза выше плана'
+  - EN: '2.7× the target'
+- `s0617`
+  - RU: 'CTR ТЕСТА 2026 ПО СЕГМЕНТАМ'
+  - EN: '2026 TEST CTR BY SEGMENT'
+- `s0618`
+  - RU: 'Татуаж'
+  - EN: 'PMU'
+- `s0619`
+  - RU: 'Эпиляция'
+  - EN: 'Hair removal'
+- `s0620`
+  - RU: 'план 0,10%'
+  - EN: 'target 0.10%'
+- `s0621`
+  - RU: 'Медийный стандарт'
+  - EN: 'Standard display'
+- `s0622`
+  - RU: 'Нативный баннер'
+  - EN: 'Native banner'
+- `s0623`
+  - RU: 'ДОПОЛНИТЕЛЬНЫЕ ВОЗМОЖНОСТИ'
+  - EN: 'ADDITIONAL OPPORTUNITIES'
+- `s0624`
+  - RU: '**Лазерная эпиляция, ПМ, тату:**\nаргументы по процедуре, удобству и профессиональной ценности → персонализированный LP'
+  - EN: '**Laser hair removal, PMU, tattoo:**\nprocedure, convenience and professional-value messaging → personalized LP'
+- `s0625`
+  - RU: 'МАСТЕРА'
+  - EN: 'TECHNICIANS'
+- `s0626`
+  - RU: 'Расширяем использование'
+  - EN: 'Expanding use'
+- `s0627`
+  - RU: '**Инъекции, аппаратные процедуры, эпиляция:**\nподтверждение рекомендации специалиста → на e-pharm'
+  - EN: '**Injections, device procedures, hair removal:**\nbacking the specialist’s recommendation → e-pharm'
+- `s0628`
+  - RU: 'ПОТРЕБИТЕЛИ'
+  - EN: 'BEAUTY CLIENTS'
+- `s0629`
+  - RU: 'Переводим интерес в покупку'
+  - EN: 'Turning interest into sales'
+- `s0630`
+  - RU: 'Кратность к плану — расчёт OMD'
+  - EN: 'Ratio to target — OMD calculation'
+
+## Slide 21
+
+- `s0631`
+  - RU: 'Обновленная структура Paid Search 2027: перехватываем спрос и сокращаем путь до покупки'
+  - EN: 'Updated Paid Search 2027 structure: intercept demand and shorten the path to purchase'
+- `s0632`
+  - RU: 'Поиск - конверсионное ядро; РСЯ - поддержка с фокусом на качество post-click'
+  - EN: 'Search — the conversion core; YAN — support focused on post-click quality'
+- `s0633`
+  - RU: 'Обновленная структура Paid Search 2027:\nперехватываем спрос и\xa0сокращаем путь до\xa0покупки'
+  - EN: 'Updated Paid Search 2027 structure:\nintercept demand and shorten the path to purchase'
+- `s0634`
+  - RU: 'КАК РАСПРЕДЕЛЯЕМ СПРОС В ПОИСКЕ'
+  - EN: 'HOW WE SPLIT SEARCH DEMAND'
+- `s0635`
+  - RU: 'КУДА ВЕДЁМ'
+  - EN: 'DESTINATIONS'
+- `s0636`
+  - RU: 'РОЛЬ РСЯ'
+  - EN: 'YAN’S ROLE'
+- `s0637`
+  - RU: 'ядро Search: транзакционно-брендовый + категорийный спрос'
+  - EN: 'Search core: transactional/brand + category demand'
+- `s0638`
+  - RU: 'Категория'
+  - EN: 'Category'
+- `s0639`
+  - RU: 'Спрос в поиске'
+  - EN: 'Search demand'
+- `s0640`
+  - RU: 'Транзакционная + бренд'
+  - EN: 'Transactional + brand'
+- `s0641`
+  - RU: 'Конкуренты'
+  - EN: 'Competitors'
+- `s0642`
+  - RU: 'Процедурные запросы'
+  - EN: 'Procedure queries'
+- `s0643`
+  - RU: '→ Сайт'
+  - EN: '→ Site'
+- `s0644`
+  - RU: 'КАТЕГОРИЯ'
+  - EN: 'CATEGORY'
+- `s0645`
+  - RU: 'забираем сформированный категорийный спрос'
+  - EN: 'capture existing category demand'
+- `s0646`
+  - RU: '→ Аптека.ru'
+  - EN: '→ Apteka.ru'
+- `s0647`
+  - RU: 'ТРАНЗАКЦИОННАЯ + БРЕНД'
+  - EN: 'TRANSACTIONAL + BRAND'
+- `s0648`
+  - RU: 'сокращаем путь от спроса до покупки'
+  - EN: 'shorten the demand-to-purchase path'
+- `s0649`
+  - RU: 'КОНКУРЕНТЫ'
+  - EN: 'COMPETITORS'
+- `s0650`
+  - RU: 'перехватываем выбор альтернатив'
+  - EN: 'intercept demand for rivals'
+- `s0651`
+  - RU: 'ПРОЦЕДУРНЫЕ ЗАПРОСЫ'
+  - EN: 'PROCEDURE QUERIES'
+- `s0652`
+  - RU: '8% татуаж · 8% косметология · 8% эпиляция'
+  - EN: '8% PMU · 8% aesthetics · 8% hair removal'
+- `s0653`
+  - RU: 'СЕМАНТИКА → ПОСАДОЧНАЯ → ДЕЙСТВИЕ'
+  - EN: 'KEYWORDS → LANDING PAGE → ACTION'
+- `s0654`
+  - RU: 'Максимально приближаем пользователя к факту покупки'
+  - EN: 'We bring users as close to purchase as possible'
+- `s0655`
+  - RU: 'КАТЕГОРИЯ · КОНКУРЕНТЫ · ПРОЦЕДУРЫ'
+  - EN: 'CATEGORY · COMPETITORS · PROCEDURES'
+- `s0656`
+  - RU: 'Формируем следующий шаг:\n«Где купить» / «Куки-баннер»'
+  - EN: 'We cue the next step:\n“Where to buy” / “Cookie banner”'
+- `s0657`
+  - RU: 'АПТЕКА'
+  - EN: 'PHARMACY'
+- `s0658`
+  - RU: 'САЙТ'
+  - EN: 'SITE'
+- `s0659`
+  - RU: 'РСЯ'
+  - EN: 'YAN'
+- `s0660`
+  - RU: 'поддержка, а не замена Поиску'
+  - EN: 'Search support, not a substitute'
+- `s0661`
+  - RU: 'Все запросы → сайт'
+  - EN: 'All queries → site'
+- `s0662`
+  - RU: 'Структура кампаний сохраняется: РСЯ ведёт пользователя на сайт'
+  - EN: 'Campaign structure stays the same: YAN sends users to the site'
+- `s0663`
+  - RU: 'Доля ниже поиска'
+  - EN: 'Share below Search'
+- `s0664`
+  - RU: 'Качество трафика стабильно ниже Search - не масштабируем только ради объёма'
+  - EN: 'Traffic quality consistently below Search — no scaling for volume alone'
+- `s0665`
+  - RU: 'Фокус на post-click'
+  - EN: 'Post-click focus'
+- `s0666`
+  - RU: 'Глубина просмотра · время на сайте · роботность · qCPV'
+  - EN: 'Page depth · time on site · bot share · qCPV'
+- `s0667`
+  - RU: 'Приоритет - транзакционно-брендовый спрос и категория. Конкуренты и процедурные кластеры работают как дополнительный источник спроса с контролируемой долей бюджета.'
+  - EN: 'Priority — transactional/brand demand and category. Competitor and procedure clusters are an extra demand source with a controlled budget share.'
+- `s0668`
+  - RU: 'Приоритет\xa0— транзакционно-брендовый спрос и\xa0категория. Конкуренты и\xa0процедурные\nкластеры работают как\xa0дополнительный источник спроса с\xa0контролируемой долей бюджета.'
+  - EN: 'Priority — transactional/brand demand and category. Competitor and procedure clusters\nare an extra demand source with a controlled budget share.'
+
+## Slide 22
+
+- `s0669`
+  - RU: '13,1M'
+  - EN: '13.1M'
+- `s0670`
+  - RU: 'БЮДЖЕТНЫЙ СПЛИТ*'
+  - EN: 'BUDGET SPLIT*'
+- `s0671`
+  - RU: '1,5M'
+  - EN: '1.5M'
+- `s0672`
+  - RU: '13,5K'
+  - EN: '13.5K'
+- `s0673`
+  - RU: 'VK, Дзен'
+  - EN: 'VK, Dzen'
+- `s0674`
+  - RU: 'Медийный формат'
+  - EN: 'Display format'
+- `s0675`
+  - RU: 'Врачи-косметологи / Мастера / Потребители'
+  - EN: 'Doctors / Technicians / Beauty clients'
+- `s0676`
+  - RU: 'Внешние авторитетные публикации'
+  - EN: 'External authoritative publications'
+- `s0677`
+  - RU: 'HCP / Медицинские редакционные площадки / Справочники и e-pharm'
+  - EN: 'HCP / Medical editorial outlets / Drug references & e-pharm'
+- `s0678`
+  - RU: 'Статьи, проф. контент'
+  - EN: 'Articles, prof. content'
+- `s0679`
+  - RU: 'Авито'
+  - EN: 'Avito'
+- `s0680`
+  - RU: 'Пост'
+  - EN: 'Post'
+- `s0681`
+  - RU: 'GEO-оптимизация под AI-ответы'
+  - EN: 'GEO optimization for AI answers'
+- `s0682`
+  - RU: 'Отзывы, обзоры, Q&A, дискуссии'
+  - EN: 'Reviews, write-ups, Q&A, threads'
+- `s0683`
+  - RU: 'Текст+баннеры'
+  - EN: 'Text+banners'
+- `s0684`
+  - RU: 'Врачи-косметологи / Потребители'
+  - EN: 'Doctors / Beauty clients'
+- `s0685`
+  - RU: 'ЭТАП'
+  - EN: 'STAGE'
+- `s0686`
+  - RU: 'КАНАЛ'
+  - EN: 'CHANNEL'
+- `s0687`
+  - RU: 'ПОСТАВЩИКИ'
+  - EN: 'VENDORS'
+- `s0688`
+  - RU: 'ФОРМАТ'
+  - EN: 'FORMAT'
+- `s0689`
+  - RU: 'СЕГМЕНТ'
+  - EN: 'SEGMENT'
+- `s0690`
+  - RU: 'БЮДЖЕТ'
+  - EN: 'BUDGET'
+- `s0691`
+  - RU: '2,8M'
+  - EN: '2.8M'
+- `s0692`
+  - RU: '1,2M'
+  - EN: '1.2M'
+- `s0693`
+  - RU: '1,7M'
+  - EN: '1.7M'
+- `s0694`
+  - RU: '1,8M'
+  - EN: '1.8M'
+- `s0695`
+  - RU: '2,7M'
+  - EN: '2.7M'
+- `s0696`
+  - RU: 'буст / приоритетный флайт'
+  - EN: 'boost / priority flight'
+- `s0697`
+  - RU: 'активный период'
+  - EN: 'active period'
+- `s0698`
+  - RU: '*Бюджет до НДС, включая АК/РС'
+  - EN: '*Budget excl. VAT, incl. agency commission and ad levy'
+
+## Slide 23
+
+- `s0699`
+  - RU: 'Акриол Про 2027'
+  - EN: 'Acriol Pro 2027'
+- `s0700`
+  - RU: 'Что дает рост инвестиций vs 2026'
+  - EN: 'What higher spend vs 2026 delivers'
+- `s0701`
+  - RU: 'БИЗНЕС-ЦЕЛЬ 2027'
+  - EN: '2027 BUSINESS GOAL'
+- `s0702`
+  - RU: '802 млн ₽'
+  - EN: 'RUB 802M'
+- `s0703`
+  - RU: '+9% к 2026'
+  - EN: '+9% vs 2026'
+- `s0704`
+  - RU: 'ИНВЕСТИЦИИ'
+  - EN: 'INVESTMENT'
+- `s0705`
+  - RU: '9,5 → 13,1 млн ₽'
+  - EN: 'RUB 9.5M → 13.1M'
+- `s0706`
+  - RU: 'МЕДИА-МАСШТАБ'
+  - EN: 'MEDIA SCALE'
+- `s0707`
+  - RU: '15M показов'
+  - EN: '15M impressions'
+- `s0708`
+  - RU: '1,5M tech. reach'
+  - EN: '1.5M tech. reach'
+- `s0709`
+  - RU: 'КАК МАСШТАБИРУЕМ COMPREHENSIVE В 2027'
+  - EN: 'HOW WE SCALE COMPREHENSIVE IN 2027'
+- `s0710`
+  - RU: 'GEO/AEO + ORM + Paid Search + внешние публикации'
+  - EN: 'GEO/AEO + ORM + Paid Search + external publications'
+- `s0711`
+  - RU: 'забирают сформированный спрос и сохраняют присутствие в моменте выбора весь год'
+  - EN: 'capture existing demand and stay present at the moment of choice all year'
+- `s0712`
+  - RU: 'формируют профессиональное предпочтение и усиливают контакт с косметологами, мастерами и потребителями'
+  - EN: 'build professional preference and deepen contact with aesthetic doctors, beauty technicians and beauty clients'
+- `s0713`
+  - RU: 'в июне и декабре конвертируют высокий сезонный интерес и возвращают заинтересованных пользователей к покупке'
+  - EN: 'convert high seasonal interest in June and December and bring interested users back to purchase'
+- `s0714`
+  - RU: 'янв–фев, июл–авг'
+  - EN: 'Jan–Feb, Jul–Aug'
+- `s0715`
+  - RU: 'мар–май, сен–ноя'
+  - EN: 'Mar–May, Sep–Nov'
+- `s0716`
+  - RU: 'июн, дек'
+  - EN: 'Jun, Dec'
+- `s0717`
+  - RU: 'ЗОНЫ РАСШИРЕНИЯ'
+  - EN: 'EXPANSION AREAS'
+- `s0718`
+  - RU: 'Профессиональное предпочтение'
+  - EN: 'Professional preference'
+- `s0719`
+  - RU: 'DOL + HCP/Programmatic создают профессиональное подтверждение до момента поиска и защищают привычный выбор'
+  - EN: 'DOL + HCP/Programmatic build professional validation before search and protect the habitual choice'
+- `s0720`
+  - RU: 'Рост в аппаратном секторе'
+  - EN: 'Growth in the device segment'
+- `s0721`
+  - RU: 'Аппаратная косметология - ключевая зона роста: меняем критерий «косметическое = профессиональное» на надежность ЛП и управляемый протокол через DOL'
+  - EN: 'Device-based aesthetics is the key growth area: we shift the criterion from “cosmetic = professional” to drug reliability and a managed protocol via DOLs'
+- `s0722`
+  - RU: 'GEO/AEO + ORM + авторитетные внешние публикации + Paid Search возвращают Акриол Про в момент сравнения и ведут к e-pharm'
+  - EN: 'GEO/AEO + ORM + external authoritative publications + Paid Search bring Acriol Pro back into the comparison and lead to e-pharm'
+- `s0723`
+  - RU: 'КАК РАСШИРЯЕМ COMPREHENSIVE В 2027'
+  - EN: 'HOW WE EXPAND COMPREHENSIVE IN 2027'
+- `s0724`
+  - RU: 'От Search-first\nк Professional-first'
+  - EN: 'From Search-first\nto Professional-first'
+- `s0725`
+  - RU: 'В 2026 Paid Search доказал роль performance-ядра. В 2027 сохраняем proven core и добавляем влияние ДО поиска: **DOL + authority content** формируют предпочтение; **Programmatic HCP** масштабирует профессиональный контакт; **GEO/AEO + ORM + Paid Search** удерживают момент сравнения и конвертируют спрос.'
+  - EN: 'In 2026, Paid Search proved itself as the performance core. In 2027 we keep the proven core and add influence BEFORE search: **DOL + authority content** build preference; **Programmatic HCP** scales professional contact; **GEO/AEO + ORM + Paid Search** hold the comparison moment and convert demand.'

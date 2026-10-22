@@ -1,0 +1,3884 @@
+# Review: RU → EN, slide by slide
+
+
+## Slide 0
+
+- `descr#Знак Акрихин` (descr)
+  - RU: 'Знак Акрихин'
+  - EN: 'Akrikhin logo'
+- `descr#Знак Акрихин` (descr)
+  - RU: 'Знак Акрихин'
+  - EN: 'Akrikhin logo'
+- `descr#Знак Акрихин` (descr)
+  - RU: 'Знак Акрихин'
+  - EN: 'Akrikhin logo'
+- `descr#Знак Акрихин` (descr)
+  - RU: 'Знак Акрихин'
+  - EN: 'Akrikhin logo'
+- `doc#title` (doctitle)
+  - RU: 'Comprehensive 2027 — Акрихин × OMD'
+  - EN: 'Comprehensive 2027 — Akrikhin × OMD'
+
+## Slide 1
+
+- `ppt/slides/slide1.xml#1` (slide)
+  - RU: 'Классификация документа: конфиденциальная информация для\xa0внутреннего использования'
+  - EN: 'Document classification: confidential, for internal use only'
+
+## Slide 3
+
+- `ppt/slides/slide3.xml#0` (slide)
+  - RU: 'В\xa0июле негативные оценки достигли максимальных\nзначений с\xa0конца сентября 2022 года'
+  - EN: 'In July, negative ratings hit their highest\nlevel since late September 2022'
+- `ppt/slides/slide3.xml#2` (slide)
+  - RU: 'ДОЛЯ НЕГАТИВНЫХ ОЦЕНОК: «СКОРЕЕ ПЛОХОЕ» +\xa0«ОЧЕНЬ ПЛОХОЕ», %'
+  - EN: 'SHARE OF NEGATIVE RATINGS: “SOMEWHAT BAD” + “VERY BAD”, %'
+- `ppt/slides/slide3.xml#22` (slide)
+  - RU: 'последний раз выше\xa0— в\xa0конце сентября 2022'
+  - EN: 'last higher in late September 2022'
+- `ppt/slides/slide3.xml#24` (slide)
+  - RU: 'мар'
+  - EN: 'Mar'
+- `ppt/slides/slide3.xml#25` (slide)
+  - RU: 'апр'
+  - EN: 'Apr'
+- `ppt/slides/slide3.xml#26` (slide)
+  - RU: 'июн'
+  - EN: 'Jun'
+- `ppt/slides/slide3.xml#27` (slide)
+  - RU: 'сен\nнач.'
+  - EN: 'early\nSep'
+- `ppt/slides/slide3.xml#28` (slide)
+  - RU: 'сен\nкон.'
+  - EN: 'late\nSep'
+- `ppt/slides/slide3.xml#29` (slide)
+  - RU: 'фев'
+  - EN: 'Feb'
+- `ppt/slides/slide3.xml#30` (slide)
+  - RU: 'май'
+  - EN: 'May'
+- `ppt/slides/slide3.xml#31` (slide)
+  - RU: 'июл'
+  - EN: 'Jul'
+- `ppt/slides/slide3.xml#32` (slide)
+  - RU: 'сен'
+  - EN: 'Sep'
+- `ppt/slides/slide3.xml#33` (slide)
+  - RU: 'ноя'
+  - EN: 'Nov'
+- `ppt/slides/slide3.xml#34` (slide)
+  - RU: 'мар'
+  - EN: 'Mar'
+- `ppt/slides/slide3.xml#35` (slide)
+  - RU: 'июл'
+  - EN: 'Jul'
+- `ppt/slides/slide3.xml#36` (slide)
+  - RU: 'окт'
+  - EN: 'Oct'
+- `ppt/slides/slide3.xml#37` (slide)
+  - RU: 'дек'
+  - EN: 'Dec'
+- `ppt/slides/slide3.xml#38` (slide)
+  - RU: 'мар'
+  - EN: 'Mar'
+- `ppt/slides/slide3.xml#39` (slide)
+  - RU: 'июл'
+  - EN: 'Jul'
+- `ppt/slides/slide3.xml#4` (slide)
+  - RU: 'Ситуация в\xa0стране в\xa0целом'
+  - EN: 'Situation in the country'
+- `ppt/slides/slide3.xml#40` (slide)
+  - RU: 'окт'
+  - EN: 'Oct'
+- `ppt/slides/slide3.xml#41` (slide)
+  - RU: 'дек'
+  - EN: 'Dec'
+- `ppt/slides/slide3.xml#42` (slide)
+  - RU: 'мар'
+  - EN: 'Mar'
+- `ppt/slides/slide3.xml#43` (slide)
+  - RU: 'июн'
+  - EN: 'Jun'
+- `ppt/slides/slide3.xml#44` (slide)
+  - RU: 'июл'
+  - EN: 'Jul'
+- `ppt/slides/slide3.xml#56` (slide)
+  - RU: 'оценивают ситуацию в\xa0стране как\xa0плохую (июль 2026)'
+  - EN: 'rate the country’s situation as bad (July 2026)'
+- `ppt/slides/slide3.xml#57` (slide)
+  - RU: '+7,9 п.п. к\xa0июню'
+  - EN: '+7.9 pp vs June'
+- `ppt/slides/slide3.xml#6` (slide)
+  - RU: 'Экономическое положение России'
+  - EN: 'Russia’s economic situation'
+- `ppt/slides/slide3.xml#60` (slide)
+  - RU: 'оценивают экономическое положение России как\xa0плохое'
+  - EN: 'rate Russia’s economic situation as bad'
+- `ppt/slides/slide3.xml#61` (slide)
+  - RU: '+10,9 п.п. к\xa0июню'
+  - EN: '+10.9 pp vs June'
+- `ppt/slides/slide3.xml#63` (slide)
+  - RU: 'ЛУЧШАЯ ТОЧКА\xa0— МАРТ 2025'
+  - EN: 'BEST READING — MARCH 2025'
+- `ppt/slides/slide3.xml#64` (slide)
+  - RU: '[1]42,0%[/1][2] негатива\xa0— страна[/2]'
+  - EN: '[1]42.0%[/1][2] negative — country[/2]'
+- `ppt/slides/slide3.xml#65` (slide)
+  - RU: '[1]с\xa0тех пор [/1][2]+16,9 п.п.[/2]'
+  - EN: '[1]since then [/1][2]+16.9 pp[/2]'
+- `ppt/slides/slide3.xml#66` (slide)
+  - RU: '[1]36,0%[/1][2] негатива\xa0— экономика[/2]'
+  - EN: '[1]36.0%[/1][2] negative — economy[/2]'
+- `ppt/slides/slide3.xml#67` (slide)
+  - RU: '[1]с\xa0тех пор [/1][2]+18,9 п.п.[/2]'
+  - EN: '[1]since then [/1][2]+18.9 pp[/2]'
+- `ppt/slides/slide3.xml#68` (slide)
+  - RU: 'Источник: OMD Snapshot, города 1М+, 18–55, 625 респондентов, 1–3.07.2026 W19, онлайн-опрос Tiburon Research. Доли и\xa0изменения\xa0— расчёт OMD'
+  - EN: 'Source: OMD Snapshot, 1M+ cities, 18–55, n=625, Jul 1–3, 2026, W19, Tiburon Research online survey. Shares and changes — OMD calculations'
+- `ppt/notesSlides/notesSlide3.xml#1` (notes)
+  - RU: 'Вариант 2А · линии доли негатива'
+  - EN: 'Option 2A · negative-share lines'
+- `str#21` (chartstr)
+  - RU: 'Ситуация в стране в целом'
+  - EN: 'Situation in the country'
+- `str#25` (chartstr)
+  - RU: 'Экономическое положение России'
+  - EN: 'Russia’s economic situation'
+- `str#32` (chartstr)
+  - RU: 'апр'
+  - EN: 'Apr'
+- `str#40` (chartstr)
+  - RU: 'дек'
+  - EN: 'Dec'
+- `str#46` (chartstr)
+  - RU: 'июл'
+  - EN: 'Jul'
+- `str#53` (chartstr)
+  - RU: 'июн'
+  - EN: 'Jun'
+- `str#61` (chartstr)
+  - RU: 'май'
+  - EN: 'May'
+- `str#69` (chartstr)
+  - RU: 'мар'
+  - EN: 'Mar'
+- `str#77` (chartstr)
+  - RU: 'ноя'
+  - EN: 'Nov'
+- `str#83` (chartstr)
+  - RU: 'окт'
+  - EN: 'Oct'
+- `str#89` (chartstr)
+  - RU: 'сен'
+  - EN: 'Sep'
+- `str#90` (chartstr)
+  - RU: 'сен\nкон.'
+  - EN: 'late\nSep'
+- `str#91` (chartstr)
+  - RU: 'сен\nнач.'
+  - EN: 'early\nSep'
+- `str#97` (chartstr)
+  - RU: 'фев'
+  - EN: 'Feb'
+
+## Slide 4
+
+- `ppt/slides/slide4.xml#0` (slide)
+  - RU: 'Рост доходов в\xa02026 практически остановился'
+  - EN: 'Income growth has nearly stalled in 2026'
+- `ppt/slides/slide4.xml#2` (slide)
+  - RU: 'ДИНАМИКА РЕАЛЬНЫХ РАСПОЛАГАЕМЫХ ДОХОДОВ, % Г/Г'
+  - EN: 'REAL DISPOSABLE INCOME, % YOY'
+- `ppt/slides/slide4.xml#37` (slide)
+  - RU: 'пик роста\xa0— Q4 2024'
+  - EN: 'peak growth — Q4 2024'
+- `ppt/slides/slide4.xml#40` (slide)
+  - RU: 'Q2 2026\xa0— рост почти остановился'
+  - EN: 'Q2 2026 — growth nearly stalled'
+- `ppt/slides/slide4.xml#42` (slide)
+  - RU: 'ПРОГНОЗ МИНЭКОНОМРАЗВИТИЯ'
+  - EN: 'ECONOMY MINISTRY FORECAST'
+- `ppt/slides/slide4.xml#44` (slide)
+  - RU: 'по\xa0итогам 2026 года'
+  - EN: 'for full-year 2026'
+- `ppt/slides/slide4.xml#47` (slide)
+  - RU: 'в\xa02027\xa0— возобновление роста'
+  - EN: 'in 2027 — growth resumes'
+- `ppt/slides/slide4.xml#48` (slide)
+  - RU: 'Источник: Росстат, Реальные располагаемые денежные доходы населения по\xa0Российской Федерации, 29.07.2026'
+  - EN: 'Source: Rosstat, Real disposable cash income of the population, Russian Federation, Jul 29, 2026'
+- `ppt/notesSlides/notesSlide4.xml#1` (notes)
+  - RU: 'Вариант 3А · линия + акцент на 2026'
+  - EN: 'Option 3A · line + 2026 highlight'
+- `str#20` (chartstr)
+  - RU: 'Реальные располагаемые доходы, % г/г'
+  - EN: 'Real disposable income, % YoY'
+
+## Slide 5
+
+- `ppt/slides/slide5.xml#0` (slide)
+  - RU: 'Снижение территориального неравенства закончилось'
+  - EN: 'Regional inequality has stopped narrowing'
+- `ppt/slides/slide5.xml#1` (slide)
+  - RU: 'Самые богатые регионы с\xa02025 года вновь в\xa0топе по\xa0темпам роста доходов. Также высокие темпы сохраняются в\xa0регионах Дальнего Востока'
+  - EN: 'Since 2025, the richest regions are back on top for income growth. Far East regions also keep growing fast'
+- `ppt/slides/slide5.xml#10` (slide)
+  - RU: 'Чукотский АО'
+  - EN: 'Chukotka AO'
+- `ppt/slides/slide5.xml#14` (slide)
+  - RU: 'Москва'
+  - EN: 'Moscow'
+- `ppt/slides/slide5.xml#18` (slide)
+  - RU: 'Республика Калмыкия'
+  - EN: 'Republic of Kalmykia'
+- `ppt/slides/slide5.xml#22` (slide)
+  - RU: 'Хабаровский край'
+  - EN: 'Khabarovsk Krai'
+- `ppt/slides/slide5.xml#26` (slide)
+  - RU: 'Республика Алтай'
+  - EN: 'Altai Republic'
+- `ppt/slides/slide5.xml#3` (slide)
+  - RU: 'ТЕМП РОСТА РЕАЛЬНЫХ ДОХОДОВ ЗА\xa0Q1 2026, ТОП-15 РЕГИОНОВ, % Г/Г'
+  - EN: 'REAL INCOME GROWTH IN Q1 2026, TOP 15 REGIONS, % YOY'
+- `ppt/slides/slide5.xml#30` (slide)
+  - RU: 'Магаданская область'
+  - EN: 'Magadan Oblast'
+- `ppt/slides/slide5.xml#34` (slide)
+  - RU: 'Забайкальский край'
+  - EN: 'Zabaykalsky Krai'
+- `ppt/slides/slide5.xml#38` (slide)
+  - RU: 'Севастополь'
+  - EN: 'Sevastopol'
+- `ppt/slides/slide5.xml#42` (slide)
+  - RU: 'Тюменская область'
+  - EN: 'Tyumen Oblast'
+- `ppt/slides/slide5.xml#46` (slide)
+  - RU: 'Калужская область'
+  - EN: 'Kaluga Oblast'
+- `ppt/slides/slide5.xml#5` (slide)
+  - RU: 'Москва, Петербург и\xa0Подмосковье'
+  - EN: 'Moscow & Oblast, St. Petersburg'
+- `ppt/slides/slide5.xml#50` (slide)
+  - RU: 'Московская область'
+  - EN: 'Moscow Oblast'
+- `ppt/slides/slide5.xml#54` (slide)
+  - RU: 'Республика Бурятия'
+  - EN: 'Republic of Buryatia'
+- `ppt/slides/slide5.xml#58` (slide)
+  - RU: 'Санкт-Петербург'
+  - EN: 'St. Petersburg'
+- `ppt/slides/slide5.xml#62` (slide)
+  - RU: 'Красноярский край'
+  - EN: 'Krasnoyarsk Krai'
+- `ppt/slides/slide5.xml#66` (slide)
+  - RU: 'Удмуртская Республика'
+  - EN: 'Udmurt Republic'
+- `ppt/slides/slide5.xml#7` (slide)
+  - RU: 'Дальний Восток'
+  - EN: 'Far East'
+- `ppt/slides/slide5.xml#70` (slide)
+  - RU: '← в\xa05,5 раза выше среднего'
+  - EN: '← 5.5x the average'
+- `ppt/slides/slide5.xml#71` (slide)
+  - RU: '← в\xa03,4 раза выше среднего'
+  - EN: '← 3.4x the average'
+- `ppt/slides/slide5.xml#73` (slide)
+  - RU: '5 из\xa015'
+  - EN: '5 of 15'
+- `ppt/slides/slide5.xml#74` (slide)
+  - RU: 'регионов топа\xa0— Дальний Восток'
+  - EN: 'top regions are in the Far East'
+- `ppt/slides/slide5.xml#76` (slide)
+  - RU: '3 из\xa015'
+  - EN: '3 of 15'
+- `ppt/slides/slide5.xml#77` (slide)
+  - RU: 'Москва, Петербург и\xa0Подмосковье'
+  - EN: 'Moscow & Oblast, St. Petersburg'
+- `ppt/slides/slide5.xml#78` (slide)
+  - RU: 'Источник: Росстат, Реальные денежные доходы населения по\xa0субъектам Российской Федерации, 29.07.2026. Кратность к\xa0среднему\xa0— расчёт OMD'
+  - EN: 'Source: Rosstat, Real cash income of the population by region of Russia, Jul 29, 2026. Multiples of the average — OMD calculations'
+- `ppt/slides/slide5.xml#9` (slide)
+  - RU: 'среднее по\xa0России +4,4%'
+  - EN: 'Russia average +4.4%'
+- `ppt/notesSlides/notesSlide5.xml#1` (notes)
+  - RU: 'Вариант 4Б · точки-леденцы во всю ширину'
+  - EN: 'Option 4B · full-width lollipop chart'
+
+## Slide 6
+
+- `ppt/slides/slide6.xml#0` (slide)
+  - RU: 'Новый всплеск оборота розницы'
+  - EN: 'Retail turnover surges again'
+- `ppt/slides/slide6.xml#17` (slide)
+  - RU: 'ОБЩЕПИТ'
+  - EN: 'CATERING'
+- `ppt/slides/slide6.xml#19` (slide)
+  - RU: 'июнь 2026, г/г'
+  - EN: 'June 2026, YoY'
+- `ppt/slides/slide6.xml#2` (slide)
+  - RU: 'ТОВАРЫ'
+  - EN: 'GOODS'
+- `ppt/slides/slide6.xml#32` (slide)
+  - RU: 'ПРОДУКТЫ'
+  - EN: 'FOOD'
+- `ppt/slides/slide6.xml#34` (slide)
+  - RU: 'июнь 2026, г/г'
+  - EN: 'June 2026, YoY'
+- `ppt/slides/slide6.xml#4` (slide)
+  - RU: 'июнь 2026, г/г'
+  - EN: 'June 2026, YoY'
+- `ppt/slides/slide6.xml#47` (slide)
+  - RU: 'УСЛУГИ'
+  - EN: 'SERVICES'
+- `ppt/slides/slide6.xml#49` (slide)
+  - RU: 'июнь 2026, г/г'
+  - EN: 'June 2026, YoY'
+- `ppt/slides/slide6.xml#64` (slide)
+  - RU: 'В\xa0марте 2026 сыграло роль снижение ключевой ставки, а\xa0также стремление населения купить авто до\xa0повышения цены за\xa0счет нового утильсбора'
+  - EN: 'In March 2026, the key rate cut mattered, as did the rush to buy cars before the new recycling fee pushed prices up'
+- `ppt/slides/slide6.xml#68` (slide)
+  - RU: 'Также влияет отложенный спрос (замедление в\xa0январе-феврале), относительное восстановление кредитов весной и\xa0начало расходования сбережений'
+  - EN: 'Also at play: pent-up demand (slowdown in Jan–Feb), a partial lending recovery in spring and people starting to spend savings'
+- `ppt/slides/slide6.xml#71` (slide)
+  - RU: 'Прогноз 2026 (Минэкономразвития)'
+  - EN: '2026 forecast (Economy Ministry)'
+- `ppt/slides/slide6.xml#72` (slide)
+  - RU: 'Источник: Росстат. Заливка\xa0— март–июнь 2026'
+  - EN: 'Source: Rosstat. Shaded: March–June 2026'
+- `ppt/notesSlides/notesSlide6.xml#1` (notes)
+  - RU: 'Вариант 5Б · четыре мини-графика'
+  - EN: 'Option 5B · four mini charts'
+- `str#102` (chartstr)
+  - RU: 'фев.24'
+  - EN: 'Feb ’24'
+- `str#103` (chartstr)
+  - RU: 'фев.25'
+  - EN: 'Feb ’25'
+- `str#104` (chartstr)
+  - RU: 'фев.26'
+  - EN: 'Feb ’26'
+- `str#109` (chartstr)
+  - RU: 'янв.24'
+  - EN: 'Jan ’24'
+- `str#110` (chartstr)
+  - RU: 'янв.25'
+  - EN: 'Jan ’25'
+- `str#111` (chartstr)
+  - RU: 'янв.26'
+  - EN: 'Jan ’26'
+- `str#12` (chartstr)
+  - RU: 'Общепит'
+  - EN: 'Catering'
+- `str#16` (chartstr)
+  - RU: 'Продукты'
+  - EN: 'Food'
+- `str#23` (chartstr)
+  - RU: 'Товары'
+  - EN: 'Goods'
+- `str#24` (chartstr)
+  - RU: 'Услуги'
+  - EN: 'Services'
+- `str#30` (chartstr)
+  - RU: 'авг.24'
+  - EN: 'Aug ’24'
+- `str#31` (chartstr)
+  - RU: 'авг.25'
+  - EN: 'Aug ’25'
+- `str#37` (chartstr)
+  - RU: 'апр.24'
+  - EN: 'Apr ’24'
+- `str#38` (chartstr)
+  - RU: 'апр.25'
+  - EN: 'Apr ’25'
+- `str#39` (chartstr)
+  - RU: 'апр.26'
+  - EN: 'Apr ’26'
+- `str#44` (chartstr)
+  - RU: 'дек.24'
+  - EN: 'Dec ’24'
+- `str#45` (chartstr)
+  - RU: 'дек.25'
+  - EN: 'Dec ’25'
+- `str#51` (chartstr)
+  - RU: 'июл.24'
+  - EN: 'Jul ’24'
+- `str#52` (chartstr)
+  - RU: 'июл.25'
+  - EN: 'Jul ’25'
+- `str#58` (chartstr)
+  - RU: 'июн.24'
+  - EN: 'Jun ’24'
+- `str#59` (chartstr)
+  - RU: 'июн.25'
+  - EN: 'Jun ’25'
+- `str#60` (chartstr)
+  - RU: 'июн.26'
+  - EN: 'Jun ’26'
+- `str#66` (chartstr)
+  - RU: 'май.24'
+  - EN: 'May ’24'
+- `str#67` (chartstr)
+  - RU: 'май.25'
+  - EN: 'May ’25'
+- `str#68` (chartstr)
+  - RU: 'май.26'
+  - EN: 'May ’26'
+- `str#74` (chartstr)
+  - RU: 'мар.24'
+  - EN: 'Mar ’24'
+- `str#75` (chartstr)
+  - RU: 'мар.25'
+  - EN: 'Mar ’25'
+- `str#76` (chartstr)
+  - RU: 'мар.26'
+  - EN: 'Mar ’26'
+- `str#81` (chartstr)
+  - RU: 'ноя.24'
+  - EN: 'Nov ’24'
+- `str#82` (chartstr)
+  - RU: 'ноя.25'
+  - EN: 'Nov ’25'
+- `str#87` (chartstr)
+  - RU: 'окт.24'
+  - EN: 'Oct ’24'
+- `str#88` (chartstr)
+  - RU: 'окт.25'
+  - EN: 'Oct ’25'
+- `str#95` (chartstr)
+  - RU: 'сен.24'
+  - EN: 'Sep ’24'
+- `str#96` (chartstr)
+  - RU: 'сен.25'
+  - EN: 'Sep ’25'
+
+## Slide 7
+
+- `ppt/slides/slide7.xml#0` (slide)
+  - RU: 'Покупатели совмещают онлайн и\xa0офлайн-каналы'
+  - EN: 'Shoppers combine online and offline channels'
+- `ppt/slides/slide7.xml#104` (slide)
+  - RU: 'Салоны связи'
+  - EN: 'Phone stores'
+- `ppt/slides/slide7.xml#110` (slide)
+  - RU: '← онлайн выше офлайна'
+  - EN: '← online above offline'
+- `ppt/slides/slide7.xml#117` (slide)
+  - RU: 'аптеки: офлайн vs онлайн'
+  - EN: 'pharmacy: offline vs online'
+- `ppt/slides/slide7.xml#118` (slide)
+  - RU: 'супермаркеты\xa0— 89% vs 43%'
+  - EN: 'supermarkets — 89% vs 43%'
+- `ppt/slides/slide7.xml#122` (slide)
+  - RU: 'Точки продаж FMCG и\xa0фармы сохраняют уверенное преобладание офлайн-покупателей'
+  - EN: 'FMCG and pharma outlets are still clearly dominated by offline shoppers'
+- `ppt/slides/slide7.xml#126` (slide)
+  - RU: 'Несмотря на\xa0лидерство e-Commerce в\xa0сегменте непродовольственных товаров по\xa0объему трат, даже среди\n12–64 в\xa0количестве покупателей небольшой перевес остается за\xa0офлайном'
+  - EN: 'Although e-commerce leads non-food spending,\neven among 12–64s, offline keeps a slight edge in shopper numbers'
+- `ppt/slides/slide7.xml#129` (slide)
+  - RU: 'салоны связи\xa0— единственный тип магазинов, где онлайн-покупателей больше'
+  - EN: 'phone stores — the only store type where online shoppers outnumber offline'
+- `ppt/slides/slide7.xml#130` (slide)
+  - RU: 'Источник: Mediascope, BrandPulse 2026. Онлайн-покупки пересчитаны от\xa0всего населения. Разрыв офлайн − онлайн\xa0— расчёт OMD'
+  - EN: 'Source: Mediascope, BrandPulse 2026. Online purchases rebased to total population. Offline − online gap — OMD calculations'
+- `ppt/slides/slide7.xml#15` (slide)
+  - RU: 'онлайн'
+  - EN: 'online'
+- `ppt/slides/slide7.xml#16` (slide)
+  - RU: 'офлайн'
+  - EN: 'offline'
+- `ppt/slides/slide7.xml#17` (slide)
+  - RU: 'Аптеки'
+  - EN: 'Pharmacies'
+- `ppt/slides/slide7.xml#2` (slide)
+  - RU: 'ЛИЧНАЯ ПОКУПКА ЗА\xa06 МЕС., %'
+  - EN: 'PERSONAL PURCHASE IN 6 MO, %'
+- `ppt/slides/slide7.xml#23` (slide)
+  - RU: '+51 п.п.'
+  - EN: '+51 pp'
+- `ppt/slides/slide7.xml#24` (slide)
+  - RU: 'Магазины фиксированных цен'
+  - EN: 'Fixed-price stores'
+- `ppt/slides/slide7.xml#30` (slide)
+  - RU: '+49 п.п.'
+  - EN: '+49 pp'
+- `ppt/slides/slide7.xml#31` (slide)
+  - RU: 'Супермаркеты, гипермаркеты'
+  - EN: 'Supermarkets, hypermarkets'
+- `ppt/slides/slide7.xml#37` (slide)
+  - RU: '+46 п.п.'
+  - EN: '+46 pp'
+- `ppt/slides/slide7.xml#38` (slide)
+  - RU: 'Магазины товаров для\xa0строительства и\xa0ремонта'
+  - EN: 'DIY and home improvement stores'
+- `ppt/slides/slide7.xml#44` (slide)
+  - RU: 'Магазины товаров для\xa0животных'
+  - EN: 'Pet stores'
+- `ppt/slides/slide7.xml#50` (slide)
+  - RU: 'Магазины парфюмерии и\xa0косметики'
+  - EN: 'Perfume and cosmetics stores'
+- `ppt/slides/slide7.xml#56` (slide)
+  - RU: 'Магазины обуви'
+  - EN: 'Shoe stores'
+- `ppt/slides/slide7.xml#62` (slide)
+  - RU: 'Магазины шин, дисков, автомобильных аксессуаров'
+  - EN: 'Tire, wheel and car accessory stores'
+- `ppt/slides/slide7.xml#68` (slide)
+  - RU: 'Магазины мебели, товаров для\xa0дома'
+  - EN: 'Furniture and home goods stores'
+- `ppt/slides/slide7.xml#74` (slide)
+  - RU: 'Магазины спортивных товаров'
+  - EN: 'Sporting goods stores'
+- `ppt/slides/slide7.xml#80` (slide)
+  - RU: 'Магазины детских товаров'
+  - EN: 'Children’s goods stores'
+- `ppt/slides/slide7.xml#86` (slide)
+  - RU: 'Магазины БТиЭ'
+  - EN: 'Electronics stores'
+- `ppt/slides/slide7.xml#92` (slide)
+  - RU: 'Магазины одежды'
+  - EN: 'Clothing stores'
+- `ppt/slides/slide7.xml#98` (slide)
+  - RU: 'Книжные магазины'
+  - EN: 'Bookstores'
+- `ppt/notesSlides/notesSlide7.xml#1` (notes)
+  - RU: 'Вариант 6А · гантели: онлайн и офлайн в одной строке'
+  - EN: 'Option 6A · dumbbells: online and offline on one row'
+
+## Slide 8
+
+- `ppt/slides/slide8.xml#0` (slide)
+  - RU: 'Женщины заметно активнее\nвовлечены в\xa0онлайн-покупки'
+  - EN: 'Women are noticeably more\nengaged in online shopping'
+- `ppt/slides/slide8.xml#15` (slide)
+  - RU: 'Разрыв «женщины − мужчины», п.п.'
+  - EN: 'Women − men gap, pp'
+- `ppt/slides/slide8.xml#2` (slide)
+  - RU: 'СРЕДНЕСУТОЧНАЯ АУДИТОРИЯ МАРКЕТПЛЕЙСОВ, %'
+  - EN: 'MARKETPLACES: AVERAGE DAILY AUDIENCE, %'
+- `ppt/slides/slide8.xml#31` (slide)
+  - RU: 'Особенно активно женщины по\xa0сравнению с\xa0мужчинами используют маркетплейсы'
+  - EN: 'Women are especially ahead of men on marketplaces'
+- `ppt/slides/slide8.xml#33` (slide)
+  - RU: '+18,7 п.п.'
+  - EN: '+18.7 pp'
+- `ppt/slides/slide8.xml#34` (slide)
+  - RU: 'самый большой разрыв\xa0— 18–24 лет: 56,4% женщин против 37,7% мужчин'
+  - EN: 'widest gap — ages 18–24: 56.4% of women vs 37.7% of men'
+- `ppt/slides/slide8.xml#35` (slide)
+  - RU: 'в\xa012–64\xa0— от\xa0+10,8 до\xa0+18,7 п.п.'
+  - EN: 'ages 12–64: +10.8 to +18.7 pp'
+- `ppt/slides/slide8.xml#37` (slide)
+  - RU: 'Также видно, что\xa0мужчины чаще дополняют маркетплейсы профильными интернет-магазинами'
+  - EN: 'Men also more often combine marketplaces with specialist online stores'
+- `ppt/slides/slide8.xml#38` (slide)
+  - RU: 'Весь e-commerce минус маркетплейсы, п.п., в\xa0среднем по\xa0возрастам'
+  - EN: 'All e-commerce minus marketplaces, pp, average across ages'
+- `ppt/slides/slide8.xml#39` (slide)
+  - RU: 'Мужчины'
+  - EN: 'Men'
+- `ppt/slides/slide8.xml#4` (slide)
+  - RU: 'Мужчины'
+  - EN: 'Men'
+- `ppt/slides/slide8.xml#42` (slide)
+  - RU: 'Женщины'
+  - EN: 'Women'
+- `ppt/slides/slide8.xml#45` (slide)
+  - RU: 'Источник: Mediascope, CrossWeb, январь–июль 2026 / Ж 12-64. Разрывы\xa0— расчёт OMD'
+  - EN: 'Source: Mediascope, CrossWeb, January–July 2026 / F 12–64. Gaps — OMD calculations'
+- `ppt/slides/slide8.xml#6` (slide)
+  - RU: 'Женщины'
+  - EN: 'Women'
+- `ppt/notesSlides/notesSlide8.xml#1` (notes)
+  - RU: 'Вариант 7А · пары М/Ж по возрастам'
+  - EN: 'Option 7A · M/F pairs by age'
+- `str#10` (chartstr)
+  - RU: 'Мужчины'
+  - EN: 'Men'
+- `str#5` (chartstr)
+  - RU: 'Женщины'
+  - EN: 'Women'
+
+## Slide 10
+
+- `ppt/slides/slide10.xml#0` (slide)
+  - RU: 'Расклад сил в\xa0сегменте маркетплейсов меняется'
+  - EN: 'Marketplace balance of power is shifting'
+- `ppt/slides/slide10.xml#100` (slide)
+  - RU: '−11,7 п.п.'
+  - EN: '−11.7 pp'
+- `ppt/slides/slide10.xml#101` (slide)
+  - RU: 'янв 2023 →\xa0июл 2026'
+  - EN: 'Jan 2023 → Jul 2026'
+- `ppt/slides/slide10.xml#120` (slide)
+  - RU: '−0,9 п.п.'
+  - EN: '−0.9 pp'
+- `ppt/slides/slide10.xml#121` (slide)
+  - RU: 'янв 2023 →\xa0июл 2026'
+  - EN: 'Jan 2023 → Jul 2026'
+- `ppt/slides/slide10.xml#131` (slide)
+  - RU: 'пик 10,4'
+  - EN: 'peak 10.4'
+- `ppt/slides/slide10.xml#142` (slide)
+  - RU: 'На\xa0фоне снижения охватов WB Озон становится уверенным лидером в\xa0категории, охватывая почти 70% россиян за\xa0месяц'
+  - EN: 'As WB’s reach declines, Ozon becomes the clear category leader, reaching almost 70% of Russians a month'
+- `ppt/slides/slide10.xml#146` (slide)
+  - RU: 'Яндекс.Маркет значительно сократил рекламную поддержку в\xa02026 и\xa0быстро теряет охваты'
+  - EN: 'Yandex Market sharply cut its ad support in 2026 and is quickly losing reach'
+- `ppt/slides/slide10.xml#150` (slide)
+  - RU: 'Аналогичная ситуация с\xa0Мегамаркетом наблюдается с\xa0осени 2024. В\xa02026 охват площадки составляет менее 5%'
+  - EN: 'Megamarket has been in the same position since fall 2024. In 2026 its reach is under 5%'
+- `ppt/slides/slide10.xml#154` (slide)
+  - RU: 'AliExpress оказался наиболее устойчивым без\xa0рекламной поддержки с\xa0марта 2022, однако с\xa0апреля 2026 вернулся в\xa0Наружную рекламу'
+  - EN: 'AliExpress held up best without ad support since March 2022, but returned to outdoor advertising in April 2026'
+- `ppt/slides/slide10.xml#155` (slide)
+  - RU: 'Источник: Mediascope, CrossWeb, Россия 0+, 12+. Изменения и\xa0пики\xa0— расчёт OMD'
+  - EN: 'Source: Mediascope, CrossWeb, Russia 0+, 12+. Changes, peaks — OMD calculations'
+- `ppt/slides/slide10.xml#28` (slide)
+  - RU: '+14,6 п.п.'
+  - EN: '+14.6 pp'
+- `ppt/slides/slide10.xml#29` (slide)
+  - RU: 'янв 2023 →\xa0июл 2026'
+  - EN: 'Jan 2023 → Jul 2026'
+- `ppt/slides/slide10.xml#39` (slide)
+  - RU: 'пик 65,9'
+  - EN: 'peak 65.9'
+- `ppt/slides/slide10.xml#48` (slide)
+  - RU: 'ЯНДЕКС.МАРКЕТ'
+  - EN: 'YANDEX MARKET'
+- `ppt/slides/slide10.xml#52` (slide)
+  - RU: '−8,1 п.п.'
+  - EN: '−8.1 pp'
+- `ppt/slides/slide10.xml#53` (slide)
+  - RU: 'янв 2023 →\xa0июл 2026'
+  - EN: 'Jan 2023 → Jul 2026'
+- `ppt/slides/slide10.xml#6` (slide)
+  - RU: '+18,8 п.п.'
+  - EN: '+18.8 pp'
+- `ppt/slides/slide10.xml#63` (slide)
+  - RU: 'пик 41,4'
+  - EN: 'peak 41.4'
+- `ppt/slides/slide10.xml#7` (slide)
+  - RU: 'янв 2023 →\xa0июл 2026'
+  - EN: 'Jan 2023 → Jul 2026'
+- `ppt/slides/slide10.xml#72` (slide)
+  - RU: 'МЕГАМАРКЕТ'
+  - EN: 'MEGAMARKET'
+- `ppt/slides/slide10.xml#76` (slide)
+  - RU: '−6,5 п.п.'
+  - EN: '−6.5 pp'
+- `ppt/slides/slide10.xml#77` (slide)
+  - RU: 'янв 2023 →\xa0дек 2025'
+  - EN: 'Jan 2023 → Dec 2025'
+- `ppt/slides/slide10.xml#87` (slide)
+  - RU: 'пик 22,2'
+  - EN: 'peak 22.2'
+- `ppt/notesSlides/notesSlide10.xml#1` (notes)
+  - RU: 'Вариант 9Б · шесть мини-графиков в одной шкале'
+  - EN: 'Option 9B · six mini charts on one scale'
+- `str#100` (chartstr)
+  - RU: 'фев 2025'
+  - EN: 'Feb 2025'
+- `str#101` (chartstr)
+  - RU: 'фев 2026'
+  - EN: 'Feb 2026'
+- `str#105` (chartstr)
+  - RU: 'янв 2023'
+  - EN: 'Jan 2023'
+- `str#106` (chartstr)
+  - RU: 'янв 2024'
+  - EN: 'Jan 2024'
+- `str#107` (chartstr)
+  - RU: 'янв 2025'
+  - EN: 'Jan 2025'
+- `str#108` (chartstr)
+  - RU: 'янв 2026'
+  - EN: 'Jan 2026'
+- `str#26` (chartstr)
+  - RU: 'Яндекс.Маркет'
+  - EN: 'Yandex Market'
+- `str#27` (chartstr)
+  - RU: 'авг 2023'
+  - EN: 'Aug 2023'
+- `str#28` (chartstr)
+  - RU: 'авг 2024'
+  - EN: 'Aug 2024'
+- `str#29` (chartstr)
+  - RU: 'авг 2025'
+  - EN: 'Aug 2025'
+- `str#33` (chartstr)
+  - RU: 'апр 2023'
+  - EN: 'Apr 2023'
+- `str#34` (chartstr)
+  - RU: 'апр 2024'
+  - EN: 'Apr 2024'
+- `str#35` (chartstr)
+  - RU: 'апр 2025'
+  - EN: 'Apr 2025'
+- `str#36` (chartstr)
+  - RU: 'апр 2026'
+  - EN: 'Apr 2026'
+- `str#41` (chartstr)
+  - RU: 'дек 2023'
+  - EN: 'Dec 2023'
+- `str#42` (chartstr)
+  - RU: 'дек 2024'
+  - EN: 'Dec 2024'
+- `str#43` (chartstr)
+  - RU: 'дек 2025'
+  - EN: 'Dec 2025'
+- `str#47` (chartstr)
+  - RU: 'июл 2023'
+  - EN: 'Jul 2023'
+- `str#48` (chartstr)
+  - RU: 'июл 2024'
+  - EN: 'Jul 2024'
+- `str#49` (chartstr)
+  - RU: 'июл 2025'
+  - EN: 'Jul 2025'
+- `str#50` (chartstr)
+  - RU: 'июл 2026'
+  - EN: 'Jul 2026'
+- `str#54` (chartstr)
+  - RU: 'июн 2023'
+  - EN: 'Jun 2023'
+- `str#55` (chartstr)
+  - RU: 'июн 2024'
+  - EN: 'Jun 2024'
+- `str#56` (chartstr)
+  - RU: 'июн 2025'
+  - EN: 'Jun 2025'
+- `str#57` (chartstr)
+  - RU: 'июн 2026'
+  - EN: 'Jun 2026'
+- `str#62` (chartstr)
+  - RU: 'май 2023'
+  - EN: 'May 2023'
+- `str#63` (chartstr)
+  - RU: 'май 2024'
+  - EN: 'May 2024'
+- `str#64` (chartstr)
+  - RU: 'май 2025'
+  - EN: 'May 2025'
+- `str#65` (chartstr)
+  - RU: 'май 2026'
+  - EN: 'May 2026'
+- `str#70` (chartstr)
+  - RU: 'мар 2023'
+  - EN: 'Mar 2023'
+- `str#71` (chartstr)
+  - RU: 'мар 2024'
+  - EN: 'Mar 2024'
+- `str#72` (chartstr)
+  - RU: 'мар 2025'
+  - EN: 'Mar 2025'
+- `str#73` (chartstr)
+  - RU: 'мар 2026'
+  - EN: 'Mar 2026'
+- `str#78` (chartstr)
+  - RU: 'ноя 2023'
+  - EN: 'Nov 2023'
+- `str#79` (chartstr)
+  - RU: 'ноя 2024'
+  - EN: 'Nov 2024'
+- `str#80` (chartstr)
+  - RU: 'ноя 2025'
+  - EN: 'Nov 2025'
+- `str#84` (chartstr)
+  - RU: 'окт 2023'
+  - EN: 'Oct 2023'
+- `str#85` (chartstr)
+  - RU: 'окт 2024'
+  - EN: 'Oct 2024'
+- `str#86` (chartstr)
+  - RU: 'окт 2025'
+  - EN: 'Oct 2025'
+- `str#9` (chartstr)
+  - RU: 'Мегамаркет'
+  - EN: 'Megamarket'
+- `str#92` (chartstr)
+  - RU: 'сен 2023'
+  - EN: 'Sep 2023'
+- `str#93` (chartstr)
+  - RU: 'сен 2024'
+  - EN: 'Sep 2024'
+- `str#94` (chartstr)
+  - RU: 'сен 2025'
+  - EN: 'Sep 2025'
+- `str#98` (chartstr)
+  - RU: 'фев 2023'
+  - EN: 'Feb 2023'
+- `str#99` (chartstr)
+  - RU: 'фев 2024'
+  - EN: 'Feb 2024'
+
+## Slide 11
+
+- `ppt/slides/slide11.xml#0` (slide)
+  - RU: 'Три крупнейших маркетплейса в\xa0значительной\nмере охватывают одних и\xa0тех же пользователей'
+  - EN: 'The three largest marketplaces largely\nreach the same users'
+- `ppt/slides/slide11.xml#1` (slide)
+  - RU: 'Самая большая доля эксклюзивных пользователей у\xa0Ozon'
+  - EN: 'Ozon has the largest share of exclusive users'
+- `ppt/slides/slide11.xml#28` (slide)
+  - RU: '1\xa0— только Яндекс\xa0Маркет'
+  - EN: '1 — Yandex Market only'
+- `ppt/slides/slide11.xml#3` (slide)
+  - RU: 'МЕСЯЧНЫЙ ОХВАТ МАРКЕТПЛЕЙСОВ, % РОССИЯН'
+  - EN: 'MONTHLY MARKETPLACE REACH, % OF RUSSIANS'
+- `ppt/slides/slide11.xml#30` (slide)
+  - RU: 'Любой\nиз\xa0трёх'
+  - EN: 'Any of\nthe three'
+- `ppt/slides/slide11.xml#38` (slide)
+  - RU: 'ровно две'
+  - EN: 'exactly two'
+- `ppt/slides/slide11.xml#39` (slide)
+  - RU: 'только одна'
+  - EN: 'only one'
+- `ppt/slides/slide11.xml#42` (slide)
+  - RU: 'россиян за\xa0месяц посещали один из\xa0трёх ключевых маркетплейсов'
+  - EN: 'of Russians visited one of the three key marketplaces in a month'
+- `ppt/slides/slide11.xml#45` (slide)
+  - RU: 'используют все три маркетплейса'
+  - EN: 'use all three marketplaces'
+- `ppt/slides/slide11.xml#46` (slide)
+  - RU: 'почти треть всех пользователей маркетплейсов (24 из\xa076)'
+  - EN: 'almost a third of all marketplace users (24 of 76)'
+- `ppt/slides/slide11.xml#49` (slide)
+  - RU: 'аудитории Ozon\xa0— эксклюзивные пользователи'
+  - EN: 'of Ozon’s audience are exclusive users'
+- `ppt/slides/slide11.xml#5` (slide)
+  - RU: 'все три площадки'
+  - EN: 'all three platforms'
+- `ppt/slides/slide11.xml#50` (slide)
+  - RU: 'у\xa0Wildberries\xa0— 10%, у\xa0Яндекс\xa0Маркета\xa0— 4%'
+  - EN: 'Wildberries — 10%, Yandex Market — 4%'
+- `ppt/slides/slide11.xml#51` (slide)
+  - RU: 'Источник: Mediascope, CrossWeb, июль 2026. «Ozon +\xa0ещё одна» = охват − только Ozon − все три; «ровно две» = 76 − 24 − 17; доля эксклюзивных = только эта площадка / охват\xa0— расчёт OMD'
+  - EN: 'Source: Mediascope, CrossWeb, July 2026. “Ozon + one more” = reach − Ozon only − all three; “exactly two” = 76 − 24 − 17; exclusive share = this platform only / reach — OMD calculations'
+- `ppt/slides/slide11.xml#6` (slide)
+  - RU: 'Ozon +\xa0ещё одна'
+  - EN: 'Ozon + one more'
+- `ppt/slides/slide11.xml#7` (slide)
+  - RU: 'только Ozon'
+  - EN: 'Ozon only'
+- `ppt/notesSlides/notesSlide11.xml#1` (notes)
+  - RU: 'Вариант 10А · охват: общая аудитория и эксклюзив'
+  - EN: 'Option 10A · reach: shared vs exclusive audience'
+
+## Slide 12
+
+- `ppt/slides/slide12.xml#0` (slide)
+  - RU: 'Динамика рекламного рынка в\xa0России'
+  - EN: 'Russia’s ad market over time'
+- `ppt/slides/slide12.xml#2` (slide)
+  - RU: 'ОБЪЁМ РЕКЛАМНОГО РЫНКА, МЛРД РУБ.'
+  - EN: 'AD MARKET SIZE, RUB BN'
+- `ppt/slides/slide12.xml#36` (slide)
+  - RU: 'Наружка, радио, пресса'
+  - EN: 'Outdoor, radio, print'
+- `ppt/slides/slide12.xml#37` (slide)
+  - RU: 'ТВ'
+  - EN: 'TV'
+- `ppt/slides/slide12.xml#38` (slide)
+  - RU: 'Интернет'
+  - EN: 'Internet'
+- `ppt/slides/slide12.xml#4` (slide)
+  - RU: 'прогноз'
+  - EN: 'forecast'
+- `ppt/slides/slide12.xml#41` (slide)
+  - RU: 'ВКЛАД В\xa0ПРИРОСТ РЫНКА 2022 →\xa02027'
+  - EN: 'GROWTH CONTRIBUTION, 2022 → 2027'
+- `ppt/slides/slide12.xml#42` (slide)
+  - RU: 'млрд руб.'
+  - EN: 'RUB bn'
+- `ppt/slides/slide12.xml#43` (slide)
+  - RU: 'доля прироста'
+  - EN: 'share of growth'
+- `ppt/slides/slide12.xml#48` (slide)
+  - RU: 'Интернет'
+  - EN: 'Internet'
+- `ppt/slides/slide12.xml#52` (slide)
+  - RU: 'ТВ'
+  - EN: 'TV'
+- `ppt/slides/slide12.xml#56` (slide)
+  - RU: 'Наружная'
+  - EN: 'Outdoor'
+- `ppt/slides/slide12.xml#60` (slide)
+  - RU: 'Радио'
+  - EN: 'Radio'
+- `ppt/slides/slide12.xml#64` (slide)
+  - RU: 'Пресса'
+  - EN: 'Print'
+- `ppt/slides/slide12.xml#70` (slide)
+  - RU: '[1]Всего +1\xa0640 млрд руб.[/1][2]\xa0— рынок вырос в\xa03,7 раза[/2]'
+  - EN: '[1]Total +1,640 RUB bn[/1][2] — the market grew 3.7x[/2]'
+- `ppt/slides/slide12.xml#72` (slide)
+  - RU: 'eRetail Media является главным драйвером роста сегмента интернета и\xa0рекламного рынка в\xa0целом'
+  - EN: 'eRetail Media is the main growth driver of internet advertising and the ad market overall'
+- `ppt/slides/slide12.xml#73` (slide)
+  - RU: 'Источник: АКАР, оценка агентства. 2026–2027\xa0— прогноз. Вклад в\xa0прирост, доли и\xa0кратность роста\xa0— расчёт OMD'
+  - EN: 'Source: AKAR, agency estimate; 2026–2027 forecast. Contributions, shares, growth multiple — OMD calculations'
+- `ppt/notesSlides/notesSlide12.xml#1` (notes)
+  - RU: 'Вариант 11Б · кто вырастил рынок'
+  - EN: 'Option 11B · who grew the market'
+- `str#11` (chartstr)
+  - RU: 'Наружная реклама'
+  - EN: 'Outdoor'
+- `str#15` (chartstr)
+  - RU: 'Пресса'
+  - EN: 'Print'
+- `str#19` (chartstr)
+  - RU: 'Радио'
+  - EN: 'Radio'
+- `str#22` (chartstr)
+  - RU: 'ТВ'
+  - EN: 'TV'
+- `str#6` (chartstr)
+  - RU: 'Интернет'
+  - EN: 'Internet'
+
+## Slide 13
+
+- `ppt/slides/slide13.xml#0` (slide)
+  - RU: 'CTV становится самостоятельным слоем на\xa0фоне\nфрагментации просмотра и\xa0роста Smart TV'
+  - EN: 'CTV is becoming a standalone layer as viewing\nfragments and Smart TV grows'
+- `ppt/slides/slide13.xml#11` (slide)
+  - RU: 'Проникновение Smart TV к\xa02029'
+  - EN: 'Smart TV penetration by 2029'
+- `ppt/slides/slide13.xml#13` (slide)
+  - RU: 'ВИДЕОСЕРВИСЫ'
+  - EN: 'VIDEO SERVICES'
+- `ppt/slides/slide13.xml#16` (slide)
+  - RU: 'Подписчиков видеосервисов имеют платную подписку без\xa0рекламы'
+  - EN: 'Video service subscribers with a paid ad-free plan'
+- `ppt/slides/slide13.xml#17` (slide)
+  - RU: 'Источник: https://www.sostav.ru/publication/trendy-reklamy-v-tsifrovykh-media-2027-86219.html'
+  - EN: 'Source: https://www.sostav.ru/publication/trendy-reklamy-v-tsifrovykh-media-2027-86219.html'
+- `ppt/slides/slide13.xml#6` (slide)
+  - RU: '[1]Территории видеоселлеров смешались: большинство игроков продают рекламу на\xa0всех устройствах, что\xa0делает [/1][2]централизацию видеопланирования обязательной[/2]'
+  - EN: '[1]Video sellers’ territories have blurred: most players sell ads across all devices, which makes [/1][2]centralized video planning a must[/2]'
+- `ppt/notesSlides/notesSlide13.xml#1` (notes)
+  - RU: 'Вариант 12А · тезис + два кольца'
+  - EN: 'Option 12A · key point + two donuts'
+- `str#13` (chartstr)
+  - RU: 'Остальные'
+  - EN: 'Other'
+- `str#14` (chartstr)
+  - RU: 'Подписчиков видеосервисов имеют платную подписку без рекламы'
+  - EN: 'Video service subscribers with a paid ad-free plan'
+- `str#17` (chartstr)
+  - RU: 'Проникновение Smart TV к 2029'
+  - EN: 'Smart TV penetration by 2029'
+
+## Slide 14
+
+- `ppt/slides/slide14.xml#0` (slide)
+  - RU: 'Идет диверсификация рынка, больше половины\nблогеров хотят идти на\xa0новые платформы'
+  - EN: 'The market is diversifying: over half of\ninfluencers want to expand to new platforms'
+- `ppt/slides/slide14.xml#11` (slide)
+  - RU: 'рекламодателей называют диверсификацию ключевым трендом инфлюенс-рынка'
+  - EN: 'of advertisers name diversification the key trend in influencer marketing'
+- `ppt/slides/slide14.xml#14` (slide)
+  - RU: 'рекламодателей планируют увеличить бюджет на\xa0рекламу в\xa0социальных сетях и\xa0мессенджерах в\xa02027\xa0году'
+  - EN: 'of advertisers plan to increase social media and messenger ad budgets in 2027'
+- `ppt/slides/slide14.xml#16` (slide)
+  - RU: 'ТОП-5 ПЛАТФОРМ: ИСПОЛЬЗУЕМЫЕ БРЕНДАМИ И\xa0ИНФЛЮЕНСЕРАМИ'
+  - EN: 'TOP 5 PLATFORMS USED BY BRANDS AND INFLUENCERS'
+- `ppt/slides/slide14.xml#18` (slide)
+  - RU: 'Бренды'
+  - EN: 'Brands'
+- `ppt/slides/slide14.xml#20` (slide)
+  - RU: 'Инфлюенсеры'
+  - EN: 'Influencers'
+- `ppt/slides/slide14.xml#28` (slide)
+  - RU: 'ВК'
+  - EN: 'VK'
+- `ppt/slides/slide14.xml#3` (slide)
+  - RU: 'блогеров планируют осваивать новые платформы в\xa02027\xa0году'
+  - EN: 'of influencers plan to expand to new platforms in 2027'
+- `ppt/slides/slide14.xml#30` (slide)
+  - RU: 'Макс'
+  - EN: 'Max'
+- `ppt/slides/slide14.xml#32` (slide)
+  - RU: 'нет в\xa0топ-5'
+  - EN: 'not in top 5'
+- `ppt/slides/slide14.xml#34` (slide)
+  - RU: 'нет в\xa0топ-5'
+  - EN: 'not in top 5'
+- `ppt/slides/slide14.xml#35` (slide)
+  - RU: '*Instagram принадлежит Meta, деятельность которой признана экстремистской и\xa0запрещена в\xa0РФ'
+  - EN: '*Instagram is owned by Meta, which is designated an extremist organization and banned in Russia'
+- `ppt/slides/slide14.xml#36` (slide)
+  - RU: 'Источник: OMD Snapshot, города 1М+, 18–55, 625 респондентов, 1–3.07.2026 W19, онлайн-опрос Tiburon Research'
+  - EN: 'Source: OMD Snapshot, 1M+ cities, 18–55, n=625, Jul 1–3, 2026, W19, Tiburon Research online survey'
+- `ppt/slides/slide14.xml#7` (slide)
+  - RU: 'половина'
+  - EN: 'half'
+- `ppt/slides/slide14.xml#9` (slide)
+  - RU: 'РЕКЛАМОДАТЕЛИ'
+  - EN: 'ADVERTISERS'
+- `ppt/notesSlides/notesSlide14.xml#1` (notes)
+  - RU: 'Вариант 13А · три цифры + бренды vs инфлюенсеры'
+  - EN: 'Option 13A · three stats + brands vs influencers'
+- `str#0` (chartstr)
+  - RU: 'Бренды'
+  - EN: 'Brands'
+- `str#1` (chartstr)
+  - RU: 'ВК'
+  - EN: 'VK'
+- `str#7` (chartstr)
+  - RU: 'Инфлюенсеры'
+  - EN: 'Influencers'
+- `str#8` (chartstr)
+  - RU: 'Макс'
+  - EN: 'Max'
+
+## Slide 15
+
+- `ppt/slides/slide15.xml#0` (slide)
+  - RU: 'Рекламодатели продолжают выбирать ТГ'
+  - EN: 'Advertisers still choose Telegram'
+- `ppt/slides/slide15.xml#14` (slide)
+  - RU: 'в\xa02,2 раза больше, чем ВК'
+  - EN: '2.2x more than VK'
+- `ppt/slides/slide15.xml#16` (slide)
+  - RU: 'ТОЧКИ РОСТА РЫНКА'
+  - EN: 'GROWTH OPPORTUNITIES'
+- `ppt/slides/slide15.xml#2` (slide)
+  - RU: 'ПЛОЩАДКИ С\xa0НАИБОЛЬШЕЙ ДОЛЕЙ В\xa0БЮДЖЕТЕ РЕКЛАМОДАТЕЛЕЙ НА\xa0ИНФЛЮЕНС-МАРКЕТИНГ'
+  - EN: 'PLATFORMS WITH THE LARGEST SHARE OF ADVERTISERS’ INFLUENCER BUDGETS'
+- `ppt/slides/slide15.xml#20` (slide)
+  - RU: 'блогеров испытывают сложности с\xa0поиском рекламодателей'
+  - EN: 'of influencers struggle to find advertisers'
+- `ppt/slides/slide15.xml#25` (slide)
+  - RU: 'сложности с\xa0монетизацией на\xa0нескольких платформах'
+  - EN: 'struggle to monetize across multiple platforms'
+- `ppt/slides/slide15.xml#30` (slide)
+  - RU: 'блогеров полностью или\xa0скорее согласны, что\xa0единый кабинет для\xa0управления монетизацией на\xa0всех платформах помог бы им в\xa0развитии'
+  - EN: 'of influencers fully or somewhat agree that a single dashboard to manage monetization across all platforms would help them grow'
+- `ppt/slides/slide15.xml#31` (slide)
+  - RU: 'Источник: OMD Snapshot, города 1М+, 18–55, 625 респондентов, 1–3.07.2026 W19, онлайн-опрос Tiburon Research. Кратность\xa0— расчёт OMD'
+  - EN: 'Source: OMD Snapshot, 1M+ cities, 18–55, n=625, Jul 1–3, 2026, W19, Tiburon Research online survey. Multiples — OMD calculations'
+- `ppt/slides/slide15.xml#8` (slide)
+  - RU: 'ВК'
+  - EN: 'VK'
+- `ppt/notesSlides/notesSlide15.xml#1` (notes)
+  - RU: 'Вариант 14А · Telegram крупно + точки роста'
+  - EN: 'Option 14A · big Telegram + growth opportunities'
+- `str#2` (chartstr)
+  - RU: 'Доля в бюджете'
+  - EN: 'Budget share'
+
+## Slide 16
+
+- `ppt/slides/slide16.xml#0` (slide)
+  - RU: 'Ключевые челленджи в\xa0медиапространстве'
+  - EN: 'Key media challenges'
+- `ppt/slides/slide16.xml#10` (slide)
+  - RU: 'клик'
+  - EN: 'click'
+- `ppt/slides/slide16.xml#12` (slide)
+  - RU: '[1]Инвестиции в\xa0диджитал растут быстрее других медиа, в\xa0том числе из-за\xa0инфляции [/1][2]10−20%\xa0YoY[/2][1].[/1]'
+  - EN: '[1]Digital spend grows faster than other media, partly due to [/1][2]10–20% YoY[/2][1] inflation.[/1]'
+- `ppt/slides/slide16.xml#13` (slide)
+  - RU: '[1]Стоимость целевого действия в\xa0Q1 2026-го выросла сильнее\xa0— [/1][2]на 26%[/2][1] (E-Promo Group), то\xa0есть эффективность падает.[/1]'
+  - EN: '[1]Cost per action rose faster in Q1 2026 — [/1][2]by 26%[/2][1] (E-Promo Group), so efficiency is falling.[/1]'
+- `ppt/slides/slide16.xml#14` (slide)
+  - RU: '[1]Клик подорожал [/1][2]лишь на\xa03%[/2][1], что\xa0косвенно указывает на\xa0рост фрода.[/1]'
+  - EN: '[1]Cost per click rose [/1][2]just 3%[/2][1], an indirect sign of rising fraud.[/1]'
+- `ppt/slides/slide16.xml#15` (slide)
+  - RU: 'Видимость креативов снижается везде, кроме мобильных баннеров (АЦРИР 2025)'
+  - EN: 'Creative viewability is falling everywhere except mobile banners (ACRIR 2025)'
+- `ppt/slides/slide16.xml#19` (slide)
+  - RU: 'Видео фрагментируется,\nCTV\xa0— ключевой драйвер'
+  - EN: 'Video is fragmenting,\nCTV is the key driver'
+- `ppt/slides/slide16.xml#21` (slide)
+  - RU: 'Все половозрастные группы смотрят'
+  - EN: 'All age and gender groups watch'
+- `ppt/slides/slide16.xml#23` (slide)
+  - RU: 'ТВ'
+  - EN: 'TV'
+- `ppt/slides/slide16.xml#29` (slide)
+  - RU: 'Вертикальное видео'
+  - EN: 'Vertical video'
+- `ppt/slides/slide16.xml#30` (slide)
+  - RU: '[1]Видеопотребление не\xa0монолитно: все половозрастные группы смотрят [/1][2]ТВ, CTV, OLV и\xa0вертикальное видео[/2][1].[/1]'
+  - EN: "[1]Video viewing isn't monolithic: all age and gender groups watch [/1][2]TV, CTV, OLV and vertical video[/2][1].[/1]"
+- `ppt/slides/slide16.xml#31` (slide)
+  - RU: '[1]Территории видеоселлеров смешались: большинство игроков продают рекламу на\xa0всех устройствах, что\xa0делает [/1][2]централизацию видеопланирования обязательной[/2]'
+  - EN: "[1]Video sellers' territories have blurred: most players sell ads across all devices, which makes [/1][2]centralized video planning a must[/2]"
+- `ppt/slides/slide16.xml#35` (slide)
+  - RU: 'Соцсети и\xa0их рекламные\nвозможности стагнируют'
+  - EN: 'Social platforms and their\nad tools stagnate'
+- `ppt/slides/slide16.xml#37` (slide)
+  - RU: 'Тренды в\xa0соцсетях'
+  - EN: 'Social media trends'
+- `ppt/slides/slide16.xml#39` (slide)
+  - RU: 'Кросс-платформенность'
+  - EN: 'Cross-platform'
+- `ppt/slides/slide16.xml#4` (slide)
+  - RU: 'Цена растет,\nа\xa0эффективность\xa0— нет'
+  - EN: "Costs rise,\nefficiency doesn't"
+- `ppt/slides/slide16.xml#41` (slide)
+  - RU: 'Фабрики контента'
+  - EN: 'Content factories'
+- `ppt/slides/slide16.xml#47` (slide)
+  - RU: 'Ручной контент'
+  - EN: 'Handmade content'
+- `ppt/slides/slide16.xml#48` (slide)
+  - RU: '[1]В\xa0соцсетях сохраняются тренды на[/1]\n[2]кросс-платформенность, фабрики контента[/2][1] (бренды +\xa0блогеры/ИИ), форматы «shop now».[/1]'
+  - EN: '[1]Social media trends persist:[/1]\n[2]cross-platform presence, content factories[/2][1] (brands + influencers/AI), “shop now” formats.[/1]'
+- `ppt/slides/slide16.xml#49` (slide)
+  - RU: '[1]Компании переходят к\xa0[/1][2]ROI-внедрению[/2][1], разделяя качественные работы и\xa0«ИИ-слоп», при\xa0этом набирает силу обратный тренд на\xa0[/1][2]нарочито ручной, человеческий контент[/2][1] и\xa0ценность эксперта[/1]'
+  - EN: '[1]Companies shift to [/1][2]ROI-based adoption[/2][1], separating quality work from “AI slop”, while a counter-trend gains ground: [/1][2]deliberately handmade, human content[/2][1] and the value of expertise[/1]'
+- `ppt/slides/slide16.xml#6` (slide)
+  - RU: 'Рост стоимости в\xa0Q1 2026'
+  - EN: 'Cost increase in Q1 2026'
+- `ppt/slides/slide16.xml#8` (slide)
+  - RU: 'целевое действие'
+  - EN: 'conversion'
+- `ppt/notesSlides/notesSlide16.xml#1` (notes)
+  - RU: 'Вариант 15Б · колонки с ключевым фактом'
+  - EN: 'Option 15B · columns with a key fact'
+
+## Slide 17
+
+- `ppt/slides/slide17.xml#1` (slide)
+  - RU: 'Классификация документа: конфиденциальная информация для\xa0внутреннего использования'
+  - EN: 'Document classification: confidential, for internal use only'
+
+## Slide 18
+
+- `ppt/slides/slide18.xml#0` (slide)
+  - RU: 'Рынок 2027: 5 ключевых трендов,\nкоторые меняют путь потребителя'
+  - EN: 'Market 2027: 5 key trends\nreshaping the consumer journey'
+- `ppt/slides/slide18.xml#10` (slide)
+  - RU: 'Нужна единая роль CTV +\xa0OLV, AI-видео продакшн, а\xa0не\xa0конкуренция видеоформатов.'
+  - EN: 'We need one role for CTV + OLV, AI video production — not competing video formats.'
+- `ppt/slides/slide18.xml#14` (slide)
+  - RU: 'ПОИСК СТАНОВИТСЯ AI-ASSISTED'
+  - EN: 'SEARCH BECOMES AI-ASSISTED'
+- `ppt/slides/slide18.xml#15` (slide)
+  - RU: 'Пользователь все чаще получает готовый ответ, а\xa0не\xa0только список ссылок\xa0— особенно в\xa0health-information journey.'
+  - EN: 'Users increasingly get a ready answer on top of a list of links — especially in the health-information journey.'
+- `ppt/slides/slide18.xml#17` (slide)
+  - RU: '[1]49,5[/1][2] млн[/2]'
+  - EN: '[1]49.5[/1][2]M[/2]'
+- `ppt/slides/slide18.xml#18` (slide)
+  - RU: 'ежемесячно взаимодействуют с\xa0ответами Алисы AI'
+  - EN: 'interact with Alice AI answers every month'
+- `ppt/slides/slide18.xml#19` (slide)
+  - RU: 'Что\xa0это меняет'
+  - EN: 'What it changes'
+- `ppt/slides/slide18.xml#20` (slide)
+  - RU: 'Бренду нужно управлять присутствием не\xa0только в\xa0SERP, но\xa0и\xa0в\xa0AI-ответах / LLM.'
+  - EN: 'Brands must manage their presence both in SERP and in AI answers / LLMs.'
+- `ppt/slides/slide18.xml#24` (slide)
+  - RU: 'DIGITAL ДОРОЖАЕТ БЫСТРЕЕ ЭФФЕКТИВНОСТИ'
+  - EN: 'DIGITAL COSTS OUTPACE EFFICIENCY'
+- `ppt/slides/slide18.xml#25` (slide)
+  - RU: 'Инфляция медиа и\xa0рост стоимости действия делают fixed split менее устойчивым.'
+  - EN: 'Media inflation and rising cost per action make a fixed split less sustainable.'
+- `ppt/slides/slide18.xml#28` (slide)
+  - RU: 'рост стоимости целевого действия в\xa0Q1’26'
+  - EN: 'rise in cost per action in Q1’26'
+- `ppt/slides/slide18.xml#29` (slide)
+  - RU: 'Что\xa0это меняет'
+  - EN: 'What it changes'
+- `ppt/slides/slide18.xml#30` (slide)
+  - RU: 'Инвестиции должны следовать за\xa0доказанным эффектом, а\xa0не\xa0за\xa0прошлогодним сплитом.'
+  - EN: "Investment should follow proven impact, not last year's split."
+- `ppt/slides/slide18.xml#34` (slide)
+  - RU: 'ПОКУПКА СТАНОВИТСЯ ГИБРИДНОЙ'
+  - EN: 'PURCHASING GOES HYBRID'
+- `ppt/slides/slide18.xml#35` (slide)
+  - RU: 'Фарма остается офлайн-категорией, но\xa0ePharm быстро растет\xa0— online и\xa0offline работают в\xa0одном пути.'
+  - EN: 'Pharma is still an offline category, but ePharm grows fast — online and offline share one journey.'
+- `ppt/slides/slide18.xml#38` (slide)
+  - RU: 'доля online в\xa0фармрознице'
+  - EN: 'of pharmacy retail is online'
+- `ppt/slides/slide18.xml#39` (slide)
+  - RU: 'Что\xa0это меняет'
+  - EN: 'What it changes'
+- `ppt/slides/slide18.xml#4` (slide)
+  - RU: 'ВИДЕО = ЭКОСИСТЕМА ЭКРАНОВ'
+  - EN: 'VIDEO = SCREEN ECOSYSTEM'
+- `ppt/slides/slide18.xml#40` (slide)
+  - RU: 'CJM должен доводить пользователя от\xa0медиа и\xa0поиска до\xa0доступной покупки.'
+  - EN: 'The CJM must take users from media and search to a purchase within reach.'
+- `ppt/slides/slide18.xml#44` (slide)
+  - RU: 'INFLUENCE ФРАГМЕНТИРУЕТСЯ ПО\xa0ПЛАТФОРМАМ'
+  - EN: 'INFLUENCE FRAGMENTS ACROSS PLATFORMS'
+- `ppt/slides/slide18.xml#45` (slide)
+  - RU: 'Блогеры и\xa0бренды распределяют активность между несколькими площадками; растет роль качества контента и\xa0системного контроля.'
+  - EN: 'Influencers and brands spread activity across several platforms; content quality and systematic control matter more.'
+- `ppt/slides/slide18.xml#48` (slide)
+  - RU: 'блогеров планируют осваивать новые платформы'
+  - EN: 'of influencers plan to enter new platforms'
+- `ppt/slides/slide18.xml#49` (slide)
+  - RU: 'Что\xa0это меняет'
+  - EN: 'What it changes'
+- `ppt/slides/slide18.xml#5` (slide)
+  - RU: 'CTV становится самостоятельным слоем на\xa0фоне фрагментации просмотра и\xa0роста Smart TV.'
+  - EN: 'CTV is becoming a layer of its own as viewing fragments and Smart TV grows.'
+- `ppt/slides/slide18.xml#50` (slide)
+  - RU: 'Нужны единый Playbook и\xa0AI-scoring, а\xa0не\xa0ручная логика под\xa0каждую платформу.'
+  - EN: 'We need one Playbook and AI scoring — not manual logic for each platform.'
+- `ppt/slides/slide18.xml#53` (slide)
+  - RU: 'ВЫВОД'
+  - EN: 'TAKEAWAY'
+- `ppt/slides/slide18.xml#55` (slide)
+  - RU: 'Рынок дробится на\xa0множество точек контакта, но\xa0путь пользователя\nдолжен оставаться единым\xa0— от\xa0первого контакта до\xa0выбора и\xa0покупки'
+  - EN: 'The market is splitting into many touchpoints, but the user journey\nmust stay unified — from first contact to choice and purchase'
+- `ppt/slides/slide18.xml#56` (slide)
+  - RU: '*OMD Snapshot / Mediascope / АКАР / Фармвестник / Яндекс / ВЦИОМ (2026).'
+  - EN: '*OMD Snapshot / Mediascope / AKAR / Pharmvestnik / Yandex / VCIOM (2026).'
+- `ppt/slides/slide18.xml#8` (slide)
+  - RU: 'проникновение Smart TV к\xa02029'
+  - EN: 'Smart TV penetration by 2029'
+- `ppt/slides/slide18.xml#9` (slide)
+  - RU: 'Что\xa0это меняет'
+  - EN: 'What it changes'
+
+## Slide 19
+
+- `ppt/slides/slide19.xml#0` (slide)
+  - RU: 'Comprehensive 2027: как\xa0мы отвечаем\nна\xa0новый путь потребителя'
+  - EN: 'Comprehensive 2027: how we respond\nto the new consumer journey'
+- `ppt/slides/slide19.xml#11` (slide)
+  - RU: 'Видео фрагментируется между экранами'
+  - EN: 'Video fragments across screens'
+- `ppt/slides/slide19.xml#13` (slide)
+  - RU: 'CTV = масштаб / большой экран\nOLV = сегменты и\xa0барьеры\nAI-video = быстрые вариации'
+  - EN: 'CTV = scale / big screen\nOLV = segments and barriers\nAI-video = quick variations'
+- `ppt/slides/slide19.xml#15` (slide)
+  - RU: 'Планируем единую видеосистему по\xa0роли экрана и\xa0аудитории\xa0— не\xa0отдельные видео-флайты'
+  - EN: 'We plan one video system by screen role and audience — not separate video flights'
+- `ppt/slides/slide19.xml#19` (slide)
+  - RU: 'Поиск переходит в\xa0AI'
+  - EN: 'Search moves to AI'
+- `ppt/slides/slide19.xml#21` (slide)
+  - RU: 'AI Visibility Stream:\nSEO +\xa0GEO/AEO +\xa0внешние публикации +\nORM +\xa0Paid Search'
+  - EN: 'AI Visibility Stream:\nSEO + GEO/AEO + external publications +\nORM + Paid Search'
+- `ppt/slides/slide19.xml#23` (slide)
+  - RU: 'Управляем не\xa0каналами, а\xa0полем присутствия и\xa0доверия: Search →\xa0AI →\xa0Trust →\xa0Choice →\xa0Action'
+  - EN: 'We manage a field of presence and trust, not channels: Search → AI → Trust → Choice → Action'
+- `ppt/slides/slide19.xml#27` (slide)
+  - RU: 'Стоимость media растет'
+  - EN: 'Media costs are rising'
+- `ppt/slides/slide19.xml#31` (slide)
+  - RU: 'Каждый флайт/спринт заканчивается reusable rule; деньги переходят к\xa0решениям с\xa0доказанной эффективностью'
+  - EN: 'Every flight/sprint ends with a reusable rule; money shifts to solutions with proven results'
+- `ppt/slides/slide19.xml#35` (slide)
+  - RU: 'Путь к\xa0покупке становится online +\xa0offline'
+  - EN: 'Path to purchase goes online + offline'
+- `ppt/slides/slide19.xml#37` (slide)
+  - RU: 'DOOH = physical context\nE-com = персонализированное продолжение\nпути до\xa0покупки'
+  - EN: 'DOOH = physical context\nE-com = personalized continuation\nof the path to purchase'
+- `ppt/slides/slide19.xml#39` (slide)
+  - RU: 'Связываем digital intent с\xa0местом / моментом и\xa0доступностью продукта\xa0— один CJM вместо разрозненных активаций'
+  - EN: 'We link digital intent to place / moment and product availability — one CJM instead of scattered activations'
+- `ppt/slides/slide19.xml#4` (slide)
+  - RU: 'РЫНОК 2027'
+  - EN: 'MARKET 2027'
+- `ppt/slides/slide19.xml#45` (slide)
+  - RU: 'Bloggers Playbook +\xa02-step AI scoring +\xa0модульное производство контента'
+  - EN: 'Bloggers Playbook + 2-step AI scoring + modular content production'
+- `ppt/slides/slide19.xml#47` (slide)
+  - RU: 'AI контролирует качество, а\xa0модульное производство контента позволяет масштабировать успешные механики между платформами и\xa0брендами внутри категорий'
+  - EN: 'AI controls quality, while modular content production lets us scale winning mechanics across platforms and brands within categories'
+- `ppt/slides/slide19.xml#55` (slide)
+  - RU: 'единая логика аудитории +\xa0единый путь потребителя +\xa0непрерывное\nобучение +\xa0правила, которые можно масштабировать'
+  - EN: 'one audience logic + one consumer journey + continuous\nlearning + rules that scale'
+- `ppt/slides/slide19.xml#6` (slide)
+  - RU: 'НАШ ОТВЕТ В\xa0COMPREHENSIVE'
+  - EN: 'OUR ANSWER IN COMPREHENSIVE'
+- `ppt/slides/slide19.xml#8` (slide)
+  - RU: 'НА\xa0ШАГ ВПЕРЕДИ'
+  - EN: 'ONE STEP AHEAD'
+
+## Slide 20
+
+- `ppt/slides/slide20.xml#0` (slide)
+  - RU: 'Единый CJM 2027: от\xa0охвата к\xa0покупке\xa0—\nу\xa0каждой точки контакта своя роль'
+  - EN: 'Unified CJM 2027: from reach to purchase —\nevery touchpoint has its role'
+- `ppt/slides/slide20.xml#12` (slide)
+  - RU: 'Большой экран / масштаб / заметность бренда'
+  - EN: 'Big screen / scale / brand salience'
+- `ppt/slides/slide20.xml#20` (slide)
+  - RU: 'Переводим массовый контакт в\xa0релевантное сообщение под\xa0сегмент / барьер'
+  - EN: 'We turn mass reach into a relevant message for each segment / barrier'
+- `ppt/slides/slide20.xml#28` (slide)
+  - RU: 'Добавляем физический контекст: где и\xa0когда сообщение наиболее уместно'
+  - EN: 'We add physical context: where and when the message fits best'
+- `ppt/slides/slide20.xml#36` (slide)
+  - RU: 'SEO +\xa0GEO/AEO +\xa0ORM +\xa0Paid\xa0Search +\xa0внешние публикации отвечают на\xa0запрос и\xa0укрепляют уверенность в\xa0выборе'
+  - EN: 'SEO + GEO/AEO + ORM + Paid Search + external publications answer the query and build confidence in the choice'
+- `ppt/slides/slide20.xml#4` (slide)
+  - RU: '[1]AI CJM +\xa0[/1][2]OMD Voice[/2][1]  →\xa0 WHO ×\xa0NEED ×\xa0BARRIER ×\xa0OCCASION  →\xa0 единая сегментная логика для\xa0всех тачпоинтов[/1]'
+  - EN: '[1]AI CJM + [/1][2]OMD Voice[/2][1]  →  WHO × NEED × BARRIER × OCCASION  →  one segment logic for all touchpoints[/1]'
+- `ppt/slides/slide20.xml#44` (slide)
+  - RU: 'Продолжаем персонализацию до\xa0аптеки / e-retail: наличие, оффер, покупка'
+  - EN: 'We personalize up to pharmacy / e-retail: availability, offer, purchase'
+- `ppt/slides/slide20.xml#49` (slide)
+  - RU: '→  Golden Rules  →\xa0 перераспределение следующего флайта'
+  - EN: '→  Golden Rules  →  reallocating the next flight'
+- `ppt/slides/slide20.xml#52` (slide)
+  - RU: 'ПРИНЦИП 2027'
+  - EN: '2027 PRINCIPLE'
+- `ppt/slides/slide20.xml#54` (slide)
+  - RU: 'Единый CJM: reach →\xa0relevance →\xa0context →\xa0answer & trust →\xa0purchase'
+  - EN: 'Unified CJM: reach → relevance → context → answer & trust → purchase'
+
+## Slide 22
+
+- `ppt/slides/slide22.xml#0` (slide)
+  - RU: 'COMPREHENSIVE 2026:\nДОСТИЖЕНИЯ И\xa0ДИНАМИКА DIGITAL MATURITY'
+  - EN: 'COMPREHENSIVE 2026:\nACHIEVEMENTS AND DIGITAL MATURITY GROWTH'
+- `ppt/slides/slide22.xml#10` (slide)
+  - RU: 'Технологии\xa0-  главное преимущество к\xa0категории.\nАктивация +0,80 · Креатив +0,60'
+  - EN: 'Technology: the main edge over the category.\nActivation +0.80 · Creative +0.60'
+- `ppt/slides/slide22.xml#100` (slide)
+  - RU: 'Провели первый Sales Lift через Adriver / DMP / ВТБ.\nФормируем систему регулярной оценки бизнес-эффекта.'
+  - EN: 'Ran the first Sales Lift via Adriver / DMP / VTB.\nBuilding regular business-impact measurement.'
+- `ppt/slides/slide22.xml#105` (slide)
+  - RU: 'Как\xa0встроить e-commerce в\xa0единую медийную стратегию бренда?'
+  - EN: "How to fit e-commerce into the brand's unified media strategy?"
+- `ppt/slides/slide22.xml#116` (slide)
+  - RU: 'Проработали интеграцию e-commerce в\xa0стратегию'
+  - EN: 'Worked out how e-commerce fits the strategy'
+- `ppt/slides/slide22.xml#117` (slide)
+  - RU: 'В\xa02026 году определили роль e-commerce в\xa0CJM и\xa0Comprehensive.\nПрактическое внедрение и\xa0креативы по\xa0воронке планируем на\xa02027 год.'
+  - EN: 'In 2026 we defined the role of e-commerce in CJM and Comprehensive.\nRollout and funnel-stage creatives are planned for 2027.'
+- `ppt/slides/slide22.xml#12` (slide)
+  - RU: 'НАПРАВЛЕНИЕ И\xa0ВОПРОС ДЛЯ\xa0РАЗВИТИЯ'
+  - EN: 'AREA AND QUESTION FOR GROWTH'
+- `ppt/slides/slide22.xml#122` (slide)
+  - RU: '[1]Углубляем и\xa0расширяем подход:[/1][2] включаем e-commerce в\xa0CJM и\xa0развиваем регулярную оценку бизнес-эффекта[/2]'
+  - EN: '[1]Going deeper and wider:[/1][2] adding e-commerce to the CJM and building regular business-impact measurement[/2]'
+- `ppt/slides/slide22.xml#13` (slide)
+  - RU: 'ЗРЕЛОСТЬ 2025 →\xa02026 (ШКАЛА 0–5)'
+  - EN: 'MATURITY 2025 → 2026 (SCALE 0–5)'
+- `ppt/slides/slide22.xml#14` (slide)
+  - RU: 'VS КАТЕГОРИЯ'
+  - EN: 'VS CATEGORY'
+- `ppt/slides/slide22.xml#15` (slide)
+  - RU: '2026 · РЕШЕНИЯ И\xa0ДОСТИЖЕНИЯ'
+  - EN: '2026 · SOLUTIONS & RESULTS'
+- `ppt/slides/slide22.xml#21` (slide)
+  - RU: 'категория'
+  - EN: 'category'
+- `ppt/slides/slide22.xml#3` (slide)
+  - RU: 'из\xa05'
+  - EN: 'of 5'
+- `ppt/slides/slide22.xml#36` (slide)
+  - RU: 'Активация и\xa0данные'
+  - EN: 'Activation & data'
+- `ppt/slides/slide22.xml#37` (slide)
+  - RU: 'Кто наши потребители, что\xa0их волнует и\xa0как\xa0быстро это проверить?'
+  - EN: 'Who are our consumers, what concerns them, how to test it fast?'
+- `ppt/slides/slide22.xml#4` (slide)
+  - RU: 'средняя зрелость в\xa02026\n2025\xa0- 2,50 · категория - 2,75'
+  - EN: 'average maturity in 2026\n2025: 2.50 · category: 2.75'
+- `ppt/slides/slide22.xml#48` (slide)
+  - RU: 'CJM определяет аудитории и\xa0сообщения'
+  - EN: 'CJM defines audiences and messages'
+- `ppt/slides/slide22.xml#49` (slide)
+  - RU: 'Систематизировали потребности и\xa0барьеры по\xa06 брендам.\nИспользуем инсайты при\xa0планировании коммуникации.'
+  - EN: 'Mapped needs and barriers for 6 brands.\nWe use the insights in communication planning.'
+- `ppt/slides/slide22.xml#53` (slide)
+  - RU: 'Технологии и\xa0процессы'
+  - EN: 'Technology & processes'
+- `ppt/slides/slide22.xml#54` (slide)
+  - RU: 'Как\xa0объединить данные об\xa0аудитории и\xa0работать с\xa0нужными сегментами?'
+  - EN: 'How to unify audience data and work with the right segments?'
+- `ppt/slides/slide22.xml#6` (slide)
+  - RU: '5 из\xa05'
+  - EN: '5 of 5'
+- `ppt/slides/slide22.xml#65` (slide)
+  - RU: 'DMP связывает данные с\xa0рекламной активацией'
+  - EN: 'DMP links data to ad activation'
+- `ppt/slides/slide22.xml#66` (slide)
+  - RU: 'Развернули DMP-инфраструктуру и\xa0применили сегменты в\xa0медиа.\nСвязали аудиторные данные с\xa0персонализированными креативами.'
+  - EN: 'Deployed DMP infrastructure and applied segments in media.\nLinked audience data to personalized creatives.'
+- `ppt/slides/slide22.xml#7` (slide)
+  - RU: 'направлений выше категории'
+  - EN: 'areas above the category'
+- `ppt/slides/slide22.xml#70` (slide)
+  - RU: 'Контент и\xa0креатив'
+  - EN: 'Content & creative'
+- `ppt/slides/slide22.xml#71` (slide)
+  - RU: 'Как\xa0говорить с\xa0каждым сегментом о\xa0том, что\xa0важно именно ему?'
+  - EN: 'How to talk to each segment about what matters to it?'
+- `ppt/slides/slide22.xml#82` (slide)
+  - RU: '700+ баннеров, 6 брендов, 3 AI-видео'
+  - EN: '700+ banners, 6 brands, 3 AI videos'
+- `ppt/slides/slide22.xml#83` (slide)
+  - RU: 'AI и\xa0CMP помогают масштабировать персонализированный контент\nи\xa0создавать варианты сообщений для\xa0проверки гипотез.'
+  - EN: 'AI and CMP help scale personalized content\nand create message variants to test hypotheses.'
+- `ppt/slides/slide22.xml#87` (slide)
+  - RU: 'Измерения и\xa0аналитика'
+  - EN: 'Measurement & analytics'
+- `ppt/slides/slide22.xml#88` (slide)
+  - RU: 'Какие рекламные решения действительно влияют на\xa0продажи?'
+  - EN: 'Which ad decisions actually affect sales?'
+- `ppt/slides/slide22.xml#99` (slide)
+  - RU: 'Начали измерять влияние сегментов на\xa0продажи'
+  - EN: 'Started measuring segment impact on sales'
+- `ppt/notesSlides/notesSlide22.xml#1` (notes)
+  - RU: 'Comprehensive 2026: digital maturity · версия 2 — переосмысление: одна таблица, гантели зрелости на общей шкале 0–5, итоговые цифры сверху'
+  - EN: 'Comprehensive 2026: digital maturity · version 2 — rethink: one table, maturity dumbbells on a shared 0–5 scale, summary figures on top'
+
+## Slide 23
+
+- `ppt/slides/slide23.xml#0` (slide)
+  - RU: 'Comprehensive 2027: план развития'
+  - EN: 'Comprehensive 2027: development plan'
+- `ppt/slides/slide23.xml#11` (slide)
+  - RU: 'Развернули DMP-инфраструктуру\nи\xa0активировали сегменты в\xa0медиа'
+  - EN: 'Deployed DMP infrastructure\nand activated segments in media'
+- `ppt/slides/slide23.xml#15` (slide)
+  - RU: '700+ баннеров для\xa06 брендов\nи\xa03 AI-видео на\xa0базе AI +\xa0CMP'
+  - EN: '700+ banners for 6 brands\nand 3 AI videos using AI + CMP'
+- `ppt/slides/slide23.xml#19` (slide)
+  - RU: 'Провели Sales Lift в\xa0спринт-активации\nАзелик для\xa0валидации бизнес-результата'
+  - EN: 'Ran a Sales Lift on the Azelik sprint\nactivation to validate business results'
+- `ppt/slides/slide23.xml#2` (slide)
+  - RU: '[1]2026[/1][2]   ДОСТИЖЕНИЯ[/2]'
+  - EN: '[1]2026[/1][2]   ACHIEVEMENTS[/2]'
+- `ppt/slides/slide23.xml#23` (slide)
+  - RU: 'Формируются PlayBooks и\xa0библиотека\nбенчмарок'
+  - EN: 'Building PlayBooks and a benchmark\nlibrary'
+- `ppt/slides/slide23.xml#27` (slide)
+  - RU: 'Определили роль e-com в\xa0CJM\nна\xa0этапе стратегического планирования'
+  - EN: 'Defined the role of e-com in the CJM\nat the strategic planning stage'
+- `ppt/slides/slide23.xml#29` (slide)
+  - RU: 'ЧТО\xa0УЛУЧШАЕМ'
+  - EN: 'WHAT WE IMPROVE'
+- `ppt/slides/slide23.xml#3` (slide)
+  - RU: 'Создали основу для\xa0развития'
+  - EN: 'Built a foundation for growth'
+- `ppt/slides/slide23.xml#30` (slide)
+  - RU: 'Задачи следующего этапа'
+  - EN: 'Goals for the next stage'
+- `ppt/slides/slide23.xml#33` (slide)
+  - RU: 'Точность гипотез'
+  - EN: 'Hypothesis accuracy'
+- `ppt/slides/slide23.xml#34` (slide)
+  - RU: 'Проверять гипотезы до\xa0запуска,\nчтобы снижать риск потери инвестиций'
+  - EN: 'Test hypotheses before launch\nto cut the risk of wasted investment'
+- `ppt/slides/slide23.xml#37` (slide)
+  - RU: 'Гибкость активации'
+  - EN: 'Flexible activation'
+- `ppt/slides/slide23.xml#38` (slide)
+  - RU: 'Выбирать технологии под\xa0задачу бренда\nбез\xa0зависимости от\xa0DMP-решений'
+  - EN: "Choose tech to fit the brand's goal\nwithout relying on DMP solutions"
+- `ppt/slides/slide23.xml#41` (slide)
+  - RU: 'Единый путь к\xa0покупке'
+  - EN: 'Unified path to purchase'
+- `ppt/slides/slide23.xml#42` (slide)
+  - RU: 'Связать креатив, посадочную страницу\nи\xa0этап покупки для\xa0повышения конверсии'
+  - EN: 'Link creative, landing page\nand purchase step to lift conversion'
+- `ppt/slides/slide23.xml#45` (slide)
+  - RU: 'Регулярный бизнес-скоринг'
+  - EN: 'Regular business scoring'
+- `ppt/slides/slide23.xml#46` (slide)
+  - RU: 'Оценивать вклад сегментов в\xa0продажи\nна\xa0регулярной основе'
+  - EN: 'Measure segment contribution to sales\non a regular basis'
+- `ppt/slides/slide23.xml#49` (slide)
+  - RU: 'Перенос успешных практик'
+  - EN: 'Best-practice transfer'
+- `ppt/slides/slide23.xml#50` (slide)
+  - RU: 'Использовать аналитику в\xa0новых решениях\nи\xa0масштабировать опыт между брендами'
+  - EN: 'Use analytics in new solutions\nand scale learnings across brands'
+- `ppt/slides/slide23.xml#53` (slide)
+  - RU: 'Интеграция в\xa0общую модель'
+  - EN: 'Integration into one model'
+- `ppt/slides/slide23.xml#54` (slide)
+  - RU: 'Связать медиа, онлайн-аптеки, маркетплейсы\nи\xa0креативы на\xa0всех этапах CJM потребителя'
+  - EN: 'Link media, e-pharmacies, marketplaces\nand creatives at every CJM stage'
+- `ppt/slides/slide23.xml#56` (slide)
+  - RU: '[1]2027[/1][2]   РЕШЕНИЯ[/2]'
+  - EN: '[1]2027[/1][2]   SOLUTIONS[/2]'
+- `ppt/slides/slide23.xml#57` (slide)
+  - RU: 'Действия для\xa0усиления бизнес-результата'
+  - EN: 'Actions to boost business results'
+- `ppt/slides/slide23.xml#61` (slide)
+  - RU: 'Валидируем сегменты, сообщения\nи\xa0Tone of Voice до\xa0медиа-активации'
+  - EN: 'We validate segments, messages\nand Tone of Voice before media launch'
+- `ppt/slides/slide23.xml#64` (slide)
+  - RU: 'Адаптированный стек активации'
+  - EN: 'Tailored activation stack'
+- `ppt/slides/slide23.xml#65` (slide)
+  - RU: 'Подбираем AI DSP под\xa0задачу бренда,\nуточняем аудитории по\xa0результатам тестов'
+  - EN: "We match the AI DSP to the brand's goal,\nrefining audiences with test results"
+- `ppt/slides/slide23.xml#68` (slide)
+  - RU: 'Контент +\xa0путь пользователя'
+  - EN: 'Content + user journey'
+- `ppt/slides/slide23.xml#69` (slide)
+  - RU: 'CMP, AI-видео, персональные LP. Связываем\nSEO / GEO / AEO, ORM, внешние публикации и\xa0Paid Search'
+  - EN: 'CMP, AI video, personalized LPs. We link SEO,\nGEO/AEO, ORM, external publications and Paid Search'
+- `ppt/slides/slide23.xml#7` (slide)
+  - RU: 'Систематизировали CJM и\xa0сегменты.\nПрименяем инсайты в\xa0стратегиях брендов'
+  - EN: 'Mapped CJM and segments.\nWe apply insights in brand strategies'
+- `ppt/slides/slide23.xml#72` (slide)
+  - RU: 'Ранние сигналы +\xa0бизнес-эффект'
+  - EN: 'Early signals + business impact'
+- `ppt/slides/slide23.xml#73` (slide)
+  - RU: 'Brand Attention Monitoring, media / post-click,\nBLS и\xa0Sales Lift после сезонных пиков'
+  - EN: 'Brand Attention Monitoring, media / post-click,\nBLS and Sales Lift after seasonal peaks'
+- `ppt/slides/slide23.xml#76` (slide)
+  - RU: 'BI +\xa0библиотека решений'
+  - EN: 'BI + solution library'
+- `ppt/slides/slide23.xml#77` (slide)
+  - RU: 'Развиваем дашборд, формируем Golden Rules\nи\xa0PlayBooks для\xa0новых брендов и\xa0флайтов'
+  - EN: 'We expand the dashboard, build Golden Rules\nand PlayBooks for new brands and flights'
+- `ppt/slides/slide23.xml#80` (slide)
+  - RU: 'E-commerce в\xa0Comprehensive'
+  - EN: 'E-commerce in Comprehensive'
+- `ppt/slides/slide23.xml#81` (slide)
+  - RU: 'От\xa0стратегической проработки в\xa02026 году\nк\xa0персонализированной активации в\xa02027 году'
+  - EN: 'From strategic groundwork in 2026\nto personalized activation in 2027'
+- `ppt/notesSlides/notesSlide23.xml#1` (notes)
+  - RU: 'Comprehensive 2027: план развития — по картинке Романа, 13.10.2026'
+  - EN: "Comprehensive 2027: development plan — based on Roman's image, Oct 13, 2026"
+
+## Slide 24
+
+- `ppt/slides/slide24.xml#0` (slide)
+  - RU: 'Comprehensive approach 2026 →\xa02027:\nот\xa0внедренной модели к\xa0самообучающейся Digital-системе'
+  - EN: 'Comprehensive approach 2026 → 2027:\nfrom a deployed model to a self-learning digital system'
+- `ppt/slides/slide24.xml#12` (slide)
+  - RU: 'DMP / CMP / платформы для\nмедиа-активации с\xa0масштабированием'
+  - EN: 'DMP / CMP / platforms for\nmedia activation at scale'
+- `ppt/slides/slide24.xml#2` (slide)
+  - RU: '2026 ФУНДАМЕНТ'
+  - EN: '2026 FOUNDATION'
+- `ppt/slides/slide24.xml#22` (slide)
+  - RU: 'Правила медиа-планирования, целевые KPI\nи\xa0переиспользуемые learnings'
+  - EN: 'Media planning rules, target KPIs\nand reusable learnings'
+- `ppt/slides/slide24.xml#27` (slide)
+  - RU: '2027 ЭВОЛЮЦИЯ'
+  - EN: '2027 EVOLUTION'
+- `ppt/slides/slide24.xml#28` (slide)
+  - RU: 'Каждый блок становится быстрее, гибче\nи\xa0сильнее опирается на\xa0данные'
+  - EN: 'Every block gets faster, more flexible\nand more data-driven'
+- `ppt/slides/slide24.xml#3` (slide)
+  - RU: 'Comprehensive объединил\n4 ключевых элемента'
+  - EN: 'Comprehensive combined\n4 key elements'
+- `ppt/slides/slide24.xml#33` (slide)
+  - RU: 'Формируем инсайты →\xa0валидируем гипотезы,\nTone of Voice и\xa0сообщения до\xa0активации\nс\xa0помощью синтетических AI-панелей'
+  - EN: 'We build insights → validate hypotheses,\nTone of Voice and messages before activation\nwith synthetic AI panels'
+- `ppt/slides/slide24.xml#37` (slide)
+  - RU: 'Адаптированный активационный стек'
+  - EN: 'Tailored activation stack'
+- `ppt/slides/slide24.xml#39` (slide)
+  - RU: 'Выбор технологии AI DSP под\xa0задачу'
+  - EN: 'AI DSP technology matched to the goal'
+- `ppt/slides/slide24.xml#43` (slide)
+  - RU: 'Персонализированный контент и\xa0путь пользователя'
+  - EN: 'Personalized content and user journey'
+- `ppt/slides/slide24.xml#45` (slide)
+  - RU: 'CMP +\xa0AI-видео +\xa0персонализированные LP\nИнтегрированная экосистема SEO +\xa0GEO/AEO +\xa0ORM +\xa0внешние публикации +\xa0Paid Search'
+  - EN: 'CMP + AI video + personalized LPs\nIntegrated ecosystem: SEO + GEO/AEO + ORM + external publications + Paid Search'
+- `ppt/slides/slide24.xml#49` (slide)
+  - RU: 'Ранние сигналы +\xa0доказательство эффекта'
+  - EN: 'Early signals + proof of impact'
+- `ppt/slides/slide24.xml#55` (slide)
+  - RU: 'Библиотека решений'
+  - EN: 'Solution library'
+- `ppt/slides/slide24.xml#57` (slide)
+  - RU: 'Каждый тест формирует Golden Rule,\nкоторый можно использовать\nв\xa0следующем бренде / флайте'
+  - EN: 'Every test produces a Golden Rule\nthat can be reused\nfor the next brand / flight'
+- `ppt/slides/slide24.xml#60` (slide)
+  - RU: '2027 ПРИНЦИП'
+  - EN: '2027 PRINCIPLE'
+- `ppt/slides/slide24.xml#62` (slide)
+  - RU: 'Единая обучающаяся система: каждая активация дает данные, которые\nулучшают следующее решение по\xa0аудитории, креативу, каналу и\xa0инвестициям'
+  - EN: 'One learning system: every activation yields data that\nimproves the next decision on audience, creative, channel and investment'
+- `ppt/slides/slide24.xml#7` (slide)
+  - RU: 'Аудиторные инсайты, потребности,\nбарьеры и\xa0логика сегментов'
+  - EN: 'Audience insights, needs,\nbarriers and segment logic'
+
+## Slide 25
+
+- `ppt/slides/slide25.xml#0` (slide)
+  - RU: 'Операционный цикл Comprehensive 2027:\nUnderstand →\xa0Validate →\xa0Activate →\xa0Personalize →\xa0Measure →\xa0Learn'
+  - EN: 'Comprehensive 2027 operating cycle:\nUnderstand → Validate → Activate → Personalize → Measure → Learn'
+- `ppt/slides/slide25.xml#14` (slide)
+  - RU: 'Синтетические панели, pre-test сообщения / оффера / tone of voice'
+  - EN: 'Synthetic panels, pre-test of message / offer / tone of voice'
+- `ppt/slides/slide25.xml#22` (slide)
+  - RU: 'Выбор AdTech-поставщика, динамический поиск аудитории'
+  - EN: 'AdTech vendor selection, dynamic audience discovery'
+- `ppt/slides/slide25.xml#30` (slide)
+  - RU: 'CMP, AI-видео, perso-LP, SEO +\xa0GEO/AEO +\xa0ORM +\xa0Paid Search'
+  - EN: 'CMP, AI video, perso-LP, SEO + GEO/AEO + ORM + Paid Search'
+- `ppt/slides/slide25.xml#50` (slide)
+  - RU: 'Результаты кампании →\xa0обновленное правило по\xa0сегменту / креативу / поставщику →\xa0планирование следующего флайта →\xa0cross-brand использование'
+  - EN: 'Campaign results → updated rule per segment / creative / vendor → next flight planning → cross-brand use'
+- `ppt/slides/slide25.xml#57` (slide)
+  - RU: 'ЗАМКНУТЫЙ ЦИКЛ ОБУЧЕНИЯ'
+  - EN: 'CLOSED LEARNING LOOP'
+- `ppt/slides/slide25.xml#59` (slide)
+  - RU: 'Одна система, много инструментов: каждый пилот 2027 должен завершаться\nправилом принятия решения, а\xa0не\xa0только результатом кампании'
+  - EN: 'One system, many tools: every 2027 pilot must end\nwith a decision rule, not a campaign result alone'
+- `ppt/slides/slide25.xml#6` (slide)
+  - RU: 'Потребности, барьеры, оккейжены, сегментные гипотезы'
+  - EN: 'Needs, barriers, occasions, segment hypotheses'
+
+## Slide 27
+
+- `ppt/slides/slide27.xml#0` (slide)
+  - RU: 'OMD Voice: AI CJM развивается в\xa0калиброванную\nсинтетическую панель аудиторий'
+  - EN: 'OMD Voice: AI CJM evolves into a calibrated\nsynthetic audience panel'
+- `ppt/slides/slide27.xml#1` (slide)
+  - RU: 'Та же логика сегментов, что\xa0и\xa0в\xa0AI CJM, но\xa0с\xa0большей точностью: каждый сегмент калибруется на\xa0открытых, индустриальных и\xa0брендовых данных и\xa0может отвечать на\xa0вопросы как\xa0реальный респондент'
+  - EN: 'Same segment logic as AI CJM, with higher accuracy: each segment is calibrated on open, industry and brand data and can answer questions like a real respondent'
+- `ppt/slides/slide27.xml#11` (slide)
+  - RU: '+ калибровка на\xa0реальных данных'
+  - EN: '+ calibration on real data'
+- `ppt/slides/slide27.xml#14` (slide)
+  - RU: 'Каждый сегмент становится группой смоделированных респондентов с\xa0заданным соц-дем профилем, мотивами и\xa0барьерами. Панель отвечает на\xa0вопросы и\xa0оценивает сообщения, офферы и\xa0креативы.'
+  - EN: 'Each segment becomes a group of simulated respondents with a set socio-demographic profile, motives and barriers. The panel answers questions and rates messages, offers and creatives.'
+- `ppt/slides/slide27.xml#15` (slide)
+  - RU: 'Результат для\xa0маркетинга: валидированная гипотеза, размер сегмента в\xa0людях, карта тачпоинтов включая e-com, роль врача в\xa0выборе'
+  - EN: "Output for marketing: validated hypothesis, segment size in people, touchpoint map incl. e-com, the doctor's role in choice"
+- `ppt/slides/slide27.xml#17` (slide)
+  - RU: 'КАЛИБРОВКА'
+  - EN: 'CALIBRATION'
+- `ppt/slides/slide27.xml#18` (slide)
+  - RU: 'Каждый сегмент опирается\nна\xa0реальные данные'
+  - EN: 'Every segment is grounded\nin real data'
+- `ppt/slides/slide27.xml#22` (slide)
+  - RU: 'Открытые исследования\nи\xa0официальная статистика'
+  - EN: 'Open research\nand official statistics'
+- `ppt/slides/slide27.xml#23` (slide)
+  - RU: 'Росстат, ВЦИОМ, опубликованные исследования →\xa0размер сегментов и\xa0демографические данные'
+  - EN: 'Rosstat, VCIOM, published studies → segment size and demographics'
+- `ppt/slides/slide27.xml#27` (slide)
+  - RU: 'Brand awareness и\xa0воронка по\xa0категории →\xa0позиция бренда в\xa0каждом сегменте'
+  - EN: 'Brand awareness and category funnel → brand position in each segment'
+- `ppt/slides/slide27.xml#3` (slide)
+  - RU: 'ЛОГИЧНЫЙ СЛЕДУЮЩИЙ ШАГ'
+  - EN: 'LOGICAL NEXT STEP'
+- `ppt/slides/slide27.xml#31` (slide)
+  - RU: 'Media consumption →\xa0роли каналов и\xa0карта тачпоинтов для\xa0каждого сегмента'
+  - EN: 'Media consumption → channel roles and touchpoint map for each segment'
+- `ppt/slides/slide27.xml#34` (slide)
+  - RU: 'Язык потребителя'
+  - EN: 'Consumer language'
+- `ppt/slides/slide27.xml#35` (slide)
+  - RU: 'Отзывы, форумы, social media, e-pharmacies →\xa0мотивы, барьеры и\xa0реальные формулировки'
+  - EN: 'Reviews, forums, social media, e-pharmacies → motives, barriers and real phrasing'
+- `ppt/slides/slide27.xml#38` (slide)
+  - RU: 'Результаты кампаний\nи\xa0внешние AI-сегменты'
+  - EN: 'Campaign results\nand external AI segments'
+- `ppt/slides/slide27.xml#39` (slide)
+  - RU: 'Post-click, BLS, пересечения с\xa0AI-кластерами поставщиков →\xa0learnings возвращаются в\xa0панель'
+  - EN: 'Post-click, BLS, overlaps with vendor AI clusters → learnings flow back into the panel'
+- `ppt/slides/slide27.xml#4` (slide)
+  - RU: 'OMD Voice развивает AI CJM,\nзначительно повышая точность'
+  - EN: 'OMD Voice builds on AI CJM\nwith much higher accuracy'
+- `ppt/slides/slide27.xml#41` (slide)
+  - RU: 'КОНТРОЛЬ КАЧЕСТВА'
+  - EN: 'QUALITY CONTROL'
+- `ppt/slides/slide27.xml#42` (slide)
+  - RU: 'Встроенная проверка устойчивости\nи\xa0достоверности результатов'
+  - EN: 'Built-in checks for stable\nand reliable results'
+- `ppt/slides/slide27.xml#43` (slide)
+  - RU: '3 независимые сборки с\xa0нуля, сотни прогонов: в\xa0карту попадают только воспроизводимые сегменты'
+  - EN: '3 independent builds from scratch, hundreds of runs: only reproducible segments make the map'
+- `ppt/slides/slide27.xml#44` (slide)
+  - RU: 'Каждая цифра подтверждается внешними данными и\xa0исследованиями'
+  - EN: 'Every number is backed by external data and research'
+- `ppt/slides/slide27.xml#45` (slide)
+  - RU: 'Placebo traps и\xa0повторные прогоны: результат учитывается только при\xa0устойчивом разрыве между вариантами'
+  - EN: 'Placebo traps and repeat runs: a result counts only if the gap between variants is stable'
+- `ppt/slides/slide27.xml#46` (slide)
+  - RU: 'Метод SSR*: до\xa090% human test-retest reliability в\xa057 реальных исследованиях (PyMC Labs, 2025)'
+  - EN: 'SSR* method: up to 90% human test-retest reliability across 57 real studies (PyMC Labs, 2025)'
+- `ppt/slides/slide27.xml#48` (slide)
+  - RU: 'РЕЖИМ ДИАЛОГА'
+  - EN: 'DIALOGUE MODE'
+- `ppt/slides/slide27.xml#49` (slide)
+  - RU: 'Можно задавать любому сегменту вопросы в\xa0свободной форме\xa0— фокус-группа или\xa0глубинное интервью. Ответ\xa0— от\xa015 минут до\xa02 часов.'
+  - EN: 'Ask any segment open-ended questions — focus group or in-depth interview. Answers in 15 minutes to 2 hours.'
+- `ppt/slides/slide27.xml#50` (slide)
+  - RU: 'Пример: насколько рекомендация врача влияет на\xa0выбор в\xa0этом сегменте?'
+  - EN: "Example: how much does a doctor's advice affect choice in this segment?"
+- `ppt/slides/slide27.xml#52` (slide)
+  - RU: 'Карта сегментов AI CJM →\xa0калибровка на\xa0открытых, индустриальных и\xa0брендовых данных →\xa0панель OMD Voice →\xa0валидированный ответ до\xa0вложения инвестиций'
+  - EN: 'AI CJM segment map → calibration on open, industry and brand data → OMD Voice panel → validated answer before any investment'
+- `ppt/slides/slide27.xml#53` (slide)
+  - RU: '*SSR\xa0— Semantic Similarity Rating: респондент отвечает своими словами, ответ сопоставляется по\xa0смыслу со\xa0шкальными утверждениями и\xa0преобразуется в\xa0распределение scores'
+  - EN: '*SSR — Semantic Similarity Rating: the respondent answers in their own words; the answer is matched by meaning to scale statements and converted into a score distribution'
+- `ppt/slides/slide27.xml#7` (slide)
+  - RU: 'Считывает digital-сигналы и\xa0язык потребителя. Формирует сегменты, потребности, барьеры и\xa0occasions.'
+  - EN: 'Reads digital signals and consumer language. Builds segments, needs, barriers and occasions.'
+- `ppt/slides/slide27.xml#8` (slide)
+  - RU: '[1]Результат:[/1][2] [/2][3]гипотеза об\xa0аудитории[/3]'
+  - EN: '[1]Output:[/1][2] [/2][3]audience hypothesis[/3]'
+
+## Slide 28
+
+- `ppt/slides/slide28.xml#0` (slide)
+  - RU: 'Активация сегментов: от\xa0AI DMP к\xa0прямым\nинтеграциям с\xa0платформами (DSPs)'
+  - EN: 'Segment activation: from AI DMP to direct\nplatform integrations (DSPs)'
+- `ppt/slides/slide28.xml#1` (slide)
+  - RU: 'OMD Voice передает каждой DSP полную техническую карту сегмента; DSP собирает аудиторию на\xa0собственных данных и\xa0AI, а\xa0размер сегмента возвращается в\xa0планирование'
+  - EN: 'OMD Voice sends each DSP a full segment tech spec; the DSP builds the audience on its own data and AI, and segment size flows back into planning'
+- `ppt/slides/slide28.xml#11` (slide)
+  - RU: 'сегмент собирается из\xa0одного пула данных'
+  - EN: 'segment built from a single data pool'
+- `ppt/slides/slide28.xml#14` (slide)
+  - RU: 'Все платформы'
+  - EN: 'All platforms'
+- `ppt/slides/slide28.xml#15` (slide)
+  - RU: 'один и\xa0тот же сегмент одновременно'
+  - EN: 'the same segment at the same time'
+- `ppt/slides/slide28.xml#16` (slide)
+  - RU: 'ОГРАНИЧЕНИЯ'
+  - EN: 'LIMITATIONS'
+- `ppt/slides/slide28.xml#17` (slide)
+  - RU: 'Сегменты слишком узкие: один DMP-сегмент одновременно используется на\xa0всех платформах'
+  - EN: 'Segments too narrow: one DMP segment runs on all platforms at once'
+- `ppt/slides/slide28.xml#18` (slide)
+  - RU: 'Частота слишком высокая: одни и\xa0те же пользователи получают повторные контакты'
+  - EN: 'Frequency too high: the same users are reached again and again'
+- `ppt/slides/slide28.xml#22` (slide)
+  - RU: '2027 · ПРЯМЫЕ ИНТЕГРАЦИИ С\xa0DSP'
+  - EN: '2027 · DIRECT DSP INTEGRATIONS'
+- `ppt/slides/slide28.xml#23` (slide)
+  - RU: 'Платформа собирает аудиторию на\xa0основе технической карты OMD Voice'
+  - EN: 'The platform builds the audience from the OMD Voice tech spec'
+- `ppt/slides/slide28.xml#25` (slide)
+  - RU: 'Техническая карта сегмента'
+  - EN: 'Segment tech spec'
+- `ppt/slides/slide28.xml#26` (slide)
+  - RU: 'OMD Voice: Семантика, параметры, правила и\xa0готовые признаки сегмента в\xa0формате, который платформа может автоматически обработать'
+  - EN: 'OMD Voice: semantics, parameters, rules and ready-made segment attributes in a format the platform can process automatically'
+- `ppt/slides/slide28.xml#3` (slide)
+  - RU: '2026 · ЕДИНОЕ DMP-РЕШЕНИЕ'
+  - EN: '2026 · SINGLE DMP SOLUTION'
+- `ppt/slides/slide28.xml#30` (slide)
+  - RU: 'Сборка на\xa0стороне платформы'
+  - EN: 'Platform-side build'
+- `ppt/slides/slide28.xml#31` (slide)
+  - RU: 'MTS Ads и\xa0Platforma собирают аудиторию в\xa0собственной таксономии с\xa0помощью своего AI'
+  - EN: 'MTS Ads and Platforma build the audience in their own taxonomy with their own AI'
+- `ppt/slides/slide28.xml#35` (slide)
+  - RU: 'Размер возвращается в\xa0планирование'
+  - EN: 'Size flows back into planning'
+- `ppt/slides/slide28.xml#36` (slide)
+  - RU: 'Размер и\xa0состав сегмента возвращаются в\xa0медиаплан: охват и\nкросс-платформенные пересечения'
+  - EN: 'Segment size and makeup flow back into the media plan: reach and\ncross-platform overlaps'
+- `ppt/slides/slide28.xml#4` (slide)
+  - RU: 'Один DMP-сегмент\nдля\xa0всех платформ'
+  - EN: 'One DMP segment\nfor all platforms'
+- `ppt/slides/slide28.xml#43` (slide)
+  - RU: 'ЧТО\xa0ПОЛУЧАЕМ'
+  - EN: 'WHAT WE GET'
+- `ppt/slides/slide28.xml#44` (slide)
+  - RU: 'Экономия'
+  - EN: 'Savings'
+- `ppt/slides/slide28.xml#46` (slide)
+  - RU: 'Data cost VS годовая подписка OMD\xa0VOICE'
+  - EN: 'Data cost VS OMD VOICE annual subscription'
+- `ppt/slides/slide28.xml#48` (slide)
+  - RU: 'Более широкий список платформ, не\xa0ограниченный DMP-партнерами'
+  - EN: 'A wider list of platforms, not limited to DMP partners'
+- `ppt/slides/slide28.xml#49` (slide)
+  - RU: 'Частота и\xa0охват управляются на\xa0уровне каждой платформы'
+  - EN: 'Frequency and reach are managed per platform'
+- `ppt/slides/slide28.xml#51` (slide)
+  - RU: 'ДВА КОНТУРА'
+  - EN: 'TWO LOOPS'
+- `ppt/slides/slide28.xml#52` (slide)
+  - RU: 'От экспорта данных к экспорту методологии работы с AI-сегментами'
+  - EN: 'From exporting data to exporting our AI segment methodology'
+- `ppt/slides/slide28.xml#56` (slide)
+  - RU: 'Прямые интеграции'
+  - EN: 'Direct integrations'
+- `ppt/slides/slide28.xml#57` (slide)
+  - RU: 'OMD Voice ↔ DSP и\xa0платформы: правила сегментации передаются наружу, объемы сегментов возвращаются'
+  - EN: 'OMD Voice ↔ DSPs and platforms: segmentation rules go out, segment volumes come back'
+- `ppt/slides/slide28.xml#60` (slide)
+  - RU: 'Внешние AI-сегменты'
+  - EN: 'External AI segments'
+- `ppt/slides/slide28.xml#61` (slide)
+  - RU: 'Поставщики формируют собственные\nAI-кластеры; пересечения с\xa0нашими сегментами возвращают learnings в\xa0OMD Voice'
+  - EN: 'Vendors build their own\nAI clusters; overlaps with our segments feed learnings back into OMD Voice'
+- `ppt/slides/slide28.xml#64` (slide)
+  - RU: 'OMD Voice оценивает аудиторию в\xa0людях; платформа формирует более крупный технический сегмент в\xa0IDs. Это ожидаемо: capacity платформы и\xa0пересечения учитываются в\xa0медиаплане'
+  - EN: "OMD Voice sizes the audience in people; the platform builds a bigger technical segment in IDs. That's expected: platform capacity and overlaps are built into the media plan"
+- `ppt/slides/slide28.xml#67` (slide)
+  - RU: 'ПРИНЦИП 2027'
+  - EN: '2027 PRINCIPLE'
+- `ppt/slides/slide28.xml#69` (slide)
+  - RU: 'Нет единого DMP-решения по\xa0умолчанию: технологический контур\nвыбирается под\xa0каждую задачу с\xa0учетом media, data и\xa0аудитории'
+  - EN: 'No default single DMP solution: the tech setup\nis chosen for each task based on media, data and audience'
+- `ppt/slides/slide28.xml#7` (slide)
+  - RU: 'текстовое описание сегмента'
+  - EN: 'written segment description'
+- `ppt/notesSlides/notesSlide28.xml#1` (notes)
+  - RU: 'Слайд 25 · новый вариант: было → стало (2026 приглушённо, 2027 — цикл из трёх узлов с возвратом), «Экономия 30%+» большой цифрой, «Два контура» и People vs IDs — полосой внизу'
+  - EN: 'Slide 25 · new version: before → after (2026 muted, 2027 as a three-node loop with return), “Savings 30%+” as a big number, “Two loops” and People vs IDs as a strip at the bottom'
+
+## Slide 29
+
+- `ppt/slides/slide29.xml#0` (slide)
+  - RU: 'Персонализированный контент с\xa0OMD Voice: Generate →\xa0Pre-test →\xa0Launch'
+  - EN: 'Personalized content with OMD Voice: Generate → Pre-test → Launch'
+- `ppt/slides/slide29.xml#1` (slide)
+  - RU: 'Нейросеть генерирует креативы и\xa0посадочные страницы для\xa0каждого сегмента и\xa0сразу проверяет их на\xa0панели: каждый сегмент получает сообщение, на\xa0которое реагирует лучше'
+  - EN: 'AI generates creatives and landing pages for each segment and tests them on the panel right away: each segment gets the message it responds to best'
+- `ppt/slides/slide29.xml#15` (slide)
+  - RU: 'Креативы, AI video и\xa0версии посадочных страниц для\xa0каждого сегмента'
+  - EN: 'Creatives, AI video and landing page versions for each segment'
+- `ppt/slides/slide29.xml#21` (slide)
+  - RU: 'Каждый сегмент оценивает версии →\xa0результаты формируют сравнительный рейтинг'
+  - EN: 'Each segment rates the versions → results form a comparative ranking'
+- `ppt/slides/slide29.xml#27` (slide)
+  - RU: 'Лучшие версии масштабируются через CMP, AI-video и\xa0персонализированные посадочные страницы'
+  - EN: 'Top versions scale via CMP, AI video and personalized landing pages'
+- `ppt/slides/slide29.xml#28` (slide)
+  - RU: '← Слабые версии →\xa0доработка →\xa0повторный тест'
+  - EN: '← Weak versions → rework → retest'
+- `ppt/slides/slide29.xml#29` (slide)
+  - RU: 'ПРИМЕР СРАВНЕНИЯ ВЕРСИЙ ПО\xa0СЕГМЕНТАМ'
+  - EN: 'EXAMPLE: VERSION COMPARISON BY SEGMENT'
+- `ppt/slides/slide29.xml#3` (slide)
+  - RU: 'КАК\xa0ЭТО РАБОТАЕТ'
+  - EN: 'HOW IT WORKS'
+- `ppt/slides/slide29.xml#30` (slide)
+  - RU: 'Версия 1'
+  - EN: 'Version 1'
+- `ppt/slides/slide29.xml#31` (slide)
+  - RU: 'Версия 2'
+  - EN: 'Version 2'
+- `ppt/slides/slide29.xml#32` (slide)
+  - RU: 'Версия 3'
+  - EN: 'Version 3'
+- `ppt/slides/slide29.xml#33` (slide)
+  - RU: 'Сегмент A'
+  - EN: 'Segment A'
+- `ppt/slides/slide29.xml#35` (slide)
+  - RU: 'ниже оценка'
+  - EN: 'lower score'
+- `ppt/slides/slide29.xml#37` (slide)
+  - RU: '✓ лучший вариант'
+  - EN: '✓ best version'
+- `ppt/slides/slide29.xml#39` (slide)
+  - RU: 'ниже оценка'
+  - EN: 'lower score'
+- `ppt/slides/slide29.xml#4` (slide)
+  - RU: 'AI генерирует версии для\xa0каждого сегмента,\nа\xa0панель тестирует их до\xa0запуска'
+  - EN: 'AI generates versions for each segment,\nand the panel tests them before launch'
+- `ppt/slides/slide29.xml#40` (slide)
+  - RU: 'Сегмент B'
+  - EN: 'Segment B'
+- `ppt/slides/slide29.xml#42` (slide)
+  - RU: '✓ лучший вариант'
+  - EN: '✓ best version'
+- `ppt/slides/slide29.xml#44` (slide)
+  - RU: 'ниже оценка'
+  - EN: 'lower score'
+- `ppt/slides/slide29.xml#46` (slide)
+  - RU: 'ниже оценка'
+  - EN: 'lower score'
+- `ppt/slides/slide29.xml#47` (slide)
+  - RU: 'Сегмент C'
+  - EN: 'Segment C'
+- `ppt/slides/slide29.xml#49` (slide)
+  - RU: 'ниже оценка'
+  - EN: 'lower score'
+- `ppt/slides/slide29.xml#51` (slide)
+  - RU: 'ниже оценка'
+  - EN: 'lower score'
+- `ppt/slides/slide29.xml#53` (slide)
+  - RU: '✓ лучший вариант'
+  - EN: '✓ best version'
+- `ppt/slides/slide29.xml#55` (slide)
+  - RU: '[1]Разные сегменты лучше реагируют на\xa0разные версии.[/1][2] Панель показывает, какую версию запускать для\xa0каждого сегмента.[/2]'
+  - EN: '[1]Different segments respond best to different versions.[/1][2] The panel shows which version to launch for each segment.[/2]'
+- `ppt/slides/slide29.xml#57` (slide)
+  - RU: 'ЧТО\xa0ПОЛУЧАЕМ'
+  - EN: 'WHAT WE GET'
+- `ppt/slides/slide29.xml#58` (slide)
+  - RU: 'Точная коммуникация\nс\xa0каждым сегментом'
+  - EN: 'Precise messaging\nfor every segment'
+- `ppt/slides/slide29.xml#59` (slide)
+  - RU: 'Message, RTB и\xa0tone of voice проверяются самим сегментом до\xa0запуска'
+  - EN: 'The segment itself checks message, RTB and tone of voice before launch'
+- `ppt/slides/slide29.xml#60` (slide)
+  - RU: 'Больше вариантов без\xa0дополнительных исследований: тест занимает часы, а\xa0не\xa0недели'
+  - EN: 'More versions with no extra research: a test takes hours, not weeks'
+- `ppt/slides/slide29.xml#61` (slide)
+  - RU: 'Слабые версии отсеиваются до\xa0продакшн-этапа и\xa0вложения инвестиций'
+  - EN: 'Weak versions are dropped before production and investment'
+- `ppt/slides/slide29.xml#63` (slide)
+  - RU: 'ИНТЕГРИРУЕТСЯ В\xa0PRODUCTION 2027'
+  - EN: 'BUILT INTO PRODUCTION 2027'
+- `ppt/slides/slide29.xml#64` (slide)
+  - RU: 'CMP для\xa0массовых адаптаций'
+  - EN: 'CMP for mass adaptations'
+- `ppt/slides/slide29.xml#65` (slide)
+  - RU: 'AI video для\xa0CTV/OLV'
+  - EN: 'AI video for CTV/OLV'
+- `ppt/slides/slide29.xml#66` (slide)
+  - RU: 'Персонализированные посадочные страницы для\xa0повышения post-click результатов'
+  - EN: 'Personalized landing pages for better post-click results'
+- `ppt/slides/slide29.xml#69` (slide)
+  - RU: 'ПРИНЦИП 2027'
+  - EN: '2027 PRINCIPLE'
+- `ppt/slides/slide29.xml#71` (slide)
+  - RU: 'Ни\xa0одна версия не\xa0выходит без\xa0пре-теста: каждый сегмент\nполучает вариант, на\xa0который реагирует лучше всего'
+  - EN: 'No version goes live without a pre-test: each segment\ngets the version it responds to best'
+- `ppt/slides/slide29.xml#73` (slide)
+  - RU: 'ПИЛОТ Q4 2026'
+  - EN: 'Q4 2026 PILOT'
+- `ppt/slides/slide29.xml#74` (slide)
+  - RU: '[1]АКВАДЕТРИМ + БИОТИНАЛЬ / GLP-1[/1]\n[2]AI generation → OMD Voice pre-test → выбор лучшей версии → запуск → результаты[/2]'
+  - EN: '[1]AQUADETRIM + BIOTINAL / GLP-1[/1]\n[2]AI generation → OMD Voice pre-test → best version selection → launch → results[/2]'
+- `ppt/slides/slide29.xml#8` (slide)
+  - RU: 'Профиль сегмента'
+  - EN: 'Segment profile'
+- `ppt/slides/slide29.xml#9` (slide)
+  - RU: 'Мотивы, барьеры, оккейжены и\xa0реальные формулировки из\xa0панели'
+  - EN: 'Motives, barriers, occasions and real phrasing from the panel'
+
+## Slide 31
+
+- `ppt/slides/slide31.xml#1` (slide)
+  - RU: 'Переход к\xa0единой системе присутствия на\xa0пути\nПоиск →\xa0AI-ответ →\xa0Проверка доверия →\xa0Выбор →\xa0Действие'
+  - EN: 'Moving to one presence system along the path\nSearch → AI answer → Trust check → Choice → Action'
+- `ppt/slides/slide31.xml#12` (slide)
+  - RU: 'ПОЛУЧЕНИЕ ОТВЕТА'
+  - EN: 'GETTING AN ANSWER'
+- `ppt/slides/slide31.xml#13` (slide)
+  - RU: 'поисковая выдача / AI / LLM'
+  - EN: 'search results / AI / LLM'
+- `ppt/slides/slide31.xml#18` (slide)
+  - RU: 'ПРОВЕРКА'
+  - EN: 'CHECKING'
+- `ppt/slides/slide31.xml#19` (slide)
+  - RU: 'экспертность / отзывы / обсуждения'
+  - EN: 'expertise / reviews / discussions'
+- `ppt/slides/slide31.xml#2` (slide)
+  - RU: 'ЛОГИКА CJM 2027'
+  - EN: 'CJM 2027 LOGIC'
+- `ppt/slides/slide31.xml#24` (slide)
+  - RU: 'ВЫБОР'
+  - EN: 'CHOICE'
+- `ppt/slides/slide31.xml#25` (slide)
+  - RU: 'сравнение вариантов'
+  - EN: 'comparing options'
+- `ppt/slides/slide31.xml#30` (slide)
+  - RU: 'ДЕЙСТВИЕ'
+  - EN: 'ACTION'
+- `ppt/slides/slide31.xml#31` (slide)
+  - RU: 'переход / покупка'
+  - EN: 'click / purchase'
+- `ppt/slides/slide31.xml#34` (slide)
+  - RU: 'ФУНДАМЕНТ ВИДИМОСТИ'
+  - EN: 'VISIBILITY FOUNDATION'
+- `ppt/slides/slide31.xml#35` (slide)
+  - RU: 'Органическая поисковая видимость: сайт, структура, семантика, контент и\xa0техническая база'
+  - EN: 'Organic search visibility: site, structure, semantics, content and technical base'
+- `ppt/slides/slide31.xml#37` (slide)
+  - RU: 'Передает:'
+  - EN: 'Passes on:'
+- `ppt/slides/slide31.xml#38` (slide)
+  - RU: 'приоритетные темы, сильные страницы, органический спрос'
+  - EN: 'priority topics, strong pages, organic demand'
+- `ppt/slides/slide31.xml#41` (slide)
+  - RU: 'ПРИСУТСТВИЕ В\xa0AI-ОТВЕТАХ'
+  - EN: 'PRESENCE IN AI ANSWERS'
+- `ppt/slides/slide31.xml#42` (slide)
+  - RU: 'Делает бренд и\xa0продукт понятными генеративным системам; повышает вероятность упоминания и\xa0цитирования'
+  - EN: 'Makes the brand and product clear to generative systems; raises the odds of being mentioned and cited'
+- `ppt/slides/slide31.xml#44` (slide)
+  - RU: 'Передает:'
+  - EN: 'Passes on:'
+- `ppt/slides/slide31.xml#45` (slide)
+  - RU: 'слабые промты, gap-темы, список цитируемых источников'
+  - EN: 'weak prompts, gap topics, list of cited sources'
+- `ppt/slides/slide31.xml#47` (slide)
+  - RU: 'ВНЕШНИЕ ПУБЛИКАЦИИ'
+  - EN: 'EXTERNAL PUBLICATIONS'
+- `ppt/slides/slide31.xml#48` (slide)
+  - RU: 'АВТОРИТЕТ ВНЕ САЙТА'
+  - EN: 'OFF-SITE AUTHORITY'
+- `ppt/slides/slide31.xml#49` (slide)
+  - RU: 'Создают независимые экспертные источники, на\xa0которые могут опираться поиск и\xa0AI-системы'
+  - EN: 'Create independent expert sources that search and AI systems can rely on'
+- `ppt/slides/slide31.xml#51` (slide)
+  - RU: 'Передает:'
+  - EN: 'Passes on:'
+- `ppt/slides/slide31.xml#52` (slide)
+  - RU: 'авторитетные подтверждения и\xa0дополнительные точки контакта'
+  - EN: 'authoritative proof points and extra touchpoints'
+- `ppt/slides/slide31.xml#54` (slide)
+  - RU: 'ORM +\xa0СООБЩЕСТВА'
+  - EN: 'ORM + COMMUNITIES'
+- `ppt/slides/slide31.xml#55` (slide)
+  - RU: 'ДОВЕРИЕ И\xa0РЕКОМЕНДАЦИИ'
+  - EN: 'TRUST & RECOMMENDATIONS'
+- `ppt/slides/slide31.xml#56` (slide)
+  - RU: 'Формируют внешнее информационное поле: отзывы, рейтинги, Q&A, тематические обсуждения и\xa0ответы бренда'
+  - EN: 'Shape the external conversation: reviews, ratings, Q&A, topical discussions and brand replies'
+- `ppt/slides/slide31.xml#58` (slide)
+  - RU: 'Передает:'
+  - EN: 'Passes on:'
+- `ppt/slides/slide31.xml#59` (slide)
+  - RU: 'реальные вопросы,\nриск-тезисы, пользовательский язык'
+  - EN: 'real questions,\nrisk claims, user language'
+- `ppt/slides/slide31.xml#6` (slide)
+  - RU: 'ПОИСК'
+  - EN: 'SEARCH'
+- `ppt/slides/slide31.xml#62` (slide)
+  - RU: 'ЗАХВАТ И\xa0ЗАЩИТА СПРОСА'
+  - EN: 'DEMAND CAPTURE & DEFENSE'
+- `ppt/slides/slide31.xml#63` (slide)
+  - RU: 'Учитывает намерение пользователя, защищает бренд и\xa0перехватывает спрос на\xa0разных этапах выбора\xa0— от\xa0симптома и\xa0категории до\xa0покупки'
+  - EN: 'Reflects user intent, protects the brand and intercepts demand at different stages of choice — from symptom and category to purchase'
+- `ppt/slides/slide31.xml#65` (slide)
+  - RU: 'Передает:'
+  - EN: 'Passes on:'
+- `ppt/slides/slide31.xml#66` (slide)
+  - RU: 'спрос, конкуренцию, CR / CPA и\xa0быстрые сигналы качества'
+  - EN: 'demand, competition, CR / CPA and fast quality signals'
+- `ppt/slides/slide31.xml#69` (slide)
+  - RU: '2027 ПРИНЦИП'
+  - EN: '2027 PRINCIPLE'
+- `ppt/slides/slide31.xml#7` (slide)
+  - RU: 'вопрос / симптом / категория'
+  - EN: 'question / symptom / category'
+- `ppt/slides/slide31.xml#71` (slide)
+  - RU: 'Единый AI Visibility Stream: общая семантика и\xa0фактология\n→\xa0разные роли каналов →\xa0единый цикл данных и\xa0оптимизации'
+  - EN: 'One AI Visibility Stream: shared semantics and facts\n→ different channel roles → one data and optimization cycle'
+
+## Slide 32
+
+- `ppt/slides/slide32.xml#0` (slide)
+  - RU: 'Операционная модель 2027: единая семантика и\xa0один цикл оптимизации'
+  - EN: '2027 operating model: unified semantics and one optimization cycle'
+- `ppt/slides/slide32.xml#1` (slide)
+  - RU: 'AI Visibility Stream работает как\xa0замкнутая система: запросы →\xa0контент →\xa0внешняя авторитетность →\xa0доверие →\xa0захват спроса →\xa0новые данные для\xa0следующего цикла'
+  - EN: 'AI Visibility Stream works as a closed system: queries → content → external authority → trust → demand capture → new data for the next cycle'
+- `ppt/slides/slide32.xml#14` (slide)
+  - RU: 'СОБСТВЕННЫЙ КОНТЕНТ'
+  - EN: 'OWNED CONTENT'
+- `ppt/slides/slide32.xml#15` (slide)
+  - RU: 'SEO-страницы +\xa0контент под\xa0извлекаемость GEO/AEO +\xa0релевантные посадочные страницы'
+  - EN: 'SEO pages + content built for GEO/AEO extractability + relevant landing pages'
+- `ppt/slides/slide32.xml#17` (slide)
+  - RU: 'Закрываем приоритетные темы и\xa0оккейжены'
+  - EN: 'We cover priority topics and occasions'
+- `ppt/slides/slide32.xml#2` (slide)
+  - RU: 'ЕДИНЫЙ ЦИКЛ'
+  - EN: 'SINGLE CYCLE'
+- `ppt/slides/slide32.xml#22` (slide)
+  - RU: 'ВНЕШНИЙ АВТОРИТЕТ'
+  - EN: 'EXTERNAL AUTHORITY'
+- `ppt/slides/slide32.xml#23` (slide)
+  - RU: 'Экспертные публикации +\xa0ORM +\xa0Q&A +\xa0тематические обсуждения'
+  - EN: 'Expert publications + ORM + Q&A + topical discussions'
+- `ppt/slides/slide32.xml#25` (slide)
+  - RU: 'Подтверждаем фактологию вне сайта и\xa0усиливаем доверие'
+  - EN: 'We confirm facts off-site and strengthen trust'
+- `ppt/slides/slide32.xml#30` (slide)
+  - RU: 'ЗАХВАТ СПРОСА И\xa0НОВЫЕ ДАННЫЕ'
+  - EN: 'DEMAND CAPTURE AND NEW DATA'
+- `ppt/slides/slide32.xml#33` (slide)
+  - RU: 'Захватываем спрос и\xa0возвращаем данные в\xa0следующий цикл'
+  - EN: 'We capture demand and feed data back into the next cycle'
+- `ppt/slides/slide32.xml#35` (slide)
+  - RU: 'новые поисковые запросы / слабые AI-темы / возражения / конкуренты / CR / CPA / quality signals →\xa0приоритизация следующего цикла'
+  - EN: 'new search queries / weak AI topics / objections / competitors / CR / CPA / quality signals → next-cycle priorities'
+- `ppt/slides/slide32.xml#41` (slide)
+  - RU: 'КЛЮЧЕВЫЕ ПРАВИЛА 2027'
+  - EN: 'KEY RULES FOR 2027'
+- `ppt/slides/slide32.xml#44` (slide)
+  - RU: 'Не\xa0дублируем автоматически: решение по\xa0кластеру зависит от\xa0органической позиции, конкурентного давления и\nкост-эффективности'
+  - EN: 'No automatic duplication: the call on each cluster depends on organic position, competitive pressure and\ncost efficiency'
+- `ppt/slides/slide32.xml#47` (slide)
+  - RU: 'Слабые промпты и\xa0отсутствующие цитируемые источники становятся входом в\xa0контент-план и\xa0внешние публикации'
+  - EN: 'Weak prompts and missing cited sources become input for the content plan and external publications'
+- `ppt/slides/slide32.xml#50` (slide)
+  - RU: 'Работаем не\xa0на\xa0объем отзывов, а\xa0на\xa0темы, площадки и\xa0обсуждения, которые влияют на\xa0доверие и\xa0могут становиться источниками для\xa0AI.'
+  - EN: 'We focus on topics, platforms and discussions that affect trust and can become sources for AI — not on review volume.'
+- `ppt/slides/slide32.xml#53` (slide)
+  - RU: 'ЕДИНАЯ МОДЕЛЬ'
+  - EN: 'SINGLE MODEL'
+- `ppt/slides/slide32.xml#55` (slide)
+  - RU: 'Единый ежемесячный обмен данными: поисковый спрос +\xa0AI Visibility +\xa0внешние\nисточники +\xa0репутация +\xa0результаты кампаний →\xa0общие приоритеты для\xa0Tier-2'
+  - EN: 'A single monthly data exchange: search demand + AI Visibility + external\nsources + reputation + campaign results → shared priorities for Tier-2'
+- `ppt/slides/slide32.xml#6` (slide)
+  - RU: 'ЗАПРОСЫ'
+  - EN: 'QUERIES'
+- `ppt/slides/slide32.xml#7` (slide)
+  - RU: 'SEO-ядро +\xa0Paid Search запросы +\xa0GEO промпты +\xa0вопросы из\xa0сообществ'
+  - EN: 'SEO keywords + Paid Search queries + GEO prompts + community questions'
+- `ppt/slides/slide32.xml#9` (slide)
+  - RU: 'Единая карта: что\xa0ищут / спрашивают / сравнивают'
+  - EN: 'A single map: what people search / ask / compare'
+
+## Slide 33
+
+- `ppt/slides/slide33.xml#0` (slide)
+  - RU: 'Paid Search Playbook 2027: от\xa0закупки трафика\nк\xa0управлению спросом и\xa0инвестициями'
+  - EN: 'Paid Search Playbook 2027: from buying traffic\nto managing demand and investment'
+- `ppt/slides/slide33.xml#1` (slide)
+  - RU: 'Внутри AI Visibility Paid Search защищает сформированный спрос, расширяет вход в\xa0категорию и\xa0переводит пользователей с\xa0высокой готовностью к\xa0действию в\xa0покупку'
+  - EN: 'Within AI Visibility, Paid Search protects existing demand, widens entry into the category and turns high-intent users into buyers'
+- `ppt/slides/slide33.xml#11` (slide)
+  - RU: 'МЕНЬШЕ\nПОТЕРЬ'
+  - EN: 'FEWER\nLOSSES'
+- `ppt/slides/slide33.xml#13` (slide)
+  - RU: 'Не\xa0платим там, где органика уже надежно закрывает первый контакт'
+  - EN: "We don't pay where organic already reliably wins the first touch"
+- `ppt/slides/slide33.xml#17` (slide)
+  - RU: 'РАСШИРИТЬ ВХОД В\xa0КАТЕГОРИЮ'
+  - EN: 'WIDEN CATEGORY ENTRY'
+- `ppt/slides/slide33.xml#18` (slide)
+  - RU: 'Категория +\xa0симптоматика становятся основной зоной привлечения новой аудитории до\xa0выбора бренда'
+  - EN: 'Category + symptom searches become the main source of new audiences before brand choice'
+- `ppt/slides/slide33.xml#19` (slide)
+  - RU: 'Увеличивать пул потенциальных покупателей'
+  - EN: 'Grow the pool of potential buyers'
+- `ppt/slides/slide33.xml#2` (slide)
+  - RU: '3 СТРАТЕГИЧЕСКИЕ РОЛИ'
+  - EN: '3 STRATEGIC ROLES'
+- `ppt/slides/slide33.xml#20` (slide)
+  - RU: 'Влияние на\xa0бизнес'
+  - EN: 'Business impact'
+- `ppt/slides/slide33.xml#22` (slide)
+  - RU: 'ВЫШЕ\nРОСТ'
+  - EN: 'MORE\nGROWTH'
+- `ppt/slides/slide33.xml#24` (slide)
+  - RU: 'Новая аудитория из\xa0категории и\xa0симптоматики'
+  - EN: 'New audience from category + symptom searches'
+- `ppt/slides/slide33.xml#28` (slide)
+  - RU: 'МОНЕТИЗИРОВАТЬ HIGH INTENT'
+  - EN: 'MONETIZE HIGH INTENT'
+- `ppt/slides/slide33.xml#29` (slide)
+  - RU: 'Брендовые и\xa0транзакционные запросы получают кратчайший путь к\xa0покупке\xa0— бренд / аптека'
+  - EN: 'Brand and transactional queries get the shortest path to purchase — brand / pharmacy'
+- `ppt/slides/slide33.xml#30` (slide)
+  - RU: 'Переводить намерение в\xa0измеримое действие / покупку'
+  - EN: 'Turn intent into a measurable action / purchase'
+- `ppt/slides/slide33.xml#31` (slide)
+  - RU: 'Влияние на\xa0бизнес'
+  - EN: 'Business impact'
+- `ppt/slides/slide33.xml#33` (slide)
+  - RU: 'БОЛЬШЕ\nКОНВЕРСИЙ'
+  - EN: 'MORE\nCONVERSIONS'
+- `ppt/slides/slide33.xml#35` (slide)
+  - RU: 'Быстрее переводим сформированный спрос в\xa0покупку'
+  - EN: 'We turn existing demand into purchases faster'
+- `ppt/slides/slide33.xml#37` (slide)
+  - RU: '[1]Ежемесячный decision cycle:[/1][2] результаты →\xa0новое правило инвестирования →\xa0следующий месяц[/2]'
+  - EN: '[1]Monthly decision cycle:[/1][2] results → new investment rule → next month[/2]'
+- `ppt/slides/slide33.xml#40` (slide)
+  - RU: 'Ёмкость спроса'
+  - EN: 'Demand volume'
+- `ppt/slides/slide33.xml#41` (slide)
+  - RU: 'сколько доступного спроса есть в\xa0кластере'
+  - EN: 'how much demand is available in the cluster'
+- `ppt/slides/slide33.xml#45` (slide)
+  - RU: 'Конкурентное давление'
+  - EN: 'Competitive pressure'
+- `ppt/slides/slide33.xml#46` (slide)
+  - RU: 'риск потери первого контакта / стоимость аукциона'
+  - EN: 'risk of losing the first touch / auction cost'
+- `ppt/slides/slide33.xml#50` (slide)
+  - RU: 'Экономика конверсии'
+  - EN: 'Conversion economics'
+- `ppt/slides/slide33.xml#51` (slide)
+  - RU: 'CR / CPA и\xa0качество визита'
+  - EN: 'CR / CPA and visit quality'
+- `ppt/slides/slide33.xml#55` (slide)
+  - RU: 'Покрытие SEO и\xa0GEO/AEO'
+  - EN: 'SEO and GEO/AEO coverage'
+- `ppt/slides/slide33.xml#56` (slide)
+  - RU: 'насколько органика и\xa0нейро-ответы уже закрывают спрос'
+  - EN: 'how far organic and AI answers already cover demand'
+- `ppt/slides/slide33.xml#6` (slide)
+  - RU: 'ЗАЩИТИТЬ СФОРМИРОВАННЫЙ СПРОС'
+  - EN: 'PROTECT EXISTING DEMAND'
+- `ppt/slides/slide33.xml#62` (slide)
+  - RU: 'РЕШЕНИЕ'
+  - EN: 'DECISION'
+- `ppt/slides/slide33.xml#63` (slide)
+  - RU: 'инвестировать'
+  - EN: 'invest'
+- `ppt/slides/slide33.xml#64` (slide)
+  - RU: 'поддержать'
+  - EN: 'maintain'
+- `ppt/slides/slide33.xml#65` (slide)
+  - RU: 'снизить / перераспределить'
+  - EN: 'reduce / reallocate'
+- `ppt/slides/slide33.xml#67` (slide)
+  - RU: 'ФИКСИРОВАННЫЙ БЮДЖЕТ/МЕС'
+  - EN: 'FIXED MONTHLY BUDGET'
+- `ppt/slides/slide33.xml#7` (slide)
+  - RU: 'Брендовый спрос удерживаем там, где есть риск потери первого контакта конкуренту'
+  - EN: 'We hold brand demand where a competitor could win the first touch'
+- `ppt/slides/slide33.xml#70` (slide)
+  - RU: 'ДИНАМИЧЕСКОЕ РАСПРЕДЕЛЕНИЕ ИНВЕСТИЦИЙ'
+  - EN: 'DYNAMIC INVESTMENT ALLOCATION'
+- `ppt/slides/slide33.xml#75` (slide)
+  - RU: 'Синхронизация SEO+GEO/AEO+Paid search'
+  - EN: 'Syncing SEO+GEO/AEO+Paid search'
+- `ppt/slides/slide33.xml#78` (slide)
+  - RU: 'Полная трансформация'
+  - EN: 'Full transformation'
+- `ppt/slides/slide33.xml#8` (slide)
+  - RU: 'Не\xa0терять уже сформированный спрос'
+  - EN: "Don't lose demand already built"
+- `ppt/slides/slide33.xml#81` (slide)
+  - RU: 'ПРИНЦИП 2027'
+  - EN: '2027 PRINCIPLE'
+- `ppt/slides/slide33.xml#83` (slide)
+  - RU: 'Paid Search = управляемый инвестиционный слой AI Visibility: деньги следуют за\xa0возможностью роста,\nриском потери спроса и\xa0доказанной экономикой внутри AI Visibility Stream'
+  - EN: 'Paid Search = the managed investment layer of AI Visibility: money follows growth opportunity,\nrisk of demand loss and proven economics within AI Visibility Stream'
+- `ppt/slides/slide33.xml#9` (slide)
+  - RU: 'Влияние на\xa0бизнес'
+  - EN: 'Business impact'
+- `ppt/notesSlides/notesSlide33.xml#1` (notes)
+  - RU: 'Слайд 30 · новый вариант: три роли — три колонки с иконками и влиянием на бизнес внизу каждой; decision cycle — 4 сигнала сходятся в «Решение»; справа — переход бюджета и сроки'
+  - EN: 'Slide 30 · new version: three roles — three columns with icons and business impact at the bottom of each; decision cycle — 4 signals converge into “Decision”; on the right — budget shift and timing'
+
+## Slide 34
+
+- `ppt/slides/slide34.xml#1` (slide)
+  - RU: 'От\xa0точечных активаций к\xa0масштабируемой системе управления поисковым спросом и\xa0репутацией Tier-2 брендов'
+  - EN: "From one-off activations to a scalable system for Tier-2 brands' search demand and reputation"
+- `ppt/slides/slide34.xml#11` (slide)
+  - RU: 'Средненедельный прирост июнь vs янв.–фев. за\xa0счёт расширения семантики: «Боботик как\xa0применять на\xa0ГВ», «Можно ли Боботик добавлять в\xa0смесь» и\xa0др.'
+  - EN: 'Average weekly growth, Jun vs Jan–Feb, from a wider keyword set: “how to use Bobotic when breastfeeding”, “can Bobotic be added to formula”, etc.'
+- `ppt/slides/slide34.xml#13` (slide)
+  - RU: 'Высокая синхронность динамики ORM-активности и\xa0поискового интереса'
+  - EN: 'Strong sync between ORM activity and search interest'
+- `ppt/slides/slide34.xml#15` (slide)
+  - RU: 'Коэффициент\nПирсона'
+  - EN: 'Pearson\ncorrelation'
+- `ppt/slides/slide34.xml#16` (slide)
+  - RU: 'ORM-реагирования: 7 →\xa08 →\xa06 →\xa07\n«Боботик от\xa0коликов отзывы»: 90 →\xa0108 →\xa066 →\xa097'
+  - EN: 'ORM responses: 7 → 8 → 6 → 7\n“Bobotic colic reviews”: 90 → 108 → 66 → 97'
+- `ppt/slides/slide34.xml#18` (slide)
+  - RU: 'ВЫВОД'
+  - EN: 'TAKEAWAY'
+- `ppt/slides/slide34.xml#20` (slide)
+  - RU: 'Оккейжны дают разные измеримые сигналы спроса; методологию можно переносить на\xa0Tier-2 и\xa0оптимизировать еженедельно.'
+  - EN: 'Each occasion gives its own measurable demand signal; the method can be rolled out to Tier-2 and optimized weekly.'
+- `ppt/slides/slide34.xml#23` (slide)
+  - RU: 'Персонализация ORM по\xa0реальным ситуациям и\xa0барьерам аудитории'
+  - EN: 'ORM personalized to real audience situations and barriers'
+- `ppt/slides/slide34.xml#27` (slide)
+  - RU: 'Выделяем оккейжны'
+  - EN: 'Identify occasions'
+- `ppt/slides/slide34.xml#28` (slide)
+  - RU: 'реальные ситуации, в\xa0которых возникает потребность / вопрос'
+  - EN: 'real situations where a need / question arises'
+- `ppt/slides/slide34.xml#3` (slide)
+  - RU: 'BASELINE: средненедельный уровень янв.–фев. = 100'
+  - EN: 'BASELINE: Jan–Feb weekly average = 100'
+- `ppt/slides/slide34.xml#31` (slide)
+  - RU: 'Адаптируем отзывы и\xa0комментарии'
+  - EN: 'Adapt reviews and comments'
+- `ppt/slides/slide34.xml#32` (slide)
+  - RU: 'тональность, аргумент и\xa0сценарий под\xa0конкретный контекст'
+  - EN: 'tone, argument and scenario for the specific context'
+- `ppt/slides/slide34.xml#35` (slide)
+  - RU: 'Управляем репутационным полем'
+  - EN: 'Manage the reputation footprint'
+- `ppt/slides/slide34.xml#36` (slide)
+  - RU: 'публикации, ответы, рейтинги и\xa0поисковая выдача'
+  - EN: 'posts, replies, ratings and search results'
+- `ppt/slides/slide34.xml#39` (slide)
+  - RU: 'Смотрим изменение спроса'
+  - EN: 'Track demand shifts'
+- `ppt/slides/slide34.xml#4` (slide)
+  - RU: 'Occasion-based ORM можно связать с\xa0измеримой динамикой поискового интереса'
+  - EN: 'Occasion-based ORM can be linked to measurable shifts in search interest'
+- `ppt/slides/slide34.xml#40` (slide)
+  - RU: 'как\xa0меняется релевантный интерес к\xa0бренду / продукту'
+  - EN: 'how relevant interest in the brand / product changes'
+- `ppt/slides/slide34.xml#43` (slide)
+  - RU: 'Оптимизируем и\xa0масштабируем'
+  - EN: 'Optimize and scale'
+- `ppt/slides/slide34.xml#44` (slide)
+  - RU: 'усиливаем работающие сценарии, слабые\xa0— меняем или\xa0останавливаем'
+  - EN: 'boost scenarios that work; change or stop weak ones'
+- `ppt/slides/slide34.xml#46` (slide)
+  - RU: 'Для\xa0Tier-2 важна не\xa0единая коммуникация, а\xa0единый управляемый стандарт работы'
+  - EN: 'Tier-2 needs one managed operating standard, not one message'
+- `ppt/slides/slide34.xml#49` (slide)
+  - RU: 'Универсальная методология'
+  - EN: 'Universal method'
+- `ppt/slides/slide34.xml#5` (slide)
+  - RU: '«Перепробовали всё»'
+  - EN: '“Tried everything”'
+- `ppt/slides/slide34.xml#50` (slide)
+  - RU: 'сегмент →\xa0оккейжен →\xa0барьер →\xa0ORM-сценарий →\xa0продуктовый аргумент'
+  - EN: 'segment → occasion → barrier → ORM scenario → product argument'
+- `ppt/slides/slide34.xml#53` (slide)
+  - RU: 'Персонализация остается\nбренд-специфичной'
+  - EN: 'Personalization stays\nbrand-specific'
+- `ppt/slides/slide34.xml#54` (slide)
+  - RU: 'каждый бренд получает свои ситуации, аргументы и\xa0поисковую семантику'
+  - EN: 'each brand gets its own situations, arguments and keyword set'
+- `ppt/slides/slide34.xml#57` (slide)
+  - RU: 'Эффект можно видеть раньше'
+  - EN: 'The effect shows earlier'
+- `ppt/slides/slide34.xml#58` (slide)
+  - RU: 'еженедельная динамика релевантных групп запросов и\xa0репутационного поля дает ранний сигнал для\xa0оптимизации'
+  - EN: 'weekly trends in relevant query groups and the reputation footprint give an early signal to optimize'
+- `ppt/slides/slide34.xml#61` (slide)
+  - RU: 'Масштабируем только подтвержденное'
+  - EN: 'Scale only what is proven'
+- `ppt/slides/slide34.xml#67` (slide)
+  - RU: '2027 ПРИНЦИП'
+  - EN: '2027 PRINCIPLE'
+- `ppt/slides/slide34.xml#69` (slide)
+  - RU: 'Закрепить Comprehensive ORM как\xa0единый стандарт для\xa0Tier-2\xa0— базовый уровень →\xa0активация\nпо\xa0ситуациям потребления →\xa0еженедельный мониторинг спроса и\xa0репутации →\xa0масштабирование'
+  - EN: 'Make Comprehensive ORM the single standard for Tier-2 — baseline → activation\nby usage occasion → weekly demand and reputation monitoring → scaling'
+- `ppt/slides/slide34.xml#7` (slide)
+  - RU: 'Средненедельный прирост июнь vs янв.–фев. по\xa0сравнительным запросам: «Боботик или\xa0Эспумизан», «Саб Симплекс или\xa0Боботик», «что\xa0лучше» и\xa0др.'
+  - EN: 'Average weekly growth, Jun vs Jan–Feb, in comparison queries: “Bobotic or Espumisan”, “Sab Simplex or Bobotic”, “which is better”, etc.'
+- `ppt/slides/slide34.xml#9` (slide)
+  - RU: '«ГВ / ИВ / смесь»'
+  - EN: '“Breast / formula”'
+- `ppt/notesSlides/notesSlide34.xml#1` (notes)
+  - RU: 'Слайд 31 · новый вариант: доказательство в центре — три большие цифры (+23%, +272%, r = 0,96) с пояснениями и выводом; ниже Approach logic (5 шагов) и 2027 usage principle (4 пункта) с плашкой Bobotic → Tier 2'
+  - EN: 'Slide 31 · new version: proof at the center — three big numbers (+23%, +272%, r = 0.96) with explanations and a takeaway; below, Approach logic (5 steps) and 2027 usage principle (4 points) with a Bobotic → Tier 2 banner'
+
+## Slide 36
+
+- `ppt/slides/slide36.xml#0` (slide)
+  - RU: '2027 Production Playbook: гибридная модель\nсоздания баннеров, AI-video\xa0— отдельный цикл'
+  - EN: '2027 Production Playbook: a hybrid model\nfor banners, AI-video as a separate cycle'
+- `ppt/slides/slide36.xml#10` (slide)
+  - RU: '[1]Classic production[/1][2] остается необходимым для\xa0генерации новых креативных идей, KV, сложной анимации и\xa0high legal-risk claims[/2]'
+  - EN: '[1]Classic production[/1][2] is still needed for new creative ideas, KV, complex animation and high legal-risk claims[/2]'
+- `ppt/slides/slide36.xml#11` (slide)
+  - RU: '[1]CMP[/1][2] эффективнее для\xa0серийных адаптаций: [/2][1]20+ версий / 3+ сегмента[/1]'
+  - EN: '[1]CMP[/1][2] works better for serial adaptations: [/2][1]20+ versions / 3+ segments[/1]'
+- `ppt/slides/slide36.xml#12` (slide)
+  - RU: '[1]AI-video[/1][2] требует отдельного workflow, прав и\xa0legal\xa0QA[/2]'
+  - EN: '[1]AI-video[/1][2] needs its own workflow, rights and legal QA[/2]'
+- `ppt/slides/slide36.xml#14` (slide)
+  - RU: 'ОГРАНИЧЕНИЕ ДЛЯ\xa0БИЗНЕСА:'
+  - EN: 'BUSINESS CONSTRAINT:'
+- `ppt/slides/slide36.xml#15` (slide)
+  - RU: 'без\xa0сформированных правил выбора маршрута экономия остается фрагментарной, а\xa0доработки сохраняются'
+  - EN: 'without set rules for choosing a route, savings stay patchy and rework continues'
+- `ppt/slides/slide36.xml#2` (slide)
+  - RU: '2026: КЛЮЧЕВЫЕ ВЫВОДЫ'
+  - EN: '2026: KEY TAKEAWAYS'
+- `ppt/slides/slide36.xml#20` (slide)
+  - RU: 'баннеры: гибридная модель'
+  - EN: 'banners: hybrid model'
+- `ppt/slides/slide36.xml#25` (slide)
+  - RU: 'Выбираем\nпродакшн-маршрут\nзаранее'
+  - EN: 'Choose the\nproduction route\nupfront'
+- `ppt/slides/slide36.xml#26` (slide)
+  - RU: '[1]Выбираем Classic / CMP / гибридная модель [/1][2]на этапе брифа[/2]'
+  - EN: '[1]Choose Classic / CMP / hybrid model [/1][2]at the brief stage[/2]'
+- `ppt/slides/slide36.xml#27` (slide)
+  - RU: '[1]Матрица выбора:[/1][2] наличие master ×\xa0объем ×\xa0визуальная сложность ×\xa0legal risk[/2]'
+  - EN: '[1]Selection matrix:[/1][2] master available × volume × visual complexity × legal risk[/2]'
+- `ppt/slides/slide36.xml#32` (slide)
+  - RU: 'Стандартизируем\nвходные данные'
+  - EN: 'Standardize\ninputs'
+- `ppt/slides/slide36.xml#33` (slide)
+  - RU: '[1]Единый source pack:[/1][2] brand assets, legal pack, media matrix, segment matrix[/2]'
+  - EN: '[1]Single source pack:[/1][2] brand assets, legal pack, media matrix, segment matrix[/2]'
+- `ppt/slides/slide36.xml#34` (slide)
+  - RU: '[1]До запуска в\xa0production[/1][2] фиксируем SLA, роли, единицы стоимости и\xa0QA checklist[/2]'
+  - EN: '[1]Before production starts,[/1][2] lock in SLA, roles, cost units and the QA checklist[/2]'
+- `ppt/slides/slide36.xml#37` (slide)
+  - RU: 'Масштабируем\nповторяемое\nпроизводство'
+  - EN: 'Scale\nrepeatable\nproduction'
+- `ppt/slides/slide36.xml#38` (slide)
+  - RU: '[1]Classic[/1][2] = идея / master / claims; [/2][1]CMP[/1][2] = пакетные адаптации / экспорт на\xa0платформы[/2]'
+  - EN: '[1]Classic[/1][2] = idea / master / claims; [/2][1]CMP[/1][2] = batch adaptations / export to platforms[/2]'
+- `ppt/slides/slide36.xml#39` (slide)
+  - RU: '[1]Гибрид[/1][2] становится базовой моделью:[/2]\n[1]master →\xa0template →\xa0scale[/1]'
+  - EN: '[1]Hybrid[/1][2] becomes the default model:[/2]\n[1]master → template → scale[/1]'
+- `ppt/slides/slide36.xml#4` (slide)
+  - RU: 'версии\nкреативов'
+  - EN: 'creative\nversions'
+- `ppt/slides/slide36.xml#44` (slide)
+  - RU: 'Отдельный production cycle'
+  - EN: 'Separate production cycle'
+- `ppt/slides/slide36.xml#45` (slide)
+  - RU: '→ подробнее на\xa0следующем слайде'
+  - EN: '→ details on the next slide'
+- `ppt/slides/slide36.xml#48` (slide)
+  - RU: 'ВЛИЯНИЕ НА\xa0БИЗНЕС'
+  - EN: 'BUSINESS IMPACT'
+- `ppt/slides/slide36.xml#50` (slide)
+  - RU: 'ранний выбор маршрута →\xa0прозрачная экономика →\xa0короче production\ncycle →\xa0меньше ручных доработок →\xa0масштабируемое производство'
+  - EN: 'early route choice → transparent economics → shorter production\ncycle → less manual rework → scalable production'
+- `ppt/slides/slide36.xml#6` (slide)
+  - RU: 'брендов'
+  - EN: 'brands'
+- `ppt/notesSlides/notesSlide36.xml#1` (notes)
+  - RU: 'Слайд 33 · новый вариант: выводы 2026 тремя большими цифрами → поток Playbook 1→2→3 + отдельная дорожка AI-video'
+  - EN: 'Slide 33 · new version: 2026 takeaways as three big numbers → Playbook flow 1→2→3 + a separate AI-video track'
+
+## Slide 37
+
+- `ppt/slides/slide37.xml#0` (slide)
+  - RU: 'AI-video production 2027:\nот\xa0пилотов к\xa0cross-brand системе'
+  - EN: 'AI-video production 2027:\nfrom pilots to a cross-brand system'
+- `ppt/slides/slide37.xml#10` (slide)
+  - RU: 'Human VO · AI vs Classic в\xa0OLV / CTV'
+  - EN: 'Human VO · AI vs Classic in OLV / CTV'
+- `ppt/slides/slide37.xml#12` (slide)
+  - RU: 'Более быстрый и\xa0экономичный production vs Classic'
+  - EN: 'Faster, lower-cost production vs Classic'
+- `ppt/slides/slide37.xml#16` (slide)
+  - RU: '2026 Q2 · ДИНОБУТИН'
+  - EN: '2026 Q2 · DINOBUTIN'
+- `ppt/slides/slide37.xml#17` (slide)
+  - RU: 'AI-first видео без\xa0Classic shoot'
+  - EN: 'AI-first video, no Classic shoot'
+- `ppt/slides/slide37.xml#18` (slide)
+  - RU: 'ИСТОЧНИК'
+  - EN: 'SOURCE'
+- `ppt/slides/slide37.xml#19` (slide)
+  - RU: 'AI-first; классическая съемка не\xa0требуется'
+  - EN: 'AI-first; no classic shoot required'
+- `ppt/slides/slide37.xml#20` (slide)
+  - RU: 'ПРОЦЕСС'
+  - EN: 'PROCESS'
+- `ppt/slides/slide37.xml#21` (slide)
+  - RU: 'Сценарий →\xa0storyboard →\xa0AI-визуалы / анимация'
+  - EN: 'Script → storyboard → AI visuals / animation'
+- `ppt/slides/slide37.xml#23` (slide)
+  - RU: 'Финальный монтаж, VO, color +\xa0brand / legal'
+  - EN: 'Final edit, VO, color + brand / legal'
+- `ppt/slides/slide37.xml#25` (slide)
+  - RU: 'AI-video для\xa0брендов без\xa0отдельного video-production бюджета'
+  - EN: 'AI-video for brands with no separate video-production budget'
+- `ppt/slides/slide37.xml#29` (slide)
+  - RU: '2026 Q4 · КОМФОДЕРМ HCP'
+  - EN: '2026 Q4 · KOMFODERM HCP'
+- `ppt/slides/slide37.xml#3` (slide)
+  - RU: '2026 Q2 · АЗЕЛИК'
+  - EN: '2026 Q2 · AZELIK'
+- `ppt/slides/slide37.xml#30` (slide)
+  - RU: 'AI/3D обучающий ролик для\xa0фармацевтов'
+  - EN: 'AI/3D training video for pharmacists'
+- `ppt/slides/slide37.xml#31` (slide)
+  - RU: 'ЗАДАЧА'
+  - EN: 'TASK'
+- `ppt/slides/slide37.xml#32` (slide)
+  - RU: '2 визуальные концепции +\xa0сценарий +\xa0покадровая раскадровка'
+  - EN: '2 visual concepts + script + shot-by-shot storyboard'
+- `ppt/slides/slide37.xml#33` (slide)
+  - RU: 'РОЛЬ'
+  - EN: 'ROLE'
+- `ppt/slides/slide37.xml#34` (slide)
+  - RU: 'Поддержать переключение лояльного покупателя внутри аптеки'
+  - EN: 'Support in-pharmacy switching of loyal shoppers'
+- `ppt/slides/slide37.xml#35` (slide)
+  - RU: 'ВЕРСИИ/ЗВУК'
+  - EN: 'VERSIONS/AUDIO'
+- `ppt/slides/slide37.xml#36` (slide)
+  - RU: 'Master 1:30 +\xa0версия 0:30; VO\xa0— профессиональный диктор'
+  - EN: 'Master 1:30 + 0:30 version; VO — professional voice actor'
+- `ppt/slides/slide37.xml#38` (slide)
+  - RU: 'AI-video расширяется от\xa0D2C к\xa0HCP education'
+  - EN: 'AI-video expands from D2C to HCP education'
+- `ppt/slides/slide37.xml#4` (slide)
+  - RU: 'Гибридная AI-video персонализация'
+  - EN: 'Hybrid AI-video personalization'
+- `ppt/slides/slide37.xml#42` (slide)
+  - RU: '2027 · МАСШТАБИРОВАНИЕ'
+  - EN: '2027 · SCALING'
+- `ppt/slides/slide37.xml#44` (slide)
+  - RU: 'МАСШТАБ ПРИМЕНЕНИЯ'
+  - EN: 'SCOPE OF USE'
+- `ppt/slides/slide37.xml#46` (slide)
+  - RU: 'МОДУЛЬНОСТЬ'
+  - EN: 'MODULARITY'
+- `ppt/slides/slide37.xml#47` (slide)
+  - RU: 'Адаптации: сегмент ×\xa0инсайт/оккейжн ×\xa0барьер'
+  - EN: 'Versions: segment × insight/occasion × barrier'
+- `ppt/slides/slide37.xml#48` (slide)
+  - RU: 'МАСШТАБИРОВАНИЕ'
+  - EN: 'SCALING'
+- `ppt/slides/slide37.xml#49` (slide)
+  - RU: 'AI voice\xa0— после подтверждения quality и\xa0legal standards'
+  - EN: 'AI voice — once quality and legal standards are confirmed'
+- `ppt/slides/slide37.xml#5` (slide)
+  - RU: 'ИСТОЧНИК'
+  - EN: 'SOURCE'
+- `ppt/slides/slide37.xml#51` (slide)
+  - RU: 'Масштабируемый метод\xa0— не\xa0разовая инновация'
+  - EN: 'Scalable method — not a one-off innovation'
+- `ppt/slides/slide37.xml#53` (slide)
+  - RU: 'МЕДИЙНАЯ ЦЕННОСТЬ'
+  - EN: 'MEDIA VALUE'
+- `ppt/slides/slide37.xml#54` (slide)
+  - RU: 'Больше вариантов креатива +\xa0быстрее обновление в\xa0рамках одной кампании'
+  - EN: 'More creative variants + faster refresh within one campaign'
+- `ppt/slides/slide37.xml#55` (slide)
+  - RU: 'Тестируем сегмент ×\xa0сообщение при\xa0одинаковых настройках; сравниваем VTR / CTR / post-click'
+  - EN: 'Test segment × message on identical settings; compare VTR / CTR / post-click'
+- `ppt/slides/slide37.xml#56` (slide)
+  - RU: 'Ниже порог входа для\xa0OLV/CTV; потенциальная экономия до\xa070% vs Classic'
+  - EN: 'Lower entry barrier for OLV/CTV; potential savings up to 70% vs Classic'
+- `ppt/slides/slide37.xml#58` (slide)
+  - RU: 'ЦЕННОСТЬ ДЛЯ\xa0БРЕНДА'
+  - EN: 'BRAND VALUE'
+- `ppt/slides/slide37.xml#59` (slide)
+  - RU: 'Более высокая релевантность →\xa0рост Ad Recall / Consideration / Image атрибутов'
+  - EN: 'Higher relevance → growth in Ad Recall / Consideration / Image attributes'
+- `ppt/slides/slide37.xml#6` (slide)
+  - RU: 'Classic master / продуктовый модуль'
+  - EN: 'Classic master / product module'
+- `ppt/slides/slide37.xml#60` (slide)
+  - RU: 'BLS разделяет эффект по\xa0креативу, сегменту, типу инвентаря'
+  - EN: 'BLS splits the effect by creative, segment, inventory type'
+- `ppt/slides/slide37.xml#61` (slide)
+  - RU: 'Test →\xa0validate →\xa0scale только с\xa0сохранением brand / legal consistency'
+  - EN: 'Test → validate → scale only while keeping brand / legal consistency'
+- `ppt/slides/slide37.xml#64` (slide)
+  - RU: 'ПРИНЦИП 2027'
+  - EN: '2027 PRINCIPLE'
+- `ppt/slides/slide37.xml#66` (slide)
+  - RU: 'AI-video становится стандартом production-маршрута для\xa0D2C/HCP ×\xa0CTV/OLV'
+  - EN: 'AI-video becomes the standard production route for D2C/HCP × CTV/OLV'
+- `ppt/slides/slide37.xml#7` (slide)
+  - RU: 'AI-СЛОЙ'
+  - EN: 'AI LAYER'
+- `ppt/slides/slide37.xml#8` (slide)
+  - RU: 'Hero +\xa0context +\xa0end-state по\xa0сегментам'
+  - EN: 'Hero + context + end-state by segment'
+
+## Slide 38
+
+- `ppt/slides/slide38.xml#0` (slide)
+  - RU: 'DOOH +\xa0AI-video 2027: физический контекст\nкак\xa0новая точка контакта в\xa0едином CJM'
+  - EN: 'DOOH + AI-video 2027: physical context\nas a new touchpoint in a unified CJM'
+- `ppt/slides/slide38.xml#1` (slide)
+  - RU: 'DOOH расширяет путь пользователя за\xa0пределы Digital: переносит сегментную коммуникацию в\xa0релевантные жизненные контексты и\xa0позволяет проверить, усиливает ли физическая среда интерес, поиск и\xa0действие'
+  - EN: 'DOOH extends the user journey beyond digital: it takes segment messaging into relevant real-life settings and lets us test whether the physical environment boosts interest, search and action'
+- `ppt/slides/slide38.xml#11` (slide)
+  - RU: 'Как\xa0активируем'
+  - EN: 'How we activate'
+- `ppt/slides/slide38.xml#17` (slide)
+  - RU: 'Как\xa0поймем, что\xa0механика работает'
+  - EN: "How we'll know the mechanic works"
+- `ppt/slides/slide38.xml#20` (slide)
+  - RU: 'ДОПОЛНЯЕМ DIGITAL TOUCHPOINTS'
+  - EN: 'COMPLEMENT DIGITAL TOUCHPOINTS'
+- `ppt/slides/slide38.xml#21` (slide)
+  - RU: 'DOOH усиливает экранную экосистему и\xa0добавляет новый контакт за\xa0пределами OLV\xa0/\xa0CTV'
+  - EN: 'DOOH strengthens the screen ecosystem and adds a new touchpoint beyond OLV / CTV'
+- `ppt/slides/slide38.xml#25` (slide)
+  - RU: 'ПЕРЕНОСИМ ПЕРСОНАЛИЗАЦИЮ В\xa0КОНТЕКСТ'
+  - EN: 'BRING PERSONALIZATION INTO CONTEXT'
+- `ppt/slides/slide38.xml#26` (slide)
+  - RU: 'AI-video адаптирует сообщение под\xa0сегмент, барьер, оккейжен и\xa0место контакта'
+  - EN: 'AI-video adapts the message to segment, barrier, occasion and location'
+- `ppt/slides/slide38.xml#30` (slide)
+  - RU: 'ПРОВЕРЯЕМ ВКЛАД В\xa0ЕДИНЫЙ ПУТЬ'
+  - EN: 'TEST CONTRIBUTION TO THE CJM'
+- `ppt/slides/slide38.xml#31` (slide)
+  - RU: 'Тестируем, усиливает ли новый контакт поисковый интерес, визиты и\xa0целевые действия'
+  - EN: 'We test whether the new touchpoint lifts search interest, visits and conversions'
+- `ppt/slides/slide38.xml#35` (slide)
+  - RU: 'кого и\xa0с\xa0какой задачей ищем'
+  - EN: 'who we target and why'
+- `ppt/slides/slide38.xml#38` (slide)
+  - RU: 'где этот контакт наиболее релевантен'
+  - EN: 'where this touchpoint is most relevant'
+- `ppt/slides/slide38.xml#41` (slide)
+  - RU: 'какую адаптацию сообщения показываем'
+  - EN: 'which message version we show'
+- `ppt/slides/slide38.xml#44` (slide)
+  - RU: 'на\xa0каком типе экранов размещаемся'
+  - EN: 'which screen types we run on'
+- `ppt/slides/slide38.xml#46` (slide)
+  - RU: 'КОНТЕКСТЫ 2027:'
+  - EN: '2027 CONTEXTS:'
+- `ppt/slides/slide38.xml#48` (slide)
+  - RU: 'аптеки и\xa0мед. точки'
+  - EN: 'pharmacies & clinics'
+- `ppt/slides/slide38.xml#5` (slide)
+  - RU: 'Планируем как\xa0omnichannel'
+  - EN: 'Plan as omnichannel'
+- `ppt/slides/slide38.xml#50` (slide)
+  - RU: 'ПВЗ'
+  - EN: 'pickup points'
+- `ppt/slides/slide38.xml#55` (slide)
+  - RU: 'рост поискового интереса по\xa0brand / category / symptom'
+  - EN: 'search interest growth for brand / category / symptom'
+- `ppt/slides/slide38.xml#58` (slide)
+  - RU: 'дополнительные визиты / переходы после контакта'
+  - EN: 'extra visits / clicks after exposure'
+- `ppt/slides/slide38.xml#61` (slide)
+  - RU: 'целевые действия: site / e-com / partner'
+  - EN: 'conversions: site / e-com / partner'
+- `ppt/slides/slide38.xml#64` (slide)
+  - RU: '[1]до\xa0запуска задаем прогнозный коридор[/1]\n[1]→ после теста сравниваем фактический lift[/1]\n[1]→ [/1][2]scale / optimize / stop[/2]'
+  - EN: '[1]before launch, we set a forecast range[/1]\n[1]→ after the test, we compare actual lift[/1]\n[1]→ [/1][2]scale / optimize / stop[/2]'
+- `ppt/slides/slide38.xml#66` (slide)
+  - RU: 'МЕДИЙНАЯ\nЦЕННОСТЬ'
+  - EN: 'MEDIA\nVALUE'
+- `ppt/slides/slide38.xml#68` (slide)
+  - RU: 'охват за\xa0пределами digital   •   новые контексты'
+  - EN: 'reach beyond digital   •   new contexts'
+- `ppt/slides/slide38.xml#70` (slide)
+  - RU: 'ЦЕННОСТЬ\nДЛЯ\xa0БРЕНДА'
+  - EN: 'BRAND\nVALUE'
+- `ppt/slides/slide38.xml#72` (slide)
+  - RU: 'более уместный контакт   •   связка awareness →\xa0action   •   база для\xa0cross-brand scale'
+  - EN: 'more relevant touchpoint   •   awareness → action link   •   base for cross-brand scale'
+- `ppt/slides/slide38.xml#75` (slide)
+  - RU: 'ПРИНЦИП 2027'
+  - EN: '2027 PRINCIPLE'
+- `ppt/slides/slide38.xml#77` (slide)
+  - RU: 'DOOH\xa0— не\xa0отдельный эксперимент, а\xa0расширение Personalized Production: AI-video переносит сегментную\nкоммуникацию в\xa0физический контекст и\xa0добавляет новый измеримый контакт в\xa0единый CJM. Бренд для\xa0теста\xa0— Азелик.'
+  - EN: 'DOOH is not a separate experiment but an extension of Personalized Production: AI-video carries segment\nmessaging into physical settings and adds a new measurable touchpoint to the unified CJM. Test brand: Azelik.'
+- `ppt/notesSlides/notesSlide38.xml#1` (notes)
+  - RU: 'Слайд 35 · новый вариант: один сюжет слева направо — три фазы с крупными номерами, ценность полосой ниже'
+  - EN: 'Slide 35 · new version: one storyline from left to right — three phases with large numbers, value as a strip below'
+
+## Slide 39
+
+- `ppt/slides/slide39.xml#0` (slide)
+  - RU: 'Paid Search 2027: поисковое намерение становится ключом\nк\xa0персонализации сообщения и\xa0посадочной страницы'
+  - EN: 'Paid Search 2027: search intent becomes the key\nto personalizing the message and landing page'
+- `ppt/slides/slide39.xml#13` (slide)
+  - RU: 'Сообщение'
+  - EN: 'Message'
+- `ppt/slides/slide39.xml#14` (slide)
+  - RU: 'Какой ответ даем в\xa0объявлении'
+  - EN: 'What answer the ad gives'
+- `ppt/slides/slide39.xml#19` (slide)
+  - RU: 'Посадочная'
+  - EN: 'Landing page'
+- `ppt/slides/slide39.xml#2` (slide)
+  - RU: 'ЛОГИКА 2027'
+  - EN: '2027 LOGIC'
+- `ppt/slides/slide39.xml#20` (slide)
+  - RU: 'Куда ведем и\xa0что\xa0показываем'
+  - EN: 'Where we send and what we show'
+- `ppt/slides/slide39.xml#26` (slide)
+  - RU: 'Какое действие считаем успехом'
+  - EN: 'Which action counts as success'
+- `ppt/slides/slide39.xml#28` (slide)
+  - RU: '5 ПЕРСОНАЛИЗИРОВАННЫХ МАРШРУТОВ'
+  - EN: '5 PERSONALIZED ROUTES'
+- `ppt/slides/slide39.xml#3` (slide)
+  - RU: 'Персонализируем search journey на\xa0уровне намерения пользователя'
+  - EN: 'We personalize the search journey around user intent'
+- `ppt/slides/slide39.xml#30` (slide)
+  - RU: 'ШИРОКАЯ ПРОБЛЕМАТИКА'
+  - EN: 'BROAD PROBLEM QUERIES'
+- `ppt/slides/slide39.xml#32` (slide)
+  - RU: 'Экспертный ответ на\xa0проблему'
+  - EN: 'Expert answer to the problem'
+- `ppt/slides/slide39.xml#34` (slide)
+  - RU: 'Статья / контентный LP'
+  - EN: 'Article / content LP'
+- `ppt/slides/slide39.xml#36` (slide)
+  - RU: 'Вовлечение →\xa0ретаргетинг'
+  - EN: 'Engagement → retargeting'
+- `ppt/slides/slide39.xml#39` (slide)
+  - RU: 'КАТЕГОРИЯ / СИМПТОМ'
+  - EN: 'CATEGORY / SYMPTOM'
+- `ppt/slides/slide39.xml#41` (slide)
+  - RU: 'Понимание проблемы +\xa0решение'
+  - EN: 'Problem explained + solution'
+- `ppt/slides/slide39.xml#43` (slide)
+  - RU: 'Продуктовая страница'
+  - EN: 'Product page'
+- `ppt/slides/slide39.xml#45` (slide)
+  - RU: 'CR в\xa0целевое действие'
+  - EN: 'CR to conversion'
+- `ppt/slides/slide39.xml#48` (slide)
+  - RU: 'БРЕНД'
+  - EN: 'BRAND'
+- `ppt/slides/slide39.xml#50` (slide)
+  - RU: 'Официальность, доверие, удобство'
+  - EN: 'Official source, trust, convenience'
+- `ppt/slides/slide39.xml#52` (slide)
+  - RU: 'Продуктовая страница'
+  - EN: 'Product page'
+- `ppt/slides/slide39.xml#54` (slide)
+  - RU: '«Где купить»'
+  - EN: '“Where to buy”'
+- `ppt/slides/slide39.xml#57` (slide)
+  - RU: 'КОНКУРЕНТЫ'
+  - EN: 'COMPETITORS'
+- `ppt/slides/slide39.xml#59` (slide)
+  - RU: 'RTB и\xa0критерии выбора'
+  - EN: 'RTBs and choice criteria'
+- `ppt/slides/slide39.xml#61` (slide)
+  - RU: 'Страница преимуществ'
+  - EN: 'Benefits page'
+- `ppt/slides/slide39.xml#66` (slide)
+  - RU: 'ПОКУПКА'
+  - EN: 'PURCHASE'
+- `ppt/slides/slide39.xml#68` (slide)
+  - RU: 'Наличие, цена, простой путь'
+  - EN: 'Availability, price, easy path'
+- `ppt/slides/slide39.xml#7` (slide)
+  - RU: 'Намерение'
+  - EN: 'Intent'
+- `ppt/slides/slide39.xml#70` (slide)
+  - RU: 'Аптека / партнер'
+  - EN: 'Pharmacy / partner'
+- `ppt/slides/slide39.xml#72` (slide)
+  - RU: 'Оформление заказа'
+  - EN: 'Checkout'
+- `ppt/slides/slide39.xml#73` (slide)
+  - RU: 'Отдельное правило для\xa0широкой проблематики: сначала экспертный контент и\xa0качество чтения, затем ретаргетинг на\xa0продуктовую страницу'
+  - EN: 'Separate rule for broad problem queries: expert content and reading quality first, then retargeting to the product page'
+- `ppt/slides/slide39.xml#75` (slide)
+  - RU: 'ЧТО\xa0МЕНЯЕТСЯ'
+  - EN: 'WHAT CHANGES'
+- `ppt/slides/slide39.xml#76` (slide)
+  - RU: 'Paid Search становится частью персонализированного production-контура'
+  - EN: 'Paid Search becomes part of the personalized production pipeline'
+- `ppt/slides/slide39.xml#77` (slide)
+  - RU: 'Модульно производим:'
+  - EN: 'Modular production:'
+- `ppt/slides/slide39.xml#78` (slide)
+  - RU: 'разные заголовки и\xa0тексты по\xa0кластерам'
+  - EN: 'different headlines and copy by cluster'
+- `ppt/slides/slide39.xml#79` (slide)
+  - RU: 'расширения и\xa0CTA под\xa0этап CJM'
+  - EN: 'extensions and CTAs by CJM stage'
+- `ppt/slides/slide39.xml#8` (slide)
+  - RU: 'Что\xa0именно ищет пользователь'
+  - EN: 'What the user is looking for'
+- `ppt/slides/slide39.xml#80` (slide)
+  - RU: 'релевантные LP / статьи / аптечные маршруты'
+  - EN: 'relevant LPs / articles / pharmacy routes'
+- `ppt/slides/slide39.xml#81` (slide)
+  - RU: 'Измеряем по\xa0роли кампании:'
+  - EN: 'Measured by campaign role:'
+- `ppt/slides/slide39.xml#83` (slide)
+  - RU: 'Поиск'
+  - EN: 'Search'
+- `ppt/slides/slide39.xml#84` (slide)
+  - RU: 'CR / CPA / целевое действие'
+  - EN: 'CR / CPA / conversion'
+- `ppt/slides/slide39.xml#86` (slide)
+  - RU: 'Проблематика'
+  - EN: 'Problem queries'
+- `ppt/slides/slide39.xml#87` (slide)
+  - RU: 'вовлечение +\xa0ретаргетинг'
+  - EN: 'engagement + retargeting'
+- `ppt/slides/slide39.xml#89` (slide)
+  - RU: 'РСЯ'
+  - EN: 'YAN'
+- `ppt/slides/slide39.xml#90` (slide)
+  - RU: 'качество визита / post-click / CPQV'
+  - EN: 'visit quality / post-click / CPQV'
+- `ppt/slides/slide39.xml#91` (slide)
+  - RU: 'Персонализация = не\xa0больше объявлений, а\xa0точнее связка intent →\xa0message →\xa0LP →\xa0KPI'
+  - EN: 'Personalization = not more ads, but a tighter intent → message → LP → KPI link'
+- `ppt/slides/slide39.xml#94` (slide)
+  - RU: 'ПРИНЦИП 2027'
+  - EN: '2027 PRINCIPLE'
+- `ppt/slides/slide39.xml#96` (slide)
+  - RU: 'Единая подтвержденная база сообщений →\xa0модульные поисковые\nобъявления и\xa0LPs →\xa0разные KPI по\xa0намерению пользователя'
+  - EN: 'Single approved message base → modular search\nads and LPs → different KPIs by user intent'
+
+## Slide 40
+
+- `ppt/slides/slide40.xml#0` (slide)
+  - RU: 'Использование Comprehensive-подхода в\xa0E-com'
+  - EN: 'The Comprehensive approach in e-com'
+- `ppt/slides/slide40.xml#1` (slide)
+  - RU: 'Масштабирование связки «сегмент →\xa0e-com сигнал →\xa0персонализированный креатив» и\xa0тест новых креативных механик в\xa0рамках маркетплейсов с\xa0реализацией на\xa0стороне Акрихин'
+  - EN: 'Scaling the “segment → e-com signal → personalized creative” chain and testing new creative mechanics on marketplaces, implemented by Akrikhin'
+- `ppt/slides/slide40.xml#11` (slide)
+  - RU: 'Контекст'
+  - EN: 'Context'
+- `ppt/slides/slide40.xml#12` (slide)
+  - RU: 'подбор e-com сигнала'
+  - EN: 'e-com signal selection'
+- `ppt/slides/slide40.xml#16` (slide)
+  - RU: 'Креатив'
+  - EN: 'Creative'
+- `ppt/slides/slide40.xml#17` (slide)
+  - RU: 'повтор 360° message'
+  - EN: 'repeats 360° message'
+- `ppt/slides/slide40.xml#21` (slide)
+  - RU: '[1]Ж 18–34 · Новые средства[/1]\n[2]- Ищут новое решение и\xa0готовы пробовать альтернативы привычному уходу (анти-акне уход +\xa0проф. косметологические процедуры)[/2]'
+  - EN: '[1]F 18–34 · New products[/1]\n[2]- Looking for something new, open to alternatives to their usual routine (anti-acne care + professional cosmetic procedures)[/2]'
+- `ppt/slides/slide40.xml#22` (slide)
+  - RU: 'Покупки / интересы к\xa0средствам/лекарствам категории «уход за\xa0лицом, проблемная кожа, аптечная косметика»; покупки смежных SKU'
+  - EN: 'Purchases / interest in products/drugs in the “facial care, problem skin, pharmacy skincare” category; adjacent SKU purchases'
+- `ppt/slides/slide40.xml#26` (slide)
+  - RU: '[1]Switchers МЖ 18–34 (Skinoclear)[/1]\n[2]- Пользователи / потенциальные switchers конкурентов[/2]'
+  - EN: '[1]Switchers M/F 18–34 (Skinoclear)[/1]\n[2]- Competitor users / potential switchers[/2]'
+- `ppt/slides/slide40.xml#27` (slide)
+  - RU: 'Покупки / интерес к\xa0конкурентным брендам и\xa0anti-acne SKU; ретаргетинг по\xa0релевантным карточкам'
+  - EN: 'Purchases / interest in competitor brands, anti-acne SKUs; retargeting on relevant product pages'
+- `ppt/slides/slide40.xml#3` (slide)
+  - RU: '01  ПЕРСОНАЛИЗАЦИЯ E-COM КОНТАКТА'
+  - EN: '01  PERSONALIZED E-COM TOUCHPOINT'
+- `ppt/slides/slide40.xml#31` (slide)
+  - RU: '[1]МЖ 18–40 · акне / постакне[/1]\n[2]- Важно не\xa0только убрать воспаления, но\xa0и\xa0работать с\xa0последствиями[/2]'
+  - EN: '[1]M/F 18–40 · acne / post-acne[/1]\n[2]- Want to both clear inflammation and treat its aftermath[/2]'
+- `ppt/slides/slide40.xml#32` (slide)
+  - RU: 'Повторные покупки; просмотр / корзина derm-SKU'
+  - EN: 'Repeat purchases; derm-SKU views / add-to-cart'
+- `ppt/slides/slide40.xml#35` (slide)
+  - RU: 'Как\xa0оценить эффективность персонализации в\xa0e-com'
+  - EN: 'How to measure personalization impact in e-com'
+- `ppt/slides/slide40.xml#36` (slide)
+  - RU: '[1]Контроль:[/1][2] тот же сегмент +\xa0тот же e-com сигнал +\xa0базовый креатив[/2]\n[1]Тест:[/1][2] тот же сегмент/контекст +\xa0персонализированный 360° message[/2]'
+  - EN: '[1]Control:[/1][2] same segment + same e-com signal + base creative[/2]\n[1]Test:[/1][2] same segment/context + personalized 360° message[/2]'
+- `ppt/slides/slide40.xml#37` (slide)
+  - RU: '[1]Сравнение uplift:[/1][2] [/2][3]CTR →\xa0Add-to-cart →\xa0To buy[/3]\n[1]Decision gate:[/1][2] [/2][3]масштабирование связки при\xa0uplift по\xa0CTR/корзине/заказам[/3]'
+  - EN: '[1]Uplift comparison:[/1][2] [/2][3]CTR → Add-to-cart → Purchase[/3]\n[1]Decision gate:[/1][2] [/2][3]scale the chain on CTR/cart/order uplift[/3]'
+- `ppt/slides/slide40.xml#39` (slide)
+  - RU: '02  ТЕСТ НОВЫХ МЕХАНИК'
+  - EN: '02  TESTING NEW MECHANICS'
+- `ppt/slides/slide40.xml#40` (slide)
+  - RU: 'A/B-тест главного фото:\nпроверка креатива уже внутри карточки'
+  - EN: 'Main image A/B test:\ncreative tested inside the product page'
+- `ppt/slides/slide40.xml#42` (slide)
+  - RU: '[1]Перенос персонализации внутрь карточки:[/1][2] для\xa0одного SKU показываются разные главные фото разным сегментам аудитории. Сегмент задаётся по\xa0параметрам [/2][1]пол, возраст, семейное положение и\xa0регион[/1][2], а\xa0WB автоматически подбирает наиболее релевантных пользователей. Так связка [/2][1]«сегмент →\xa0персонализированный креатив»[/1][2] продолжается уже в\xa0e-com[/2]'
+  - EN: '[1]Personalization moves into the product page:[/1][2] one SKU shows different main images to different audience segments. Segments are set by [/2][1]gender, age, marital status and region[/1][2], and WB automatically picks the most relevant users. This way the [/2][1]“segment → personalized creative”[/1][2] chain continues right inside e-com[/2]'
+- `ppt/slides/slide40.xml#43` (slide)
+  - RU: '* Фактический состав аудитории может частично отличаться от\xa0заданных параметров.'
+  - EN: '* The actual audience may partly differ from the set parameters.'
+- `ppt/slides/slide40.xml#45` (slide)
+  - RU: 'Как\xa0оценить эффективность карточки для\xa0целевой аудитории'
+  - EN: 'How to measure product page impact on the target audience'
+- `ppt/slides/slide40.xml#46` (slide)
+  - RU: 'МЕТОДОЛОГИЯ A/B-ТЕСТА'
+  - EN: 'A/B TEST METHODOLOGY'
+- `ppt/slides/slide40.xml#49` (slide)
+  - RU: 'Деление аудитории 50/50'
+  - EN: '50/50 audience split'
+- `ppt/slides/slide40.xml#50` (slide)
+  - RU: '[1]Параллельно тестируется [/1][2]текущее фото (A) и\xa0новый персонализированный креатив (B)[/2][1] на\xa0сопоставимых группах пользователей[/1]'
+  - EN: '[1]We test [/1][2]the current image (A) and a new personalized creative (B)[/2][1] in parallel on comparable user groups[/1]'
+- `ppt/slides/slide40.xml#53` (slide)
+  - RU: 'Фиксация условий теста'
+  - EN: 'Locked test conditions'
+- `ppt/slides/slide40.xml#54` (slide)
+  - RU: '[1]Тест [/1][2]идет 1–8 недель[/2][1]. В\xa0этот период не\xa0меняется главное фото вручную и\xa0поддерживается наличие товара, чтобы результат отражал именно эффект креатива[/1]'
+  - EN: '[1]The test [/1][2]runs 1–8 weeks[/2][1]. Meanwhile, the main image is not changed manually and stock is maintained, so the result shows the creative’s effect alone[/1]'
+- `ppt/slides/slide40.xml#57` (slide)
+  - RU: 'Масштабирование только подтвержденных вариантов'
+  - EN: 'Scaling only proven variants'
+- `ppt/slides/slide40.xml#58` (slide)
+  - RU: '[1]Сравниваются варианты по\xa0воронке [/1][2]переход в\xa0карточку →\xa0корзина →\xa0заказ[/2][1]. При\xa0статистически значимом uplift масштабируется победивший креатив; если разницы нет\xa0— [/1][2]продление теста или\xa0проверка новой гипотезы.[/2]'
+  - EN: '[1]We compare variants along the funnel [/1][2]product page visit → cart → order[/2][1]. If uplift is statistically significant, we scale the winning creative; if not — [/1][2]extend the test or check a new hypothesis.[/2]'
+- `ppt/slides/slide40.xml#59` (slide)
+  - RU: 'Scale: победивший visual →\xa0default на\xa0карточке'
+  - EN: 'Scale: winning visual → product page default'
+- `ppt/slides/slide40.xml#6` (slide)
+  - RU: 'Сегмент'
+  - EN: 'Segment'
+- `ppt/slides/slide40.xml#60` (slide)
+  - RU: '* Метрики\xa0— по\xa0доступности данных площадки / поставщика'
+  - EN: '* Metrics depend on platform / vendor data availability'
+- `ppt/slides/slide40.xml#61` (slide)
+  - RU: 'Источник: Wildberries Seller, «А/Б-тестирование главного фото в\xa0карточке товара», обновлено 27.08.2026'
+  - EN: 'Source: Wildberries Seller, “A/B testing the main image on a product page”, updated Aug 27, 2026'
+- `ppt/slides/slide40.xml#7` (slide)
+  - RU: 'из\xa0digital-стратегии'
+  - EN: 'from digital strategy'
+- `ppt/notesSlides/notesSlide40.xml#1` (notes)
+  - RU: 'Слайд 37 · исходная версия (новый вариант — следующим слайдами)'
+  - EN: 'Slide 37 · original version (new version on the following slides)'
+
+## Slide 42
+
+- `ppt/slides/slide42.xml#0` (slide)
+  - RU: 'Brand Attention Monitor: еженедельный\nсигнал о\xa0бренде между волнами BHT'
+  - EN: 'Brand Attention Monitor: a weekly\nbrand signal between BHT waves'
+- `ppt/slides/slide42.xml#1` (slide)
+  - RU: 'Еженедельный сигнал органического интереса, скорректированный по\xa0BHT, чтобы бренд-команда могла управлять медиа и\xa0реагировать на\xa0конкурентов до\xa0следующей волны Brand Health'
+  - EN: 'A weekly BHT-adjusted signal of organic interest, so the brand team can manage media and respond to competitors before the next Brand Health wave'
+- `ppt/slides/slide42.xml#11` (slide)
+  - RU: 'следующая волна BHT'
+  - EN: 'next BHT wave'
+- `ppt/slides/slide42.xml#20` (slide)
+  - RU: 'перераспределить медиа-вес'
+  - EN: 'reallocate media weight'
+- `ppt/slides/slide42.xml#23` (slide)
+  - RU: 'ответить на\xa0активность конкурента'
+  - EN: 'respond to competitor activity'
+- `ppt/slides/slide42.xml#27` (slide)
+  - RU: 'КАЛИБРОВКА ПО\xa0BHT'
+  - EN: 'BHT CALIBRATION'
+- `ppt/slides/slide42.xml#28` (slide)
+  - RU: 'Веса источников обновляются после каждой волны BHT'
+  - EN: 'Source weights are updated after each BHT wave'
+- `ppt/slides/slide42.xml#31` (slide)
+  - RU: 'ЕЖЕНЕДЕЛЬНЫЙ МОНИТОРИНГ'
+  - EN: 'WEEKLY MONITORING'
+- `ppt/slides/slide42.xml#32` (slide)
+  - RU: 'Индекс внимания, доля vs конкуренты, Paid vs Unpaid'
+  - EN: 'Attention index, share vs competitors, Paid vs Unpaid'
+- `ppt/slides/slide42.xml#35` (slide)
+  - RU: 'РЕШЕНИЯ МЕЖДУ ВОЛНАМИ'
+  - EN: 'DECISIONS BETWEEN WAVES'
+- `ppt/slides/slide42.xml#36` (slide)
+  - RU: 'Медиа-вес, каналы, реакция на\xa0конкурентов'
+  - EN: 'Media weight, channels, competitor response'
+- `ppt/slides/slide42.xml#4` (slide)
+  - RU: 'Регулярный тактический мониторинг, а\xa0не\xa0отдельная метрика: еженедельное внимание →\xa0калибровка по\xa0BHT →\xa0решения между волнами BHT'
+  - EN: 'Ongoing tactical monitoring, not a standalone metric: weekly attention → BHT calibration → decisions between BHT waves'
+- `ppt/slides/slide42.xml#40` (slide)
+  - RU: 'ЕДИНЫЙ ИНДЕКС ВНИМАНИЯ'
+  - EN: 'SINGLE ATTENTION INDEX'
+- `ppt/slides/slide42.xml#42` (slide)
+  - RU: 'ОДНА ЕЖЕНЕДЕЛЬНАЯ ДИНАМИКА'
+  - EN: 'ONE WEEKLY TREND'
+- `ppt/slides/slide42.xml#43` (slide)
+  - RU: 'Paid Search, Video, Telegram и\xa0Media объединяются в\xa0единую динамику органического интереса +\xa0доля внимания бренда vs прямые конкуренты'
+  - EN: 'Paid Search, Video, Telegram and Media combine into one organic interest trend + brand share of attention vs direct competitors'
+- `ppt/slides/slide42.xml#44` (slide)
+  - RU: 'ДЛЯ\xa0КОМАНДЫ МАРКЕТИНГА'
+  - EN: 'FOR THE MARKETING TEAM'
+- `ppt/slides/slide42.xml#45` (slide)
+  - RU: 'Органический интерес растет или\xa0снижается?'
+  - EN: 'Is organic interest rising or falling?'
+- `ppt/slides/slide42.xml#51` (slide)
+  - RU: 'ОТДЕЛЯЕМ ЭФФЕКТ МЕДИА ОТ\xa0ОРГАНИКИ'
+  - EN: 'SEPARATING MEDIA EFFECT FROM ORGANIC'
+- `ppt/slides/slide42.xml#52` (slide)
+  - RU: 'Показы кампаний на\xa0той же временной шкале: какая часть изменения связана с\xa0Paid Media, а\xa0какая возникла органически'
+  - EN: 'Campaign impressions on the same timeline: how much of the change comes from Paid Media and how much is organic'
+- `ppt/slides/slide42.xml#53` (slide)
+  - RU: 'ДЛЯ\xa0КОМАНДЫ МАРКЕТИНГА'
+  - EN: 'FOR THE MARKETING TEAM'
+- `ppt/slides/slide42.xml#54` (slide)
+  - RU: 'Поднял ли flight внимание выше базового тренда?'
+  - EN: 'Did the flight lift attention above baseline?'
+- `ppt/slides/slide42.xml#58` (slide)
+  - RU: 'МОНИТОРИНГ КОНКУРЕНТОВ'
+  - EN: 'COMPETITOR MONITORING'
+- `ppt/slides/slide42.xml#60` (slide)
+  - RU: 'РЕАГИРУЕМ ТАКТИЧЕСКИ'
+  - EN: 'REACTING TACTICALLY'
+- `ppt/slides/slide42.xml#61` (slide)
+  - RU: 'Еженедельно видим активность конкурентов. Пример: растет видеоактивность конкурента →\xa0усиливаем поддержку блогерами / TikTok'
+  - EN: 'We see competitor activity every week. Example: a competitor’s video activity grows → we step up influencer / TikTok support'
+- `ppt/slides/slide42.xml#62` (slide)
+  - RU: 'ДЛЯ\xa0КОМАНДЫ МАРКЕТИНГА'
+  - EN: 'FOR THE MARKETING TEAM'
+- `ppt/slides/slide42.xml#63` (slide)
+  - RU: 'Где конкурент усиливается и\xa0как\xa0мы отвечаем?'
+  - EN: 'Where is a rival gaining and how do we respond?'
+- `ppt/slides/slide42.xml#67` (slide)
+  - RU: 'МЕЖДУ ВОЛНАМИ BHT'
+  - EN: 'BETWEEN BHT WAVES'
+- `ppt/slides/slide42.xml#69` (slide)
+  - RU: 'ОПРЕДЕЛЯЕМ СЛЕДУЮЩИЙ ШАГ'
+  - EN: 'DEFINING THE NEXT STEP'
+- `ppt/slides/slide42.xml#70` (slide)
+  - RU: 'Индекс, скорректированный по\xa0BHT, показывает, как\xa0Paid и\xa0Organic каналы меняют брендовые метрики до\xa0следующей волны'
+  - EN: 'The BHT-adjusted index shows how Paid and Organic channels move brand metrics before the next wave'
+- `ppt/slides/slide42.xml#71` (slide)
+  - RU: 'ДЛЯ\xa0КОМАНДЫ МАРКЕТИНГА'
+  - EN: 'FOR THE MARKETING TEAM'
+- `ppt/slides/slide42.xml#72` (slide)
+  - RU: 'Какие медиа усилить до\xa0следующей волны?'
+  - EN: 'Which media to boost before the next wave?'
+- `ppt/slides/slide42.xml#75` (slide)
+  - RU: 'РЕЗУЛЬТАТ'
+  - EN: 'RESULT'
+- `ppt/slides/slide42.xml#77` (slide)
+  - RU: 'Индекс внимания | Доля внимания | Paid vs Unpaid | Сигналы по\xa0конкурентам | Еженедельная рекомендация по\xa0оптимизации'
+  - EN: 'Attention index | Share of attention | Paid vs Unpaid | Competitor signals | Weekly optimization recommendation'
+- `ppt/slides/slide42.xml#78` (slide)
+  - RU: '[1]Роль в\xa0Comprehensive:[/1][2] еженедельный сигнал →\xa0калибровка по\xa0BHT →\xa0решение для\xa0планирования[/2]'
+  - EN: '[1]Role in Comprehensive:[/1][2] weekly signal → BHT calibration → planning decision[/2]'
+- `ppt/slides/slide42.xml#8` (slide)
+  - RU: 'волна BHT'
+  - EN: 'BHT wave'
+
+## Slide 43
+
+- `ppt/slides/slide43.xml#0` (slide)
+  - RU: 'Brand Attention Monitor в\xa0деталях:\nисточники, индекс и\xa0пример использования'
+  - EN: 'Brand Attention Monitor in detail:\nsources, index and a use case'
+- `ppt/slides/slide43.xml#1` (slide)
+  - RU: 'Автоматический ежедневный сбор из\xa0открытых источников, единый еженедельный индекс с\xa0калибровкой по\xa0BHT и\xa0доля внимания внутри конкурентного набора'
+  - EN: 'Automated daily collection from open sources, a single weekly index calibrated to BHT, and share of attention within the competitive set'
+- `ppt/slides/slide43.xml#14` (slide)
+  - RU: 'Wordstat, поиск в\xa0online-аптеках, AI-ответы'
+  - EN: 'Wordstat, e-pharmacy search, AI answers'
+- `ppt/slides/slide43.xml#19` (slide)
+  - RU: 'YouTube, Rutube, VK Video, TikTok; голос учитывается через авто-субтитры'
+  - EN: 'YouTube, Rutube, VK Video, TikTok; speech counted via auto-captions'
+- `ppt/slides/slide43.xml#24` (slide)
+  - RU: 'каналы врачей, педиатров и\xa0мам'
+  - EN: 'doctor, pediatric & mom channels'
+- `ppt/slides/slide43.xml#29` (slide)
+  - RU: 'Фармвестник, Vademecum и\xa0деловые Media'
+  - EN: 'Pharmvestnik, Vademecum, business media'
+- `ppt/slides/slide43.xml#3` (slide)
+  - RU: 'КАК\xa0ЭТО РАБОТАЕТ'
+  - EN: 'HOW IT WORKS'
+- `ppt/slides/slide43.xml#31` (slide)
+  - RU: 'Вне индекса: аптечная полка и\xa0маркетплейсы как\xa0контекст покупки'
+  - EN: 'Not in the index: pharmacy shelf, marketplaces as purchase context'
+- `ppt/slides/slide43.xml#35` (slide)
+  - RU: 'ЕДИНЫЙ ЕЖЕНЕДЕЛЬНЫЙ ИНДЕКС'
+  - EN: 'SINGLE WEEKLY INDEX'
+- `ppt/slides/slide43.xml#37` (slide)
+  - RU: 'Индекс = 100 ×\xa0Σ\n(вес ×\xa0текущая неделя ÷ базовая неделя)'
+  - EN: 'Index = 100 × Σ\n(weight × current week ÷ base week)'
+- `ppt/slides/slide43.xml#38` (slide)
+  - RU: '100\xa0— нормальный уровень бренда; линия показывает рост / снижение относительно него'
+  - EN: '100 — the brand’s normal level; the line shows growth / decline against it'
+- `ppt/slides/slide43.xml#39` (slide)
+  - RU: 'Share of Attention\xa0— доля бренда внутри конкурентного набора'
+  - EN: 'Share of Attention — brand share within the competitive set'
+- `ppt/slides/slide43.xml#4` (slide)
+  - RU: 'Открытые источники →\xa0единый еженедельный индекс →\xa0доля внимания vs конкуренты →\xa0решения для\xa0бренд-команды'
+  - EN: 'Open sources → single weekly index → share of attention vs competitors → brand team decisions'
+- `ppt/slides/slide43.xml#40` (slide)
+  - RU: 'Веса источников перекалибруются по\xa0BHT после каждой волны'
+  - EN: 'Source weights are recalibrated to BHT after each wave'
+- `ppt/slides/slide43.xml#41` (slide)
+  - RU: 'Препарат, названный только голосом в\xa0видео, учитывается через авто-субтитры'
+  - EN: 'A product named only in a video’s audio is counted via auto-captions'
+- `ppt/slides/slide43.xml#45` (slide)
+  - RU: 'ПРИМЕР · AZELIK VS SKINOCLEAR'
+  - EN: 'EXAMPLE · AZELIK VS SKINOCLEAR'
+- `ppt/slides/slide43.xml#46` (slide)
+  - RU: 'Демо Акрихин, сентябрь 2026'
+  - EN: 'Akrikhin demo, September 2026'
+- `ppt/slides/slide43.xml#51` (slide)
+  - RU: 'Доля в\xa0поиске\n(Wordstat)'
+  - EN: 'Search share\n(Wordstat)'
+- `ppt/slides/slide43.xml#52` (slide)
+  - RU: 'Доля поиска\nв\xa0online-аптеках'
+  - EN: 'Search share\nin e-pharmacies'
+- `ppt/slides/slide43.xml#54` (slide)
+  - RU: 'Просмотры YouTube,\n90 дней'
+  - EN: 'YouTube views,\n90 days'
+- `ppt/slides/slide43.xml#56` (slide)
+  - RU: '[1]Вывод:[/1][2] паритет в\xa0поиске, преимущество в\xa0online-аптеках и\xa03× отставание в\xa0видео. Самое сильное видео конкурента\xa0— у\xa0врача-блогера →\xa0основание для\xa0DOL и\xa0интеграций с\xa0блогерами[/2]'
+  - EN: '[1]Takeaway:[/1][2] parity in search, ahead in e-pharmacies, 3× behind in video. The competitor’s strongest video is by a doctor-influencer → a case for DOL and influencer integrations[/2]'
+- `ppt/slides/slide43.xml#61` (slide)
+  - RU: 'Rx: инвестиции и\xa0внимание не\xa0объединяем на\xa0одном экране | работаем с\xa0агрегированными цифрами,\nа\xa0не\xa0с\xa0пользовательскими текстами | индекс не\xa0равен охвату и\xa0продажам'
+  - EN: 'Rx: we never combine spend and attention on one screen | we work with aggregated figures,\nnot user texts | the index does not equal reach or sales'
+- `ppt/slides/slide43.xml#62` (slide)
+  - RU: 'Пример источников: Wordstat (Россия, 4 недели до\xa031.08.2026), поиск в\xa0online-аптеках, YouTube (90 дней)'
+  - EN: 'Sources for the example: Wordstat (Russia, 4 weeks to Aug 31, 2026), e-pharmacy search, YouTube (90 days)'
+- `ppt/slides/slide43.xml#8` (slide)
+  - RU: 'ИСТОЧНИКИ И\xa0ВЕСА'
+  - EN: 'SOURCES AND WEIGHTS'
+- `ppt/slides/slide43.xml#9` (slide)
+  - RU: 'стартовые веса, калибруются по\xa0BHT'
+  - EN: 'starting weights, calibrated to BHT'
+- `ppt/notesSlides/notesSlide43.xml#1` (notes)
+  - RU: 'Слайд 40 · исходная версия (новый вариант — следующим слайдом)'
+  - EN: 'Slide 40 · original version (new version on the next slide)'
+- `str#18` (chartstr)
+  - RU: 'Просмотры YouTube, 90 дней'
+  - EN: 'YouTube views, 90 days'
+- `str#3` (chartstr)
+  - RU: 'Доля в поиске (Wordstat)'
+  - EN: 'Search share (Wordstat)'
+- `str#4` (chartstr)
+  - RU: 'Доля поиска в online-аптеках'
+  - EN: 'Search share in e-pharmacies'
+
+## Slide 44
+
+- `ppt/slides/slide44.xml#0` (slide)
+  - RU: 'AI scoring в\xa0работе с\xa0блогерами:\nотбор авторов и\xa0оценка вероятности риска'
+  - EN: 'AI scoring in influencer marketing:\ncreator selection and risk probability'
+- `ppt/slides/slide44.xml#1` (slide)
+  - RU: 'AI переносит выявление рисков на\xa0этап до\xa0создания сценария и\xa0съемок; команды проверяют только приоритетных авторов'
+  - EN: 'AI moves risk detection to before scripting and filming; teams review only priority creators'
+- `ppt/slides/slide44.xml#10` (slide)
+  - RU: 'ER, качество аудитории, наличие ботов'
+  - EN: 'ER, audience quality, bot presence'
+- `ppt/slides/slide44.xml#11` (slide)
+  - RU: 'Характер рекламы, целостность и\xa0последовательность контента'
+  - EN: 'Ad style, content coherence and consistency'
+- `ppt/slides/slide44.xml#16` (slide)
+  - RU: 'COMPLIANCE И\xa0ОФИЦИАЛЬНЫЙ СТАТУС'
+  - EN: 'COMPLIANCE AND OFFICIAL STATUS'
+- `ppt/slides/slide44.xml#17` (slide)
+  - RU: 'Регистрация в\xa0РКН / проверка официальных реестров'
+  - EN: 'Roskomnadzor registration / official registry checks'
+- `ppt/slides/slide44.xml#18` (slide)
+  - RU: 'Статус иноагента и\xa0другие legal red flags'
+  - EN: 'Foreign-agent status, other legal red flags'
+- `ppt/slides/slide44.xml#19` (slide)
+  - RU: 'Политические / религиозные / запрещенные темы'
+  - EN: 'Political / religious / banned topics'
+- `ppt/slides/slide44.xml#24` (slide)
+  - RU: 'РЕПУТАЦИЯ И\xa0КОНФЛИКТЫ'
+  - EN: 'REPUTATION AND CONFLICTS'
+- `ppt/slides/slide44.xml#25` (slide)
+  - RU: 'Недавние интеграции с\xa0конкурентами'
+  - EN: 'Recent integrations with competitors'
+- `ppt/slides/slide44.xml#26` (slide)
+  - RU: 'Скандалы / репутационные инциденты'
+  - EN: 'Scandals / reputational incidents'
+- `ppt/slides/slide44.xml#27` (slide)
+  - RU: 'Контекст упоминаний в\xa0Media: позитивный / нейтральный / негативный'
+  - EN: 'Media mention context: positive / neutral / negative'
+- `ppt/slides/slide44.xml#32` (slide)
+  - RU: 'AI объединяет сигналы соответствия, качества, соблюдения требований и\xa0репутации в\xa0единую систему оценки для\xa0принятия решений'
+  - EN: 'AI combines fit, quality, compliance and reputation signals into a single scoring system for decision-making'
+- `ppt/slides/slide44.xml#35` (slide)
+  - RU: 'Релевантность аудитории / контента'
+  - EN: 'Audience / content relevance'
+- `ppt/slides/slide44.xml#38` (slide)
+  - RU: 'Подлинность аудитории / рекламная нагрузка'
+  - EN: 'Audience authenticity / ad load'
+- `ppt/slides/slide44.xml#4` (slide)
+  - RU: 'До\xa0начала взаимодействия с\xa0блогером предварительно оцениваем соответствие и\xa0риски; AI сокращает исходный список и\xa0выделяет случаи, требующие экспертной проверки'
+  - EN: 'Before engaging an influencer, we pre-assess fit and risks; AI shortens the long list and flags cases that need expert review'
+- `ppt/slides/slide44.xml#41` (slide)
+  - RU: 'Официальные / Legal / brand-safety риски'
+  - EN: 'Official / legal / brand-safety risks'
+- `ppt/slides/slide44.xml#44` (slide)
+  - RU: 'Конфликты / контекст упоминаний в\xa0медиа / инциденты'
+  - EN: 'Conflicts / media mention context / incidents'
+- `ppt/slides/slide44.xml#49` (slide)
+  - RU: 'AI не\xa0утверждает блогера\xa0— он определяет приоритет следующего действия человека'
+  - EN: 'AI doesn’t approve the influencer — it prioritizes the next human action'
+- `ppt/slides/slide44.xml#54` (slide)
+  - RU: 'Высокий fit / низкий риск →\xa0к\xa0переговорам'
+  - EN: 'High fit / low risk → to negotiations'
+- `ppt/slides/slide44.xml#59` (slide)
+  - RU: 'Сильный потенциал, но\xa0есть минимум один risk signal'
+  - EN: 'Strong potential, but at least one risk signal'
+- `ppt/slides/slide44.xml#64` (slide)
+  - RU: 'Критичный compliance / reputation / fit risk'
+  - EN: 'Critical compliance / reputation / fit risk'
+- `ppt/slides/slide44.xml#67` (slide)
+  - RU: 'РЕЗУЛЬТАТ AI'
+  - EN: 'AI OUTPUT'
+- `ppt/slides/slide44.xml#69` (slide)
+  - RU: 'Рейтинг приоритета  |  Вероятность риска  |  Stop-list  |  Risk flags  |  Shortlist / резервный пул'
+  - EN: 'Priority rating  |  Risk probability  |  Stop-list  |  Risk flags  |  Shortlist / reserve pool'
+- `ppt/slides/slide44.xml#70` (slide)
+  - RU: 'Human in the loop: финальное решение остается за\xa0Marketing / Legal'
+  - EN: 'Human in the loop: Marketing / Legal make the final call'
+- `ppt/slides/slide44.xml#8` (slide)
+  - RU: 'СООТВЕТСТВИЕ АУДИТОРИИ И\xa0КОНТЕНТА'
+  - EN: 'AUDIENCE AND CONTENT FIT'
+- `ppt/slides/slide44.xml#9` (slide)
+  - RU: 'Соответствие ЦА / контента айдентике бренда'
+  - EN: 'TA / content fit with brand identity'
+
+## Slide 45
+
+- `ppt/slides/slide45.xml#0` (slide)
+  - RU: 'AI scoring в\xa0работе с\xa0блогерами: сценарий,\ncompliance pre-check и\xa0обучение на\xa0результатах кампании'
+  - EN: 'AI scoring in influencer marketing: script,\ncompliance pre-check and learning from campaign results'
+- `ppt/slides/slide45.xml#1` (slide)
+  - RU: 'AI ускоряет подготовку и\xa0раньше выявляет риски; финальное согласование остается за\xa0человеком на\xa0каждом критическом этапе'
+  - EN: 'AI speeds up prep and flags risks earlier; a human gives final sign-off at every critical stage'
+- `ppt/slides/slide45.xml#11` (slide)
+  - RU: 'RTB / обязательные сообщения'
+  - EN: 'RTB / mandatory messages'
+- `ppt/slides/slide45.xml#15` (slide)
+  - RU: 'Человек: фиксирует бриф / RTB'
+  - EN: 'Human: locks brief / RTB'
+- `ppt/slides/slide45.xml#20` (slide)
+  - RU: 'ПЕРВЫЙ ДРАФТ СЦЕНАРИЯ'
+  - EN: 'FIRST SCRIPT DRAFT'
+- `ppt/slides/slide45.xml#22` (slide)
+  - RU: 'AI СОЗДАЕТ'
+  - EN: 'AI CREATES'
+- `ppt/slides/slide45.xml#23` (slide)
+  - RU: 'Структуру драфта'
+  - EN: 'Draft structure'
+- `ppt/slides/slide45.xml#24` (slide)
+  - RU: 'Адаптацию под\xa0стиль блогера'
+  - EN: 'Influencer-style adaptation'
+- `ppt/slides/slide45.xml#25` (slide)
+  - RU: 'Версию под\xa0формат / платформу'
+  - EN: 'Format / platform version'
+- `ppt/slides/slide45.xml#27` (slide)
+  - RU: 'Человек: редактирует / утверждает сценарий'
+  - EN: 'Human: edits / approves script'
+- `ppt/slides/slide45.xml#32` (slide)
+  - RU: 'QA ПЕРЕД ПУБЛИКАЦИЕЙ'
+  - EN: 'QA BEFORE PUBLISHING'
+- `ppt/slides/slide45.xml#34` (slide)
+  - RU: 'AI ПРОВЕРЯЕТ'
+  - EN: 'AI CHECKS'
+- `ppt/slides/slide45.xml#35` (slide)
+  - RU: 'Соответствие RTB / брифу'
+  - EN: 'RTB / brief alignment'
+- `ppt/slides/slide45.xml#36` (slide)
+  - RU: 'Стоп-слова / упоминания конкурентов'
+  - EN: 'Stop words / competitor mentions'
+- `ppt/slides/slide45.xml#37` (slide)
+  - RU: 'Med / Legal / Brand маркеры риска'
+  - EN: 'Med / Legal / Brand risk markers'
+- `ppt/slides/slide45.xml#39` (slide)
+  - RU: 'Человек: финальное Med / Legal / Brand подтверждение'
+  - EN: 'Human: final Med / Legal / Brand sign-off'
+- `ppt/slides/slide45.xml#4` (slide)
+  - RU: 'После отбора блогера повторно используем тот же подход к\xa0контролю качества\xa0 - от\xa0первого черновика до\xa0финального контента и\xa0анализа результатов кампании'
+  - EN: 'Once the influencer is selected, we reuse the same quality-control approach — from the first draft to final content and campaign results analysis'
+- `ppt/slides/slide45.xml#44` (slide)
+  - RU: 'МОНИТОРИНГ И\xa0ОБУЧЕНИЕ'
+  - EN: 'MONITORING AND LEARNING'
+- `ppt/slides/slide45.xml#46` (slide)
+  - RU: 'AI ОБУЧАЕТСЯ'
+  - EN: 'AI LEARNS'
+- `ppt/slides/slide45.xml#47` (slide)
+  - RU: 'Тональность комментариев'
+  - EN: 'Comment sentiment'
+- `ppt/slides/slide45.xml#48` (slide)
+  - RU: 'Performance / аномалии CPV'
+  - EN: 'Performance / CPV anomalies'
+- `ppt/slides/slide45.xml#49` (slide)
+  - RU: 'Обновленная оценка автора'
+  - EN: 'Updated creator score'
+- `ppt/slides/slide45.xml#51` (slide)
+  - RU: 'Человек: принимает решение о\xa0будущем рейтинге / использовании'
+  - EN: 'Human: decides on future rating / use'
+- `ppt/slides/slide45.xml#53` (slide)
+  - RU: 'ЕДИНЫЙ AI QUALITY-CONTROL СЛОЙ'
+  - EN: 'ONE AI QUALITY-CONTROL LAYER'
+- `ppt/slides/slide45.xml#55` (slide)
+  - RU: 'Одна и\xa0та же логика brief / risk применяется на\xa0всех этапах: draft generation →\xa0pre-check →\xa0final content →\xa0campaign learning'
+  - EN: 'The same brief / risk logic applies at every stage: draft generation → pre-check → final content → campaign learning'
+- `ppt/slides/slide45.xml#58` (slide)
+  - RU: 'Черновик сценария  |  QA-комментарии  |  Risk flags  |  Отклонения в контенте  |  Обновленная оценка автора'
+  - EN: 'Script draft  |  QA comments  |  Risk flags  |  Content deviations  |  Updated creator score'
+- `ppt/slides/slide45.xml#60` (slide)
+  - RU: 'РЕЗУЛЬТАТ AI'
+  - EN: 'AI OUTPUT'
+- `ppt/slides/slide45.xml#8` (slide)
+  - RU: 'ЗАФИКСИРОВАННЫЙ БРИФ'
+  - EN: 'LOCKED BRIEF'
+
+## Slide 47
+
+- `ppt/slides/slide47.xml#0` (slide)
+  - RU: 'Golden Rules и\xa0библиотека решений 2027: каждый тест\nдолжен формировать правило для\xa0повторного использования'
+  - EN: 'Golden Rules and the 2027 decision library: every test\nmust produce a reusable rule'
+- `ppt/slides/slide47.xml#1` (slide)
+  - RU: 'Ценность Test & Learn\xa0— в\xa0правиле принятия решения, которое можно повторно использовать для\xa0следующего бренда в\xa0портфеле'
+  - EN: 'The value of Test & Learn is a decision rule that can be reused for the next brand in the portfolio'
+- `ppt/slides/slide47.xml#10` (slide)
+  - RU: 'media +\xa0post-click\nbrand / business\xa0— где применимо'
+  - EN: 'media + post-click\nbrand / business — where relevant'
+- `ppt/slides/slide47.xml#13` (slide)
+  - RU: 'Фиксируем конкретное решение'
+  - EN: 'Record a specific decision'
+- `ppt/slides/slide47.xml#14` (slide)
+  - RU: 'масштабировать / оптимизировать / остановить / повторить тест'
+  - EN: 'scale / optimize / stop / rerun the test'
+- `ppt/slides/slide47.xml#17` (slide)
+  - RU: 'Переводим результат в\xa0правило'
+  - EN: 'Turn the result into a rule'
+- `ppt/slides/slide47.xml#18` (slide)
+  - RU: 'порог / маршрут / поставщик /\nQA-критерий'
+  - EN: 'threshold / route / vendor /\nQA criterion'
+- `ppt/slides/slide47.xml#2` (slide)
+  - RU: 'ОТ\xa0ТЕСТА К\xa0ПРАВИЛУ'
+  - EN: 'FROM TEST TO RULE'
+- `ppt/slides/slide47.xml#20` (slide)
+  - RU: 'ПОВТОРНОЕ ИСПОЛЬЗОВАНИЕ'
+  - EN: 'REUSE'
+- `ppt/slides/slide47.xml#21` (slide)
+  - RU: 'Применяем между брендами'
+  - EN: 'Apply across brands'
+- `ppt/slides/slide47.xml#22` (slide)
+  - RU: 'добавляем в\xa0библиотеку планирования и\xa0бриф следующего запуска'
+  - EN: 'add to the planning library and the next launch brief'
+- `ppt/slides/slide47.xml#23` (slide)
+  - RU: 'ПРИМЕРЫ GOLDEN RULES'
+  - EN: 'GOLDEN RULES: EXAMPLES'
+- `ppt/slides/slide47.xml#26` (slide)
+  - RU: 'ТАРГЕТИНГ'
+  - EN: 'TARGETING'
+- `ppt/slides/slide47.xml#28` (slide)
+  - RU: 'Пересечение / частота'
+  - EN: 'Overlap / frequency'
+- `ppt/slides/slide47.xml#29` (slide)
+  - RU: '>25% пересечения = диагностика, не\xa0автоматическая остановка; сохраняем сегмент при\xa0высокой эффективности'
+  - EN: '>25% overlap = diagnose, not an automatic stop; keep the segment if it performs well'
+- `ppt/slides/slide47.xml#34` (slide)
+  - RU: 'Выбор поставщика'
+  - EN: 'Vendor selection'
+- `ppt/slides/slide47.xml#35` (slide)
+  - RU: 'выбираем по\xa0связке аудитория ×\xa0KPI ×\xa0подтвержденный результат'
+  - EN: 'choose by audience × KPI × proven result'
+- `ppt/slides/slide47.xml#4` (slide)
+  - RU: 'ТЕСТ'
+  - EN: 'TEST'
+- `ppt/slides/slide47.xml#40` (slide)
+  - RU: 'Выбор production-маршрута'
+  - EN: 'Production route selection'
+- `ppt/slides/slide47.xml#41` (slide)
+  - RU: 'Classic / CMP / гибридная модель выбираем заранее по\xa0связке master ×\xa0объем работ ×\xa0legal risk'
+  - EN: 'Classic / CMP / hybrid model is chosen upfront by master × scope of work × legal risk'
+- `ppt/slides/slide47.xml#46` (slide)
+  - RU: 'Критерий масштабирования'
+  - EN: 'Scaling criterion'
+- `ppt/slides/slide47.xml#47` (slide)
+  - RU: 'масштабируем только варианты с\xa0подтвержденным дополнительным media / brand эффектом'
+  - EN: 'scale only variants with a proven incremental media / brand effect'
+- `ppt/slides/slide47.xml#5` (slide)
+  - RU: 'Проводим тест в\xa0сопоставимых условиях'
+  - EN: 'Test under comparable conditions'
+- `ppt/slides/slide47.xml#50` (slide)
+  - RU: 'БЛОГЕРЫ'
+  - EN: 'INFLUENCE'
+- `ppt/slides/slide47.xml#52` (slide)
+  - RU: 'Проверка рисков'
+  - EN: 'Risk check'
+- `ppt/slides/slide47.xml#53` (slide)
+  - RU: 'AI pre-score →\xa0shortlist / ручная проверка / stop-list до\xa0начала переговоров'
+  - EN: 'AI pre-score → shortlist / manual review / stop-list before negotiations start'
+- `ppt/slides/slide47.xml#58` (slide)
+  - RU: 'Экосистема спроса'
+  - EN: 'Demand ecosystem'
+- `ppt/slides/slide47.xml#59` (slide)
+  - RU: 'SEO / GEO / ORM / Paid Search управляются как\xa0единый контур спроса и\xa0доверия'
+  - EN: 'SEO / GEO / ORM / Paid Search are managed as one demand-and-trust system'
+- `ppt/slides/slide47.xml#6` (slide)
+  - RU: 'одинаковая задача / тип инвентаря / логика креатива'
+  - EN: 'same objective / inventory type / creative logic'
+- `ppt/slides/slide47.xml#62` (slide)
+  - RU: 'ПРИНЦИП 2027'
+  - EN: '2027 PRINCIPLE'
+- `ppt/slides/slide47.xml#64` (slide)
+  - RU: 'Каждый пилот завершается зафиксированным Decision Gate и\xa0условиями повторного\nиспользования\xa0— иначе это остается кейсом, а\xa0не\xa0системной компетенцией'
+  - EN: 'Every pilot ends with a recorded Decision Gate and conditions for reuse —\notherwise it stays a case study, not an institutional capability'
+- `ppt/slides/slide47.xml#8` (slide)
+  - RU: 'ДОКАЗАТЕЛЬСТВО'
+  - EN: 'PROOF'
+- `ppt/slides/slide47.xml#9` (slide)
+  - RU: 'Оцениваем полный результат'
+  - EN: 'Measure the full result'
+- `ppt/notesSlides/notesSlide47.xml#1` (notes)
+  - RU: 'Слайд 44 · новый вариант: крупная лента-шевроны «Тест → … → Повторное использование» с акцентом на Golden rule + 6 правил карточками 3×2'
+  - EN: 'Slide 44 · new version: large chevron ribbon “Test → … → Reuse” with the Golden Rule highlighted + 6 rules as 3×2 cards'
+
+## Slide 48
+
+- `ppt/slides/slide48.xml#0` (slide)
+  - RU: 'Segment overlap: от\xa0контроля пересечений\nк\xa0управлению синергией сегментов'
+  - EN: 'Segment overlap: from overlap control\nto managing segment synergy'
+- `ppt/slides/slide48.xml#1` (slide)
+  - RU: 'Overlap\xa0— диагностический сигнал, а\xa0не\xa0критерий исключения: сохраняем эффективные пересечения и\xa0управляем каналами, сообщениями и\xa0частотой после подтверждения результата'
+  - EN: 'Overlap is a diagnostic signal, not an exclusion criterion: we keep overlaps that perform and manage channels, messages and frequency once results are confirmed'
+- `ppt/slides/slide48.xml#12` (slide)
+  - RU: 'ДИАГНОСТИРУЕМ'
+  - EN: 'DIAGNOSE'
+- `ppt/slides/slide48.xml#13` (slide)
+  - RU: 'Оцениваем overlap в\xa0контексте, а\xa0не\xa0как\xa0самостоятельный KPI'
+  - EN: 'Assess overlap in context, not as a standalone KPI'
+- `ppt/slides/slide48.xml#16` (slide)
+  - RU: 'Уровень overlap'
+  - EN: 'Overlap level'
+- `ppt/slides/slide48.xml#17` (slide)
+  - RU: '≤25%\xa0— рабочий уровень;\n>25%\xa0— диагностируем причины'
+  - EN: '≤25% — normal level;\n>25% — diagnose the causes'
+- `ppt/slides/slide48.xml#21` (slide)
+  - RU: '30%+\xa0— минимум;\n40%+\xa0— целевой уровень'
+  - EN: '30%+ — minimum;\n40%+ — target'
+- `ppt/slides/slide48.xml#25` (slide)
+  - RU: '2–4 контакта\xa0— рабочий диапазон'
+  - EN: '2–4 exposures — normal range'
+- `ppt/slides/slide48.xml#28` (slide)
+  - RU: 'Эффективность'
+  - EN: 'Performance'
+- `ppt/slides/slide48.xml#29` (slide)
+  - RU: 'media +\xa0post-click / конверсия'
+  - EN: 'media + post-click / conversion'
+- `ppt/slides/slide48.xml#3` (slide)
+  - RU: '2026 ЛОГИКА'
+  - EN: '2026 LOGIC'
+- `ppt/slides/slide48.xml#31` (slide)
+  - RU: '[1]ПЛАН:[/1][2] AiData\xa0— прогноз  |  [/2][1]ФАКТ:[/1][2] AdRiver\xa0— результат кампании[/2]'
+  - EN: '[1]PLAN:[/1][2] AiData — forecast  |  [/2][1]ACTUAL:[/1][2] AdRiver — campaign result[/2]'
+- `ppt/slides/slide48.xml#35` (slide)
+  - RU: 'ПРИНИМАЕМ РЕШЕНИЕ'
+  - EN: 'DECIDE'
+- `ppt/slides/slide48.xml#36` (slide)
+  - RU: 'Одинаковый overlap может вести к\xa0разным действиям'
+  - EN: 'The same overlap can lead to different actions'
+- `ppt/slides/slide48.xml#38` (slide)
+  - RU: '≤25% +\xa0сильный KPI'
+  - EN: '≤25% + strong KPI'
+- `ppt/slides/slide48.xml#39` (slide)
+  - RU: 'ОСТАВИТЬ'
+  - EN: 'KEEP'
+- `ppt/slides/slide48.xml#4` (slide)
+  - RU: 'Overlap = риск дублирования / потери эффективности'
+  - EN: 'Overlap = risk of duplication / lost efficiency'
+- `ppt/slides/slide48.xml#40` (slide)
+  - RU: 'Используем как\xa0multi-occasion охват'
+  - EN: 'Use as multi-occasion reach'
+- `ppt/slides/slide48.xml#42` (slide)
+  - RU: '>25% +\xa0сильный KPI'
+  - EN: '>25% + strong KPI'
+- `ppt/slides/slide48.xml#43` (slide)
+  - RU: 'ОСТАВИТЬ / ОПТИМИЗИРОВАТЬ'
+  - EN: 'KEEP / OPTIMIZE'
+- `ppt/slides/slide48.xml#44` (slide)
+  - RU: 'Разводим роли / каналы / вес'
+  - EN: 'Split roles / channels / weight'
+- `ppt/slides/slide48.xml#46` (slide)
+  - RU: '>25% +\xa0слабый KPI'
+  - EN: '>25% + weak KPI'
+- `ppt/slides/slide48.xml#47` (slide)
+  - RU: 'СОКРАТИТЬ / ИСКЛЮЧИТЬ'
+  - EN: 'REDUCE / EXCLUDE'
+- `ppt/slides/slide48.xml#48` (slide)
+  - RU: 'Убираем дублирование без\xa0ценности'
+  - EN: 'Cut duplication that adds no value'
+- `ppt/slides/slide48.xml#52` (slide)
+  - RU: 'СОЗДАЕМ СИНЕРГИЮ'
+  - EN: 'BUILD SYNERGY'
+- `ppt/slides/slide48.xml#53` (slide)
+  - RU: 'Один пользователь ≠ одно сообщение'
+  - EN: 'One user ≠ one message'
+- `ppt/slides/slide48.xml#54` (slide)
+  - RU: 'Синергия возникает, когда каждый контакт отражает другой релевантный окейжен или\xa0CJM-роль'
+  - EN: 'Synergy happens when each exposure reflects a different relevant occasion or CJM role'
+- `ppt/slides/slide48.xml#60` (slide)
+  - RU: 'Проблема /\nтриггер'
+  - EN: 'Problem /\ntrigger'
+- `ppt/slides/slide48.xml#61` (slide)
+  - RU: 'Контекст /\nокейжен'
+  - EN: 'Context /\noccasion'
+- `ppt/slides/slide48.xml#62` (slide)
+  - RU: 'Альтернативное сообщение'
+  - EN: 'Alternative message'
+- `ppt/slides/slide48.xml#63` (slide)
+  - RU: 'Синергия возможна только при\xa03 условиях:'
+  - EN: 'Synergy works only if 3 conditions are met:'
+- `ppt/slides/slide48.xml#64` (slide)
+  - RU: 'разные роли / сообщения по\xa0оккейженам'
+  - EN: 'different roles / messages by occasion'
+- `ppt/slides/slide48.xml#65` (slide)
+  - RU: 'частота в\xa0диапазоне 2–4'
+  - EN: 'frequency within 2–4'
+- `ppt/slides/slide48.xml#66` (slide)
+  - RU: 'качество post-click не\xa0ухудшается'
+  - EN: 'post-click quality does not drop'
+- `ppt/slides/slide48.xml#69` (slide)
+  - RU: 'ПРИНЦИП 2027'
+  - EN: '2027 PRINCIPLE'
+- `ppt/slides/slide48.xml#7` (slide)
+  - RU: '2027 ЛОГИКА'
+  - EN: '2027 LOGIC'
+- `ppt/slides/slide48.xml#71` (slide)
+  - RU: 'Оптимизируем портфель сегментов, а\xa0не\xa0отдельные аудитории\xa0— сохраняем эффективных\nпользователей в\xa0пересечении и\xa0сокращаем только overlap, который не\xa0создает дополнительной ценности'
+  - EN: 'We optimize the segment portfolio, not individual audiences — we keep high-performing\nusers in the overlap and cut only the overlap that adds no extra value'
+- `ppt/slides/slide48.xml#8` (slide)
+  - RU: 'Overlap = потенциальная синергия после проверки эффективности и\xa0частоты'
+  - EN: 'Overlap = potential synergy once performance and frequency are checked'
+
+## Slide 49
+
+- `ppt/slides/slide49.xml#0` (slide)
+  - RU: 'Targeting Accuracy Methodology: управляем\nкачеством попадания в\xa0ЦА по\xa0совокупности сигналов'
+  - EN: 'Targeting Accuracy Methodology: managing\non-target delivery through a mix of signals'
+- `ppt/slides/slide49.xml#1` (slide)
+  - RU: 'Подтверждаем попадание корзиной media +\xa0post-click данных и\xa0улучшаем показатели в\xa02-недельном цикле'
+  - EN: 'We confirm on-target delivery with mixed media + post-click data and improve metrics in 2-week cycles'
+- `ppt/slides/slide49.xml#12` (slide)
+  - RU: 'СТРОИМ СЕГМЕНТ'
+  - EN: 'BUILD THE SEGMENT'
+- `ppt/slides/slide49.xml#13` (slide)
+  - RU: 'Не\xa0один ID, а\xa0комбинация цифровых признаков'
+  - EN: 'Not a single ID — a mix of digital traits'
+- `ppt/slides/slide49.xml#18` (slide)
+  - RU: 'вероятность пола / возраста по\xa0digital-сигналам'
+  - EN: 'probable gender / age from digital signals'
+- `ppt/slides/slide49.xml#21` (slide)
+  - RU: 'ИНТЕРЕСЫ И\xa0ТЕМЫ'
+  - EN: 'INTERESTS & TOPICS'
+- `ppt/slides/slide49.xml#22` (slide)
+  - RU: 'категории интересов +\xa0смежные темы'
+  - EN: 'interest categories + adjacent topics'
+- `ppt/slides/slide49.xml#25` (slide)
+  - RU: 'ПОВЕДЕНИЕ'
+  - EN: 'BEHAVIOR'
+- `ppt/slides/slide49.xml#26` (slide)
+  - RU: 'потребление контента +\xa0digital-активность'
+  - EN: 'content consumption + digital activity'
+- `ppt/slides/slide49.xml#3` (slide)
+  - RU: 'СБОРКА СЕГМЕНТА'
+  - EN: 'SEGMENT BUILD'
+- `ppt/slides/slide49.xml#30` (slide)
+  - RU: 'похожие cookies / unified IDs +\xa0платформенные модели'
+  - EN: 'lookalike cookies / unified IDs + platform models'
+- `ppt/slides/slide49.xml#34` (slide)
+  - RU: 'ПОДТВЕРЖДАЕМ'
+  - EN: 'VALIDATE'
+- `ppt/slides/slide49.xml#35` (slide)
+  - RU: 'Ни\xa0одна система не\xa0является единственной «истиной»'
+  - EN: 'No single system is the “truth”'
+- `ppt/slides/slide49.xml#39` (slide)
+  - RU: 'доставка в\xa0ЦА • frequency • overlap • площадки'
+  - EN: 'TA delivery • frequency • overlap • placements'
+- `ppt/slides/slide49.xml#4` (slide)
+  - RU: 'Разные цифровые сигналы →\xa0единая гипотеза аудитории'
+  - EN: 'Different digital signals → one audience hypothesis'
+- `ppt/slides/slide49.xml#42` (slide)
+  - RU: 'Я.МЕТРИКА / POST-CLICK'
+  - EN: 'YA.METRICA / POST-CLICK'
+- `ppt/slides/slide49.xml#43` (slide)
+  - RU: 'профиль визитов после клика\xa0— сигнал ближе к\xa0покупке'
+  - EN: 'post-click visit profile — a signal closer to purchase'
+- `ppt/slides/slide49.xml#47` (slide)
+  - RU: 'независимая panel check при\xa0достаточной базе'
+  - EN: 'independent panel check if sample size allows'
+- `ppt/slides/slide49.xml#52` (slide)
+  - RU: 'ОПТИМИЗИРУЕМ'
+  - EN: 'OPTIMIZE'
+- `ppt/slides/slide49.xml#53` (slide)
+  - RU: '2-недельный цикл: сигнал →\xa0действие →\xa0повторная проверка'
+  - EN: '2-week cycle: signal → action → recheck'
+- `ppt/slides/slide49.xml#54` (slide)
+  - RU: 'Если Targeting Accuracy ниже 70%, запускаем диагностику и\xa0корректировки, а\xa0затем повторно измеряем эффект.'
+  - EN: 'If Targeting Accuracy is below 70%, we run diagnostics and adjustments, then measure the effect again.'
+- `ppt/slides/slide49.xml#56` (slide)
+  - RU: '[1]ЕЖЕНЕДЕЛЬНО[/1]\n[2]AdRiver +\xa0Метрика[/2]'
+  - EN: '[1]WEEKLY[/1]\n[2]AdRiver + Metrica[/2]'
+- `ppt/slides/slide49.xml#58` (slide)
+  - RU: '[1]ДИАГНОСТИКА[/1]\n[2]Mediascope / Tiburon[/2]'
+  - EN: '[1]DIAGNOSTICS[/1]\n[2]Mediascope / Tiburon[/2]'
+- `ppt/slides/slide49.xml#65` (slide)
+  - RU: '[1]КОРРЕКТИРУЕМ[/1]\n[2]веса • filters • exclusions • sources[/2]'
+  - EN: '[1]ADJUST[/1]\n[2]weights • filters • exclusions • sources[/2]'
+- `ppt/slides/slide49.xml#68` (slide)
+  - RU: 'ПРИНЦИП 2027'
+  - EN: '2027 PRINCIPLE'
+- `ppt/slides/slide49.xml#7` (slide)
+  - RU: 'ПРОВЕРКА КАЧЕСТВА'
+  - EN: 'QUALITY CHECK'
+- `ppt/slides/slide49.xml#70` (slide)
+  - RU: 'Targeting Accuracy\xa0— управляемая вероятность попадания, а\xa0не\xa0«паспортная» точность: строим сегмент на\xa0совокупности\nцифровых сигналов, подтверждаем качество несколькими системами и\xa0масштабируем только после KPI ≥70%.'
+  - EN: 'Targeting Accuracy is a managed probability of reaching the TA, not “passport-level” precision: we build the segment from a mix of\ndigital signals, validate quality across several systems and scale only once KPI ≥70%.'
+- `ppt/slides/slide49.xml#8` (slide)
+  - RU: 'Несколько систем →\xa0единый Targeting Accuracy Index →\xa0действие'
+  - EN: 'Several systems → one Targeting Accuracy Index → action'
+
+## Slide 50
+
+- `ppt/slides/slide50.xml#0` (slide)
+  - RU: 'Transparency & Traffic Verification:\nкачество трафика становится стандартом закупки'
+  - EN: 'Transparency & Traffic Verification:\ntraffic quality becomes a buying standard'
+- `ppt/slides/slide50.xml#1` (slide)
+  - RU: 'Управляемый контур: benchmark →\xa0еженедельный контроль →\xa0оптимизация →\xa0выводы по\xa0поставщику →\xa0следующий флайт'
+  - EN: 'Managed loop: benchmark → weekly checks → optimization → vendor takeaways → next flight'
+- `ppt/slides/slide50.xml#10` (slide)
+  - RU: 'невалидный технический трафик'
+  - EN: 'general invalid traffic'
+- `ppt/slides/slide50.xml#14` (slide)
+  - RU: 'сложный невалидный трафик'
+  - EN: 'sophisticated invalid traffic'
+- `ppt/slides/slide50.xml#18` (slide)
+  - RU: 'видимый контакт'
+  - EN: 'viewable exposure'
+- `ppt/slides/slide50.xml#22` (slide)
+  - RU: 'видимый видеоконтакт'
+  - EN: 'viewable video exposure'
+- `ppt/slides/slide50.xml#26` (slide)
+  - RU: 'безопасный контекст'
+  - EN: 'safe context'
+- `ppt/slides/slide50.xml#27` (slide)
+  - RU: 'Источник benchmark: AdRiver\xa0— GIVT/SIVT/Viewability;\nАРИР\xa0— Brand Safety'
+  - EN: 'Benchmark source: AdRiver — GIVT/SIVT/Viewability;\nARIR — Brand Safety'
+- `ppt/slides/slide50.xml#32` (slide)
+  - RU: 'Отклонение от\xa0benchmark автоматически запускает действие'
+  - EN: 'Deviation from benchmark automatically triggers action'
+- `ppt/slides/slide50.xml#36` (slide)
+  - RU: 'ДО\xa0КАМПАНИИ'
+  - EN: 'PRE-CAMPAIGN'
+- `ppt/slides/slide50.xml#37` (slide)
+  - RU: 'quality KPI +\xa0benchmarks +\xa0blacklists +\xa0full verification, где технически возможно'
+  - EN: 'quality KPIs + benchmarks + blacklists + full verification where technically possible'
+- `ppt/slides/slide50.xml#40` (slide)
+  - RU: 'ЕЖЕНЕДЕЛЬНО'
+  - EN: 'WEEKLY'
+- `ppt/slides/slide50.xml#44` (slide)
+  - RU: 'ТРИГГЕР'
+  - EN: 'TRIGGER'
+- `ppt/slides/slide50.xml#45` (slide)
+  - RU: 'GIVT/SIVT: +0,5 п.п. | Viewability/BS: –5 п.п. | либо повтор 2\xa0недели'
+  - EN: 'GIVT/SIVT: +0.5 pp | Viewability/BS: –5 pp | or 2 weeks in a row'
+- `ppt/slides/slide50.xml#48` (slide)
+  - RU: 'ДЕЙСТВИЕ'
+  - EN: 'ACTION'
+- `ppt/slides/slide50.xml#49` (slide)
+  - RU: 'площадка / SSP →\xa0blacklist / whitelist →\xa0перераспределение бюджета'
+  - EN: 'site / SSP → blacklist / whitelist → budget reallocation'
+- `ppt/slides/slide50.xml#52` (slide)
+  - RU: 'ПОСЛЕ ФЛАЙТА'
+  - EN: 'POST-FLIGHT'
+- `ppt/slides/slide50.xml#53` (slide)
+  - RU: 'final quality score →\xa0learnings →\xa0обновленные правила для\xa0следующей закупки'
+  - EN: 'final quality score → learnings → updated rules for the next buy'
+- `ppt/slides/slide50.xml#58` (slide)
+  - RU: 'От\xa0мониторинга →\xa0к\xa0стандарту качества закупки'
+  - EN: 'From monitoring → to a buying quality standard'
+- `ppt/slides/slide50.xml#6` (slide)
+  - RU: 'Единый quality gate для\xa0измеримого digital-инвентаря'
+  - EN: 'One quality gate for measurable digital inventory'
+- `ppt/slides/slide50.xml#61` (slide)
+  - RU: 'покрытие технически верифицируемого сплита'
+  - EN: 'coverage of the technically verifiable split'
+- `ppt/slides/slide50.xml#63` (slide)
+  - RU: '[1]≤ 3[/1][2] дней[/2]'
+  - EN: '[1]≤ 3[/1][2] days[/2]'
+- `ppt/slides/slide50.xml#64` (slide)
+  - RU: 'реакция на\xa0отклонение'
+  - EN: 'response to a deviation'
+- `ppt/slides/slide50.xml#67` (slide)
+  - RU: 'повтор проблемных источников'
+  - EN: 'repeat problem sources'
+- `ppt/slides/slide50.xml#68` (slide)
+  - RU: 'Скоринг поставщиков +\xa0blacklist/whitelist переходят в\xa0следующий бренд внутри категории'
+  - EN: 'Vendor scoring + blacklist/whitelist carry over to the next brand in the category'
+- `ppt/slides/slide50.xml#71` (slide)
+  - RU: 'ПРИНЦИП 2027'
+  - EN: '2027 PRINCIPLE'
+- `ppt/slides/slide50.xml#73` (slide)
+  - RU: 'Качество трафика = условие масштабирования: если benchmark нарушен,\nсначала исправляем источник / закупку, не\xa0выделяем доп. инвестиции'
+  - EN: 'Traffic quality = a condition for scaling: if the benchmark is breached,\nwe fix the source / buying first and add no extra investment'
+
+## Slide 51
+
+- `ppt/slides/slide51.xml#0` (slide)
+  - RU: 'Paid Search 2027: объявление должно отвечать намерению пользователя'
+  - EN: 'Paid Search 2027: ads must match user intent'
+- `ppt/slides/slide51.xml#1` (slide)
+  - RU: 'До\xa0запуска каждое поисковое объявление проходит единую проверку качества: намерение пользователя →\xa0полнота объявления →\xa0призыв к\xa0действию →\xa0ценность предложения для\xa0покупки'
+  - EN: 'Before launch, every search ad passes one quality check: user intent → ad completeness → call to action → offer value for purchase'
+- `ppt/slides/slide51.xml#12` (slide)
+  - RU: 'РАСШИРЕНИЯ = МАКСИМУМ'
+  - EN: 'EXTENSIONS = MAXIMUM'
+- `ppt/slides/slide51.xml#13` (slide)
+  - RU: 'Быстрые ссылки, описания, уточнения, визитка и\xa0промо заполняются там, где доступны'
+  - EN: 'Sitelinks, descriptions, callouts, contact info and promos filled in where available'
+- `ppt/slides/slide51.xml#17` (slide)
+  - RU: 'CTA = ЭТАП CJM'
+  - EN: 'CTA = CJM STAGE'
+- `ppt/slides/slide51.xml#18` (slide)
+  - RU: 'Призыв соответствует задаче пользователя: узнать →\xa0сравнить →\xa0купить'
+  - EN: 'The CTA matches the user’s task: learn → compare → buy'
+- `ppt/slides/slide51.xml#22` (slide)
+  - RU: 'ЦЕНА / СКИДКА = ПОКУПКА'
+  - EN: 'PRICE / DISCOUNT = BUY'
+- `ppt/slides/slide51.xml#23` (slide)
+  - RU: 'Цена, скидка и\xa0наличие используются в\xa0транзакционных кампаниях\xa0— когда усиливают готовность к\xa0заказу'
+  - EN: 'Price, discount and availability go into transactional campaigns — when they boost readiness to order'
+- `ppt/slides/slide51.xml#25` (slide)
+  - RU: 'ТЕКСТ ПО\xa0ТИПУ ПОИСКОВОГО НАМЕРЕНИЯ'
+  - EN: 'COPY BY SEARCH INTENT TYPE'
+- `ppt/slides/slide51.xml#26` (slide)
+  - RU: 'Единая согласованная база объявлений\xa0— разные акценты в\xa0зависимости от\xa0типа поискового намерения'
+  - EN: 'One consistent ad base — different emphasis by search intent type'
+- `ppt/slides/slide51.xml#28` (slide)
+  - RU: 'БРЕНД'
+  - EN: 'BRAND'
+- `ppt/slides/slide51.xml#29` (slide)
+  - RU: 'официальность • доверие • удобство • быстрый переход к\xa0действию'
+  - EN: 'official source • trust • convenience • quick path to action'
+- `ppt/slides/slide51.xml#3` (slide)
+  - RU: 'ПРОВЕРКА КАЧЕСТВА ПЕРЕД ЗАПУСКОМ'
+  - EN: 'PRE-LAUNCH QUALITY CHECK'
+- `ppt/slides/slide51.xml#32` (slide)
+  - RU: 'КАТЕГОРИЯ / СИМПТОМ'
+  - EN: 'CATEGORY / SYMPTOM'
+- `ppt/slides/slide51.xml#33` (slide)
+  - RU: 'понимание проблемы • экспертность • решение конкретной потребности'
+  - EN: 'understanding the problem • expertise • solving a specific need'
+- `ppt/slides/slide51.xml#36` (slide)
+  - RU: 'КОНКУРЕНТ'
+  - EN: 'COMPETITOR'
+- `ppt/slides/slide51.xml#37` (slide)
+  - RU: 'сравнительные преимущества • критерии выбора • УТП'
+  - EN: 'comparative advantages • choice criteria • USP'
+- `ppt/slides/slide51.xml#40` (slide)
+  - RU: 'ПОКУПКА'
+  - EN: 'PURCHASE'
+- `ppt/slides/slide51.xml#41` (slide)
+  - RU: 'наличие • цена • скидка • простой путь к\xa0заказу'
+  - EN: 'availability • price • discount • easy ordering'
+- `ppt/slides/slide51.xml#44` (slide)
+  - RU: 'ПРОШЛО 4 ПРОВЕРКИ'
+  - EN: 'PASSED ALL 4 CHECKS'
+- `ppt/slides/slide51.xml#45` (slide)
+  - RU: 'объявление готово к\xa0запуску'
+  - EN: 'ad is ready to launch'
+- `ppt/slides/slide51.xml#47` (slide)
+  - RU: 'НЕ\xa0ПРОШЛО ХОТЯ БЫ 1'
+  - EN: 'FAILED AT LEAST 1'
+- `ppt/slides/slide51.xml#48` (slide)
+  - RU: 'возвращаем на\xa0корректировку'
+  - EN: 'sent back for revision'
+- `ppt/slides/slide51.xml#51` (slide)
+  - RU: 'ПЕРЕПРОВЕРКА ПРИ\xa0ИЗМЕНЕНИИ СЕМАНТИКИ'
+  - EN: 'RECHECK WHEN KEYWORDS CHANGE'
+- `ppt/slides/slide51.xml#52` (slide)
+  - RU: 'правило действует для\xa0всех Tier-2 Paid Search РК'
+  - EN: 'rule applies to all Tier-2 Paid Search campaigns'
+- `ppt/slides/slide51.xml#55` (slide)
+  - RU: 'ПРИНЦИП 2027'
+  - EN: '2027 PRINCIPLE'
+- `ppt/slides/slide51.xml#57` (slide)
+  - RU: 'Нет универсального поискового объявления: intent определяет заголовок,\nнабор расширений, CTA и\xa0допустимость транзакционного оффера'
+  - EN: 'There is no universal search ad: intent defines the headline,\nextension set, CTA and whether a transactional offer is allowed'
+- `ppt/slides/slide51.xml#7` (slide)
+  - RU: 'ЗАГОЛОВОК = НАМЕРЕНИЕ'
+  - EN: 'HEADLINE = INTENT'
+- `ppt/slides/slide51.xml#8` (slide)
+  - RU: 'Бренд, симптом / категория, конкурент и\xa0покупка получают разные формулировки'
+  - EN: 'Brand, symptom / category, competitor and purchase queries get different copy'
+
+## Slide 52
+
+- `ppt/slides/slide52.xml#101` (slide)
+  - RU: 'От отдельных AI-пилотов к масштабируемой системе, которая превращает успешные тесты в общие правила для брендов и повышает отдачу от инвестиций год к году'
+  - EN: 'From standalone AI pilots to a scalable system that turns successful tests into shared rules across brands and raises return on investment year over year'
+- `ppt/slides/slide52.xml#15` (slide)
+  - RU: 'СТАРТОВАЯ ТОЧКА'
+  - EN: 'STARTING POINT'
+- `ppt/slides/slide52.xml#19` (slide)
+  - RU: 'ПОДВОДИМ РЕЗУЛЬТАТЫ'
+  - EN: 'REVIEW RESULTS'
+- `ppt/slides/slide52.xml#20` (slide)
+  - RU: 'ИТОГИ И LEARNINGS 2026'
+  - EN: '2026 RESULTS & LEARNINGS'
+- `ppt/slides/slide52.xml#26` (slide)
+  - RU: 'ПОДТВЕРДИТЬ'
+  - EN: 'PROVE'
+- `ppt/slides/slide52.xml#27` (slide)
+  - RU: 'ДОКАЗАТЕЛЬСТВО'
+  - EN: 'PROOF'
+- `ppt/slides/slide52.xml#33` (slide)
+  - RU: 'СТАНДАРТИЗИРОВАТЬ'
+  - EN: 'STANDARDIZE'
+- `ppt/slides/slide52.xml#34` (slide)
+  - RU: 'ОПЕРАЦИОННАЯ МОДЕЛЬ'
+  - EN: 'OPERATING MODEL'
+- `ppt/slides/slide52.xml#40` (slide)
+  - RU: 'МАСШТАБИРОВАТЬ'
+  - EN: 'SCALE'
+- `ppt/slides/slide52.xml#41` (slide)
+  - RU: 'МАСШТАБИРУЕМАЯ КОМПЕТЕНЦИЯ'
+  - EN: 'SCALABLE CAPABILITY'
+- `ppt/slides/slide52.xml#42` (slide)
+  - RU: 'Comprehensive-подход подтвержден на реальных кампаниях:'
+  - EN: 'The Comprehensive approach is proven on real campaigns:'
+- `ppt/slides/slide52.xml#43` (slide)
+  - RU: 'сегментная модель'
+  - EN: 'segment model'
+- `ppt/slides/slide52.xml#46` (slide)
+  - RU: 'DMP-тесты'
+  - EN: 'DMP tests'
+- `ppt/slides/slide52.xml#47` (slide)
+  - RU: 'оценка бизнес-эффекта'
+  - EN: 'measured business impact'
+- `ppt/slides/slide52.xml#49` (slide)
+  - RU: '[1]360° [/1][2]оценка эффективности[/2]'
+  - EN: '[1]360° [/1][2]performance measurement[/2]'
+- `ppt/slides/slide52.xml#50` (slide)
+  - RU: '[1]GEO/AEO: [/1][2]Азелик, Акриол, Боботик[/2]'
+  - EN: '[1]GEO/AEO: [/1][2]Azelik, Akriol, Bobotic[/2]'
+- `ppt/slides/slide52.xml#52` (slide)
+  - RU: '[1]SEO + Paid Search [/1][2]синхронизация[/2]'
+  - EN: '[1]SEO + Paid Search [/1][2]sync[/2]'
+- `ppt/slides/slide52.xml#54` (slide)
+  - RU: '[1]AI-video на CTV: [/1][2]Азелик — personalization; Динобутин — AI-video[/2]'
+  - EN: '[1]AI-video on CTV: [/1][2]Azelik — personalization; Dinobutin — AI-video[/2]'
+- `ppt/slides/slide52.xml#55` (slide)
+  - RU: '[1]Комфодерм: [/1][2]AI-обучающий ролик для фармпредставителей[/2]'
+  - EN: '[1]Komfoderm: [/1][2]AI training video for medical reps[/2]'
+- `ppt/slides/slide52.xml#56` (slide)
+  - RU: '[1]Personalized LPs: [/1][2]OMD Voice — Аквадетрим, Биотиналь GLP-1; SEO-контент — педиатрия[/2]'
+  - EN: '[1]Personalized LPs: [/1][2]OMD Voice — Aquadetrim, Biotinal GLP-1; SEO content — pediatrics[/2]'
+- `ppt/slides/slide52.xml#59` (slide)
+  - RU: 'ПРОВЕРИТЬ НОВЫЕ ВОЗМОЖНОСТИ НА РЕАЛЬНЫХ ЗАДАЧАХ БРЕНДОВ'
+  - EN: 'TEST NEW CAPABILITIES ON REAL BRAND CHALLENGES'
+- `ppt/slides/slide52.xml#61` (slide)
+  - RU: 'Калибровка OMD Voice'
+  - EN: 'OMD Voice calibration'
+- `ppt/slides/slide52.xml#63` (slide)
+  - RU: 'AI-DSP-сегменты из OMD Voice'
+  - EN: 'AI DSP segments from OMD Voice'
+- `ppt/slides/slide52.xml#64` (slide)
+  - RU: 'Тесты созданных personalized LP'
+  - EN: 'Testing the personalized LPs built'
+- `ppt/slides/slide52.xml#65` (slide)
+  - RU: 'AI-video для новых брендов'
+  - EN: 'AI-video for new brands'
+- `ppt/slides/slide52.xml#66` (slide)
+  - RU: 'ПЕРЕВЕСТИ УСПЕШНЫЕ ПИЛОТЫ В УПРАВЛЯЕМЫЕ ОПЕРАЦИОННЫЕ ПРАВИЛА'
+  - EN: 'TURN SUCCESSFUL PILOTS INTO MANAGED OPERATING RULES'
+- `ppt/slides/slide52.xml#69` (slide)
+  - RU: 'AI-скоринг блогеров + экспертная проверка'
+  - EN: 'AI influencer scoring + expert review'
+- `ppt/slides/slide52.xml#70` (slide)
+  - RU: 'DO & DON’Ts playbook для Influence'
+  - EN: 'DOs & DON’Ts playbook for Influence'
+- `ppt/slides/slide52.xml#71` (slide)
+  - RU: 'Comprehensive для E-com'
+  - EN: 'Comprehensive for E-com'
+- `ppt/slides/slide52.xml#72` (slide)
+  - RU: 'МАСШТАБИРУЕМ ТОЛЬКО ТО, ЧТО ИМЕЕТ ДОКАЗАННЫЙ ЭФФЕКТ И ПОВТОРЯЕМЫЙ ПРОЦЕСС'
+  - EN: 'WE SCALE ONLY WHAT HAS PROVEN IMPACT AND A REPEATABLE PROCESS'
+- `ppt/slides/slide52.xml#75` (slide)
+  - RU: 'Сегмент + креатив'
+  - EN: 'Segment + creative'
+- `ppt/slides/slide52.xml#76` (slide)
+  - RU: 'выше отклик и продажи'
+  - EN: 'higher response & sales'
+- `ppt/slides/slide52.xml#79` (slide)
+  - RU: 'LP и AI-видео'
+  - EN: 'LP & AI-video'
+- `ppt/slides/slide52.xml#80` (slide)
+  - RU: 'сильнее бренд и конверсия'
+  - EN: 'stronger brand & conversion'
+- `ppt/slides/slide52.xml#83` (slide)
+  - RU: 'AI-скоринг и PlayBooks'
+  - EN: 'AI scoring & Playbooks'
+- `ppt/slides/slide52.xml#84` (slide)
+  - RU: 'меньше рисков и доработок'
+  - EN: 'fewer risks & less rework'
+- `ppt/slides/slide52.xml#88` (slide)
+  - RU: 'больше онлайн-продаж'
+  - EN: 'more online sales'
+- `ppt/slides/slide52.xml#91` (slide)
+  - RU: 'Единые измерения'
+  - EN: 'Unified measurement'
+- `ppt/slides/slide52.xml#92` (slide)
+  - RU: 'управление инвестициями'
+  - EN: 'investment management'
+- `ppt/slides/slide52.xml#96` (slide)
+  - RU: 'правила для других брендов'
+  - EN: 'rules for other brands'
+- `ppt/slides/slide52.xml#99` (slide)
+  - RU: 'РЕЗУЛЬТАТ 2027'
+  - EN: '2027 RESULT'
+- `ppt/notesSlides/notesSlide52.xml#1` (notes)
+  - RU: 'Слайд 49 · новый вариант: настоящий таймлайн H2 2026 | Q1 | Q2 | H2 2027 — этапы полосами на своих периодах, лесенкой вверх, итог-веха (ромб) на конце каждой полосы; задача и пункты — колонкой под своим периодом'
+  - EN: 'Slide 49 · new version: a true timeline H2 2026 | Q1 | Q2 | H2 2027 — stages as bars in their periods, stepping upward, an outcome milestone (diamond) at the end of each bar; objective and bullets in a column under their period'

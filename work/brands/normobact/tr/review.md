@@ -1,0 +1,2597 @@
+# Review RU → EN
+
+
+## Slide 0
+
+- `s0000`
+  - RU: 'Normobact L — стратегия 2027 · Акрихин × OMD'
+  - EN: 'Normobact L — 2027 strategy · Akrikhin × OMD'
+- `s0001`
+  - RU: 'Знак Акрихин'
+  - EN: 'Akrikhin logo'
+
+## Slide 1
+
+- `s0002`
+  - RU: 'Акрихин + OMD'
+  - EN: 'Akrikhin + OMD'
+- `s0003`
+  - RU: 'Классификация документа: конфиденциальная информация для внутреннего использования'
+  - EN: 'Document classification: confidential, for internal use only'
+
+## Slide 2
+
+- `s0004`
+  - RU: 'Цели и задачи для Нормобакт в 2027 году'
+  - EN: 'Normobact goals and objectives for 2027'
+- `s0005`
+  - RU: 'Продолжить поддержку Нормобакт в медиа и увеличить продажи до [[**745 тысяч**]] упаковок / [[**430 млн рублей**]] в 2027 году'
+  - EN: 'Continue Normobact media support; grow 2027 sales to [[**745K**]] units / [[**RUB 430M**]]'
+- `s0006`
+  - RU: 'Иконка'
+  - EN: 'Icon'
+- `s0007`
+  - RU: 'Вырастить знание бренда Нормобакт [[**+0,9 п.п.**]] и достичь показателя [[**8%**]]'
+  - EN: 'Grow Normobact brand awareness [[**+0.9 pp**]] to reach [[**8%**]]'
+- `s0008`
+  - RU: 'В коммуникации **выйти из клаттера** и образа еще одного пробиотика и убедить маму, что Нормобакт — это **лучший выбор для ее ребенка**, когда он испытывает проблемы из-за нарушения микрофлоры'
+  - EN: 'Messaging: **break through the clutter**, shed the “just another probiotic” image and convince mom that Normobact is **the best choice for her child** when gut microbiota imbalance causes problems'
+
+## Slide 3
+
+- `s0009`
+  - RU: 'Нормобакт / Offline Competitive Landscape'
+  - EN: 'Normobact / Offline Competitive Landscape'
+- `s0010`
+  - RU: 'Конкуренты концентрируют крупные бюджеты в отдельных сезонных окнах — при этом рост продаж зависит не только от масштаба, но и от момента выхода'
+  - EN: 'Competitors concentrate big budgets in specific seasonal windows — yet sales growth depends on timing as much as on scale'
+- `s0011`
+  - RU: 'Энтерол'
+  - EN: 'Enterol'
+- `s0012`
+  - RU: 'Линекс'
+  - EN: 'Linex'
+- `s0013`
+  - RU: 'Аципол'
+  - EN: 'Acipol'
+- `s0014`
+  - RU: 'Максилак Бэби'
+  - EN: 'Maxilac Baby'
+- `s0015`
+  - RU: 'Максилак'
+  - EN: 'Maxilac'
+- `s0016`
+  - RU: 'Бак-Сет'
+  - EN: 'Bac-Set'
+- `s0017`
+  - RU: 'Бифиформ'
+  - EN: 'Bifiform'
+- `s0018`
+  - RU: 'Синбиотик'
+  - EN: 'Synbiotic'
+- `s0019`
+  - RU: 'Динамика инвестиций'
+  - EN: 'Investment trend'
+- `s0020`
+  - RU: 'ДИНАМИКА ИНВЕСТИЦИЙ'
+  - EN: 'INVESTMENT TREND'
+- `s0021`
+  - RU: 'млн ₽, Mediascope'
+  - EN: 'RUB M, Mediascope'
+- `s0022`
+  - RU: 'Энтерол, млн ₽'
+  - EN: 'Enterol, RUB M'
+- `s0023`
+  - RU: 'янв 2023'
+  - EN: 'Jan 2023'
+- `s0024`
+  - RU: 'фев 2023'
+  - EN: 'Feb 2023'
+- `s0025`
+  - RU: 'мар 2023'
+  - EN: 'Mar 2023'
+- `s0026`
+  - RU: 'апр 2023'
+  - EN: 'Apr 2023'
+- `s0027`
+  - RU: 'май 2023'
+  - EN: 'May 2023'
+- `s0028`
+  - RU: 'июн 2023'
+  - EN: 'Jun 2023'
+- `s0029`
+  - RU: 'июл 2023'
+  - EN: 'Jul 2023'
+- `s0030`
+  - RU: 'авг 2023'
+  - EN: 'Aug 2023'
+- `s0031`
+  - RU: 'сен 2023'
+  - EN: 'Sep 2023'
+- `s0032`
+  - RU: 'окт 2023'
+  - EN: 'Oct 2023'
+- `s0033`
+  - RU: 'ноя 2023'
+  - EN: 'Nov 2023'
+- `s0034`
+  - RU: 'дек 2023'
+  - EN: 'Dec 2023'
+- `s0035`
+  - RU: 'янв 2024'
+  - EN: 'Jan 2024'
+- `s0036`
+  - RU: 'фев 2024'
+  - EN: 'Feb 2024'
+- `s0037`
+  - RU: 'мар 2024'
+  - EN: 'Mar 2024'
+- `s0038`
+  - RU: 'апр 2024'
+  - EN: 'Apr 2024'
+- `s0039`
+  - RU: 'май 2024'
+  - EN: 'May 2024'
+- `s0040`
+  - RU: 'июн 2024'
+  - EN: 'Jun 2024'
+- `s0041`
+  - RU: 'июл 2024'
+  - EN: 'Jul 2024'
+- `s0042`
+  - RU: 'авг 2024'
+  - EN: 'Aug 2024'
+- `s0043`
+  - RU: 'сен 2024'
+  - EN: 'Sep 2024'
+- `s0044`
+  - RU: 'окт 2024'
+  - EN: 'Oct 2024'
+- `s0045`
+  - RU: 'ноя 2024'
+  - EN: 'Nov 2024'
+- `s0046`
+  - RU: 'дек 2024'
+  - EN: 'Dec 2024'
+- `s0047`
+  - RU: 'янв 2025'
+  - EN: 'Jan 2025'
+- `s0048`
+  - RU: 'фев 2025'
+  - EN: 'Feb 2025'
+- `s0049`
+  - RU: 'мар 2025'
+  - EN: 'Mar 2025'
+- `s0050`
+  - RU: 'апр 2025'
+  - EN: 'Apr 2025'
+- `s0051`
+  - RU: 'май 2025'
+  - EN: 'May 2025'
+- `s0052`
+  - RU: 'июн 2025'
+  - EN: 'Jun 2025'
+- `s0053`
+  - RU: 'июл 2025'
+  - EN: 'Jul 2025'
+- `s0054`
+  - RU: 'авг 2025'
+  - EN: 'Aug 2025'
+- `s0055`
+  - RU: 'сен 2025'
+  - EN: 'Sep 2025'
+- `s0056`
+  - RU: 'окт 2025'
+  - EN: 'Oct 2025'
+- `s0057`
+  - RU: 'ноя 2025'
+  - EN: 'Nov 2025'
+- `s0058`
+  - RU: 'дек 2025'
+  - EN: 'Dec 2025'
+- `s0059`
+  - RU: 'янв 2026'
+  - EN: 'Jan 2026'
+- `s0060`
+  - RU: 'фев 2026'
+  - EN: 'Feb 2026'
+- `s0061`
+  - RU: 'мар 2026'
+  - EN: 'Mar 2026'
+- `s0062`
+  - RU: 'апр 2026'
+  - EN: 'Apr 2026'
+- `s0063`
+  - RU: 'май 2026'
+  - EN: 'May 2026'
+- `s0064`
+  - RU: 'июн 2026'
+  - EN: 'Jun 2026'
+- `s0065`
+  - RU: 'июл 2026'
+  - EN: 'Jul 2026'
+- `s0066`
+  - RU: 'авг 2026'
+  - EN: 'Aug 2026'
+- `s0067`
+  - RU: 'Линекс, млн ₽'
+  - EN: 'Linex, RUB M'
+- `s0068`
+  - RU: 'Аципол, млн ₽'
+  - EN: 'Acipol, RUB M'
+- `s0069`
+  - RU: 'Максилак Бэби, млн ₽'
+  - EN: 'Maxilac Baby, RUB M'
+- `s0070`
+  - RU: 'Максилак, млн ₽'
+  - EN: 'Maxilac, RUB M'
+- `s0071`
+  - RU: 'Бак-Сет, млн ₽'
+  - EN: 'Bac-Set, RUB M'
+- `s0072`
+  - RU: 'Бифиформ, млн ₽'
+  - EN: 'Bifiform, RUB M'
+- `s0073`
+  - RU: '2,4'
+  - EN: '2.4'
+- `s0074`
+  - RU: '7,3'
+  - EN: '7.3'
+- `s0075`
+  - RU: '5,6'
+  - EN: '5.6'
+- `s0076`
+  - RU: '7,5'
+  - EN: '7.5'
+- `s0077`
+  - RU: 'Энтерол, доля в инвестициях месяца'
+  - EN: 'Enterol, share of monthly spend'
+- `s0078`
+  - RU: 'Линекс, доля в инвестициях месяца'
+  - EN: 'Linex, share of monthly spend'
+- `s0079`
+  - RU: 'Аципол, доля в инвестициях месяца'
+  - EN: 'Acipol, share of monthly spend'
+- `s0080`
+  - RU: 'Максилак Бэби, доля в инвестициях месяца'
+  - EN: 'Maxilac Baby, share of monthly spend'
+- `s0081`
+  - RU: 'Максилак, доля в инвестициях месяца'
+  - EN: 'Maxilac, share of monthly spend'
+- `s0082`
+  - RU: 'Бак-Сет, доля в инвестициях месяца'
+  - EN: 'Bac-Set, share of monthly spend'
+- `s0083`
+  - RU: 'Бифиформ, доля в инвестициях месяца'
+  - EN: 'Bifiform, share of monthly spend'
+- `s0084`
+  - RU: 'Динамика продаж'
+  - EN: 'Sales trend'
+- `s0085`
+  - RU: 'ДИНАМИКА ПРОДАЖ'
+  - EN: 'SALES TREND'
+- `s0086`
+  - RU: 'млн ₽, IQVIA'
+  - EN: 'RUB M, IQVIA'
+- `s0087`
+  - RU: 'Синбиотик, млн ₽'
+  - EN: 'Synbiotic, RUB M'
+- `s0088`
+  - RU: 'янв'
+  - EN: 'Jan'
+- `s0089`
+  - RU: 'апр'
+  - EN: 'Apr'
+- `s0090`
+  - RU: 'июл'
+  - EN: 'Jul'
+- `s0091`
+  - RU: 'окт'
+  - EN: 'Oct'
+- `s0092`
+  - RU: '180 млн ₽'
+  - EN: 'RUB 180M'
+- `s0093`
+  - RU: '65 млн ₽'
+  - EN: 'RUB 65M'
+- `s0094`
+  - RU: '21 млн ₽'
+  - EN: 'RUB 21M'
+- `s0095`
+  - RU: '15 млн ₽'
+  - EN: 'RUB 15M'
+- `s0096`
+  - RU: '**Лидеры категории используют масштабные сезонные флайты для усиления позиции.**'
+  - EN: '**Category leaders run large seasonal flights to strengthen their position.**'
+- `s0097`
+  - RU: 'Энтерол и Линекс формируют основной объем инвестиций в категории (**180\xa0млн\xa0₽ и 65\xa0млн\xa0₽** соответственно), концентрируя активность в ключевые периоды спроса и обеспечивая высокий share of voice'
+  - EN: 'Enterol and Linex account for most category spend (**RUB 180M and 65M** respectively): they concentrate activity in peak demand periods and secure a high share of voice'
+- `s0098`
+  - RU: '**Усиление медиаподдержки сопровождается ростом продаж бренда.**'
+  - EN: '**More media support comes with higher brand sales.**'
+- `s0099`
+  - RU: 'Флайт Линекса на Нац.\xa0ТВ в январе–феврале 2026 позволил увеличить продажи **с 387\xa0млн\xa0₽ до 470\xa0млн\xa0₽ (+21%)**, подтверждая потенциал охватных размещений как инструмента стимулирования спроса'
+  - EN: 'Linex’s National TV flight in Jan–Feb 2026 lifted sales **from RUB 387M to 470M (+21%)** — high-reach placements do stimulate demand'
+- `s0100`
+  - RU: 'Флайт Аципола в сен–ноя 2023 увеличил продажи бренда **с 111\xa0млн до 236\xa0млн (×2)**, но в то же время флайт в начале года (фев–апр 2023) не оказал заметного положительного влияния на продажи'
+  - EN: 'Acipol’s Sep–Nov 2023 flight lifted brand sales **from RUB 111M to 236M (×2)**, while its early-year flight (Feb–Apr 2023) had no noticeable positive effect on sales'
+- `s0101`
+  - RU: 'Источник: Mediascope, IQVIA. 2026 budget — январь–август 2026 (сумма помесячных данных, расчёт OMD). SOS — доля бренда в инвестициях месяца'
+  - EN: 'Source: Mediascope, IQVIA. 2026 budget — Jan–Aug 2026 (sum of monthly data, OMD calculation). SOS — brand’s share of monthly spend'
+
+## Slide 4
+
+- `s0102`
+  - RU: 'По данным мониторинга, лидеры преимущественно используют охватное Нац.\xa0ТВ (Энтерол, Линекс в 2026, Аципол, Максилак — в 2025). Остальные конкуренты используют OOH, радио, OLV'
+  - EN: 'Monitoring shows the leaders rely mainly on high-reach National TV (Enterol and Linex in 2026, Acipol and Maxilac in 2025). Other competitors use OOH, radio and OLV'
+- `s0103`
+  - RU: 'ДОЛЯ ИНВЕСТИЦИЙ ПО КАНАЛАМ'
+  - EN: 'INVESTMENT SHARE BY CHANNEL'
+- `s0104`
+  - RU: 'Инвестиции по каналам'
+  - EN: 'Investment by channel'
+- `s0105`
+  - RU: 'ИНВЕСТИЦИИ ПО КАНАЛАМ'
+  - EN: 'INVESTMENT BY CHANNEL'
+- `s0106`
+  - RU: 'млн ₽'
+  - EN: 'RUB M'
+- `s0107`
+  - RU: 'Нац.\xa0ТВ'
+  - EN: 'Nat. TV'
+- `s0108`
+  - RU: 'Радио'
+  - EN: 'Radio'
+- `s0109`
+  - RU: 'Пресса'
+  - EN: 'Press'
+- `s0110`
+  - RU: 'Энтерол, янв–авг 2025'
+  - EN: 'Enterol, Jan–Aug 2025'
+- `s0111`
+  - RU: 'Энтерол, янв–авг 2026'
+  - EN: 'Enterol, Jan–Aug 2026'
+- `s0112`
+  - RU: 'Аципол, янв–авг 2025'
+  - EN: 'Acipol, Jan–Aug 2025'
+- `s0113`
+  - RU: 'Аципол, янв–авг 2026'
+  - EN: 'Acipol, Jan–Aug 2026'
+- `s0114`
+  - RU: 'Линекс, янв–авг 2025'
+  - EN: 'Linex, Jan–Aug 2025'
+- `s0115`
+  - RU: 'Линекс, янв–авг 2026'
+  - EN: 'Linex, Jan–Aug 2026'
+- `s0116`
+  - RU: 'Максилак Бэби, янв–авг 2025'
+  - EN: 'Maxilac Baby, Jan–Aug 2025'
+- `s0117`
+  - RU: 'Максилак Бэби, янв–авг 2026'
+  - EN: 'Maxilac Baby, Jan–Aug 2026'
+- `s0118`
+  - RU: 'Бак-Сет, янв–авг 2025'
+  - EN: 'Bac-Set, Jan–Aug 2025'
+- `s0119`
+  - RU: 'Бак-Сет, янв–авг 2026'
+  - EN: 'Bac-Set, Jan–Aug 2026'
+- `s0120`
+  - RU: 'Бифиформ, янв–авг 2025'
+  - EN: 'Bifiform, Jan–Aug 2025'
+- `s0121`
+  - RU: 'Бифиформ, янв–авг 2026'
+  - EN: 'Bifiform, Jan–Aug 2026'
+- `s0122`
+  - RU: 'Максилак, янв–авг 2025'
+  - EN: 'Maxilac, Jan–Aug 2025'
+- `s0123`
+  - RU: 'Максилак, янв–авг 2026'
+  - EN: 'Maxilac, Jan–Aug 2026'
+- `s0124`
+  - RU: 'Нац.\xa0ТВ, млн ₽'
+  - EN: 'Nat. TV, RUB M'
+- `s0125`
+  - RU: 'OOH, млн ₽'
+  - EN: 'OOH, RUB M'
+- `s0126`
+  - RU: 'Радио, млн ₽'
+  - EN: 'Radio, RUB M'
+- `s0127`
+  - RU: 'OLV, млн ₽'
+  - EN: 'OLV, RUB M'
+- `s0128`
+  - RU: 'Пресса, млн ₽'
+  - EN: 'Press, RUB M'
+- `s0129`
+  - RU: 'янв–авг 2025'
+  - EN: 'Jan–Aug 2025'
+- `s0130`
+  - RU: '103,0'
+  - EN: '103.0'
+- `s0131`
+  - RU: 'янв–авг 2026'
+  - EN: 'Jan–Aug 2026'
+- `s0132`
+  - RU: '180,0'
+  - EN: '180.0'
+- `s0133`
+  - RU: '84,5'
+  - EN: '84.5'
+- `s0134`
+  - RU: '4,1'
+  - EN: '4.1'
+- `s0135`
+  - RU: '65,1'
+  - EN: '65.1'
+- `s0136`
+  - RU: '23,9'
+  - EN: '23.9'
+- `s0137`
+  - RU: '0,02'
+  - EN: '0.02'
+- `s0138`
+  - RU: '0,03'
+  - EN: '0.03'
+- `s0139`
+  - RU: '20,9'
+  - EN: '20.9'
+- `s0140`
+  - RU: '0,36'
+  - EN: '0.36'
+- `s0141`
+  - RU: '14,6'
+  - EN: '14.6'
+- `s0142`
+  - RU: '3,2'
+  - EN: '3.2'
+- `s0143`
+  - RU: '3,8'
+  - EN: '3.8'
+- `s0144`
+  - RU: 'В 2026 году **Линекс полностью сфокусировал инвестиции на Нац.\xa0ТВ (65\xa0млн\xa0₽)**, сохраняя стратегию масштабного охвата аудитории родителей. Аналогичный подход использовали Энтерол, Аципол и Бифиформ в сезонные периоды'
+  - EN: 'In 2026, **Linex put its entire budget into National TV (RUB 65M)**, sticking to a broad-reach strategy for parents. Enterol, Acipol and Bifiform took the same approach in their seasonal windows'
+- `s0145`
+  - RU: 'Крупные игроки категории применяют **ТВ как основной драйвер знания**, тогда как бренды с меньшими инвестициями используют **радио и OOH** для поддержания присутствия и локального охвата'
+  - EN: 'Major category players use **TV as the main awareness driver**, while brands with smaller budgets rely on **radio and OOH** to stay visible and reach local audiences'
+- `s0146`
+  - RU: 'Источник: Mediascope. 2026 budget — январь–август 2026'
+  - EN: 'Source: Mediascope. 2026 budget — Jan–Aug 2026'
+
+## Slide 5
+
+- `s0147`
+  - RU: 'Нормобакт / Digital Competitive Landscape'
+  - EN: 'Normobact / Digital Competitive Landscape'
+- `s0148`
+  - RU: 'Конкуренты усиливают digital-поддержку для захвата спроса, тогда как Нормобакт сохраняет позиции при ограниченном медиавесе'
+  - EN: 'Competitors are stepping up digital support to capture demand, while Normobact holds its position on limited media weight'
+- `s0149`
+  - RU: 'Динамика инвестиций в digital-медиа и продаж'
+  - EN: 'Digital media investment and sales trend'
+- `s0150`
+  - RU: 'ДИНАМИКА ИНВЕСТИЦИЙ В DIGITAL-МЕДИА И ПРОДАЖ'
+  - EN: 'DIGITAL MEDIA INVESTMENT AND SALES TREND'
+- `s0151`
+  - RU: 'Нормобакт'
+  - EN: 'Normobact'
+- `s0152`
+  - RU: 'Бифидумбактерин'
+  - EN: 'Bifidumbacterin'
+- `s0153`
+  - RU: 'Продажи, млн ₽'
+  - EN: 'Sales, RUB M'
+- `s0154`
+  - RU: 'Нормобакт, млн ₽'
+  - EN: 'Normobact, RUB M'
+- `s0155`
+  - RU: '47,6'
+  - EN: '47.6'
+- `s0156`
+  - RU: '45,7'
+  - EN: '45.7'
+- `s0157`
+  - RU: '52,2'
+  - EN: '52.2'
+- `s0158`
+  - RU: '42,9'
+  - EN: '42.9'
+- `s0159`
+  - RU: '36,0'
+  - EN: '36.0'
+- `s0160`
+  - RU: '30,9'
+  - EN: '30.9'
+- `s0161`
+  - RU: '40,3'
+  - EN: '40.3'
+- `s0162`
+  - RU: '34,8'
+  - EN: '34.8'
+- `s0163`
+  - RU: '38,1'
+  - EN: '38.1'
+- `s0164`
+  - RU: '47,7'
+  - EN: '47.7'
+- `s0165`
+  - RU: '42,1'
+  - EN: '42.1'
+- `s0166`
+  - RU: '48,6'
+  - EN: '48.6'
+- `s0167`
+  - RU: '39,6'
+  - EN: '39.6'
+- `s0168`
+  - RU: '40,5'
+  - EN: '40.5'
+- `s0169`
+  - RU: '44,5'
+  - EN: '44.5'
+- `s0170`
+  - RU: '42,2'
+  - EN: '42.2'
+- `s0171`
+  - RU: '43,9'
+  - EN: '43.9'
+- `s0172`
+  - RU: '35,4'
+  - EN: '35.4'
+- `s0173`
+  - RU: '318,5'
+  - EN: '318.5'
+- `s0174`
+  - RU: '339,3'
+  - EN: '339.3'
+- `s0175`
+  - RU: '363,3'
+  - EN: '363.3'
+- `s0176`
+  - RU: '347,6'
+  - EN: '347.6'
+- `s0177`
+  - RU: '327,8'
+  - EN: '327.8'
+- `s0178`
+  - RU: '356,5'
+  - EN: '356.5'
+- `s0179`
+  - RU: '398,5'
+  - EN: '398.5'
+- `s0180`
+  - RU: '435,0'
+  - EN: '435.0'
+- `s0181`
+  - RU: '394,9'
+  - EN: '394.9'
+- `s0182`
+  - RU: '418,2'
+  - EN: '418.2'
+- `s0183`
+  - RU: '390,5'
+  - EN: '390.5'
+- `s0184`
+  - RU: '411,9'
+  - EN: '411.9'
+- `s0185`
+  - RU: '383,8'
+  - EN: '383.8'
+- `s0186`
+  - RU: '405,3'
+  - EN: '405.3'
+- `s0187`
+  - RU: '460,1'
+  - EN: '460.1'
+- `s0188`
+  - RU: '496,6'
+  - EN: '496.6'
+- `s0189`
+  - RU: '430,7'
+  - EN: '430.7'
+- `s0190`
+  - RU: '476,4'
+  - EN: '476.4'
+- `s0191`
+  - RU: '85,2'
+  - EN: '85.2'
+- `s0192`
+  - RU: '90,6'
+  - EN: '90.6'
+- `s0193`
+  - RU: '107,9'
+  - EN: '107.9'
+- `s0194`
+  - RU: '92,3'
+  - EN: '92.3'
+- `s0195`
+  - RU: '81,5'
+  - EN: '81.5'
+- `s0196`
+  - RU: '75,8'
+  - EN: '75.8'
+- `s0197`
+  - RU: '79,0'
+  - EN: '79.0'
+- `s0198`
+  - RU: '84,0'
+  - EN: '84.0'
+- `s0199`
+  - RU: '85,6'
+  - EN: '85.6'
+- `s0200`
+  - RU: '95,7'
+  - EN: '95.7'
+- `s0201`
+  - RU: '93,0'
+  - EN: '93.0'
+- `s0202`
+  - RU: '117,7'
+  - EN: '117.7'
+- `s0203`
+  - RU: '90,3'
+  - EN: '90.3'
+- `s0204`
+  - RU: '94,5'
+  - EN: '94.5'
+- `s0205`
+  - RU: '108,9'
+  - EN: '108.9'
+- `s0206`
+  - RU: '100,6'
+  - EN: '100.6'
+- `s0207`
+  - RU: '86,7'
+  - EN: '86.7'
+- `s0208`
+  - RU: '80,4'
+  - EN: '80.4'
+- `s0209`
+  - RU: '93,5'
+  - EN: '93.5'
+- `s0210`
+  - RU: '99,6'
+  - EN: '99.6'
+- `s0211`
+  - RU: '106,1'
+  - EN: '106.1'
+- `s0212`
+  - RU: '89,5'
+  - EN: '89.5'
+- `s0213`
+  - RU: '78,4'
+  - EN: '78.4'
+- `s0214`
+  - RU: '68,8'
+  - EN: '68.8'
+- `s0215`
+  - RU: '70,6'
+  - EN: '70.6'
+- `s0216`
+  - RU: '74,8'
+  - EN: '74.8'
+- `s0217`
+  - RU: '81,7'
+  - EN: '81.7'
+- `s0218`
+  - RU: '87,6'
+  - EN: '87.6'
+- `s0219`
+  - RU: '84,7'
+  - EN: '84.7'
+- `s0220`
+  - RU: '105,5'
+  - EN: '105.5'
+- `s0221`
+  - RU: '94,0'
+  - EN: '94.0'
+- `s0222`
+  - RU: '92,7'
+  - EN: '92.7'
+- `s0223`
+  - RU: '79,6'
+  - EN: '79.6'
+- `s0224`
+  - RU: '71,2'
+  - EN: '71.2'
+- `s0225`
+  - RU: 'Доля продаж, %'
+  - EN: 'Sales share, %'
+- `s0226`
+  - RU: '1,8'
+  - EN: '1.8'
+- `s0227`
+  - RU: '1,6'
+  - EN: '1.6'
+- `s0228`
+  - RU: '1,5'
+  - EN: '1.5'
+- `s0229`
+  - RU: '1,4'
+  - EN: '1.4'
+- `s0230`
+  - RU: '1,3'
+  - EN: '1.3'
+- `s0231`
+  - RU: '1,0'
+  - EN: '1.0'
+- `s0232`
+  - RU: '12,1'
+  - EN: '12.1'
+- `s0233`
+  - RU: '11,2'
+  - EN: '11.2'
+- `s0234`
+  - RU: '12,4'
+  - EN: '12.4'
+- `s0235`
+  - RU: '12,7'
+  - EN: '12.7'
+- `s0236`
+  - RU: '14,9'
+  - EN: '14.9'
+- `s0237`
+  - RU: '15,7'
+  - EN: '15.7'
+- `s0238`
+  - RU: '16,4'
+  - EN: '16.4'
+- `s0239`
+  - RU: '14,2'
+  - EN: '14.2'
+- `s0240`
+  - RU: '14,0'
+  - EN: '14.0'
+- `s0241`
+  - RU: '13,9'
+  - EN: '13.9'
+- `s0242`
+  - RU: '12,2'
+  - EN: '12.2'
+- `s0243`
+  - RU: '13,7'
+  - EN: '13.7'
+- `s0244`
+  - RU: '14,1'
+  - EN: '14.1'
+- `s0245`
+  - RU: '14,3'
+  - EN: '14.3'
+- `s0246`
+  - RU: '15,9'
+  - EN: '15.9'
+- `s0247`
+  - RU: '14,8'
+  - EN: '14.8'
+- `s0248`
+  - RU: '17,0'
+  - EN: '17.0'
+- `s0249`
+  - RU: '3,3'
+  - EN: '3.3'
+- `s0250`
+  - RU: '3,1'
+  - EN: '3.1'
+- `s0251`
+  - RU: '3,5'
+  - EN: '3.5'
+- `s0252`
+  - RU: '3,4'
+  - EN: '3.4'
+- `s0253`
+  - RU: '3,0'
+  - EN: '3.0'
+- `s0254`
+  - RU: '3,6'
+  - EN: '3.6'
+- `s0255`
+  - RU: '2,9'
+  - EN: '2.9'
+- `s0256`
+  - RU: '2,8'
+  - EN: '2.8'
+- `s0257`
+  - RU: '2,7'
+  - EN: '2.7'
+- `s0258`
+  - RU: 'Digital-бюджет, млн ₽'
+  - EN: 'Digital budget, RUB M'
+- `s0259`
+  - RU: '0,01'
+  - EN: '0.01'
+- `s0260`
+  - RU: '0,05'
+  - EN: '0.05'
+- `s0261`
+  - RU: '0,57'
+  - EN: '0.57'
+- `s0262`
+  - RU: '0,54'
+  - EN: '0.54'
+- `s0263`
+  - RU: '1,15'
+  - EN: '1.15'
+- `s0264`
+  - RU: '0,28'
+  - EN: '0.28'
+- `s0265`
+  - RU: '0,08'
+  - EN: '0.08'
+- `s0266`
+  - RU: '0,09'
+  - EN: '0.09'
+- `s0267`
+  - RU: '0,80'
+  - EN: '0.80'
+- `s0268`
+  - RU: '3,95'
+  - EN: '3.95'
+- `s0269`
+  - RU: '5,76'
+  - EN: '5.76'
+- `s0270`
+  - RU: '4,29'
+  - EN: '4.29'
+- `s0271`
+  - RU: '4,56'
+  - EN: '4.56'
+- `s0272`
+  - RU: '1,73'
+  - EN: '1.73'
+- `s0273`
+  - RU: '6,45'
+  - EN: '6.45'
+- `s0274`
+  - RU: '1,57'
+  - EN: '1.57'
+- `s0275`
+  - RU: '1,78'
+  - EN: '1.78'
+- `s0276`
+  - RU: '1,89'
+  - EN: '1.89'
+- `s0277`
+  - RU: '2,66'
+  - EN: '2.66'
+- `s0278`
+  - RU: '1,93'
+  - EN: '1.93'
+- `s0279`
+  - RU: '3,50'
+  - EN: '3.50'
+- `s0280`
+  - RU: '3,72'
+  - EN: '3.72'
+- `s0281`
+  - RU: '3,16'
+  - EN: '3.16'
+- `s0282`
+  - RU: '5,01'
+  - EN: '5.01'
+- `s0283`
+  - RU: '5,02'
+  - EN: '5.02'
+- `s0284`
+  - RU: '7,58'
+  - EN: '7.58'
+- `s0285`
+  - RU: '4,89'
+  - EN: '4.89'
+- `s0286`
+  - RU: '5,75'
+  - EN: '5.75'
+- `s0287`
+  - RU: '3,46'
+  - EN: '3.46'
+- `s0288`
+  - RU: '4,55'
+  - EN: '4.55'
+- `s0289`
+  - RU: '9,73'
+  - EN: '9.73'
+- `s0290`
+  - RU: '5,77'
+  - EN: '5.77'
+- `s0291`
+  - RU: '1,94'
+  - EN: '1.94'
+- `s0292`
+  - RU: '4,53'
+  - EN: '4.53'
+- `s0293`
+  - RU: '0,70'
+  - EN: '0.70'
+- `s0294`
+  - RU: '4,49'
+  - EN: '4.49'
+- `s0295`
+  - RU: '0,53'
+  - EN: '0.53'
+- `s0296`
+  - RU: '3,87'
+  - EN: '3.87'
+- `s0297`
+  - RU: '2,50'
+  - EN: '2.50'
+- `s0298`
+  - RU: '5,31'
+  - EN: '5.31'
+- `s0299`
+  - RU: '3,18'
+  - EN: '3.18'
+- `s0300`
+  - RU: '2,43'
+  - EN: '2.43'
+- `s0301`
+  - RU: '2,32'
+  - EN: '2.32'
+- `s0302`
+  - RU: '2,89'
+  - EN: '2.89'
+- `s0303`
+  - RU: '9,79'
+  - EN: '9.79'
+- `s0304`
+  - RU: '3,22'
+  - EN: '3.22'
+- `s0305`
+  - RU: '0,06'
+  - EN: '0.06'
+- `s0306`
+  - RU: '0,00'
+  - EN: '0.00'
+- `s0307`
+  - RU: '0,04'
+  - EN: '0.04'
+- `s0308`
+  - RU: '0,10'
+  - EN: '0.10'
+- `s0309`
+  - RU: '0,13'
+  - EN: '0.13'
+- `s0310`
+  - RU: '0,11'
+  - EN: '0.11'
+- `s0311`
+  - RU: '0,24'
+  - EN: '0.24'
+- `s0312`
+  - RU: '0,18'
+  - EN: '0.18'
+- `s0313`
+  - RU: 'фев'
+  - EN: 'Feb'
+- `s0314`
+  - RU: 'мар'
+  - EN: 'Mar'
+- `s0315`
+  - RU: 'май'
+  - EN: 'May'
+- `s0316`
+  - RU: 'июн'
+  - EN: 'Jun'
+- `s0317`
+  - RU: 'авг'
+  - EN: 'Aug'
+- `s0318`
+  - RU: 'сен'
+  - EN: 'Sep'
+- `s0319`
+  - RU: 'ноя'
+  - EN: 'Nov'
+- `s0320`
+  - RU: 'дек'
+  - EN: 'Dec'
+- `s0321`
+  - RU: 'Доля инвестиций по каналам'
+  - EN: 'Investment share by channel'
+- `s0322`
+  - RU: '40,2 млн ₽'
+  - EN: 'RUB 40.2M'
+- `s0323`
+  - RU: '33,1 млн ₽'
+  - EN: 'RUB 33.1M'
+- `s0324`
+  - RU: '2,8 млн ₽'
+  - EN: 'RUB 2.8M'
+- `s0325`
+  - RU: '0,9 млн ₽'
+  - EN: 'RUB 0.9M'
+- `s0326`
+  - RU: 'Энтерол и Бак-Сет **лидируют по объему digital-инвестиций** (40,2\xa0млн\xa0₽ и 33,1\xa0млн\xa0₽ соответственно), делая основной акцент на **Paid Search (51% и 84% бюджета)**. В июне бренды существенно увеличили медиаподдержку, усиливая захват сформированного спроса'
+  - EN: 'Enterol and Bac-Set **lead in digital investment** (RUB 40.2M and 33.1M), mostly in **Paid Search (51% and 84%\xa0of\xa0budget)**. In June both brands sharply increased media support to capture more existing demand'
+- `s0327`
+  - RU: 'При digital-бюджете 2,8\xa0млн\xa0₽ Нормобакт **поддерживал продажи на уровне 39–44\xa0млн\xa0₽** в начале года. **Снижение продаж в июне до 35,4\xa0млн\xa0₽** происходило на фоне минимальной активности и усиления давления со стороны конкурентов'
+  - EN: 'With a RUB 2.8M digital budget, Normobact **held sales at RUB 39–44M** early in the year. **The June dip to RUB 35.4M** came amid minimal activity and growing competitive pressure'
+- `s0328`
+  - RU: 'Источник: DigitalBudget, IQVIA. Estimated by DigitalBudget. Not all channels are covered by the monitoring'
+  - EN: 'Source: DigitalBudget, IQVIA. Estimated by DigitalBudget. Not all channels are covered by the monitoring'
+
+## Slide 6
+
+- `s0329`
+  - RU: 'В 2026 году конкуренты активно размещаются в OLV и display. Отличительная черта Энтерол и Бифиформ — оккейжены под ситуации применения'
+  - EN: 'In 2026, competitors are active in OLV and display. Enterol and Bifiform stand out with messaging built around usage occasions'
+- `s0330`
+  - RU: 'ЛИНЕКС'
+  - EN: 'LINEX'
+- `s0331`
+  - RU: 'Линекс — OLV-ролик'
+  - EN: 'Linex — OLV video'
+- `s0332`
+  - RU: 'ЭНТЕРОЛ'
+  - EN: 'ENTEROL'
+- `s0333`
+  - RU: 'Коммуникация под оккейжены «диарея» и «антибиотики»'
+  - EN: 'Messaging around “diarrhea” and “antibiotics” occasions'
+- `s0334`
+  - RU: 'Энтерол — OLV-ролик 1'
+  - EN: 'Enterol — OLV video 1'
+- `s0335`
+  - RU: 'Энтерол — OLV-ролик 2'
+  - EN: 'Enterol — OLV video 2'
+- `s0336`
+  - RU: 'Энтерол — OLV-ролик 3'
+  - EN: 'Enterol — OLV video 3'
+- `s0337`
+  - RU: 'БИФИФОРМ'
+  - EN: 'BIFIFORM'
+- `s0338`
+  - RU: 'Коммуникация под оккейжены «диарея», «период отпусков», «антибиотики» и сезонное промо в период аллергии'
+  - EN: 'Messaging around “diarrhea”, “vacation season” and “antibiotics” occasions, plus an allergy-season promo'
+- `s0339`
+  - RU: 'Бифиформ — display-креатив'
+  - EN: 'Bifiform — display creative'
+
+## Slide 7
+
+- `s0340`
+  - RU: 'Все конкуренты присутствуют в e-com / e-pharm в моно- или ко-промо кампаниях'
+  - EN: 'All competitors run single-brand or co-promo campaigns in e-com / e-pharm'
+- `s0341`
+  - RU: 'Линекс — промо в e-com / e-pharm'
+  - EN: 'Linex — e-com / e-pharm promo'
+- `s0342`
+  - RU: '**Скидка −40%** за 2 упаковки'
+  - EN: '**40% off** when you buy 2 packs'
+- `s0343`
+  - RU: 'Энтерол — промо в e-com / e-pharm'
+  - EN: 'Enterol — e-com / e-pharm promo'
+- `s0344`
+  - RU: '**Скидка 260 ₽** на 2-ю упаковку'
+  - EN: '**RUB 260 off** the 2nd pack'
+- `s0345`
+  - RU: 'с 1 по 30 апреля 2026 года'
+  - EN: 'Apr 1–30, 2026'
+- `s0346`
+  - RU: 'Бифиформ — промо в e-com / e-pharm'
+  - EN: 'Bifiform — e-com / e-pharm promo'
+- `s0347`
+  - RU: '**Скидки до −20%**'
+  - EN: '**Up to 20% off**'
+- `s0348`
+  - RU: 'с 01.06.2026 по 30.06.2026'
+  - EN: 'Jun 1–30, 2026'
+- `s0349`
+  - RU: 'Максилак — промо в e-com / e-pharm'
+  - EN: 'Maxilac — e-com / e-pharm promo'
+- `s0350`
+  - RU: 'МАКСИЛАК'
+  - EN: 'MAXILAC'
+- `s0351`
+  - RU: '**Товар дня:** товары по специальной цене'
+  - EN: '**Deal of the day:** special prices'
+- `s0352`
+  - RU: 'Источник: … 2026 год'
+  - EN: 'Source: … 2026'
+
+## Slide 8
+
+- `s0353`
+  - RU: 'Креативные материалы Нормобакт L vs Энтерол:\nбренды визуально разведены'
+  - EN: 'Normobact L vs Enterol creatives:\ntwo visually distinct brands'
+- `s0354`
+  - RU: 'Сравнение показывает: различаются не только палитра, но и тип сторителлинга, герои и роль продукта в коммуникации'
+  - EN: 'Beyond the palette, the brands differ in storytelling, heroes and the product’s role in communication'
+- `s0355`
+  - RU: 'НОРМОБАКТ'
+  - EN: 'NORMOBACT'
+- `s0356`
+  - RU: 'Функциональная family health-коммуникация'
+  - EN: 'Functional family health communication'
+- `s0357`
+  - RU: 'голубой / синий / красный / белый'
+  - EN: 'light blue / blue / red / white'
+- `s0358`
+  - RU: 'светлая медицинская эстетика, много воздуха'
+  - EN: 'clean medical look, lots of white space'
+- `s0359`
+  - RU: 'семья и ребенок как основной эмоциональный якорь'
+  - EN: 'family and child as the main emotional anchor'
+- `s0360`
+  - RU: 'акцент на функции: микрофлора, иммунитет, LGG®'
+  - EN: 'functional focus: gut microbiota, immunity, LGG®'
+- `s0361`
+  - RU: 'Нормобакт L — креатив'
+  - EN: 'Normobact L creative'
+- `s0362`
+  - RU: 'Питание /\nприкорм (1–3 года)'
+  - EN: 'Feeding /\nsolids (1–3 yrs)'
+- `s0363`
+  - RU: 'Антибиотики (3–8 лет)'
+  - EN: 'Antibiotics (3–8 yrs)'
+- `s0364`
+  - RU: 'Кишечный эпизод\n(3–10 лет)'
+  - EN: 'Stomach bug\n(3–10 yrs)'
+- `s0365`
+  - RU: 'Яркий брендовый мир с персонажами'
+  - EN: 'Bright brand world with characters'
+- `s0366`
+  - RU: 'темно-синий / желтый / зеленый / розовый'
+  - EN: 'navy / yellow / green / pink'
+- `s0367`
+  - RU: 'контрастная палитра и высокая визуальная заметность'
+  - EN: 'high-contrast palette and strong visual impact'
+- `s0368`
+  - RU: 'персонажи и «мир бренда» вместо реалистичной семьи'
+  - EN: 'characters and a “brand world”, not a real family'
+- `s0369`
+  - RU: 'промо и CTA встроены в яркие продуктовые сцены'
+  - EN: 'promo and CTAs built into bright product scenes'
+- `s0370`
+  - RU: 'Энтерол — креатив'
+  - EN: 'Enterol creative'
+- `s0371`
+  - RU: 'КЛЮЧЕВОЙ ВЫВОД'
+  - EN: 'KEY TAKEAWAY'
+- `s0372`
+  - RU: 'Даже в одной категории коммуникация не выглядит похожей — Нормобакт строит доверие через семейный и функциональный контекст, Энтерол — через заметный персонажный бренд-мир и промо-сценарии'
+  - EN: 'Same category, very different communication: Normobact builds trust through family and functional benefits, Enterol through a highly visible character-led brand world and promos'
+- `s0373`
+  - RU: 'Источники: Mediascope, jan 2025 – jun 2026, … jan 2026 – jul 2026, Orion, aug 2026'
+  - EN: 'Sources: Mediascope, Jan 2025\xa0–\xa0Jun 2026, … Jan 2026\xa0–\xa0Jul 2026, Orion, Aug 2026'
+
+## Slide 9
+
+- `s0374`
+  - RU: 'Посадочные: различается первый экран, ритм и цветовая система'
+  - EN: 'Landing pages: different hero screens, rhythm and color systems'
+- `s0375`
+  - RU: 'На посадочной бренды используют разные визуальные коды: от светлой family health-логики до контрастного персонажного мира'
+  - EN: 'Different visual codes: from a light family health look to a high-contrast character world'
+- `s0376`
+  - RU: 'первый экран светлый, с фотографией семьи и ребенка'
+  - EN: 'light hero screen with a photo of a family and child'
+- `s0377`
+  - RU: 'ключевые выгоды вынесены через понятные иконки'
+  - EN: 'key benefits shown with clear icons'
+- `s0378`
+  - RU: 'палитра удерживается в медицинском голубом / синем диапазоне'
+  - EN: 'palette stays within a medical light blue / blue range'
+- `s0379`
+  - RU: 'темный фон + большой желтый бренд-якорь на первом экране'
+  - EN: 'dark background + big yellow brand anchor on the hero screen'
+- `s0380`
+  - RU: 'персонажная коммуникация и игровые видео-сценарии'
+  - EN: 'character-led messaging and playful video stories'
+- `s0381`
+  - RU: 'более контрастные CTA: «Как принимать» / «Узнать цену»'
+  - EN: 'higher-contrast CTAs: “How to take” / “Check price”'
+- `s0382`
+  - RU: 'Скриншот посадочной normobact.ru'
+  - EN: 'normobact.ru landing screenshot'
+- `s0383`
+  - RU: 'Визуальная логика Нормобакта'
+  - EN: 'Normobact’s visual logic'
+- `s0384`
+  - RU: 'Скриншот посадочной enterol.ru'
+  - EN: 'enterol.ru landing screenshot'
+- `s0385`
+  - RU: 'Визуальная логика Энтерола'
+  - EN: 'Enterol’s visual logic'
+- `s0386`
+  - RU: 'Источник: скриншоты landing pages normobact.ru и enterol.ru, август 2026'
+  - EN: 'Source: normobact.ru and enterol.ru landing page screenshots, Aug 2026'
+
+## Slide 10
+
+- `s0387`
+  - RU: 'Нормобакт / Search demand dynamics / 2026'
+  - EN: 'Normobact / Search demand dynamics / 2026'
+- `s0388`
+  - RU: 'В Wordstat спрос на Нормобакт прирастает менее активно, чем у категории: +10% vs +25% у категории; на Ozon бренд, наоборот, опередил категорию с результатом +8% к средненедельному спросу марта–апреля'
+  - EN: 'Wordstat: Normobact demand grew more slowly than the category (+10% vs +25%). Ozon:\xa0the\xa0brand outpaced the category, +8% vs the Mar–Apr weekly average'
+- `s0389`
+  - RU: 'WORDSTAT: ДИНАМИКА ЗАПРОСОВ'
+  - EN: 'WORDSTAT: SEARCH TRENDS'
+- `s0390`
+  - RU: 'Wordstat: динамика запросов'
+  - EN: 'Wordstat: search trends'
+- `s0391`
+  - RU: 'линии — индекс запросов'
+  - EN: 'lines — query index'
+- `s0392`
+  - RU: 'категория'
+  - EN: 'Category'
+- `s0393`
+  - RU: 'янв–фев'
+  - EN: 'Jan–Feb'
+- `s0394`
+  - RU: 'июнь–август'
+  - EN: 'Jun–Aug'
+- `s0395`
+  - RU: 'Wordstat · категория, индекс'
+  - EN: 'Wordstat · category, index'
+- `s0396`
+  - RU: 'Wordstat · Нормобакт, индекс'
+  - EN: 'Wordstat · Normobact, index'
+- `s0397`
+  - RU: 'OZON: ДИНАМИКА ЗАПРОСОВ'
+  - EN: 'OZON: SEARCH TRENDS'
+- `s0398`
+  - RU: 'Ozon: динамика запросов'
+  - EN: 'Ozon: search trends'
+- `s0399`
+  - RU: 'март–апрель'
+  - EN: 'Mar–Apr'
+- `s0400`
+  - RU: 'август'
+  - EN: 'Aug'
+- `s0401`
+  - RU: 'Данные Ozon доступны с 23.03.2026'
+  - EN: 'Ozon data from Mar 23, 2026'
+- `s0402`
+  - RU: 'Ozon · категория, индекс'
+  - EN: 'Ozon · category, index'
+- `s0403`
+  - RU: 'Ozon · Нормобакт, индекс'
+  - EN: 'Ozon · Normobact, index'
+- `s0404`
+  - RU: 'ПОКАЗЫ КАМПАНИИ, ТЫС.'
+  - EN: 'CAMPAIGN IMPRESSIONS, K'
+- `s0405`
+  - RU: 'Показы кампании, тыс.'
+  - EN: 'Campaign impressions, K'
+- `s0406`
+  - RU: 'Средний недельный спрос июнь–август vs янв–фев'
+  - EN: 'Average weekly demand, Jun–Aug vs Jan–Feb'
+- `s0407`
+  - RU: 'Поисковый спрос на Нормобакт вырос на 10%, но категория росла быстрее (+25%). В 2027 г. важно усиливать присутствие Нормобакта в категорийном и контентном поиске и связывать его с брендовой коммуникацией. Эффект оценивать по динамике брендовых запросов, доле поиска и CR'
+  - EN: 'Search demand for Normobact grew 10%, but the category grew faster (+25%). In 2027, Normobact needs a stronger presence in category and content search, tied to brand communication. Measure the effect by branded query trends, search share and CR'
+- `s0408`
+  - RU: 'На Ozon спрос на Нормобакт вырос на 8% при менее динамичном росте категории. В 2027 г. необходимо усилить продвижение карточки в поиске Ozon, обеспечить наличие и промоподдержку и повышать конверсию за счёт контента и органических отзывов'
+  - EN: 'On Ozon, Normobact demand grew 8% while the category grew more slowly. In 2027, we need to push the product page in Ozon search, secure availability and promo support, and lift conversion with content and organic reviews'
+- `s0409`
+  - RU: 'Нормобакт · Wordstat'
+  - EN: 'Normobact · Wordstat'
+- `s0410`
+  - RU: 'Категория · Wordstat'
+  - EN: 'Category · Wordstat'
+- `s0411`
+  - RU: 'ВЫВОД'
+  - EN: 'TAKEAWAY'
+- `s0412`
+  - RU: 'Нормобакт · Ozon'
+  - EN: 'Normobact · Ozon'
+- `s0413`
+  - RU: 'Категория · Ozon'
+  - EN: 'Category · Ozon'
+- `s0414`
+  - RU: 'Средний недельный спрос август vs март–апрель'
+  - EN: 'Average weekly demand, Aug vs Mar–Apr'
+- `s0415`
+  - RU: 'Источник: данные Ozon* и Яндекс Вордстат; данные Ozon доступны с 23.03.2026. Индекс запросов = значение недели / значение предыдущей недели × 100\nДля сравнения в выводах: Wordstat — средняя неделя июнь–август vs январь–февраль; Ozon — средний недельный спрос август vs март–апрель'
+  - EN: 'Source: Ozon* and Yandex Wordstat data; Ozon data from Mar 23, 2026. Query index = week value / previous week value × 100\nComparisons in takeaways: Wordstat — average week, Jun–Aug vs Jan–Feb; Ozon — average weekly demand, Aug vs Mar–Apr'
+
+## Slide 11
+
+- `s0416`
+  - RU: 'Сезонность спроса сохраняется'
+  - EN: 'Demand seasonality holds'
+- `s0417`
+  - RU: 'В 2025 году пик приходится на зиму и осень,\nа в 1ПГ 2026 брендовый спрос ведет себя по-разному'
+  - EN: 'In 2025, demand peaked in winter and fall;\nin H1 2026, brand demand diverged'
+- `s0418`
+  - RU: '1ПГ 2026'
+  - EN: 'H1 2026'
+- `s0419`
+  - RU: 'тыс. запросов'
+  - EN: 'K queries'
+- `s0420`
+  - RU: 'Янв'
+  - EN: 'Jan'
+- `s0421`
+  - RU: 'Фев'
+  - EN: 'Feb'
+- `s0422`
+  - RU: 'Мар'
+  - EN: 'Mar'
+- `s0423`
+  - RU: 'Апр'
+  - EN: 'Apr'
+- `s0424`
+  - RU: 'Май'
+  - EN: 'May'
+- `s0425`
+  - RU: 'Июн'
+  - EN: 'Jun'
+- `s0426`
+  - RU: 'Июл'
+  - EN: 'Jul'
+- `s0427`
+  - RU: 'Авг'
+  - EN: 'Aug'
+- `s0428`
+  - RU: 'Сен'
+  - EN: 'Sep'
+- `s0429`
+  - RU: 'Окт'
+  - EN: 'Oct'
+- `s0430`
+  - RU: 'Ноя'
+  - EN: 'Nov'
+- `s0431`
+  - RU: 'Дек'
+  - EN: 'Dec'
+- `s0432`
+  - RU: 'Бренды'
+  - EN: 'Brands'
+- `s0433`
+  - RU: '37,3'
+  - EN: '37.3'
+- `s0434`
+  - RU: '37,6'
+  - EN: '37.6'
+- `s0435`
+  - RU: '38,9'
+  - EN: '38.9'
+- `s0436`
+  - RU: '33,1'
+  - EN: '33.1'
+- `s0437`
+  - RU: '27,6'
+  - EN: '27.6'
+- `s0438`
+  - RU: '27,1'
+  - EN: '27.1'
+- `s0439`
+  - RU: '30,4'
+  - EN: '30.4'
+- `s0440`
+  - RU: '28,9'
+  - EN: '28.9'
+- `s0441`
+  - RU: '34,6'
+  - EN: '34.6'
+- `s0442`
+  - RU: '33,0'
+  - EN: '33.0'
+- `s0443`
+  - RU: '33,8'
+  - EN: '33.8'
+- `s0444`
+  - RU: '29,1'
+  - EN: '29.1'
+- `s0445`
+  - RU: '30,0'
+  - EN: '30.0'
+- `s0446`
+  - RU: '33,9'
+  - EN: '33.9'
+- `s0447`
+  - RU: '32,2'
+  - EN: '32.2'
+- `s0448`
+  - RU: '29,4'
+  - EN: '29.4'
+- `s0449`
+  - RU: '385,7'
+  - EN: '385.7'
+- `s0450`
+  - RU: '374,5'
+  - EN: '374.5'
+- `s0451`
+  - RU: '404,7'
+  - EN: '404.7'
+- `s0452`
+  - RU: '353,7'
+  - EN: '353.7'
+- `s0453`
+  - RU: '368,9'
+  - EN: '368.9'
+- `s0454`
+  - RU: '443,1'
+  - EN: '443.1'
+- `s0455`
+  - RU: '488,2'
+  - EN: '488.2'
+- `s0456`
+  - RU: '399,0'
+  - EN: '399.0'
+- `s0457`
+  - RU: '429,6'
+  - EN: '429.6'
+- `s0458`
+  - RU: '401,8'
+  - EN: '401.8'
+- `s0459`
+  - RU: '390,6'
+  - EN: '390.6'
+- `s0460`
+  - RU: '402,2'
+  - EN: '402.2'
+- `s0461`
+  - RU: '374,2'
+  - EN: '374.2'
+- `s0462`
+  - RU: '415,6'
+  - EN: '415.6'
+- `s0463`
+  - RU: '415,7'
+  - EN: '415.7'
+- `s0464`
+  - RU: '366,4'
+  - EN: '366.4'
+- `s0465`
+  - RU: '455,6'
+  - EN: '455.6'
+- `s0466`
+  - RU: 'Категория и проблематика'
+  - EN: 'Category & problem queries'
+- `s0467`
+  - RU: 'Пробиотик для детей'
+  - EN: 'Probiotic for kids'
+- `s0468`
+  - RU: '13,2'
+  - EN: '13.2'
+- `s0469`
+  - RU: '15,1'
+  - EN: '15.1'
+- `s0470`
+  - RU: '16,5'
+  - EN: '16.5'
+- `s0471`
+  - RU: '9,8'
+  - EN: '9.8'
+- `s0472`
+  - RU: '9,3'
+  - EN: '9.3'
+- `s0473`
+  - RU: '9,9'
+  - EN: '9.9'
+- `s0474`
+  - RU: '10,8'
+  - EN: '10.8'
+- `s0475`
+  - RU: '11,5'
+  - EN: '11.5'
+- `s0476`
+  - RU: '13,1'
+  - EN: '13.1'
+- `s0477`
+  - RU: '13,0'
+  - EN: '13.0'
+- `s0478`
+  - RU: '11,1'
+  - EN: '11.1'
+- `s0479`
+  - RU: '9,7'
+  - EN: '9.7'
+- `s0480`
+  - RU: 'Пребиотики для детей'
+  - EN: 'Prebiotics for kids'
+- `s0481`
+  - RU: '4,8'
+  - EN: '4.8'
+- `s0482`
+  - RU: '5,1'
+  - EN: '5.1'
+- `s0483`
+  - RU: '3,9'
+  - EN: '3.9'
+- `s0484`
+  - RU: '4,0'
+  - EN: '4.0'
+- `s0485`
+  - RU: '4,6'
+  - EN: '4.6'
+- `s0486`
+  - RU: '3,7'
+  - EN: '3.7'
+- `s0487`
+  - RU: '4,5'
+  - EN: '4.5'
+- `s0488`
+  - RU: 'Микрофлора кишечника'
+  - EN: 'Gut flora'
+- `s0489`
+  - RU: '72,7'
+  - EN: '72.7'
+- `s0490`
+  - RU: '80,2'
+  - EN: '80.2'
+- `s0491`
+  - RU: '68,3'
+  - EN: '68.3'
+- `s0492`
+  - RU: '59,4'
+  - EN: '59.4'
+- `s0493`
+  - RU: '56,7'
+  - EN: '56.7'
+- `s0494`
+  - RU: '54,3'
+  - EN: '54.3'
+- `s0495`
+  - RU: '55,8'
+  - EN: '55.8'
+- `s0496`
+  - RU: '58,8'
+  - EN: '58.8'
+- `s0497`
+  - RU: '69,2'
+  - EN: '69.2'
+- `s0498`
+  - RU: '64,8'
+  - EN: '64.8'
+- `s0499`
+  - RU: '60,0'
+  - EN: '60.0'
+- `s0500`
+  - RU: '65,8'
+  - EN: '65.8'
+- `s0501`
+  - RU: '64,4'
+  - EN: '64.4'
+- `s0502`
+  - RU: '53,9'
+  - EN: '53.9'
+- `s0503`
+  - RU: '61,7'
+  - EN: '61.7'
+- `s0504`
+  - RU: 'минимум в строке'
+  - EN: 'row minimum'
+- `s0505`
+  - RU: 'максимум в строке'
+  - EN: 'row maximum'
+- `s0506`
+  - RU: 'Цвет ячейки — по строке за январь 2025 — июнь 2026.'
+  - EN: 'Cell color by row, Jan 2025\xa0–\xa0Jun 2026.'
+- `s0507`
+  - RU: 'Сезонность в 2025 году'
+  - EN: 'Seasonality in 2025'
+- `s0508`
+  - RU: 'В 2025 году спрос усиливается **зимой**: первый пик приходится на **февраль–март**. После весеннего снижения категория постепенно оживает **осенью**, и к **октябрю–декабрю** формируется вторая волна интереса.'
+  - EN: 'In 2025, demand rose in **winter**, with the first peak in **Feb–Mar**. After a spring dip, the category gradually recovered in **fall**, and a second wave of interest formed in **Oct–Dec**.'
+- `s0509`
+  - RU: 'В 1ПГ 2026 бренды ведут себя по-разному'
+  - EN: 'In H1 2026, brands diverge'
+- `s0510`
+  - RU: 'По сравнению с 1ПГ 2025:'
+  - EN: 'Compared with H1 2025:'
+- `s0511`
+  - RU: 'Энтерол растет'
+  - EN: 'Enterol is up'
+- `s0512`
+  - RU: '**Нормобакт снижается**'
+  - EN: '**Normobact is down**'
+- `s0513`
+  - RU: 'Проблематика в 1ПГ 2026 слабее прошлого года'
+  - EN: 'Problem queries in H1 2026 down from last year'
+- `s0514`
+  - RU: 'Категорийные запросы в первом полугодии снижаются к 1ПГ 2025:'
+  - EN: 'Category queries in H1 are down vs H1 2025:'
+- `s0515`
+  - RU: '«пробиотик для детей»'
+  - EN: '“probiotic for kids”'
+- `s0516`
+  - RU: '«пребиотики для детей»'
+  - EN: '“prebiotics for kids”'
+- `s0517`
+  - RU: '«микрофлора кишечника»'
+  - EN: '“gut flora”'
+- `s0518`
+  - RU: 'Ключевые периоды для усиления'
+  - EN: 'Key periods to step up'
+- `s0519`
+  - RU: 'Для категории наиболее сильными окнами остаются [[**зима и осень**]]. В эти периоды важно входить в коммуникацию заранее: наращивать заметность перед зимним пиком и усиливать присутствие к осеннему возврату спроса.'
+  - EN: 'The category’s strongest windows remain [[**winter and fall**]]. Communication should start early: build visibility ahead of the winter peak and step up presence as demand returns in the fall.'
+
+## Slide 12
+
+- `s0520`
+  - RU: 'География Digital: усиливаем ядро и точки роста, сохраняя национальное присутствие'
+  - EN: 'Digital geography: boost the core and growth pockets, keep a national presence'
+- `s0521`
+  - RU: 'ЯДРО DIGITAL'
+  - EN: 'DIGITAL CORE'
+- `s0522`
+  - RU: '40,7%'
+  - EN: '40.7%'
+- `s0523`
+  - RU: 'продаж H1’26 в 10\xa0регионах'
+  - EN: 'of H1’26 sales in 10 regions'
+- `s0524`
+  - RU: 'АКТУАЛЬНЫЙ СПРОС'
+  - EN: 'CURRENT DEMAND'
+- `s0525`
+  - RU: '48,5%'
+  - EN: '48.5%'
+- `s0526`
+  - RU: 'июльских продаж в ядре'
+  - EN: 'of July sales in the core'
+- `s0527`
+  - RU: 'DI* ЯДРА'
+  - EN: 'CORE DI*'
+- `s0528`
+  - RU: 'средний DI июля’26'
+  - EN: 'average DI, Jul ’26'
+- `s0529`
+  - RU: 'ПЛАНИРОВОЧНАЯ ГИПОТЕЗА'
+  - EN: 'PLANNING HYPOTHESIS'
+- `s0530`
+  - RU: 'digital-инвестиций — ядро'
+  - EN: 'of digital spend to\xa0the\xa0core'
+- `s0531`
+  - RU: 'Высокий спрос + достаточная доступность\xa0/ защита позиции'
+  - EN: 'High demand + sufficient availability / defend\xa0position'
+- `s0532`
+  - RU: 'Разный вес по потенциалу спроса и готовности DI'
+  - EN: 'Weighted by demand potential and DI readiness'
+- `s0533`
+  - RU: 'Логика выбора'
+  - EN: 'Selection logic'
+- `s0534`
+  - RU: 'Ядро Digital'
+  - EN: 'Digital core'
+- `s0535`
+  - RU: 'Москва'
+  - EN: 'Moscow'
+- `s0536`
+  - RU: 'СПб'
+  - EN: 'St. Petersburg'
+- `s0537`
+  - RU: 'МО'
+  - EN: 'Moscow Oblast'
+- `s0538`
+  - RU: 'Оренбургская обл.'
+  - EN: 'Orenburg Oblast'
+- `s0539`
+  - RU: 'Башкортостан'
+  - EN: 'Bashkortostan'
+- `s0540`
+  - RU: 'Челябинская обл.'
+  - EN: 'Chelyabinsk Oblast'
+- `s0541`
+  - RU: 'Самарская обл.'
+  - EN: 'Samara Oblast'
+- `s0542`
+  - RU: 'Приморский край'
+  - EN: 'Primorsky Krai'
+- `s0543`
+  - RU: 'Свердловская обл.'
+  - EN: 'Sverdlovsk Oblast'
+- `s0544`
+  - RU: 'Татарстан'
+  - EN: 'Tatarstan'
+- `s0545`
+  - RU: 'продаж, янв.–июнь 2026'
+  - EN: 'of sales, Jan–Jun 2026'
+- `s0546`
+  - RU: 'Точка роста'
+  - EN: 'Growth pockets'
+- `s0547`
+  - RU: 'Ставропольский край'
+  - EN: 'Stavropol Krai'
+- `s0548`
+  - RU: 'Ростовская обл.'
+  - EN: 'Rostov Oblast'
+- `s0549`
+  - RU: 'Тюменская обл.'
+  - EN: 'Tyumen Oblast'
+- `s0550`
+  - RU: 'Краснодарский край'
+  - EN: 'Krasnodar Krai'
+- `s0551`
+  - RU: 'Иркутская обл.'
+  - EN: 'Irkutsk Oblast'
+- `s0552`
+  - RU: 'Нижегородская обл.'
+  - EN: 'Nizhny Novgorod Oblast'
+- `s0553`
+  - RU: 'Пермский край'
+  - EN: 'Perm Krai'
+- `s0554`
+  - RU: '18,2%'
+  - EN: '18.2%'
+- `s0555`
+  - RU: 'Планировочная гипотеза'
+  - EN: 'Planning hypothesis'
+- `s0556`
+  - RU: '**Ядро = 40,7% продаж → максимальный вес 55–60% инвестиций**: подтвержденный спрос + DI ≈89% позволяют эффективно конвертировать медиадавление'
+  - EN: '**Core = 40.7% of sales → top weight, 55–60% of\xa0spend**: proven demand + DI ≈89% turn media pressure into sales efficiently'
+- `s0557`
+  - RU: '**Рост = 18,2% продаж → 20–25% инвестиций**: усиливаем регионы по мере готовности спроса и DI;\n34% e-com снижает зависимость от аптечной доступности'
+  - EN: '**Growth = 18.2% of sales → 20–25% of spend**: we scale up regions as demand and DI mature;\na 34% e-com share reduces reliance on pharmacy availability'
+- `s0558`
+  - RU: '**Остальная РФ = 41,0% продаж → сохраняем\n15–20% базового присутствия**: значимый спрос распределен между большим количеством регионов без масштаба каждой отдельной географии long tail'
+  - EN: '**Rest of Russia = 41.0% of sales → keep\n15–20% for baseline presence**: significant demand is spread across many regions, none of them sizable on its own (long tail)'
+- `s0559`
+  - RU: 'География задает разный вес инвестиций, а не ограничивает кампанию: защищаем 40,7% продаж в ядре, ускоряем 18,2% в точках роста и сохраняем национальное присутствие для 41% продаж остальной РФ'
+  - EN: 'Geography sets spend weights, not campaign limits: we defend 40.7% of sales in the core, speed up 18.2% in growth pockets and keep a national presence for 41% of sales in the rest of Russia'
+- `s0560`
+  - RU: '*DI — Distribution Index = показатель аптечной дистрибуции препарата'
+  - EN: '*DI — Distribution Index = pharmacy distribution of the product'
+
+## Slide 13
+
+- `s0561`
+  - RU: 'Анализ сегментов Нормобакт'
+  - EN: 'Normobact segment analysis'
+- `s0562`
+  - RU: 'Повторный анализ с ORM-фильтром подтверждает выбранные сегменты'
+  - EN: 'A repeat ORM-filtered analysis confirms the chosen segments'
+- `s0563`
+  - RU: 'Мамы с детьми 3–10 после курса антибиотиков'
+  - EN: 'Moms of kids 3–10 after a course of antibiotics'
+- `s0564`
+  - RU: 'РАЗМЕР'
+  - EN: 'SIZE'
+- `s0565`
+  - RU: '~3 млн'
+  - EN: '~3M'
+- `s0566`
+  - RU: '**Сам сценарий очень хорошо подтверждается и проходит ORM-фильтр.**\nНо возраст 3+ может быть расширен, свежие органические кейсы показывают, что пробиотик используется и у детей 1–2 лет и даже младенцев. При этом у самых маленьких сильнее роль врача.'
+  - EN: '**The scenario itself is strongly confirmed and passes the ORM filter.**\nBut the 3+ age range could be widened: recent organic mentions show the probiotic is also given to kids aged 1–2 and even infants. For the youngest, the doctor plays a bigger role.'
+- `s0567`
+  - RU: 'Мамы детей 0–10 с кишечной инфекцией и ротавирусом'
+  - EN: 'Moms of kids 0–10 with a stomach bug or rotavirus'
+- `s0568`
+  - RU: '~0,7 млн'
+  - EN: '~0.7M'
+- `s0569`
+  - RU: '**Полностью подтверждается и не требует корректировок**'
+  - EN: '**Fully confirmed, no adjustments needed**'
+- `s0570`
+  - RU: 'Мамы малышей 1–3 лет с «животиком»: диарея\xa0/ смена питания\xa0/ прикорм'
+  - EN: 'Moms of kids 1–3 with tummy issues: diarrhea\xa0/ diet\xa0change\xa0/\xa0solids'
+- `s0571`
+  - RU: '~0,9 млн'
+  - EN: '~0.9M'
+- `s0572`
+  - RU: '**Сценарий подтверждается очень хорошо.**\nСегмент проявляется именно в этом возрасте, когда ребёнок активно осваивает новые продукты, расширяется рацион, начинается переход к общему столу, меняется режим питания.\nПри этом в отзывах также встречаются отзывы и до 1 года, но данный сегмент у нас работает в Боботике.'
+  - EN: '**The scenario is strongly confirmed.**\nThe segment shows up at exactly this age, when the child tries lots of new foods, the diet widens, family meals begin and the eating routine changes.\nReviews also mention babies under 1, but we cover that segment with Bobotic.'
+
+## Slide 14
+
+- `s0573`
+  - RU: 'Нормобакт, Динобутин, Боботик: связка брендов через ретаргетинг'
+  - EN: 'Normobact, Dinobutin, Bobotic: linking brands via retargeting'
+- `s0574`
+  - RU: 'Ретаргетинг по аудитории «видевших рекламу» + креативы по пересекающимся ситуациям'
+  - EN: 'Retargeting ad-exposed audiences + creatives for overlapping situations'
+- `s0575`
+  - RU: 'ИСТОЧНИКИ АУДИТОРИИ'
+  - EN: 'AUDIENCE SOURCES'
+- `s0576`
+  - RU: 'СИНЕРГИЯ БРЕНДОВ'
+  - EN: 'BRAND SYNERGY'
+- `s0577`
+  - RU: 'НОРМОБАКТ И КРЕАТИВЫ'
+  - EN: 'NORMOBACT CREATIVES'
+- `s0578`
+  - RU: 'Пул: видевшие рекламу Боботика'
+  - EN: 'Pool: saw Bobotic ads'
+- `s0579`
+  - RU: '**ЦА: Мамы с детьми до года**'
+  - EN: '**TA: Moms of babies under 1**'
+- `s0580`
+  - RU: 'Боботик'
+  - EN: 'Bobotic'
+- `s0581`
+  - RU: 'Проблемы с животиком у малышей на фоне изменения диеты, ввода прикорма, изменения питания'
+  - EN: 'Baby tummy troubles from diet changes, starting solids and new foods'
+- `s0582`
+  - RU: 'Пул: видевшие рекламу Динобутина'
+  - EN: 'Pool: saw Dinobutin ads'
+- `s0583`
+  - RU: '**ЦА: Женщины 25–45, мамы детей с 3 до 10 лет с ЖКТ-симптоматикой\xa0/ болями\xa0/ спазмами\xa0/ стресс-животом**'
+  - EN: '**TA: Women 25–45, moms of kids 3–10 with GI symptoms / pain / cramps / nervous\xa0tummy**'
+- `s0584`
+  - RU: 'Динобутин'
+  - EN: 'Dinobutin'
+- `s0585`
+  - RU: 'Поиск комплексного и рабочего подхода для налаживания работы ЖКТ у ребенка, чтобы проблема ушла'
+  - EN: 'Looking for a comprehensive approach that actually works to fix a\xa0child’s GI issues for good'
+- `s0586`
+  - RU: 'Показываем коммуникацию из сегмента'
+  - EN: 'We show the segment’s message'
+- `s0587`
+  - RU: 'Показываем коммуникацию* **Нормобакта** с демонстрацией ключевых УТП продукта для решения проблем с ЖКТ у ребенка'
+  - EN: 'We show **Normobact** messaging* with key product USPs for children’s GI problems'
+- `s0588`
+  - RU: '*дополнительный креатив'
+  - EN: '*additional creative'
+- `s0589`
+  - RU: 'В исходнике под картинкой (на слайде не виден): «Технический шаг: собираем аудитории в рамках запущенных кампаний брендов Боботик и Динобутин, далее на собранный сегмент показываем рекламу бренда Нормобакт с ключевым УТП».'
+  - EN: 'Note under the image in the source (not visible on the slide): “Technical step: we build audiences from the live Bobotic and Dinobutin campaigns, then show this segment Normobact ads with the key USP.”'
+
+## Slide 15
+
+- `s0590`
+  - RU: 'Нормобакт / Learnings 2026 → H2 и 2027'
+  - EN: 'Normobact / Learnings 2026 → H2 and 2027'
+- `s0591`
+  - RU: 'Сильная performance- и ORM-база создаёт возможность расширять категорию через новые сценарии потребления'
+  - EN: 'A strong performance and ORM base lets us grow the category through new usage occasions'
+- `s0592`
+  - RU: 'ЧТО ДОКАЗАЛ 2026'
+  - EN: 'WHAT 2026 PROVED'
+- `s0593`
+  - RU: 'PERFORMANCE ЭФФЕКТИВНО ЗАКРЫВАЕТ СФОРМИРОВАННЫЙ СПРОС'
+  - EN: 'PERFORMANCE CONVERTS EXISTING DEMAND WELL'
+- `s0594`
+  - RU: 'У бренда уже есть сильная конверсионная база — это фундамент для дальнейшего роста'
+  - EN: 'The brand already has a strong conversion base — the foundation for further growth'
+- `s0595`
+  - RU: '91 тыс. кликов  •  78 тыс. качественных визитов'
+  - EN: '91K clicks  •  78K quality visits'
+- `s0596`
+  - RU: 'ORM ПОДДЕРЖИВАЕТ ВЫБОР БРЕНДА'
+  - EN: 'ORM SUPPORTS BRAND CHOICE'
+- `s0597`
+  - RU: 'Высокий уровень доверия помогает принимать решение и снижает барьеры выбора'
+  - EN: 'High trust makes the decision easier and lowers barriers to choice'
+- `s0598`
+  - RU: 'Рейтинг 4,6  •  80% позитивной выдачи'
+  - EN: '4.6 rating  •  80% positive search results'
+- `s0599`
+  - RU: '«ПРОБЛЕМНЫЕ» СЦЕНАРИИ РАСШИРЯЮТ ВХОДЫ В КАТЕГОРИЮ'
+  - EN: '“PROBLEM” OCCASIONS OPEN NEW WAYS INTO THE CATEGORY'
+- `s0600`
+  - RU: 'Новые ситуации потребления дают дополнительные точки входа в категорию'
+  - EN: 'New usage situations add more entry points into the category'
+- `s0601`
+  - RU: '«Ротавирус» CTR 1,92%'
+  - EN: '“Rotavirus” CTR 1.92%'
+- `s0602`
+  - RU: 'РОСТ ТРЕБУЕТ ВЫХОДА ЗА LOWER FUNNEL'
+  - EN: 'GROWTH NEEDS MORE THAN LOWER FUNNEL'
+- `s0603`
+  - RU: 'Одной конверсии существующего спроса недостаточно — нужен спрос до момента активного поиска.'
+  - EN: 'Converting existing demand alone isn’t enough — we\xa0need to reach moms before they start searching.'
+- `s0604`
+  - RU: 'ЧТО ДЕЛАЕМ С ЭТИМ В H2 И 2027'
+  - EN: 'WHAT WE DO ABOUT IT IN H2 AND 2027'
+- `s0605`
+  - RU: 'Performance-core продолжить как strong lower-funnel base: масштабировать при сохранении качества визита, расширение в сторону AI Visibility Stream'
+  - EN: 'Keep the performance core as a strong lower-funnel base: scale while holding visit quality and expand toward AI Visibility Stream'
+- `s0606`
+  - RU: 'ORM сохранить как постоянную поддержку выбора и доверительный контур бренда, в 2027 переход на ORM Comprehensive occasion-based'
+  - EN: 'Keep ORM as ongoing support for choice and the brand’s trust layer; in 2027 move to occasion-based ORM Comprehensive'
+- `s0607`
+  - RU: 'Comprehensive-подход в Programmatic с персонализированными креативами\nна AI-clusters/signals'
+  - EN: 'The Comprehensive approach in Programmatic with personalized creatives\nfor AI clusters/signals'
+- `s0608`
+  - RU: 'Проверяем, какие признаки потребности действительно повышают качество аудитории и конверсию (Retail Media & Data)'
+  - EN: 'We test which signs of need actually improve audience quality and conversion (Retail\xa0Media & Data)'
+- `s0609`
+  - RU: 'Decision Gate: media → post-click → CR / e-pharm → Sales Lift. Масштабируем в 2027 после подтверждения вклада в Q4 2026.'
+  - EN: 'Decision Gate: media → post-click → CR / e-pharm → Sales Lift. Scale in 2027 once impact is proven in Q4\xa02026.'
+
+## Slide 16
+
+- `s0610`
+  - RU: 'Стратегический приоритет 2027: раньше входить в момент потребности и сокращать путь от интереса до покупки'
+  - EN: '2027 strategic priority: reach the moment of need earlier and shorten the path from interest to purchase'
+- `s0611`
+  - RU: 'Не инвестируем в широкий охват: приоритет — мамы, уже демонстрирующие признаки потребности'
+  - EN: 'We don’t invest in broad reach: the priority is moms already showing signs of need'
+- `s0612`
+  - RU: 'СПРОС БРЕНДА РАСТЁТ МЕДЛЕННЕЕ КАТЕГОРИИ'
+  - EN: 'BRAND DEMAND LAGS THE\xa0CATEGORY'
+- `s0613`
+  - RU: 'БЛИЖЕ К ПОКУПКЕ БРЕНД СИЛЬНЕЕ'
+  - EN: 'THE BRAND IS STRONGER CLOSER TO PURCHASE'
+- `s0614`
+  - RU: 'КОНВЕРСИОННОЕ ЯДРО РАБОТАЕТ'
+  - EN: 'THE CONVERSION CORE WORKS'
+- `s0615`
+  - RU: '→ часть возникающего спроса бренд забирает слишком поздно'
+  - EN: '→ the brand catches part of emerging demand too late'
+- `s0616`
+  - RU: '→ в среде высокой готовности бренд конкурентоспособен'
+  - EN: '→ where intent is high, the brand competes well'
+- `s0617`
+  - RU: 'Нормобакт на Ozon'
+  - EN: 'Normobact on Ozon'
+- `s0618`
+  - RU: '91 тыс.'
+  - EN: '91K'
+- `s0619`
+  - RU: '78 тыс.'
+  - EN: '78K'
+- `s0620`
+  - RU: 'кликов'
+  - EN: 'clicks'
+- `s0621`
+  - RU: 'Проблема не в способности конвертировать — проблема в позднем входе в путь выбора'
+  - EN: 'The problem isn’t conversion — it’s entering the path to choice too late'
+- `s0622`
+  - RU: 'Единая причинно-следственная цепочка стратегии'
+  - EN: 'One cause-and-effect chain behind the strategy'
+- `s0623`
+  - RU: 'БИЗНЕС-ПРОБЛЕМА'
+  - EN: 'BUSINESS PROBLEM'
+- `s0624`
+  - RU: 'ТЁПЛЫЙ ПОТРЕБИТЕЛЬ'
+  - EN: 'WARM CONSUMER'
+- `s0625`
+  - RU: 'СИГНАЛЫ ПОТРЕБНОСТИ'
+  - EN: 'NEED SIGNALS'
+- `s0626`
+  - RU: 'РЕЛЕВАНТНОЕ СООБЩЕНИЕ'
+  - EN: 'RELEVANT MESSAGE'
+- `s0627`
+  - RU: 'КРАТЧАЙШИЙ ПУТЬ'
+  - EN: 'SHORTEST PATH'
+- `s0628`
+  - RU: 'категорийный спрос возникает быстрее, чем бренд успевает его забрать'
+  - EN: 'category demand emerges faster than the brand can capture it'
+- `s0629`
+  - RU: 'мама ребёнка 1–10 лет, уже демонстрирующая признаки потребности'
+  - EN: 'mom of a child aged 1–10 already showing signs of need'
+- `s0630`
+  - RU: 'поисковые запросы / контент / детские покупки / корзины в retail media'
+  - EN: 'search queries / content / kids’ purchases / retail media baskets'
+- `s0631`
+  - RU: 'ситуация → роль Нормобакта → LGG как proof'
+  - EN: 'situation → Normobact’s role → LGG as proof'
+- `s0632`
+  - RU: 'Paid Search / retail media → PDP / e-pharm → покупка'
+  - EN: 'Paid Search / retail media → PDP / e-pharm → purchase'
+- `s0633`
+  - RU: 'Формула: сигнал потребности → релевантная ситуация → LGG как доказательный слой → кратчайший путь до покупки'
+  - EN: 'Formula: need signal → relevant situation → LGG as the proof layer → shortest path to purchase'
+
+## Slide 17
+
+- `s0634`
+  - RU: 'Кого именно ищем: аудитория с признаками потребности'
+  - EN: 'Who we look for: audiences showing signs of need'
+- `s0635`
+  - RU: 'ЦА 2027: мамы детей 1–10 лет. Сигналы используются только там, где есть понятный источник данных, канал активации и статус доступности'
+  - EN: 'TA 2027: moms of kids 1–10. We use signals only where the data source, activation channel and availability status are clear'
+- `s0636`
+  - RU: 'СИГНАЛ'
+  - EN: 'SIGNAL'
+- `s0637`
+  - RU: 'ИСТОЧНИК'
+  - EN: 'SOURCE'
+- `s0638`
+  - RU: 'КАК ИСПОЛЬЗУЕМ'
+  - EN: 'HOW WE USE IT'
+- `s0639`
+  - RU: 'СТАТУС'
+  - EN: 'STATUS'
+- `s0640`
+  - RU: 'РОЛЬ В ПУТИ'
+  - EN: 'ROLE IN PATH'
+- `s0641`
+  - RU: 'Поисковая и контекстная активность'
+  - EN: 'Search and contextual activity'
+- `s0642`
+  - RU: 'Paid Search, РСЯ, персонализированные LP'
+  - EN: 'Paid Search, YAN (Yandex Advertising Network), personalized LPs'
+- `s0643`
+  - RU: 'ДОСТУПЕН СЕЙЧАС'
+  - EN: 'AVAILABLE NOW'
+- `s0644`
+  - RU: 'перехват уже сформированного интереса'
+  - EN: 'capture existing interest'
+- `s0645`
+  - RU: 'Потребление релевантного контента'
+  - EN: 'Relevant content consumption'
+- `s0646`
+  - RU: 'ранний признак проблемы / интереса'
+  - EN: 'early sign of a problem / interest'
+- `s0647`
+  - RU: 'Покупки в аптечных и retail-экосистемах'
+  - EN: 'Pharmacy and retail ecosystem purchases'
+- `s0648`
+  - RU: 'Retail Media → PDP / карточка товара'
+  - EN: 'Retail Media → PDP / product page'
+- `s0649`
+  - RU: 'ТЕСТ / ВАЛИДАЦИЯ Q4 2026'
+  - EN: 'TEST / VALIDATION Q4\xa02026'
+- `s0650`
+  - RU: 'максимально близко к покупке'
+  - EN: 'as close to purchase as it gets'
+- `s0651`
+  - RU: 'Покупки детских товаров'
+  - EN: 'Kids’ product purchases'
+- `s0652`
+  - RU: 'Детский мир / PIM MEDIA'
+  - EN: 'Detsky Mir / PIM MEDIA'
+- `s0653`
+  - RU: 'проверка качества теплой аудитории'
+  - EN: 'check warm audience quality'
+- `s0654`
+  - RU: 'Взаимодействие с карточками препаратов и аптечным инвентарём'
+  - EN: 'Engagement with drug product pages and pharmacy inventory'
+- `s0655`
+  - RU: 'Ретаргетинг / direct-to-PDP / персонализированный путь'
+  - EN: 'Retargeting / direct-to-PDP / personalized path'
+- `s0656`
+  - RU: 'ПОСЛЕ ВАЛИДАЦИИ ТЕСТА Q4 2026'
+  - EN: 'AFTER Q4 2026 TEST VALIDATION'
+- `s0657`
+  - RU: 'сокращение пути от интереса до действия'
+  - EN: 'shorten the path from interest to action'
+- `s0658`
+  - RU: 'ПРАВИЛО'
+  - EN: 'RULE'
+- `s0659`
+  - RU: 'data-сигнал ≠ аудитория сам по себе. **Сигнал становится рабочим только после проверки media / post-click / CR.**'
+  - EN: 'A data signal ≠ an audience on its own. **A signal only works once media / post-click / CR checks confirm it.**'
+
+## Slide 18
+
+- `s0660`
+  - RU: 'Коммуникация 2027: сначала ситуация, затем LGG как доказательство доверия'
+  - EN: '2027 communication: situation first, then LGG as the reason to trust'
+- `s0661`
+  - RU: 'Потребитель выбирает решение своей ситуации, а не штамм. Поэтому LGG усиливает выбор Нормобакта, но не заменяет problem-based коммуникацию'
+  - EN: 'Consumers pick a fix for their situation, not a strain. So LGG strengthens the case for Normobact but doesn’t replace problem-based messaging'
+- `s0662`
+  - RU: 'АНТИБИОТИКИ'
+  - EN: 'ANTIBIOTICS'
+- `s0663`
+  - RU: 'На фоне / после курса'
+  - EN: 'During / after a course'
+- `s0664`
+  - RU: 'ОКИ / РОТАВИРУС'
+  - EN: 'STOMACH BUG / ROTAVIRUS'
+- `s0665`
+  - RU: 'Острый период / восстановление'
+  - EN: 'Acute phase / recovery'
+- `s0666`
+  - RU: 'СМЕНА ПИТАНИЯ / ДИСКОМФОРТ'
+  - EN: 'DIET CHANGE / DISCOMFORT'
+- `s0667`
+  - RU: 'Рацион / поездки / нестабильный стул'
+  - EN: 'Diet / travel / irregular stools'
+- `s0668`
+  - RU: 'Поддержка микрофлоры ребёнка в знакомом сценарии восстановления'
+  - EN: 'Gut microbiota support for kids in a familiar recovery scenario'
+- `s0669`
+  - RU: '«После антибиотиков — забота о микрофлоре»'
+  - EN: '“After antibiotics — caring for gut flora”'
+- `s0670`
+  - RU: 'Понятная роль продукта в момент повышенной потребности'
+  - EN: 'A clear product role when the need peaks'
+- `s0671`
+  - RU: '«Помощь желудочно-кишечному тракту в период болезни»'
+  - EN: '“Tummy support during illness”'
+- `s0672`
+  - RU: 'Релевантное объяснение реакции ЖКТ и поддержки микрофлоры'
+  - EN: 'A relevant explanation of gut reactions and microbiota\xa0support'
+- `s0673`
+  - RU: '«Комфорт животика каждый день и в новых условиях»'
+  - EN: '“Tummy comfort every day, even when things change”'
+- `s0674`
+  - RU: '↓  ВТОРОЙ УРОВЕНЬ  ↓'
+  - EN: '↓  SECOND LEVEL  ↓'
+- `s0675`
+  - RU: 'LGG = доказательный слой'
+  - EN: 'LGG = proof layer'
+- `s0676`
+  - RU: 'Изученность и качество LGG помогают ответить на вопрос «почему Нормобакту можно доверять» после того, как пользователь уже узнал свою ситуацию и понял роль продукта.'
+  - EN: 'LGG’s research base and quality help answer “why trust Normobact” once the user has recognized their situation and understood the product’s role.'
+- `s0677`
+  - RU: 'Как раскрываем LGG по каналам'
+  - EN: 'How we present LGG by channel'
+- `s0678`
+  - RU: 'Короткий доказательный акцент без превращения LGG в hero-message'
+  - EN: 'A short proof point, without turning LGG into the hero message'
+- `s0679`
+  - RU: 'ПЕРСО-LP / САЙТ'
+  - EN: 'PERSO-LP / WEBSITE'
+- `s0680`
+  - RU: 'Более глубокое объяснение: роль продукта → LGG → FAQ / источники'
+  - EN: 'Deeper explanation: product role → LGG → FAQ / sources'
+- `s0681`
+  - RU: 'ВНЕШНИЕ ПУБЛИКАЦИИ'
+  - EN: 'EXTERNAL PUBLICATIONS'
+- `s0682`
+  - RU: 'Максимальная доказательность: экспертные статьи, первоисточники, изученность штамма'
+  - EN: 'Maximum proof: expert articles, primary sources, strain research'
+
+## Slide 19
+
+- `s0683`
+  - RU: 'Стратегия 2027: сначала защищаем и конвертируем сформированный спрос, затем усиливаем выбор ближе к покупке'
+  - EN: '2027 strategy: first protect and convert existing demand, then strengthen choice closer to purchase'
+- `s0684`
+  - RU: 'ОБЯЗАТЕЛЬНОЕ КОНВЕРСИОННОЕ ЯДРО'
+  - EN: 'MUST-HAVE CONVERSION CORE'
+- `s0685`
+  - RU: 'УСИЛЕНИЕ ВЫБОРА И СОКРАЩЕНИЕ ПУТИ ДО ПОКУПКИ'
+  - EN: 'STRONGER CHOICE, SHORTER PATH TO PURCHASE'
+- `s0686`
+  - RU: 'Paid Search + ORM + GEO/AEO + внешние экспертные публикации'
+  - EN: 'Paid Search + ORM + GEO/AEO + external expert\xa0publications'
+- `s0687`
+  - RU: 'РОЛЬ'
+  - EN: 'ROLE'
+- `s0688`
+  - RU: 'перехват сформированного спроса'
+  - EN: 'capturing existing demand'
+- `s0689`
+  - RU: 'защита доверия и поисковой/AI-видимости'
+  - EN: 'protecting trust and search/AI visibility'
+- `s0690`
+  - RU: 'минимальный доказательный контент'
+  - EN: 'minimum proof content'
+- `s0691`
+  - RU: 'кратчайший путь к e-pharm / покупке'
+  - EN: 'shortest path to e-pharm / purchase'
+- `s0692`
+  - RU: 'усиление в летний период: ротавирус / отпуск / аптечка в дорогу'
+  - EN: 'summer boost: rotavirus / vacations / travel medicine kit'
+- `s0693`
+  - RU: '1-й приоритет инвестиций'
+  - EN: 'Investment priority #1'
+- `s0694`
+  - RU: 'находить пользователя по сигналу потребности'
+  - EN: 'find users by need signal'
+- `s0695`
+  - RU: 'переводить в персонализированный контент / PDP'
+  - EN: 'move them to personalized content / PDP'
+- `s0696`
+  - RU: 'сокращать дистанцию от интереса до покупки'
+  - EN: 'shorten the gap from interest to purchase'
+- `s0697`
+  - RU: 'Retail Media — приоритетный тест; Programmatic — масштаб / extension после теста Q4'
+  - EN: 'Retail Media — priority test; Programmatic — scale / extension after the Q4 test'
+- `s0698`
+  - RU: 'ФОКУС'
+  - EN: 'FOCUS'
+- `s0699`
+  - RU: 'теплый потребитель + доказательный контент + retail/data → путь до покупки'
+  - EN: 'warm consumer + proof content + retail/data → path to purchase'
+
+## Slide 20
+
+- `s0700`
+  - RU: 'Нормобакт 2027: архитектура кампании vs 2026'
+  - EN: 'Normobact 2027: campaign architecture vs 2026'
+- `s0701`
+  - RU: 'Формируем сплит по принципу bottom-up с сохранением AI Visibility stream + Retail Media/Data Driven Programmatic по итогам тестов Q4 2026'
+  - EN: 'We build the split bottom-up: AI Visibility Stream stays, plus Retail Media/Data-Driven Programmatic based on Q4 2026 test results'
+- `s0702`
+  - RU: 'млн ₽*'
+  - EN: 'RUB M*'
+- `s0703`
+  - RU: '3,8 млн ₽'
+  - EN: 'RUB 3.8M'
+- `s0704`
+  - RU: 'Спрос закрываем через поиск, РСЯ и ORM'
+  - EN: 'Search, YAN and ORM capture demand'
+- `s0705`
+  - RU: 'Фокус на перехвате уже сформированного спроса и повторном контакте'
+  - EN: 'Focus on capturing existing demand and repeat contact'
+- `s0706`
+  - RU: '7,6 млн ₽'
+  - EN: 'RUB 7.6M'
+- `s0707`
+  - RU: 'Усиливаем видимость и защиту спроса, формируем доказательный слой под роль продукта'
+  - EN: 'We boost visibility, protect demand and build a proof layer for the product’s role'
+- `s0708`
+  - RU: 'К поиску и ORM добавляем GEO/AEO: бренд должен быть виден не только в выдаче, но и в AI-ответах. Внешние публикации объясняют, зачем Нормобакт нужен в ключевых сценариях: после антибиотиков, при инфекции и смене питания'
+  - EN: 'We add GEO/AEO to search and ORM: the brand must be visible both in search results and in AI answers. External publications explain why Normobact matters in key situations: after antibiotics, during infections and with diet\xa0changes'
+- `s0709`
+  - RU: '4,3 млн ₽'
+  - EN: 'RUB 4.3M'
+- `s0710`
+  - RU: 'Выбор строится на programmatic'
+  - EN: 'Choice built on programmatic'
+- `s0711`
+  - RU: 'Находим нужные аудитории по данным и интересам, но не доводим их в retail-среду выбора'
+  - EN: 'We find audiences by data and interests but don’t take them to the retail point of choice'
+- `s0712`
+  - RU: '1,8 млн ₽'
+  - EN: 'RUB 1.8M'
+- `s0713`
+  - RU: 'Доводим выбор ближе к покупке'
+  - EN: 'We move choice closer to purchase'
+- `s0714`
+  - RU: 'Находим и конвертируем пользователей с сигналами потребности ближе к покупке'
+  - EN: 'We find and convert users showing need signals closer to purchase'
+- `s0715`
+  - RU: '<0,01 млн ₽'
+  - EN: '<RUB 0.01M'
+- `s0716`
+  - RU: 'Доверие не было отдельным масштабируемым каналом'
+  - EN: 'Trust was not a separate scalable channel'
+- `s0717`
+  - RU: 'Social использовался точечно'
+  - EN: 'Social was used sparingly'
+- `s0718`
+  - RU: 'КАНАЛЫ'
+  - EN: 'CHANNELS'
+- `s0719`
+  - RU: 'Paid Search + РСЯ'
+  - EN: 'Paid Search + YAN'
+- `s0720`
+  - RU: 'ПОДХОД 2026'
+  - EN: '2026 APPROACH'
+- `s0721`
+  - RU: 'Внешние публикации'
+  - EN: 'External publications'
+- `s0722`
+  - RU: 'ПОДХОД 2027'
+  - EN: '2027 APPROACH'
+- `s0723`
+  - RU: '+3,8 млн ₽'
+  - EN: '+RUB 3.8M'
+- `s0724`
+  - RU: '−2,5 млн ₽'
+  - EN: '−RUB 2.5M'
+- `s0725`
+  - RU: 'точечный social-тест'
+  - EN: 'small-scale social test'
+- `s0726`
+  - RU: '*Бюджеты тотал представлены с учетом тех костов, АК и РС, бюджеты блоков указаны с АК и РС без учета тех костов. Изменения 2027 vs 2026 по слоям — расчёт OMD'
+  - EN: '*Totals include tech costs, agency commission and ad levy; block budgets include agency commission and ad levy but not tech costs. 2027 vs 2026 changes by layer: OMD calculation'
+
+## Slide 21
+
+- `s0727`
+  - RU: 'Внешние экспертные публикации: независимый доказательный слой для Нормобакта'
+  - EN: 'External expert publications: an independent proof layer for Normobact'
+- `s0728`
+  - RU: 'Создаём индексируемые экспертные источники, которые объясняют роль продукта, закрепляют связь Нормобакт\xa0L ↔ LGG и усиливают Search / GEO / AEO'
+  - EN: 'We create indexable expert sources that explain the product’s role, anchor the Normobact L ↔ LGG link and strengthen Search / GEO / AEO'
+- `s0729`
+  - RU: '**OCCASION → [[экспертное объяснение]] → LGG [[как доказательное основание]] → Search / e-pharm / [[покупка]]**'
+  - EN: '**OCCASION → [[expert explanation]] → LGG [[as the evidence base]] → Search / e-pharm / [[purchase]]**'
+- `s0730`
+  - RU: 'ГДЕ ПУБЛИКУЕМ'
+  - EN: 'WHERE WE PUBLISH'
+- `s0731`
+  - RU: 'ЧТО ПУБЛИКУЕМ'
+  - EN: 'WHAT WE PUBLISH'
+- `s0732`
+  - RU: 'КАК ДЕЛАЕМ МАТЕРИАЛ ЦИТИРУЕМЫМ'
+  - EN: 'HOW WE MAKE CONTENT CITABLE'
+- `s0733`
+  - RU: 'Медицинские и экспертные медиа'
+  - EN: 'Medical and expert media'
+- `s0734`
+  - RU: '**Роль:** доказательный и образовательный контекст'
+  - EN: '**Role:** evidence and educational context'
+- `s0735`
+  - RU: 'Родительские площадки'
+  - EN: 'Parenting platforms'
+- `s0736`
+  - RU: '**Роль:** знакомая ситуация + понятное объяснение выбора'
+  - EN: '**Role:** familiar situation + clear reason to choose'
+- `s0737`
+  - RU: 'Аптечные / health-ресурсы'
+  - EN: 'Pharmacy / health sites'
+- `s0738`
+  - RU: '**Роль:** максимально близко к выбору и покупке'
+  - EN: '**Role:** closest to choice and purchase'
+- `s0739`
+  - RU: 'Как поддержать микрофлору ребёнка на фоне / после курса антибиотиков'
+  - EN: 'Supporting kids’ gut microbiota during / after a course of antibiotics'
+- `s0740`
+  - RU: 'Что важно в период восстановления и на что смотреть при выборе поддержки'
+  - EN: 'What matters during recovery and what to look for when choosing support'
+- `s0741`
+  - RU: 'СМЕНА ПИТАНИЯ / СТУЛ'
+  - EN: 'DIET CHANGE / STOOL'
+- `s0742`
+  - RU: 'Почему ЖКТ реагирует на изменение рациона и как поддержать микрофлору'
+  - EN: 'Why the gut reacts to diet changes and how to support its microbiota'
+- `s0743`
+  - RU: 'LGG — ОБЪЯСНЕНИЕ'
+  - EN: 'LGG EXPLAINED'
+- `s0744`
+  - RU: 'Что такое LGG и почему изученность штамма важна при выборе'
+  - EN: 'What LGG is and why strain research matters when choosing a probiotic'
+- `s0745`
+  - RU: 'СПЕЦИФИКА НОРМОБАКТА'
+  - EN: 'ABOUT NORMOBACT'
+- `s0746`
+  - RU: 'Раскрываем изученность и доказательный контекст LGG, контекст потребления'
+  - EN: 'The research and evidence behind LGG, and how it’s used'
+- `s0747`
+  - RU: 'индексация → цитирование в AI → Positive\xa0Source\xa0Coverage → переходы / Search'
+  - EN: 'indexing → AI citations → Positive\xa0Source\xa0Coverage → clicks / Search'
+- `s0748`
+  - RU: 'ЧАСТОТА'
+  - EN: 'FREQUENCY'
+- `s0749`
+  - RU: '1 публикация / месяц'
+  - EN: '1 publication / month'
+- `s0750`
+  - RU: 'Автор и квалификация специалиста'
+  - EN: 'Author byline and credentials'
+- `s0751`
+  - RU: 'Прямой ответ в начале материала + FAQ'
+  - EN: 'Direct answer up front + FAQ'
+- `s0752`
+  - RU: 'Ссылки на первоисточники и проверяемая фактология'
+  - EN: 'Links to primary sources and verifiable facts'
+- `s0753`
+  - RU: 'Индексируемый, бессрочный URL'
+  - EN: 'Indexable, permanent URL'
+- `s0754`
+  - RU: 'Бренд и LGG связаны в корректном контексте'
+  - EN: 'Brand and LGG linked in the right context'
+- `s0755`
+  - RU: 'Темы выбираем по слабым GEO/AEO-кластерам, а не по трафику площадки'
+  - EN: 'Topics target weak GEO/AEO clusters, not site traffic'
+- `s0756`
+  - RU: 'ПРИНЦИП'
+  - EN: 'PRINCIPLE'
+- `s0757`
+  - RU: 'Внешняя публикация должна быть не рекламной единицей, а независимым экспертным источником, который помогает пользователю обосновать выбор и одновременно усиливает поисковый и AI-контур бренда'
+  - EN: 'An external publication should be an independent expert source, not an ad unit: it helps users justify their choice and strengthens the brand’s search and AI presence at the same time'
+
+## Slide 22
+
+- `s0758`
+  - RU: 'Paid Search: от структуры спроса к покупке'
+  - EN: 'Paid Search: from demand mix to purchase'
+- `s0759`
+  - RU: 'Search остаётся always-on конверсионным ядром: объединяем семантику по уровню намерения, даём алгоритмам достаточно данных для обучения и связываем поиск с ретаргетингом и e-pharm*'
+  - EN: 'Search stays the always-on conversion core: we group keywords by intent, give algorithms enough data to learn, and link search with retargeting and e-pharm*'
+- `s0760`
+  - RU: 'СТРУКТУРА СПРОСА'
+  - EN: 'DEMAND STRUCTURE'
+- `s0761`
+  - RU: 'ЛОГИКА КАМПАНИЙ'
+  - EN: 'CAMPAIGN LOGIC'
+- `s0762`
+  - RU: 'RETARGETING → ПОКУПКА'
+  - EN: 'RETARGETING → PURCHASE'
+- `s0763`
+  - RU: 'Доли Search-сплита по категориям запросов'
+  - EN: 'Search split by query category'
+- `s0764`
+  - RU: '**Принцип сплита:** ёмкость запросов + фактическая эффективность по CPA; доли определяются потенциалом и качеством спроса'
+  - EN: '**Split principle:** query volume + actual CPA performance; shares reflect demand potential and quality'
+- `s0765`
+  - RU: 'купить Нормобакт / цена / пробиотики для детей'
+  - EN: 'buy Normobact / price / probiotics for kids'
+- `s0766`
+  - RU: 'микрофлора ребёнка / средства для кишечника'
+  - EN: 'kids’ gut flora / gut health products'
+- `s0767`
+  - RU: 'стул после антибиотиков / нарушение стула'
+  - EN: 'stool after antibiotics / stool problems'
+- `s0768`
+  - RU: 'Энтерол / Линекс / другие бренды'
+  - EN: 'Enterol / Linex / other brands'
+- `s0769`
+  - RU: 'БРЕНД + ТРАНЗАКЦИОННЫЕ'
+  - EN: 'BRAND + TRANSACTIONAL'
+- `s0770`
+  - RU: 'КАТЕГОРИЯ'
+  - EN: 'CATEGORY'
+- `s0771`
+  - RU: 'СИМПТОМАТИКА'
+  - EN: 'SYMPTOMS'
+- `s0772`
+  - RU: 'КОНКУРЕНТЫ'
+  - EN: 'COMPETITORS'
+- `s0773`
+  - RU: '**Брендовая видимость сохраняется внутри транзакционной кампании** — без прямой конкуренции с аптеками за тот же спрос'
+  - EN: '**Brand visibility stays within the transactional campaign** — no head-on competition with pharmacies for the same demand'
+- `s0774`
+  - RU: 'Объединяем бренд + транзакционные запросы'
+  - EN: 'We combine brand + transactional queries'
+- `s0775`
+  - RU: 'При малом объёме трафика единая кампания даёт автостратегиям больше данных → стабильнее обучение и управляемость'
+  - EN: 'With low traffic, one campaign gives auto-bidding more data → steadier learning and control'
+- `s0776`
+  - RU: 'Разводим намерение по посадочным страницам'
+  - EN: 'We split intent across landing pages'
+- `s0777`
+  - RU: 'Транзакционный спрос ведём к аптеке; категория, симптомы и конкуренты — на сайт / релевантный контент (персо-LP / SEO-статьи)'
+  - EN: 'Transactional demand → pharmacies; category, symptoms and competitors → site / relevant content (perso-LPs / SEO\xa0articles)'
+- `s0778`
+  - RU: 'Оптимизируем по действию, а не клику'
+  - EN: 'We optimize for actions, not clicks'
+- `s0779`
+  - RU: 'Основной сигнал: CR / CPA «Где купить / покупка» + качество визита. CPC / CTR — диагностические метрики'
+  - EN: 'Main signal: CR / CPA “Where to buy / purchase” + visit\xa0quality. CPC / CTR are diagnostic metrics'
+- `s0780`
+  - RU: 'Конкуренты + проблематика + категория + ретаргетинг → одна оптимизированная кампания'
+  - EN: 'Competitors + problem queries + category + retargeting → one optimized campaign'
+- `s0781`
+  - RU: 'Транзакционный сценарий сохраняем отдельно'
+  - EN: 'Transactional flow kept separate'
+- `s0782`
+  - RU: 'Алгоритм перераспределяет трафик туда, где конверсия эффективнее'
+  - EN: 'The algorithm shifts traffic to where it converts better'
+- `s0783`
+  - RU: 'РСЯ 2027: поддерживающий audience-layer'
+  - EN: 'YAN 2027: supporting audience layer'
+- `s0784`
+  - RU: 'Посетители сайта / контента → ретаргетинг в РСЯ, мамы с детьми 1–3'
+  - EN: 'Site / content visitors → YAN retargeting, moms\xa0of\xa0kids\xa01–3'
+- `s0785`
+  - RU: 'Релевантные ЖКТ-сегменты → matching occasion Нормобакта → повторный контакт'
+  - EN: 'Relevant GI segments → matching Normobact occasion → repeat contact'
+- `s0786`
+  - RU: 'БОБОТИК'
+  - EN: 'BOBOTIC'
+- `s0787`
+  - RU: 'ДИНОБУТИН'
+  - EN: 'DINOBUTIN'
+- `s0788`
+  - RU: 'CR / CPA «Где купить / покупка» + quality visits → Brand Search / e-pharm sales'
+  - EN: 'CR / CPA “Where to buy / purchase” + quality visits → Brand Search / e-pharm sales'
+- `s0789`
+  - RU: '* e-pharm — карточки товара в онлайн-аптеках'
+  - EN: '* e-pharm — product pages in online pharmacies'
+
+## Slide 23
+
+- `s0790`
+  - RU: 'БЮДЖЕТНЫЙ СПЛИТ'
+  - EN: 'BUDGET SPLIT'
+- `s0791`
+  - RU: '9,4M'
+  - EN: '9.4M'
+- `s0792`
+  - RU: '17,2M'
+  - EN: '17.2M'
+- `s0793`
+  - RU: '4,9M'
+  - EN: '4.9M'
+- `s0794`
+  - RU: '1,8M'
+  - EN: '1.8M'
+- `s0795`
+  - RU: '200 тыс.'
+  - EN: '200K'
+- `s0796`
+  - RU: '31 тыс.'
+  - EN: '31K'
+- `s0797`
+  - RU: 'TBD после тестов Q4 2026'
+  - EN: 'TBD after Q4 2026 tests'
+- `s0798`
+  - RU: 'Мед. и экспертные медиа / родительские площадки / аптеки'
+  - EN: 'Medical & expert media / parenting platforms / pharmacies'
+- `s0799`
+  - RU: 'Отзывы, обзоры, Q&A, дискуссии — occasion-based'
+  - EN: 'Reviews, write-ups, Q&A, threads — occasion-based'
+- `s0800`
+  - RU: 'GEO-оптимизация под AI-ответы'
+  - EN: 'GEO optimization for AI answers'
+- `s0801`
+  - RU: 'ЭТАП'
+  - EN: 'STAGE'
+- `s0802`
+  - RU: 'КАНАЛ'
+  - EN: 'CHANNEL'
+- `s0803`
+  - RU: 'ПОСТАВЩИКИ'
+  - EN: 'VENDORS'
+- `s0804`
+  - RU: 'ФОРМАТ'
+  - EN: 'FORMAT'
+- `s0805`
+  - RU: 'БЮДЖЕТ'
+  - EN: 'BUDGET'
+- `s0806`
+  - RU: '1,5M'
+  - EN: '1.5M'
+- `s0807`
+  - RU: '1,9M'
+  - EN: '1.9M'
+- `s0808`
+  - RU: '3,2M'
+  - EN: '3.2M'
+- `s0809`
+  - RU: 'спринт / усиление'
+  - EN: 'sprint / boost'
+- `s0810`
+  - RU: 'активный период'
+  - EN: 'active period'
+- `s0811`
+  - RU: 'Бюджет до НДС, включая АК/РС'
+  - EN: 'Excl. VAT, incl. agency commission and ad levy'
+
+## Slide 24
+
+- `s0812`
+  - RU: 'Нормобакт 2027'
+  - EN: 'Normobact 2027'
+- `s0813`
+  - RU: 'От эффективной конверсии спроса — к более раннему влиянию на выбор vs 2026'
+  - EN: 'Compared with 2026: from efficient demand conversion to shaping choice earlier'
+- `s0814`
+  - RU: '430 млн ₽'
+  - EN: 'RUB 430M'
+- `s0815`
+  - RU: '9 → 10 млн ₽'
+  - EN: 'RUB 9M → 10M'
+- `s0816`
+  - RU: '1,8 млн UU'
+  - EN: '1.8M UU'
+- `s0817`
+  - RU: 'БИЗНЕС-ЦЕЛЬ 2027'
+  - EN: '2027 BUSINESS GOAL'
+- `s0818`
+  - RU: '745 тыс. упаковок'
+  - EN: '745K units'
+- `s0819`
+  - RU: 'ИНВЕСТИЦИИ'
+  - EN: 'INVESTMENT'
+- `s0820`
+  - RU: '+1 млн ₽ / +11% к 2026'
+  - EN: '+RUB 1M / +11% vs 2026'
+- `s0821`
+  - RU: 'МАСШТАБ DIGITAL'
+  - EN: 'DIGITAL SCALE'
+- `s0822`
+  - RU: 'показы 17,2 млн'
+  - EN: '17.2M impressions'
+- `s0823`
+  - RU: 'Paid Search + ORM эффективно закрывают уже сформированный спрос'
+  - EN: 'Paid Search + ORM efficiently capture existing\xa0demand'
+- `s0824`
+  - RU: 'Сигнал потребности → релевантная ситуация → **LGG как доказательство** → Retail / e-pharm → покупка'
+  - EN: 'Need signal → relevant situation → **LGG as proof** → Retail / e-pharm → purchase'
+- `s0825`
+  - RU: 'КАК РАБОТАЕТ COMPREHENSIVE В 2027'
+  - EN: 'HOW COMPREHENSIVE WORKS IN 2027'
+- `s0826`
+  - RU: 'ALWAYS-ON: SEARCH · ORM · GEO/AEO · ЭКСПЕРТНЫЕ ПУБЛИКАЦИИ'
+  - EN: 'ALWAYS-ON: SEARCH · ORM · GEO/AEO · EXPERT PUBLICATIONS'
+- `s0827`
+  - RU: 'ЛЕТО · PAID SEARCH BOOST'
+  - EN: 'SUMMER · PAID SEARCH BOOST'
+- `s0828`
+  - RU: 'AON защищает и конвертирует сформированный спрос, **приоритет инвестиций №1**.'
+  - EN: 'AON protects and converts existing demand — **investment priority #1**.'
+- `s0829`
+  - RU: 'Retail/Data тестируем на тёплой аудитории → Gate по post-click / CR / e-pharm. Летом усиливаем Search + контент под ротавирус / отпуск / аптечку; осенью масштабируем подтверждённые в Q1 сигналы.'
+  - EN: 'We test Retail/Data on warm audiences → Gate on post-click / CR / e-pharm. In summer we boost Search + content on rotavirus / vacations / travel medicine kits; in fall we scale signals proven in Q1.'
+- `s0830`
+  - RU: 'ТРИ НОВЫЕ ВОЗМОЖНОСТИ ДЛЯ БРЕНДА'
+  - EN: 'THREE NEW BRAND OPPORTUNITIES'
+- `s0831`
+  - RU: 'РАННИЕ СИГНАЛЫ RETAIL/DATA'
+  - EN: 'EARLY RETAIL/DATA SIGNALS'
+- `s0832`
+  - RU: 'Search / контент / retail-data → раньше находим мам с признаками потребности'
+  - EN: 'Search / content / retail data → we find moms showing signs of need earlier'
+- `s0833`
+  - RU: 'Ситуация → роль продукта → LGG как RTB; экспертный контент усиливает GEO/AEO + ORM'
+  - EN: 'Situation → product role → LGG as RTB; expert content boosts GEO/AEO + ORM'
+- `s0834`
+  - RU: 'СОКРАЩАЕМ ПУТЬ ДО ПОКУПКИ'
+  - EN: 'SHORTER PATH TO PURCHASE'
+- `s0835`
+  - RU: 'Тёплая аудитория → PDP / e-pharm → покупка'
+  - EN: 'Warm audience → PDP / e-pharm → purchase'
+- `s0836`
+  - RU: 'КАК ИНВЕСТИЦИИ ПЕРЕВОДЯТ СИЛЬНУЮ КОНВЕРСИОННУЮ БАЗУ В РОСТ'
+  - EN: 'HOW INVESTMENT TURNS A STRONG CONVERSION BASE INTO GROWTH'
+- `s0837`
+  - RU: '2026 · СИЛЬНАЯ КОНВЕРСИЯ'
+  - EN: '2026 · STRONG CONVERSION'
+- `s0838`
+  - RU: '2027 · ОТ РАННЕГО СИГНАЛА ПОТРЕБНОСТИ К ПОКУПКЕ'
+  - EN: '2027 · FROM EARLY NEED SIGNAL TO PURCHASE'
+- `s0839`
+  - RU: 'Найти сигнал → дать релевантность → доказать выбор → сократить путь к покупке'
+  - EN: 'Find the signal → be relevant → prove the choice → shorten the path to purchase'

@@ -1,0 +1,1019 @@
+[
+ {
+  "id": "ppt/slides/slide25.xml#0",
+  "slide": 25,
+  "kind": "slide",
+  "ru": "Операционный цикл Comprehensive 2027:\nUnderstand → Validate → Activate → Personalize → Measure → Learn"
+ },
+ {
+  "id": "ppt/slides/slide25.xml#6",
+  "slide": 25,
+  "kind": "slide",
+  "ru": "Потребности, барьеры, оккейжены, сегментные гипотезы"
+ },
+ {
+  "id": "ppt/slides/slide25.xml#14",
+  "slide": 25,
+  "kind": "slide",
+  "ru": "Синтетические панели, pre-test сообщения / оффера / tone of voice"
+ },
+ {
+  "id": "ppt/slides/slide25.xml#22",
+  "slide": 25,
+  "kind": "slide",
+  "ru": "Выбор AdTech-поставщика, динамический поиск аудитории"
+ },
+ {
+  "id": "ppt/slides/slide25.xml#30",
+  "slide": 25,
+  "kind": "slide",
+  "ru": "CMP, AI-видео, perso-LP, SEO + GEO/AEO + ORM + Paid Search"
+ },
+ {
+  "id": "ppt/slides/slide25.xml#50",
+  "slide": 25,
+  "kind": "slide",
+  "ru": "Результаты кампании → обновленное правило по сегменту / креативу / поставщику → планирование следующего флайта → cross-brand использование"
+ },
+ {
+  "id": "ppt/slides/slide25.xml#57",
+  "slide": 25,
+  "kind": "slide",
+  "ru": "ЗАМКНУТЫЙ ЦИКЛ ОБУЧЕНИЯ"
+ },
+ {
+  "id": "ppt/slides/slide25.xml#59",
+  "slide": 25,
+  "kind": "slide",
+  "ru": "Одна система, много инструментов: каждый пилот 2027 должен завершаться\nправилом принятия решения, а не только результатом кампании"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#0",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "OMD Voice: AI CJM развивается в калиброванную\nсинтетическую панель аудиторий"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#1",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "Та же логика сегментов, что и в AI CJM, но с большей точностью: каждый сегмент калибруется на открытых, индустриальных и брендовых данных и может отвечать на вопросы как реальный респондент"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#3",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "ЛОГИЧНЫЙ СЛЕДУЮЩИЙ ШАГ"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#4",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "OMD Voice развивает AI CJM,\nзначительно повышая точность"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#7",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "Считывает digital-сигналы и язык потребителя. Формирует сегменты, потребности, барьеры и occasions."
+ },
+ {
+  "id": "ppt/slides/slide27.xml#8",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "[1]Результат:[/1][2] [/2][3]гипотеза об аудитории[/3]",
+  "tags": 3
+ },
+ {
+  "id": "ppt/slides/slide27.xml#11",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "+ калибровка на реальных данных"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#14",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "Каждый сегмент становится группой смоделированных респондентов с заданным соц-дем профилем, мотивами и барьерами. Панель отвечает на вопросы и оценивает сообщения, офферы и креативы."
+ },
+ {
+  "id": "ppt/slides/slide27.xml#15",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "Результат для маркетинга: валидированная гипотеза, размер сегмента в людях, карта тачпоинтов включая e-com, роль врача в выборе"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#17",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "КАЛИБРОВКА"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#18",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "Каждый сегмент опирается\nна реальные данные"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#22",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "Открытые исследования\nи официальная статистика"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#23",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "Росстат, ВЦИОМ, опубликованные исследования → размер сегментов и демографические данные"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#27",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "Brand awareness и воронка по категории → позиция бренда в каждом сегменте"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#31",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "Media consumption → роли каналов и карта тачпоинтов для каждого сегмента"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#34",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "Язык потребителя"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#35",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "Отзывы, форумы, social media, e-pharmacies → мотивы, барьеры и реальные формулировки"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#38",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "Результаты кампаний\nи внешние AI-сегменты"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#39",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "Post-click, BLS, пересечения с AI-кластерами поставщиков → learnings возвращаются в панель"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#41",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "КОНТРОЛЬ КАЧЕСТВА"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#42",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "Встроенная проверка устойчивости\nи достоверности результатов"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#43",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "3 независимые сборки с нуля, сотни прогонов: в карту попадают только воспроизводимые сегменты"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#44",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "Каждая цифра подтверждается внешними данными и исследованиями"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#45",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "Placebo traps и повторные прогоны: результат учитывается только при устойчивом разрыве между вариантами"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#46",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "Метод SSR*: до 90% human test-retest reliability в 57 реальных исследованиях (PyMC Labs, 2025)"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#48",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "РЕЖИМ ДИАЛОГА"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#49",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "Можно задавать любому сегменту вопросы в свободной форме — фокус-группа или глубинное интервью. Ответ — от 15 минут до 2 часов."
+ },
+ {
+  "id": "ppt/slides/slide27.xml#50",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "Пример: насколько рекомендация врача влияет на выбор в этом сегменте?"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#52",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "Карта сегментов AI CJM → калибровка на открытых, индустриальных и брендовых данных → панель OMD Voice → валидированный ответ до вложения инвестиций"
+ },
+ {
+  "id": "ppt/slides/slide27.xml#53",
+  "slide": 27,
+  "kind": "slide",
+  "ru": "*SSR — Semantic Similarity Rating: респондент отвечает своими словами, ответ сопоставляется по смыслу со шкальными утверждениями и преобразуется в распределение scores"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#0",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "Активация сегментов: от AI DMP к прямым\nинтеграциям с платформами (DSPs)"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#1",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "OMD Voice передает каждой DSP полную техническую карту сегмента; DSP собирает аудиторию на собственных данных и AI, а размер сегмента возвращается в планирование"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#3",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "2026 · ЕДИНОЕ DMP-РЕШЕНИЕ"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#4",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "Один DMP-сегмент\nдля всех платформ"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#7",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "текстовое описание сегмента"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#11",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "сегмент собирается из одного пула данных"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#14",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "Все платформы"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#15",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "один и тот же сегмент одновременно"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#16",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "ОГРАНИЧЕНИЯ"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#17",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "Сегменты слишком узкие: один DMP-сегмент одновременно используется на всех платформах"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#18",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "Частота слишком высокая: одни и те же пользователи получают повторные контакты"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#22",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "2027 · ПРЯМЫЕ ИНТЕГРАЦИИ С DSP"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#23",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "Платформа собирает аудиторию на основе технической карты OMD Voice"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#25",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "Техническая карта сегмента"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#26",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "OMD Voice: Семантика, параметры, правила и готовые признаки сегмента в формате, который платформа может автоматически обработать"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#30",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "Сборка на стороне платформы"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#31",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "MTS Ads и Platforma собирают аудиторию в собственной таксономии с помощью своего AI"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#35",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "Размер возвращается в планирование"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#36",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "Размер и состав сегмента возвращаются в медиаплан: охват и\nкросс-платформенные пересечения"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#43",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "ЧТО ПОЛУЧАЕМ"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#44",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "Экономия"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#46",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "Data cost VS годовая подписка OMD VOICE"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#48",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "Более широкий список платформ, не ограниченный DMP-партнерами"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#49",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "Частота и охват управляются на уровне каждой платформы"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#51",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "ДВА КОНТУРА"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#52",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "От экспорта данных к экспорту методологии работы с AI-сегментами"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#56",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "Прямые интеграции"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#57",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "OMD Voice ↔ DSP и платформы: правила сегментации передаются наружу, объемы сегментов возвращаются"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#60",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "Внешние AI-сегменты"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#61",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "Поставщики формируют собственные\nAI-кластеры; пересечения с нашими сегментами возвращают learnings в OMD Voice"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#64",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "OMD Voice оценивает аудиторию в людях; платформа формирует более крупный технический сегмент в IDs. Это ожидаемо: capacity платформы и пересечения учитываются в медиаплане"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#67",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "ПРИНЦИП 2027"
+ },
+ {
+  "id": "ppt/slides/slide28.xml#69",
+  "slide": 28,
+  "kind": "slide",
+  "ru": "Нет единого DMP-решения по умолчанию: технологический контур\nвыбирается под каждую задачу с учетом media, data и аудитории"
+ },
+ {
+  "id": "ppt/notesSlides/notesSlide28.xml#1",
+  "slide": 28,
+  "kind": "notes",
+  "ru": "Слайд 25 · новый вариант: было → стало (2026 приглушённо, 2027 — цикл из трёх узлов с возвратом), «Экономия 30%+» большой цифрой, «Два контура» и People vs IDs — полосой внизу"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#0",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "Персонализированный контент с OMD Voice: Generate → Pre-test → Launch"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#1",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "Нейросеть генерирует креативы и посадочные страницы для каждого сегмента и сразу проверяет их на панели: каждый сегмент получает сообщение, на которое реагирует лучше"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#3",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "КАК ЭТО РАБОТАЕТ"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#4",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "AI генерирует версии для каждого сегмента,\nа панель тестирует их до запуска"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#8",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "Профиль сегмента"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#9",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "Мотивы, барьеры, оккейжены и реальные формулировки из панели"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#15",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "Креативы, AI video и версии посадочных страниц для каждого сегмента"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#21",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "Каждый сегмент оценивает версии → результаты формируют сравнительный рейтинг"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#27",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "Лучшие версии масштабируются через CMP, AI-video и персонализированные посадочные страницы"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#28",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "← Слабые версии → доработка → повторный тест"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#29",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "ПРИМЕР СРАВНЕНИЯ ВЕРСИЙ ПО СЕГМЕНТАМ"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#30",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "Версия 1"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#31",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "Версия 2"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#32",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "Версия 3"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#33",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "Сегмент A"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#35",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "ниже оценка"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#37",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "✓ лучший вариант"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#39",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "ниже оценка"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#40",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "Сегмент B"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#42",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "✓ лучший вариант"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#44",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "ниже оценка"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#46",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "ниже оценка"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#47",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "Сегмент C"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#49",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "ниже оценка"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#51",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "ниже оценка"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#53",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "✓ лучший вариант"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#55",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "[1]Разные сегменты лучше реагируют на разные версии.[/1][2] Панель показывает, какую версию запускать для каждого сегмента.[/2]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide29.xml#57",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "ЧТО ПОЛУЧАЕМ"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#58",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "Точная коммуникация\nс каждым сегментом"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#59",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "Message, RTB и tone of voice проверяются самим сегментом до запуска"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#60",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "Больше вариантов без дополнительных исследований: тест занимает часы, а не недели"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#61",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "Слабые версии отсеиваются до продакшн-этапа и вложения инвестиций"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#63",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "ИНТЕГРИРУЕТСЯ В PRODUCTION 2027"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#64",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "CMP для массовых адаптаций"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#65",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "AI video для CTV/OLV"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#66",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "Персонализированные посадочные страницы для повышения post-click результатов"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#69",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "ПРИНЦИП 2027"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#71",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "Ни одна версия не выходит без пре-теста: каждый сегмент\nполучает вариант, на который реагирует лучше всего"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#73",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "ПИЛОТ Q4 2026"
+ },
+ {
+  "id": "ppt/slides/slide29.xml#74",
+  "slide": 29,
+  "kind": "slide",
+  "ru": "[1]АКВАДЕТРИМ + БИОТИНАЛЬ / GLP-1[/1]\n[2]AI generation → OMD Voice pre-test → выбор лучшей версии → запуск → результаты[/2]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide31.xml#1",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "Переход к единой системе присутствия на пути\nПоиск → AI-ответ → Проверка доверия → Выбор → Действие"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#2",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "ЛОГИКА CJM 2027"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#6",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "ПОИСК"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#7",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "вопрос / симптом / категория"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#12",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "ПОЛУЧЕНИЕ ОТВЕТА"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#13",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "поисковая выдача / AI / LLM"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#18",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "ПРОВЕРКА"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#19",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "экспертность / отзывы / обсуждения"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#24",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "ВЫБОР"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#25",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "сравнение вариантов"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#30",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "ДЕЙСТВИЕ"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#31",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "переход / покупка"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#34",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "ФУНДАМЕНТ ВИДИМОСТИ"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#35",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "Органическая поисковая видимость: сайт, структура, семантика, контент и техническая база"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#37",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "Передает:"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#38",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "приоритетные темы, сильные страницы, органический спрос"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#41",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "ПРИСУТСТВИЕ В AI-ОТВЕТАХ"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#42",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "Делает бренд и продукт понятными генеративным системам; повышает вероятность упоминания и цитирования"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#44",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "Передает:"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#45",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "слабые промты, gap-темы, список цитируемых источников"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#47",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "ВНЕШНИЕ ПУБЛИКАЦИИ"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#48",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "АВТОРИТЕТ ВНЕ САЙТА"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#49",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "Создают независимые экспертные источники, на которые могут опираться поиск и AI-системы"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#51",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "Передает:"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#52",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "авторитетные подтверждения и дополнительные точки контакта"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#54",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "ORM + СООБЩЕСТВА"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#55",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "ДОВЕРИЕ И РЕКОМЕНДАЦИИ"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#56",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "Формируют внешнее информационное поле: отзывы, рейтинги, Q&A, тематические обсуждения и ответы бренда"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#58",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "Передает:"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#59",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "реальные вопросы,\nриск-тезисы, пользовательский язык"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#62",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "ЗАХВАТ И ЗАЩИТА СПРОСА"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#63",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "Учитывает намерение пользователя, защищает бренд и перехватывает спрос на разных этапах выбора — от симптома и категории до покупки"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#65",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "Передает:"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#66",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "спрос, конкуренцию, CR / CPA и быстрые сигналы качества"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#69",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "2027 ПРИНЦИП"
+ },
+ {
+  "id": "ppt/slides/slide31.xml#71",
+  "slide": 31,
+  "kind": "slide",
+  "ru": "Единый AI Visibility Stream: общая семантика и фактология\n→ разные роли каналов → единый цикл данных и оптимизации"
+ },
+ {
+  "id": "ppt/slides/slide32.xml#0",
+  "slide": 32,
+  "kind": "slide",
+  "ru": "Операционная модель 2027: единая семантика и один цикл оптимизации"
+ },
+ {
+  "id": "ppt/slides/slide32.xml#1",
+  "slide": 32,
+  "kind": "slide",
+  "ru": "AI Visibility Stream работает как замкнутая система: запросы → контент → внешняя авторитетность → доверие → захват спроса → новые данные для следующего цикла"
+ },
+ {
+  "id": "ppt/slides/slide32.xml#2",
+  "slide": 32,
+  "kind": "slide",
+  "ru": "ЕДИНЫЙ ЦИКЛ"
+ },
+ {
+  "id": "ppt/slides/slide32.xml#6",
+  "slide": 32,
+  "kind": "slide",
+  "ru": "ЗАПРОСЫ"
+ },
+ {
+  "id": "ppt/slides/slide32.xml#7",
+  "slide": 32,
+  "kind": "slide",
+  "ru": "SEO-ядро + Paid Search запросы + GEO промпты + вопросы из сообществ"
+ },
+ {
+  "id": "ppt/slides/slide32.xml#9",
+  "slide": 32,
+  "kind": "slide",
+  "ru": "Единая карта: что ищут / спрашивают / сравнивают"
+ },
+ {
+  "id": "ppt/slides/slide32.xml#14",
+  "slide": 32,
+  "kind": "slide",
+  "ru": "СОБСТВЕННЫЙ КОНТЕНТ"
+ },
+ {
+  "id": "ppt/slides/slide32.xml#15",
+  "slide": 32,
+  "kind": "slide",
+  "ru": "SEO-страницы + контент под извлекаемость GEO/AEO + релевантные посадочные страницы"
+ },
+ {
+  "id": "ppt/slides/slide32.xml#17",
+  "slide": 32,
+  "kind": "slide",
+  "ru": "Закрываем приоритетные темы и оккейжены"
+ },
+ {
+  "id": "ppt/slides/slide32.xml#22",
+  "slide": 32,
+  "kind": "slide",
+  "ru": "ВНЕШНИЙ АВТОРИТЕТ"
+ },
+ {
+  "id": "ppt/slides/slide32.xml#23",
+  "slide": 32,
+  "kind": "slide",
+  "ru": "Экспертные публикации + ORM + Q&A + тематические обсуждения"
+ },
+ {
+  "id": "ppt/slides/slide32.xml#25",
+  "slide": 32,
+  "kind": "slide",
+  "ru": "Подтверждаем фактологию вне сайта и усиливаем доверие"
+ },
+ {
+  "id": "ppt/slides/slide32.xml#30",
+  "slide": 32,
+  "kind": "slide",
+  "ru": "ЗАХВАТ СПРОСА И НОВЫЕ ДАННЫЕ"
+ },
+ {
+  "id": "ppt/slides/slide32.xml#33",
+  "slide": 32,
+  "kind": "slide",
+  "ru": "Захватываем спрос и возвращаем данные в следующий цикл"
+ },
+ {
+  "id": "ppt/slides/slide32.xml#35",
+  "slide": 32,
+  "kind": "slide",
+  "ru": "новые поисковые запросы / слабые AI-темы / возражения / конкуренты / CR / CPA / quality signals → приоритизация следующего цикла"
+ },
+ {
+  "id": "ppt/slides/slide32.xml#41",
+  "slide": 32,
+  "kind": "slide",
+  "ru": "КЛЮЧЕВЫЕ ПРАВИЛА 2027"
+ },
+ {
+  "id": "ppt/slides/slide32.xml#44",
+  "slide": 32,
+  "kind": "slide",
+  "ru": "Не дублируем автоматически: решение по кластеру зависит от органической позиции, конкурентного давления и\nкост-эффективности"
+ },
+ {
+  "id": "ppt/slides/slide32.xml#47",
+  "slide": 32,
+  "kind": "slide",
+  "ru": "Слабые промпты и отсутствующие цитируемые источники становятся входом в контент-план и внешние публикации"
+ },
+ {
+  "id": "ppt/slides/slide32.xml#50",
+  "slide": 32,
+  "kind": "slide",
+  "ru": "Работаем не на объем отзывов, а на темы, площадки и обсуждения, которые влияют на доверие и могут становиться источниками для AI."
+ },
+ {
+  "id": "ppt/slides/slide32.xml#53",
+  "slide": 32,
+  "kind": "slide",
+  "ru": "ЕДИНАЯ МОДЕЛЬ"
+ },
+ {
+  "id": "ppt/slides/slide32.xml#55",
+  "slide": 32,
+  "kind": "slide",
+  "ru": "Единый ежемесячный обмен данными: поисковый спрос + AI Visibility + внешние\nисточники + репутация + результаты кампаний → общие приоритеты для Tier-2"
+ }
+]

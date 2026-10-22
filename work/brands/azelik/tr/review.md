@@ -1,0 +1,5003 @@
+# Review RU → EN
+
+
+## Slide 0
+
+- `s0000`
+  - RU: 'Azelik — стратегия 2027 · Акрихин × OMD'
+  - EN: 'Azelik — 2027 strategy · Akrikhin × OMD'
+- `s0001`
+  - RU: 'Знак Акрихин'
+  - EN: 'Akrikhin logo'
+
+## Slide 1
+
+- `s0002`
+  - RU: 'Обложка'
+  - EN: 'Cover'
+- `s0003`
+  - RU: 'Акрихин + OMD'
+  - EN: 'Akrikhin + OMD'
+- `s0004`
+  - RU: 'Классификация документа: конфиденциальная информация для внутреннего использования'
+  - EN: 'Document classification: confidential, for internal use only'
+
+## Slide 2
+
+- `s0005`
+  - RU: 'Рынок и категория'
+  - EN: 'Market and category'
+- `s0006`
+  - RU: 'Акрихин'
+  - EN: 'Akrikhin'
+
+## Slide 3
+
+- `s0007`
+  - RU: 'Рынок растёт в деньгах, но с важными изменениями'
+  - EN: 'Market grows in value, but the mix is shifting'
+- `s0008`
+  - RU: '1,34 '
+  - EN: '1.34 '
+- `s0009`
+  - RU: 'трлн ₽'
+  - EN: 'RUB tn'
+- `s0010`
+  - RU: '+11,5%'
+  - EN: '+11.5%'
+- `s0011`
+  - RU: '–2,9%'
+  - EN: '–2.9%'
+- `s0012`
+  - RU: '15,8%'
+  - EN: '15.8%'
+- `s0013`
+  - RU: '–4,4%'
+  - EN: '–4.4%'
+- `s0014`
+  - RU: 'объём розничного рынка ЛП'
+  - EN: 'retail drug market size'
+- `s0015`
+  - RU: 'рост Rx в рублях'
+  - EN: 'Rx value growth'
+- `s0016`
+  - RU: 'рост рынка в рублях'
+  - EN: 'market value growth'
+- `s0017`
+  - RU: 'динамика OTC в рублях'
+  - EN: 'OTC value change'
+- `s0018`
+  - RU: 'снижение в упаковках'
+  - EN: 'decline in units'
+- `s0019`
+  - RU: 'доля Rx в денежном рынке'
+  - EN: 'Rx share of market value'
+- `s0020`
+  - RU: '1–8 месяцы 2026'
+  - EN: 'Jan–Aug 2026'
+- `s0021`
+  - RU: 'Фармрынок растёт в деньгах, но натуральный спрос снижается. В 2026 году категория становится дороже, средняя цена упаковки растёт до **432,5 руб.** (+14,8% к январю–августу 2025 г.). Показатель среднего чека в российских аптеках по общему ассортименту (включая ЛП и парафармацевтику) в августе 2026 г. составил **888,5 руб.** (+15% к августу 2025 г.).'
+  - EN: 'The pharma market is growing in value, but unit demand is falling. Prices are rising in 2026: the average pack price is up to **RUB 432.5** (+14.8% vs January–August 2025). The average pharmacy receipt in Russia across the full range (incl. drugs and parapharmacy) reached **RUB 888.5** in August 2026 (+15% vs August 2025).'
+- `s0022`
+  - RU: '1ПГ 2026'
+  - EN: 'H1 2026'
+- `s0023`
+  - RU: 'Главный импульс рынку дают рецептурные препараты: они растут в рублях и формируют большую часть денежного оборота. Безрецептурный сегмент, наоборот, сталкивается со снижением спроса. Рынок резко меняют высокостоимостные препараты: продажи «Тирзепты» за полугодие превысили **15,9 млрд**, «Седжаро» вырос **в 87 раз**.'
+  - EN: 'Prescription drugs are the main growth engine: they are growing in value and account for most of the market’s sales. The OTC segment, by contrast, faces falling demand. High-cost drugs are reshaping the market fast: Tirzepta sales topped **RUB 15.9 bn** in six months, and Sedjaro grew **87-fold**.'
+- `s0024`
+  - RU: 'Иконка'
+  - EN: 'Icon'
+- `s0025`
+  - RU: '**Источник:** Фармвестник 2026'
+  - EN: '**Source:** Pharmvestnik 2026'
+
+## Slide 4
+
+- `s0026`
+  - RU: 'Большой экран становится цифровым, как и аптечная полка'
+  - EN: 'The big screen is going digital — and so is the pharmacy shelf'
+- `s0027`
+  - RU: 'млрд ₽'
+  - EN: 'RUB bn'
+- `s0028`
+  - RU: 'прогноз рынка DTV к концу 2026'
+  - EN: 'DTV market forecast, end-2026'
+- `s0029`
+  - RU: 'объём online-продаж и брони'
+  - EN: 'online sales & reservations'
+- `s0030`
+  - RU: 'SOV фармы в DTV за Q1’26'
+  - EN: 'Pharma SOV in DTV, Q1’26'
+- `s0031`
+  - RU: 'рост год к году'
+  - EN: 'YoY growth'
+- `s0032`
+  - RU: 'чаще всего встречают рекламу лекарств на Smart\xa0TV/CTV'
+  - EN: 'most often see drug ads on Smart TV/CTV'
+- `s0033`
+  - RU: 'доля онлайна в фармрознице'
+  - EN: 'online share of pharma retail'
+- `s0034`
+  - RU: 'КЛЮЧЕВОЙ ТРЕНД'
+  - EN: 'KEY TREND'
+- `s0035`
+  - RU: 'Классическое телевидение по-прежнему занимает ключевое место в медиамиксе фармы, но сам большой экран быстро меняется. Аудитория всё чаще смотрит контент через Smart\xa0TV и CTV, а рекламный рынок следует за ней: по оценке PHD, объём DTV в России в 2026 году может вырасти **с 6 до 15\xa0млрд рублей**. Фарма уже входит в число крупнейших рекламодателей этого сегмента — в I квартале её доля голоса достигла **около\xa018%**.'
+  - EN: 'Linear TV still holds a key place in pharma’s media mix, but the big screen itself is changing fast. Viewers increasingly watch via Smart TV and CTV, and ad money follows them: PHD estimates Russia’s DTV market could grow **from RUB 6 bn to 15 bn** in 2026. Pharma is already among the segment’s biggest advertisers, with share of voice reaching **about 18%** in Q1.'
+- `s0036`
+  - RU: 'Онлайн-продажи и бронирование аптечного ассортимента растут почти втрое быстрее общей выручки российских аптек: **+28,8% против +9,7%** в первой половине 2026 года. Доля ePharma уже достигла **28,2%** рынка против 24% годом ранее. 4% покупателей лекарств используют онлайн-канал, а каждый пятый покупает лекарства исключительно в интернете.'
+  - EN: 'Online sales and reservations of pharmacy products are growing almost three times faster than total pharmacy revenue in Russia: **+28.8% vs +9.7%** in H1 2026. ePharma already holds **28.2%** of the market, up from 24% a year earlier. 4% of drug buyers use the online channel, and one in five buys medicines only online.'
+- `s0037`
+  - RU: '**Источники:** Фармвестник 2026; RNC Pharma 2026'
+  - EN: '**Sources:** Pharmvestnik 2026; RNC Pharma 2026'
+
+## Slide 5
+
+- `s0038`
+  - RU: 'Поиск пользователей постепенно идёт к ИИ, бренды тоже хотят применять ИИ, но получается не у всех'
+  - EN: 'Search is gradually moving to AI; brands want to use AI too, but not all succeed'
+- `s0039`
+  - RU: 'млн'
+  - EN: 'M'
+- `s0040`
+  - RU: '49,5 '
+  - EN: '49.5 '
+- `s0041`
+  - RU: 'фарм-запросов в Яндекс, +13% год к году'
+  - EN: 'pharma queries on Yandex, +13% YoY'
+- `s0042`
+  - RU: 'опрошенных фармкомпаний проявляют интерес к AI'
+  - EN: 'of pharma companies surveyed are interested in AI'
+- `s0043`
+  - RU: 'пользователей ежемесячно взаимодействуют с ответами Алисы AI'
+  - EN: 'users engage with Alice AI answers every month'
+- `s0044`
+  - RU: 'считают свои данные неготовыми'
+  - EN: 'say their data isn’t ready'
+- `s0045`
+  - RU: 'пользователей нейропоиска уже применяли его при выборе медицинских услуг'
+  - EN: 'of AI search users have used it to choose medical services'
+- `s0046`
+  - RU: 'AI-пилотов дошли до промышленного масштаба'
+  - EN: 'of AI pilots have reached production scale'
+- `s0047`
+  - RU: 'готовы доверить AI подбор возможных лекарств или рекомендации по симптомам'
+  - EN: 'would trust AI to suggest drugs or give symptom advice'
+- `s0048`
+  - RU: 'компаний сворачивают AI-инициативы из-за проблем с данными'
+  - EN: 'of companies are dropping AI initiatives over data issues'
+- `s0049`
+  - RU: 'Поиск информации о здоровье продолжает расти, но сам способ поиска вместе с ростом пользовательской базы ИИ также постепенно видоизменяется.'
+  - EN: 'Health searches keep growing, but as more people use AI, the way they search is gradually changing.'
+- `s0050`
+  - RU: 'Компании запускают пилоты в прогнозировании продаж, логистике, документообороте и персонализации коммуникаций. Однако **разрыв между интересом и реальным внедрением** остаётся очень большим. Главным ограничением становится не сама технология, а готовность инфраструктуры.'
+  - EN: 'Companies are piloting AI in sales forecasting, logistics, document management and personalized communications. But **the gap between interest and real adoption** is still very wide. The main constraint is infrastructure readiness, not the technology itself.'
+- `s0051`
+  - RU: '**Источники:** AdIndex 2026; Яндекс 2026; ВЦИОМ 2026; Фармвестник 2026'
+  - EN: '**Sources:** AdIndex 2026; Yandex 2026; VCIOM 2026; Pharmvestnik 2026'
+
+## Slide 6
+
+- `s0052`
+  - RU: 'Рынок средств против акне продолжает активно расти'
+  - EN: 'The acne treatment market keeps growing fast'
+- `s0053`
+  - RU: 'рост продаж в деньгах'
+  - EN: 'value sales growth'
+- `s0054`
+  - RU: 'рост продаж в упаковках'
+  - EN: 'unit sales growth'
+- `s0055`
+  - RU: '**В 2025 году**\nк 2024 году'
+  - EN: '**2025**\nvs 2024'
+- `s0056`
+  - RU: 'в деньгах'
+  - EN: 'in value'
+- `s0057`
+  - RU: 'в упаковках'
+  - EN: 'in units'
+- `s0058`
+  - RU: '**Январь–июль 2026**'
+  - EN: '**January–July 2026**'
+- `s0059`
+  - RU: 'всех упаковок — местные средства'
+  - EN: 'of all units — topical treatments'
+- `s0060`
+  - RU: 'выручки категории — системные препараты'
+  - EN: 'of category value — systemic drugs'
+- `s0061`
+  - RU: 'Москва и Московская область'
+  - EN: 'Moscow and Moscow\xa0Oblast'
+- `s0062`
+  - RU: 'Санкт-Петербург'
+  - EN: 'St. Petersburg'
+- `s0063`
+  - RU: '**ТОП-5** регионов России'
+  - EN: '**Top 5** Russian regions'
+- `s0064`
+  - RU: 'Категория росла\nв 2025 году'
+  - EN: 'The category grew\nin 2025'
+- `s0065`
+  - RU: 'И продолжила рост в 2026'
+  - EN: 'And kept growing in 2026'
+- `s0066`
+  - RU: 'Наружные препараты\nпо-прежнему формируют основу потребления'
+  - EN: 'Topical treatments\nstill lead in volume'
+- `s0067`
+  - RU: 'Рост происходит\nво всех регионах России'
+  - EN: 'Growth across\nall regions of Russia'
+- `s0068`
+  - RU: 'Рынок препаратов от акне показал уверенный рост: спрос увеличился как в денежном выражении, так и в упаковках. Это подтверждает устойчивую актуальность категории и высокий интерес к решениям проблемы акне.'
+  - EN: 'The acne treatment market grew strongly in both value and units. This confirms the category’s lasting relevance and strong interest in treating acne.'
+- `s0069`
+  - RU: 'В январе–июле 2026 года продажи препаратов от акне достигли **13,1\xa0млрд\xa0₽**, что на 28% больше, чем за аналогичный период 2025 года. В натуральном выражении рынок также растёт — на **16%**.'
+  - EN: 'In January–July 2026, acne treatment sales reached **RUB 13.1 bn**, up 28% from the same period of 2025. Volume is growing too — up **16%**.'
+- `s0070`
+  - RU: 'Местные средства остаются самым популярным выбором — на них приходится 69% всех проданных упаковок.\n\nПри этом в деньгах более 55% выручки формируют системные препараты (пероральные ретиноиды). Главный драйвер — изотретиноин.'
+  - EN: 'Topical treatments remain the most popular choice, accounting for 69% of all units sold.\n\nIn value, however, systemic drugs (oral retinoids) bring in over 55% of revenue. The main driver is isotretinoin.'
+- `s0071`
+  - RU: 'Спрос на препараты от акне растёт по всей стране — увеличение продаж зафиксировано во всех регионах. Наибольшая доля в денежном выражении приходится на Москву и Московскую область, а также\nСанкт-Петербург, при этом значительная часть рынка формируется и в других регионах.'
+  - EN: 'Demand for acne treatments is growing nationwide, with sales up in every region.\nMoscow and Moscow Oblast, along with St. Petersburg, hold the largest share in value, but other regions also make up a large part of the market.'
+- `s0072`
+  - RU: '~8,5%'
+  - EN: '~8.5%'
+- `s0073`
+  - RU: '**Источник:** RNC Pharma. Рынок препаратов для лечения угревой сыпи в России. 2024, 2025, янв.–июль 2026.'
+  - EN: '**Source:** RNC Pharma. Acne treatment market in Russia. 2024, 2025, Jan–Jul 2026.'
+
+## Slide 7
+
+- `s0074`
+  - RU: 'Потребители активно ищут решения в диджитал и хотят быстрый результат'
+  - EN: 'Consumers actively look for solutions online and want fast results'
+- `s0075`
+  - RU: 'В мире: социальные сети — неотъемлемая часть пути к решению'
+  - EN: 'Worldwide: social media is integral to finding a solution'
+- `s0076`
+  - RU: 'В России: интернет становится частью выбора лекарства'
+  - EN: 'In Russia: the internet is now part of choosing a drug'
+- `s0077`
+  - RU: 'Что говорят люди: ключевые потребности и барьеры'
+  - EN: 'What people say: key needs and barriers'
+- `s0078`
+  - RU: 'Люди с акне активно ищут информацию об уходе и лечении в цифровой среде: читают врачей и блогеров, сравнивают средства, вдохновляются опытом других и принимают реальные решения на основе увиденного.'
+  - EN: 'People with acne actively seek skincare and treatment advice online: they follow doctors and influencers, compare products, draw on others’ experience and make real decisions based on what they see.'
+- `s0079`
+  - RU: 'Российские пользователи всё чаще самостоятельно изучают препараты в интернете, сравнивают варианты и переходят от поиска информации к покупке. Цифровые источники уже работают рядом с врачом и фармацевтом, а также растёт интерес к новым технологиям, включая ИИ.'
+  - EN: 'Russian users increasingly research drugs online on their own, compare options and move from searching to buying. Digital sources now work alongside the doctor and pharmacist, and interest in new technologies, including AI, is growing.'
+- `s0080`
+  - RU: 'В обсуждениях о лечении акне пользователи чаще всего делятся такими переживаниями:'
+  - EN: 'In discussions of acne treatment, users most often share these concerns:'
+- `s0081`
+  - RU: 'пациентов с акне пользуются социальными сетями'
+  - EN: 'of acne patients use social\xa0media'
+- `s0082`
+  - RU: 'Где ищут информацию о коже?'
+  - EN: 'Where they get skin info'
+- `s0083`
+  - RU: 'Кого читают?'
+  - EN: 'Who they follow'
+- `s0084`
+  - RU: 'дерматологов'
+  - EN: 'dermatologists'
+- `s0085`
+  - RU: 'блогеров'
+  - EN: 'influencers'
+- `s0086`
+  - RU: 'специалистов по красоте'
+  - EN: 'beauty professionals'
+- `s0087`
+  - RU: 'покупали средство после того, как увидели его в социальных сетях'
+  - EN: 'bought a product after seeing it on social media'
+- `s0088`
+  - RU: 'откладывали обращение к врачу\nиз-за рекомендаций в социальных сетях'
+  - EN: 'put off seeing a doctor\non social media advice'
+- `s0089`
+  - RU: '25,5%'
+  - EN: '25.5%'
+- `s0090`
+  - RU: '18,4%'
+  - EN: '18.4%'
+- `s0091`
+  - RU: '10,0%'
+  - EN: '10.0%'
+- `s0092`
+  - RU: '44,4%'
+  - EN: '44.4%'
+- `s0093`
+  - RU: '31,4%'
+  - EN: '31.4%'
+- `s0094`
+  - RU: '17,9%'
+  - EN: '17.9%'
+- `s0095`
+  - RU: '28,2%'
+  - EN: '28.2%'
+- `s0096`
+  - RU: '34,1%'
+  - EN: '34.1%'
+- `s0097`
+  - RU: 'покупают лекарства по рекомендациям медицинских блогов.'
+  - EN: 'buy medicines based on medical blog recommendations.'
+- `s0098`
+  - RU: 'россиян хотя бы раз за последний год использовали ИИ для предварительного определения диагноза или поиска подходящего лекарства.'
+  - EN: 'of Russians have used AI at least once in the past year to get a preliminary diagnosis or find a suitable drug.'
+- `s0099`
+  - RU: '«Хочу результат быстрее»'
+  - EN: '“I want results faster”'
+- `s0100`
+  - RU: '«Хочу лечить, но боюсь испортить кожу»'
+  - EN: '“I want to treat it, not ruin my skin”'
+- `s0101`
+  - RU: '«Мне нужно, чтобы это реально работало»'
+  - EN: '“I need it to actually work”'
+- `s0102`
+  - RU: '«Прыщи влияют на меня сильнее,\nчем кажется»'
+  - EN: '“Breakouts affect me more\nthan you’d think”'
+- `s0103`
+  - RU: 'Люди хотят видеть заметные улучшения в короткие сроки, особенно когда появляются воспалительные элементы. Важна простая и понятная схема применения.'
+  - EN: 'People want visible improvement fast, especially when inflamed breakouts appear. A simple, clear regimen matters.'
+- `s0104`
+  - RU: 'Пользователи переживают о возможной сухости, раздражении и ухудшении состояния кожи. Для них важно, чтобы средство было эффективным, но при этом хорошо переносилось.'
+  - EN: 'Users worry about dryness, irritation and their skin getting worse. They want a product that works and is well tolerated.'
+- `s0105`
+  - RU: 'Потребители устали от множества средств и хотят доказанной эффективности. Они сравнивают опыт других пользователей и выбирают то, чему можно доверять.'
+  - EN: 'Consumers are tired of trying product after product and want proven efficacy. They compare other users’ experiences and choose what they can trust.'
+- `s0106`
+  - RU: 'Акне затрагивает не только кожу, но и эмоциональное состояние: уверенность в себе, настроение, общение и качество жизни. Для многих это не просто косметическая проблема, а важная часть повседневной жизни.'
+  - EN: 'Acne affects emotional well-being as well as skin: confidence, mood, social life and quality of life. For many, it is more than a cosmetic issue — it shapes daily life.'
+- `s0107`
+  - RU: '**Источники:** 1) Journal of Cosmetic Dermatology, 2026. Исследование среди 408 пациентов с акне (средний возраст 20,9 года). 2) Яндекс Реклама. Фармацевтическая отрасль: исследование и тренды, 2026 (данные опроса, сентябрь 2025). 3) Анализ отзывов и пользовательских обсуждений, 2024–2026.'
+  - EN: '**Sources:** 1) Journal of Cosmetic Dermatology, 2026. Study of 408 acne patients (mean age 20.9). 2) Yandex Ads. Pharmaceutical industry: research and trends, 2026 (survey data, September 2025). 3) Analysis of reviews and user discussions, 2024–2026.'
+
+## Slide 8
+
+- `s0108`
+  - RU: 'Тренды в категории: что это значит для Азелик в 2027'
+  - EN: 'Category trends: what they mean for Azelik in 2027'
+- `s0109`
+  - RU: 'Меняется не только рынок - меняется путь пользователя к выбору и регулярному применению'
+  - EN: 'The market is changing — and so is the user’s path to choice and regular use'
+- `s0110`
+  - RU: 'Три изменения в категории напрямую поддерживают текущую стратегию: расширение аудитории + Comprehensive + работа на регулярность'
+  - EN: 'Three category shifts directly support the current strategy: audience expansion + Comprehensive + regular use'
+- `s0111`
+  - RU: 'КАТЕГОРИЯ РАСТЁТ'
+  - EN: 'CATEGORY IS GROWING'
+- `s0112`
+  - RU: 'ПУТЬ ВЫБОРА СТАНОВИТСЯ ЦИФРОВЫМ'
+  - EN: 'CHOICE GOES DIGITAL'
+- `s0113`
+  - RU: 'ДВЕ КЛЮЧЕВЫЕ ПОТРЕБНОСТИ'
+  - EN: 'TWO KEY NEEDS'
+- `s0114`
+  - RU: '**СТРАТЕГИЯ →** Recruitment + Frequency'
+  - EN: '**STRATEGY →** Recruitment + Frequency'
+- `s0115`
+  - RU: '**СТРАТЕГИЯ →** Comprehensive'
+  - EN: '**STRATEGY →** Comprehensive'
+- `s0116`
+  - RU: '**СТРАТЕГИЯ →** новые потребностные сегменты'
+  - EN: '**STRATEGY →** new need-based segments'
+- `s0117`
+  - RU: 'Рынок препаратов от акне\nв январе–июле 2026:\n[[+28% в деньгах]]\nи [[+16% в упаковках]].'
+  - EN: 'Acne treatment market\nin January–July 2026:\n[[+28% in value]]\nand [[+16% in units]].'
+- `s0118`
+  - RU: '[[60%]] самостоятельно ищут информацию о препаратах в интернете;\n[[34%]] используют поиск.'
+  - EN: '[[60%]] look up drug information online on their own;\n[[34%]] use search engines.'
+- `s0119`
+  - RU: '«Хочу заметный результат»\nи «Боюсь испортить кожу».'
+  - EN: '“I want visible results”\nand “Afraid to ruin my skin.”'
+- `s0120`
+  - RU: 'Для Азелика важно усиливать территорию наружного лечения и переводить разовый выбор в регулярный контроль.'
+  - EN: 'Azelik should strengthen its place in topical treatment and turn a one-off choice into regular acne control.'
+- `s0121`
+  - RU: 'Пользователь собирает решение из нескольких источников — поэтому каналы должны работать последовательно, а не изолированно.'
+  - EN: 'Users piece together a decision from several sources — so channels must work in sequence, not in isolation.'
+- `s0122`
+  - RU: 'Коммуникация должна одновременно доказывать эффективность и снимать барьер по комфорту — особенно для чувствительной кожи и 40+.'
+  - EN: 'Messaging must prove efficacy and ease tolerability concerns at the same time — especially for sensitive skin and 40+.'
+- `s0123`
+  - RU: 'ВЫВОД ДЛЯ 2027'
+  - EN: 'TAKEAWAY FOR 2027'
+- `s0124`
+  - RU: 'Не просто расширяем охват: привлекаем → помогаем выбрать → снимаем барьер → формируем регулярное применение.'
+  - EN: 'More than reach: attract → help choose → remove the barrier → build regular use.'
+- `s0125`
+  - RU: '**Источники:** RNC Pharma 2026; исследования и анализ пользовательских обсуждений, представленные в стратегии Azelik 2027.'
+  - EN: '**Sources:** RNC Pharma 2026; research and analysis of user discussions presented in the Azelik 2027 strategy.'
+
+## Slide 9
+
+- `s0126`
+  - RU: 'Consumer-centric 2027: от потребности до повторного выбора'
+  - EN: 'Consumer-centric 2027: from need to repeat choice'
+- `s0127`
+  - RU: 'Категорийные тренды переводим в единую систему:\nDigital → E-com / точка продажи → повторное применение'
+  - EN: 'We turn category trends into one system:\nDigital → E-com / point of sale → repeat use'
+- `s0128`
+  - RU: 'ЕДИНЫЙ ПУТЬ ПОТРЕБИТЕЛЯ'
+  - EN: 'ONE CONSUMER JOURNEY'
+- `s0129`
+  - RU: 'СОПРОВОЖДАЕМ'
+  - EN: 'GUIDE'
+- `s0130`
+  - RU: 'КОНВЕРТИРУЕМ'
+  - EN: 'CONVERT'
+- `s0131`
+  - RU: 'УДЕРЖИВАЕМ'
+  - EN: 'RETAIN'
+- `s0132`
+  - RU: 'Путь к решению становится цифровым и нелинейным'
+  - EN: 'Decisions go digital and nonlinear'
+- `s0133`
+  - RU: 'Рост категории повышает значение момента выбора'
+  - EN: 'A growing category raises the stakes at the moment of choice'
+- `s0134`
+  - RU: 'После первого решения важно сформировать регулярное применение'
+  - EN: 'After the first choice, the key is to build regular use'
+- `s0135`
+  - RU: 'РОЛЬ АЗЕЛИК'
+  - EN: 'AZELIK’S ROLE'
+- `s0136`
+  - RU: 'Быть рядом в момент возникновения потребности и поиска решения'
+  - EN: 'Be there when the need arises and people start looking for a solution'
+- `s0137`
+  - RU: 'Не терять пользователя между интересом и покупкой'
+  - EN: 'Don’t lose users on the way to purchase'
+- `s0138`
+  - RU: 'Перевести разовый выбор в устойчивый сценарий использования'
+  - EN: 'Turn a one-off choice into a lasting habit'
+- `s0139`
+  - RU: 'Потребитель изучает акне, сравнивает решения и обращается к нескольким источникам.'
+  - EN: 'Consumers read up on acne, compare options and turn to several sources.'
+- `s0140`
+  - RU: 'Сформированный интерес должен без потерь переходить в покупку — там, где потребитель готов её совершить.'
+  - EN: 'Interest must turn into a purchase without losing people along the way — wherever they are ready to buy.'
+- `s0141`
+  - RU: 'В акне одновременно важны эффективный результат и уверенность, что средство не ухудшит состояние кожи.'
+  - EN: 'In acne, people want both real results and confidence that the product won’t make their skin worse.'
+- `s0142`
+  - RU: 'Digital формирует потребность и предпочтение → Search / GEO / AEO / ORM помогают выбрать.'
+  - EN: 'Digital builds need and preference → Search / GEO / AEO / ORM help people choose.'
+- `s0143`
+  - RU: 'Digital → E-com → аптека / дистрибуция: спрос превращаем в доступную покупку.'
+  - EN: 'Digital → E-com → pharmacy / distribution: we turn demand into an easy purchase.'
+- `s0144`
+  - RU: 'Контент → ретаргетинг / AON → повторная покупка + поддержка врача там, где нужен экспертный выбор.'
+  - EN: 'Content → retargeting / AON → repeat purchase + doctor support where an expert choice is needed.'
+- `s0145`
+  - RU: 'ВЫВОД 2027'
+  - EN: '2027 TAKEAWAY'
+- `s0146`
+  - RU: 'Digital создаёт и сопровождает спрос → E-com и дистрибуция превращают его в покупку → повторные контакты и врачебная поддержка формируют дальнейшее использование.'
+  - EN: 'Digital creates and nurtures demand → E-com and distribution turn it into purchases → repeat touchpoints and doctor support sustain ongoing use.'
+
+## Slide 10
+
+- `s0147`
+  - RU: 'Анализ конкурентов и результаты 2026'
+  - EN: 'Competitor analysis and 2026 results'
+
+## Slide 11
+
+- `s0148`
+  - RU: 'Скиноклир формирует основное конкурентное давление по объему инвестиций, тогда как Базирон сохраняет минимальную OLV-поддержку'
+  - EN: 'Skinoclear outspends other competitors, while Basiron keeps only minimal OLV support'
+- `s0149`
+  - RU: 'Азелик'
+  - EN: 'Azelik'
+- `s0150`
+  - RU: 'Скиноклир'
+  - EN: 'Skinoclear'
+- `s0151`
+  - RU: 'Базирон АС'
+  - EN: 'Basiron AC'
+- `s0152`
+  - RU: 'Метрогил'
+  - EN: 'Metrogyl'
+- `s0153`
+  - RU: 'с марта 2026'
+  - EN: 'since Mar 2026'
+- `s0154`
+  - RU: 'Динамика продаж'
+  - EN: 'Sales trends'
+- `s0155`
+  - RU: 'ДИНАМИКА ПРОДАЖ'
+  - EN: 'SALES TRENDS'
+- `s0156`
+  - RU: 'млн ₽, IQVIA'
+  - EN: 'RUB M, IQVIA'
+- `s0157`
+  - RU: 'Азелик — продажи, млн ₽'
+  - EN: 'Azelik — sales, RUB M'
+- `s0158`
+  - RU: 'янв'
+  - EN: 'Jan'
+- `s0159`
+  - RU: 'фев'
+  - EN: 'Feb'
+- `s0160`
+  - RU: 'мар'
+  - EN: 'Mar'
+- `s0161`
+  - RU: 'апр'
+  - EN: 'Apr'
+- `s0162`
+  - RU: 'май'
+  - EN: 'May'
+- `s0163`
+  - RU: 'июн'
+  - EN: 'Jun'
+- `s0164`
+  - RU: 'июл'
+  - EN: 'Jul'
+- `s0165`
+  - RU: 'авг'
+  - EN: 'Aug'
+- `s0166`
+  - RU: 'сен'
+  - EN: 'Sep'
+- `s0167`
+  - RU: 'окт'
+  - EN: 'Oct'
+- `s0168`
+  - RU: 'ноя'
+  - EN: 'Nov'
+- `s0169`
+  - RU: 'дек'
+  - EN: 'Dec'
+- `s0170`
+  - RU: 'Скиноклир — продажи, млн ₽'
+  - EN: 'Skinoclear — sales, RUB M'
+- `s0171`
+  - RU: 'Базирон АС — продажи, млн ₽'
+  - EN: 'Basiron AC — sales, RUB M'
+- `s0172`
+  - RU: '80,0'
+  - EN: '80.0'
+- `s0173`
+  - RU: '77,1'
+  - EN: '77.1'
+- `s0174`
+  - RU: '81,4'
+  - EN: '81.4'
+- `s0175`
+  - RU: '84,8'
+  - EN: '84.8'
+- `s0176`
+  - RU: '81,7'
+  - EN: '81.7'
+- `s0177`
+  - RU: '81,1'
+  - EN: '81.1'
+- `s0178`
+  - RU: '88,5'
+  - EN: '88.5'
+- `s0179`
+  - RU: '97,2'
+  - EN: '97.2'
+- `s0180`
+  - RU: '97,9'
+  - EN: '97.9'
+- `s0181`
+  - RU: '84,6'
+  - EN: '84.6'
+- `s0182`
+  - RU: '86,2'
+  - EN: '86.2'
+- `s0183`
+  - RU: '87,6'
+  - EN: '87.6'
+- `s0184`
+  - RU: '86,7'
+  - EN: '86.7'
+- `s0185`
+  - RU: '85,3'
+  - EN: '85.3'
+- `s0186`
+  - RU: '108,0'
+  - EN: '108.0'
+- `s0187`
+  - RU: '110,5'
+  - EN: '110.5'
+- `s0188`
+  - RU: '115,5'
+  - EN: '115.5'
+- `s0189`
+  - RU: '114,3'
+  - EN: '114.3'
+- `s0190`
+  - RU: '131,3'
+  - EN: '131.3'
+- `s0191`
+  - RU: '53,5'
+  - EN: '53.5'
+- `s0192`
+  - RU: '57,2'
+  - EN: '57.2'
+- `s0193`
+  - RU: '67,5'
+  - EN: '67.5'
+- `s0194`
+  - RU: '69,8'
+  - EN: '69.8'
+- `s0195`
+  - RU: '71,4'
+  - EN: '71.4'
+- `s0196`
+  - RU: '93,2'
+  - EN: '93.2'
+- `s0197`
+  - RU: '104,7'
+  - EN: '104.7'
+- `s0198`
+  - RU: '87,2'
+  - EN: '87.2'
+- `s0199`
+  - RU: '96,6'
+  - EN: '96.6'
+- `s0200`
+  - RU: '80,1'
+  - EN: '80.1'
+- `s0201`
+  - RU: '81,8'
+  - EN: '81.8'
+- `s0202`
+  - RU: '78,4'
+  - EN: '78.4'
+- `s0203`
+  - RU: '89,4'
+  - EN: '89.4'
+- `s0204`
+  - RU: '98,8'
+  - EN: '98.8'
+- `s0205`
+  - RU: '90,9'
+  - EN: '90.9'
+- `s0206`
+  - RU: '100,6'
+  - EN: '100.6'
+- `s0207`
+  - RU: '106,2'
+  - EN: '106.2'
+- `s0208`
+  - RU: '117,1'
+  - EN: '117.1'
+- `s0209`
+  - RU: '89,6'
+  - EN: '89.6'
+- `s0210`
+  - RU: '82,3'
+  - EN: '82.3'
+- `s0211`
+  - RU: '88,0'
+  - EN: '88.0'
+- `s0212`
+  - RU: '87,0'
+  - EN: '87.0'
+- `s0213`
+  - RU: '88,1'
+  - EN: '88.1'
+- `s0214`
+  - RU: '88,2'
+  - EN: '88.2'
+- `s0215`
+  - RU: '95,7'
+  - EN: '95.7'
+- `s0216`
+  - RU: '104,9'
+  - EN: '104.9'
+- `s0217`
+  - RU: '101,2'
+  - EN: '101.2'
+- `s0218`
+  - RU: '98,6'
+  - EN: '98.6'
+- `s0219`
+  - RU: '96,7'
+  - EN: '96.7'
+- `s0220`
+  - RU: '105,9'
+  - EN: '105.9'
+- `s0221`
+  - RU: '103,6'
+  - EN: '103.6'
+- `s0222`
+  - RU: '101,9'
+  - EN: '101.9'
+- `s0223`
+  - RU: '118,9'
+  - EN: '118.9'
+- `s0224`
+  - RU: '115,8'
+  - EN: '115.8'
+- `s0225`
+  - RU: '119,8'
+  - EN: '119.8'
+- `s0226`
+  - RU: '122,0'
+  - EN: '122.0'
+- `s0227`
+  - RU: '138,3'
+  - EN: '138.3'
+- `s0228`
+  - RU: 'Динамика инвестиций'
+  - EN: 'Spend trends'
+- `s0229`
+  - RU: 'ДИНАМИКА ИНВЕСТИЦИЙ'
+  - EN: 'SPEND TRENDS'
+- `s0230`
+  - RU: 'тыс. ₽, Mediascope; под значением — доля бренда в инвестициях месяца (SOS), %'
+  - EN: 'RUB K, Mediascope; below each value: brand’s share of monthly spend (SOS), %'
+- `s0231`
+  - RU: 'Скиноклир — инвестиции, тыс. ₽'
+  - EN: 'Skinoclear — spend, RUB K'
+- `s0232`
+  - RU: 'Базирон АС — инвестиции, тыс. ₽'
+  - EN: 'Basiron AC — spend, RUB K'
+- `s0233`
+  - RU: 'Метрогил — инвестиции, тыс. ₽'
+  - EN: 'Metrogyl — spend, RUB K'
+- `s0234`
+  - RU: '1,6'
+  - EN: '1.6'
+- `s0235`
+  - RU: '1,5'
+  - EN: '1.5'
+- `s0236`
+  - RU: '3,1'
+  - EN: '3.1'
+- `s0237`
+  - RU: 'Доля инвестиций по каналам'
+  - EN: 'Share of spend by channel'
+- `s0238`
+  - RU: 'ДОЛЯ ИНВЕСТИЦИЙ ПО КАНАЛАМ'
+  - EN: 'SHARE OF SPEND BY CHANNEL'
+- `s0239`
+  - RU: 'Пресса'
+  - EN: 'Press'
+- `s0240`
+  - RU: 'янв–июл 2025'
+  - EN: 'Jan–Jul 2025'
+- `s0241`
+  - RU: 'янв–июл 2026'
+  - EN: 'Jan–Jul 2026'
+- `s0242`
+  - RU: '417 тыс. ₽'
+  - EN: 'RUB 417K'
+- `s0243`
+  - RU: '188 тыс. ₽'
+  - EN: 'RUB 188K'
+- `s0244`
+  - RU: 'Среди отмониторенных конкурентов наибольший объем digital-инвестиций приходится на Скиноклир — **417 тыс. руб.** в 2026 году. Бренд использует преимущественно **OLV (67%) и прессу (25%)**, дополняя их небольшим объемом Outdoor'
+  - EN: 'Among monitored competitors, Skinoclear has the largest digital spend — **RUB 417K** in 2026. The brand relies mainly on **OLV (67%) and press (25%)**, plus a small amount of Outdoor'
+- `s0245`
+  - RU: 'На фоне ограниченного конкурентного digital-давления **Азелик с марта 2026 года опережает Скиноклир** по продажам в рублях. За январь–июль продажи Азелика выросли на **+31% год к году**'
+  - EN: 'With limited competitive digital pressure, **Azelik has outsold Skinoclear since March 2026** in value. In January–July, Azelik sales grew **31% YoY**'
+- `s0246`
+  - RU: 'Базирон АС — второй отмониторенный конкурент: в 2026 году его digital-поддержка **полностью сосредоточена в OLV** (15+ площадок, включая rutube.ru, mediavitrina.ru, dzen.ru, ctc.ru), при этом общий объем инвестиций существенно ниже Скиноклира — **188 тыс. руб.**'
+  - EN: 'Basiron AC is the second monitored competitor: in 2026 its digital support is **entirely in OLV** (15+ sites, incl. rutube.ru, mediavitrina.ru, dzen.ru, ctc.ru), with total spend well below Skinoclear’s — **RUB 188K**'
+- `s0247`
+  - RU: 'Источник: Mediascope, IQVIA. По данным Mediascope, в 2026 году digital-размещения удалось отмониторить только у двух конкурентов — Скиноклира и Базирона АС. Отсутствие других брендов в мониторинге не означает отсутствие их активности'
+  - EN: 'Source: Mediascope, IQVIA. In 2026, Mediascope monitored digital placements for only two competitors — Skinoclear and Basiron AC. Other brands’ absence from monitoring does not mean they are inactive'
+
+## Slide 12
+
+- `s0248`
+  - RU: 'Конкурент активно размещался на ТВ с роликом с достаточно запоминающимся слоганом в период 2009–2021 гг.'
+  - EN: 'The competitor ran heavy TV in 2009–2021 with a spot carrying a fairly memorable slogan'
+- `s0249`
+  - RU: 'Динамика ТВ-инвестиций'
+  - EN: 'TV spend trends'
+- `s0250`
+  - RU: 'ДИНАМИКА ТВ-ИНВЕСТИЦИЙ'
+  - EN: 'TV SPEND TRENDS'
+- `s0251`
+  - RU: 'млн ₽'
+  - EN: 'RUB M'
+- `s0252`
+  - RU: '«нет прыщей на лице»'
+  - EN: '“no facial pimples”'
+- `s0253`
+  - RU: '«от прыщей на лице»'
+  - EN: '“for facial pimples”'
+- `s0254`
+  - RU: 'другое'
+  - EN: 'other'
+- `s0255`
+  - RU: '«Нет прыщей на лице» — ТВ-инвестиции, млн ₽'
+  - EN: '“No facial pimples” — TV spend, RUB M'
+- `s0256`
+  - RU: '«От прыщей на лице» — ТВ-инвестиции, млн ₽'
+  - EN: '“For facial pimples” — TV spend, RUB M'
+- `s0257`
+  - RU: 'Другое — ТВ-инвестиции, млн ₽'
+  - EN: 'Other — TV spend, RUB M'
+- `s0258`
+  - RU: '2,3'
+  - EN: '2.3'
+- `s0259`
+  - RU: '34,3'
+  - EN: '34.3'
+- `s0260`
+  - RU: '50,0'
+  - EN: '50.0'
+- `s0261`
+  - RU: '54,1'
+  - EN: '54.1'
+- `s0262`
+  - RU: '96,9'
+  - EN: '96.9'
+- `s0263`
+  - RU: '146,3'
+  - EN: '146.3'
+- `s0264`
+  - RU: '141,7'
+  - EN: '141.7'
+- `s0265`
+  - RU: '159,6'
+  - EN: '159.6'
+- `s0266`
+  - RU: '175,7'
+  - EN: '175.7'
+- `s0267`
+  - RU: '77,3'
+  - EN: '77.3'
+- `s0268`
+  - RU: '98,3'
+  - EN: '98.3'
+- `s0269`
+  - RU: '181,2'
+  - EN: '181.2'
+- `s0270`
+  - RU: '176,1'
+  - EN: '176.1'
+- `s0271`
+  - RU: '156,6'
+  - EN: '156.6'
+- `s0272`
+  - RU: '126,8'
+  - EN: '126.8'
+- `s0273`
+  - RU: '76,7'
+  - EN: '76.7'
+- `s0274`
+  - RU: '75,9'
+  - EN: '75.9'
+- `s0275`
+  - RU: '43,0'
+  - EN: '43.0'
+- `s0276`
+  - RU: '← смена креатива →'
+  - EN: '← creative change →'
+- `s0277`
+  - RU: 'Базирон АС — ролик «нет прыщей на лице»'
+  - EN: 'Basiron AC — “no facial pimples” spot'
+- `s0278`
+  - RU: 'Базирон АС — ролик «от прыщей на лице»'
+  - EN: 'Basiron AC — “for facial pimples” spot'
+- `s0279`
+  - RU: 'Длина роликов'
+  - EN: 'Spot length'
+- `s0280`
+  - RU: 'ДЛИНА РОЛИКОВ'
+  - EN: 'SPOT LENGTH'
+- `s0281`
+  - RU: 'Спонсорство'
+  - EN: 'Sponsorship'
+- `s0282`
+  - RU: 'Каналы'
+  - EN: 'Channels'
+- `s0283`
+  - RU: 'КАНАЛЫ'
+  - EN: 'CHANNELS'
+- `s0284`
+  - RU: 'ТНТ'
+  - EN: 'TNT'
+- `s0285`
+  - RU: 'СТС'
+  - EN: 'STS'
+- `s0286`
+  - RU: 'Пятница'
+  - EN: 'Pyatnitsa'
+- `s0287`
+  - RU: 'Ю'
+  - EN: 'Yu'
+- `s0288`
+  - RU: 'Солнце'
+  - EN: 'Solntse'
+- `s0289`
+  - RU: 'Первый канал'
+  - EN: 'Channel One'
+- `s0290`
+  - RU: '2х2'
+  - EN: '2x2'
+- `s0291`
+  - RU: 'СТС Love'
+  - EN: 'STS Love'
+- `s0292`
+  - RU: 'Другие'
+  - EN: 'Other'
+- `s0293`
+  - RU: 'Запуск кампании **«нет прыщей на лице»**. Фокус на 10" и 20" ролики, высокая доля канала ТНТ в миксе. Присутствие на ТВ близко к always on'
+  - EN: 'Launch of the **“no facial pimples”** campaign. Focus on 10" and 20" spots; high TNT share in the mix. TV presence close to always on'
+- `s0294`
+  - RU: 'Смена креатива и слогана на **«от прыщей на лице»**. Снижение доли 10" роликов в миксе, рост доли 15" версий. Сокращение доли ТНТ в миксе с 2018, рост доли СТС и Пятницы'
+  - EN: 'New creative and slogan: **“for facial pimples”**. Fewer 10" spots in the mix, more 15" versions. TNT share down from 2018, STS and Pyatnitsa up'
+- `s0295`
+  - RU: 'ГИПОТЕЗА'
+  - EN: 'HYPOTHESIS'
+- `s0296`
+  - RU: 'Здесь продолжает работать накопленный эффект, сформированный за счет масштабной ТВ-поддержки'
+  - EN: 'The cumulative effect built by heavy TV support is still at work here'
+- `s0297`
+  - RU: 'Источник: Mediascope'
+  - EN: 'Source: Mediascope'
+
+## Slide 13
+
+- `s0298`
+  - RU: 'Высокий уровень инвестиций поддерживает лидерство Азелика, однако сближение уровня продаж со Скиноклиром требует усилить не только создание, но и перехват сформированного спроса'
+  - EN: 'Heavy investment keeps Azelik in the lead, but as Skinoclear closes the sales gap, Azelik must capture existing demand as well as create it'
+- `s0299`
+  - RU: 'Динамика инвестиций в digital-медиа и продаж'
+  - EN: 'Digital media spend and sales trends'
+- `s0300`
+  - RU: 'ДИНАМИКА ИНВЕСТИЦИЙ В DIGITAL-МЕДИА И ПРОДАЖ'
+  - EN: 'DIGITAL MEDIA SPEND AND SALES TRENDS'
+- `s0301`
+  - RU: 'Скинорен'
+  - EN: 'Skinoren'
+- `s0302`
+  - RU: 'Доля продаж, %'
+  - EN: 'Sales share, %'
+- `s0303`
+  - RU: 'Азелик — доля продаж, %'
+  - EN: 'Azelik — sales share, %'
+- `s0304`
+  - RU: 'янв 2025'
+  - EN: 'Jan 2025'
+- `s0305`
+  - RU: 'фев 2025'
+  - EN: 'Feb 2025'
+- `s0306`
+  - RU: 'мар 2025'
+  - EN: 'Mar 2025'
+- `s0307`
+  - RU: 'апр 2025'
+  - EN: 'Apr 2025'
+- `s0308`
+  - RU: 'май 2025'
+  - EN: 'May 2025'
+- `s0309`
+  - RU: 'июн 2025'
+  - EN: 'Jun 2025'
+- `s0310`
+  - RU: 'июл 2025'
+  - EN: 'Jul 2025'
+- `s0311`
+  - RU: 'авг 2025'
+  - EN: 'Aug 2025'
+- `s0312`
+  - RU: 'сен 2025'
+  - EN: 'Sep 2025'
+- `s0313`
+  - RU: 'окт 2025'
+  - EN: 'Oct 2025'
+- `s0314`
+  - RU: 'ноя 2025'
+  - EN: 'Nov 2025'
+- `s0315`
+  - RU: 'дек 2025'
+  - EN: 'Dec 2025'
+- `s0316`
+  - RU: 'янв 2026'
+  - EN: 'Jan 2026'
+- `s0317`
+  - RU: 'фев 2026'
+  - EN: 'Feb 2026'
+- `s0318`
+  - RU: 'мар 2026'
+  - EN: 'Mar 2026'
+- `s0319`
+  - RU: 'апр 2026'
+  - EN: 'Apr 2026'
+- `s0320`
+  - RU: 'май 2026'
+  - EN: 'May 2026'
+- `s0321`
+  - RU: 'июн 2026'
+  - EN: 'Jun 2026'
+- `s0322`
+  - RU: 'июл 2026'
+  - EN: 'Jul 2026'
+- `s0323`
+  - RU: 'Скиноклир — доля продаж, %'
+  - EN: 'Skinoclear — sales share, %'
+- `s0324`
+  - RU: '0,1'
+  - EN: '0.1'
+- `s0325`
+  - RU: '0,0'
+  - EN: '0.0'
+- `s0326`
+  - RU: '0,2'
+  - EN: '0.2'
+- `s0327`
+  - RU: '0,4'
+  - EN: '0.4'
+- `s0328`
+  - RU: '0,3'
+  - EN: '0.3'
+- `s0329`
+  - RU: 'Продажи, млн ₽'
+  - EN: 'Sales, RUB M'
+- `s0330`
+  - RU: 'Скинорен — продажи, млн ₽'
+  - EN: 'Skinoren — sales, RUB M'
+- `s0331`
+  - RU: '0,14'
+  - EN: '0.14'
+- `s0332`
+  - RU: '0,13'
+  - EN: '0.13'
+- `s0333`
+  - RU: '0,19'
+  - EN: '0.19'
+- `s0334`
+  - RU: '0,06'
+  - EN: '0.06'
+- `s0335`
+  - RU: '0,30'
+  - EN: '0.30'
+- `s0336`
+  - RU: '0,12'
+  - EN: '0.12'
+- `s0337`
+  - RU: '0,28'
+  - EN: '0.28'
+- `s0338`
+  - RU: '0,38'
+  - EN: '0.38'
+- `s0339`
+  - RU: '0,25'
+  - EN: '0.25'
+- `s0340`
+  - RU: '0,80'
+  - EN: '0.80'
+- `s0341`
+  - RU: '0,61'
+  - EN: '0.61'
+- `s0342`
+  - RU: '0,17'
+  - EN: '0.17'
+- `s0343`
+  - RU: '0,18'
+  - EN: '0.18'
+- `s0344`
+  - RU: '0,10'
+  - EN: '0.10'
+- `s0345`
+  - RU: '0,50'
+  - EN: '0.50'
+- `s0346`
+  - RU: '0,99'
+  - EN: '0.99'
+- `s0347`
+  - RU: '0,29'
+  - EN: '0.29'
+- `s0348`
+  - RU: 'Digital-бюджет, млн ₽'
+  - EN: 'Digital budget, RUB M'
+- `s0349`
+  - RU: '0,51'
+  - EN: '0.51'
+- `s0350`
+  - RU: '0,77'
+  - EN: '0.77'
+- `s0351`
+  - RU: '0,69'
+  - EN: '0.69'
+- `s0352`
+  - RU: '0,48'
+  - EN: '0.48'
+- `s0353`
+  - RU: '0,49'
+  - EN: '0.49'
+- `s0354`
+  - RU: '0,26'
+  - EN: '0.26'
+- `s0355`
+  - RU: '1,03'
+  - EN: '1.03'
+- `s0356`
+  - RU: '1,99'
+  - EN: '1.99'
+- `s0357`
+  - RU: '0,81'
+  - EN: '0.81'
+- `s0358`
+  - RU: '0,76'
+  - EN: '0.76'
+- `s0359`
+  - RU: '4,36'
+  - EN: '4.36'
+- `s0360`
+  - RU: '18,57'
+  - EN: '18.57'
+- `s0361`
+  - RU: '26,62'
+  - EN: '26.62'
+- `s0362`
+  - RU: '5,82'
+  - EN: '5.82'
+- `s0363`
+  - RU: '0,62'
+  - EN: '0.62'
+- `s0364`
+  - RU: '2,37'
+  - EN: '2.37'
+- `s0365`
+  - RU: '2,78'
+  - EN: '2.78'
+- `s0366`
+  - RU: '2,15'
+  - EN: '2.15'
+- `s0367`
+  - RU: '4,68'
+  - EN: '4.68'
+- `s0368`
+  - RU: '0,31'
+  - EN: '0.31'
+- `s0369`
+  - RU: '0,39'
+  - EN: '0.39'
+- `s0370`
+  - RU: '3,04'
+  - EN: '3.04'
+- `s0371`
+  - RU: '3,68'
+  - EN: '3.68'
+- `s0372`
+  - RU: '0,41'
+  - EN: '0.41'
+- `s0373`
+  - RU: '5,91'
+  - EN: '5.91'
+- `s0374`
+  - RU: '3,49'
+  - EN: '3.49'
+- `s0375`
+  - RU: '2,18'
+  - EN: '2.18'
+- `s0376`
+  - RU: '3,21'
+  - EN: '3.21'
+- `s0377`
+  - RU: '0,57'
+  - EN: '0.57'
+- `s0378`
+  - RU: '3,27'
+  - EN: '3.27'
+- `s0379`
+  - RU: '0,09'
+  - EN: '0.09'
+- `s0380`
+  - RU: '4,24'
+  - EN: '4.24'
+- `s0381`
+  - RU: '0,15'
+  - EN: '0.15'
+- `s0382`
+  - RU: '0,22'
+  - EN: '0.22'
+- `s0383`
+  - RU: '0,20'
+  - EN: '0.20'
+- `s0384`
+  - RU: '0,16'
+  - EN: '0.16'
+- `s0385`
+  - RU: '0,23'
+  - EN: '0.23'
+- `s0386`
+  - RU: '0,27'
+  - EN: '0.27'
+- `s0387`
+  - RU: '0,33'
+  - EN: '0.33'
+- `s0388`
+  - RU: '0,08'
+  - EN: '0.08'
+- `s0389`
+  - RU: '0,21'
+  - EN: '0.21'
+- `s0390`
+  - RU: '67 млн ₽'
+  - EN: 'RUB 67M'
+- `s0391`
+  - RU: '41 млн ₽'
+  - EN: 'RUB 41M'
+- `s0392`
+  - RU: '3,6 млн ₽'
+  - EN: 'RUB 3.6M'
+- `s0393`
+  - RU: 'Азелик **доминирует по объему инвестиций** и строит коммуникацию преимущественно через охватные форматы. Скиноклир же инвестирует значительно меньше, но использует **более сбалансированный микс** с высокой ролью Search и Social'
+  - EN: 'Azelik **dominates on spend** and communicates mainly through reach formats. Skinoclear spends far less but runs **a more balanced mix** with a big role for Search and Social'
+- `s0394`
+  - RU: 'Преимущество Азелика в инвестициях остается значительным, однако **рост активности Скиноклира и сокращение разрыва в продажах** усиливают необходимость не только создавать спрос, но и эффективнее перехватывать его ближе к покупке'
+  - EN: 'Azelik’s spend lead is still large, but **Skinoclear’s rising activity and the narrowing sales gap** mean Azelik must create demand and also capture it more effectively closer to purchase'
+- `s0395`
+  - RU: 'В 2026 году Азелик сформировал выраженный **инвестиционный флайт в феврале–апреле**, тогда как Скиноклир до июля поддерживал значительно более низкий уровень активности. При этом **в июле Скиноклир резко усиливает инвестиции**, что важно учитывать как потенциальное усиление конкурентного давления во втором полугодии. Скинорен остается практически неактивным в Digital и сохраняет долю продаж менее 1%'
+  - EN: 'In 2026 Azelik ran a major **spend flight in February–April**, while Skinoclear kept activity much lower until July. But **in July Skinoclear sharply stepped up spend**, which may mean stronger competitive pressure in H2. Skinoren is almost inactive in digital (under 1% of sales)'
+- `s0396`
+  - RU: 'Источник: DigitalBudget, IQVIA. Digital-бюджет — Estimated by DigitalBudget x agency OMD; доля инвестиций по каналам — Estimated by DigitalBudget, not all channels accepted to monitoring. * Январь 2025 – июль 2026 (сумма помесячных данных)'
+  - EN: 'Source: DigitalBudget, IQVIA. Digital budget — estimated by DigitalBudget x agency OMD; share of spend by channel — estimated by DigitalBudget; not all channels are monitored. * January 2025 – July 2026 (sum of monthly data)'
+
+## Slide 14
+
+- `s0397`
+  - RU: 'Азелик сохраняет лидерство по масштабу digital-инвестиций, однако конкуренты используют разные модели поддержки'
+  - EN: 'Azelik still leads on digital spend, but competitors use different support models'
+- `s0398`
+  - RU: 'Базирон'
+  - EN: 'Basiron'
+- `s0399`
+  - RU: 'Зинерит'
+  - EN: 'Zinerit'
+- `s0400`
+  - RU: 'Базирон демонстрирует сопоставимый уровень продаж при значительно меньшем объеме digital-инвестиций'
+  - EN: 'Basiron posts comparable sales on far smaller digital spend'
+- `s0401`
+  - RU: 'Базирон — продажи, млн ₽'
+  - EN: 'Basiron — sales, RUB M'
+- `s0402`
+  - RU: 'Метрогил — продажи, млн ₽'
+  - EN: 'Metrogyl — sales, RUB M'
+- `s0403`
+  - RU: 'Зинерит — продажи, млн ₽'
+  - EN: 'Zinerit — sales, RUB M'
+- `s0404`
+  - RU: '21,6'
+  - EN: '21.6'
+- `s0405`
+  - RU: '22,2'
+  - EN: '22.2'
+- `s0406`
+  - RU: '23,6'
+  - EN: '23.6'
+- `s0407`
+  - RU: '25,2'
+  - EN: '25.2'
+- `s0408`
+  - RU: '24,7'
+  - EN: '24.7'
+- `s0409`
+  - RU: '23,4'
+  - EN: '23.4'
+- `s0410`
+  - RU: '24,5'
+  - EN: '24.5'
+- `s0411`
+  - RU: '24,1'
+  - EN: '24.1'
+- `s0412`
+  - RU: '24,2'
+  - EN: '24.2'
+- `s0413`
+  - RU: '22,6'
+  - EN: '22.6'
+- `s0414`
+  - RU: '20,1'
+  - EN: '20.1'
+- `s0415`
+  - RU: '20,8'
+  - EN: '20.8'
+- `s0416`
+  - RU: '23,9'
+  - EN: '23.9'
+- `s0417`
+  - RU: '24,0'
+  - EN: '24.0'
+- `s0418`
+  - RU: '25,0'
+  - EN: '25.0'
+- `s0419`
+  - RU: '9,3'
+  - EN: '9.3'
+- `s0420`
+  - RU: '8,6'
+  - EN: '8.6'
+- `s0421`
+  - RU: '16,8'
+  - EN: '16.8'
+- `s0422`
+  - RU: '14,5'
+  - EN: '14.5'
+- `s0423`
+  - RU: '12,2'
+  - EN: '12.2'
+- `s0424`
+  - RU: '9,5'
+  - EN: '9.5'
+- `s0425`
+  - RU: '10,1'
+  - EN: '10.1'
+- `s0426`
+  - RU: '7,1'
+  - EN: '7.1'
+- `s0427`
+  - RU: '3,9'
+  - EN: '3.9'
+- `s0428`
+  - RU: '3,8'
+  - EN: '3.8'
+- `s0429`
+  - RU: '2,4'
+  - EN: '2.4'
+- `s0430`
+  - RU: '1,3'
+  - EN: '1.3'
+- `s0431`
+  - RU: '0,52'
+  - EN: '0.52'
+- `s0432`
+  - RU: '0,05'
+  - EN: '0.05'
+- `s0433`
+  - RU: '0,03'
+  - EN: '0.03'
+- `s0434`
+  - RU: '0,04'
+  - EN: '0.04'
+- `s0435`
+  - RU: 'метрогил.рф'
+  - EN: 'metrogil.rf'
+- `s0436`
+  - RU: 'Метрогил использует более диверсифицированный медиамикс с Search и Social'
+  - EN: 'Metrogyl runs a more diversified media mix with Search and Social'
+- `s0437`
+  - RU: '3,8 млн ₽'
+  - EN: 'RUB 3.8M'
+- `s0438`
+  - RU: '16,7 млн ₽'
+  - EN: 'RUB 16.7M'
+- `s0439`
+  - RU: '1,4 млн ₽'
+  - EN: 'RUB 1.4M'
+- `s0440`
+  - RU: 'Азелик сохраняет сильные позиции в категории: в 2026 году продажи растут, а **доля бренда увеличивается до 11%**. Digital-поддержка преимущественно направлена на масштабное формирование контакта с аудиторией за счет охватных форматов'
+  - EN: 'Azelik holds a strong position in the category: sales are growing in 2026 and **brand share is up to 11%**. Digital support relies mainly on reach formats to cover a broad audience'
+- `s0441`
+  - RU: 'Конкуренты используют **разные модели digital-поддержки**: Базирон работает при значительно меньшем объеме инвестиций, тогда как Метрогил использует более диверсифицированный медиамикс с привлечением Search и Social'
+  - EN: 'Competitors use **different digital support models**: Basiron works on far smaller spend, while Metrogyl runs a more diversified media mix that includes Search and Social'
+- `s0442`
+  - RU: 'При сохранении лидерства по инвестициям ключевая задача Азелика — **повысить эффективность перехода от знания к выбору**: дополнить масштабную охватную поддержку инструментами, которые помогают конвертировать сформированный спрос в покупку'
+  - EN: 'With its spend lead intact, Azelik’s key task is to **convert awareness into choice more effectively**: complement its large-scale reach support with tools that turn existing demand into purchases'
+- `s0443`
+  - RU: 'Источник: DigitalBudget, IQVIA. Доля инвестиций по каналам — Estimated by DigitalBudget, not all channels accepted to monitoring'
+  - EN: 'Source: DigitalBudget, IQVIA. Share of spend by channel — estimated by DigitalBudget; not all channels are monitored'
+
+## Slide 15
+
+- `s0444`
+  - RU: 'В отмониторенных размещениях Скиноклира и Базирона зафиксированы e-com, OLV и блогерские интеграции'
+  - EN: 'Monitored Skinoclear and Basiron placements include e-com, OLV and influencer integrations'
+- `s0445`
+  - RU: 'СКИНОКЛИР'
+  - EN: 'SKINOCLEAR'
+- `s0446`
+  - RU: 'OLV-кампания'
+  - EN: 'OLV campaign'
+- `s0447`
+  - RU: 'с креативами для женской ЦА, ведущая на брендовую посадочную'
+  - EN: 'with creatives for women, linking to a brand landing page'
+- `s0448`
+  - RU: 'Скиноклир — OLV-ролик 1'
+  - EN: 'Skinoclear — OLV video 1'
+- `s0449`
+  - RU: 'Скиноклир — OLV-ролик 2'
+  - EN: 'Skinoclear — OLV video 2'
+- `s0450`
+  - RU: 'Скиноклир — OLV-ролик 3'
+  - EN: 'Skinoclear — OLV video 3'
+- `s0451`
+  - RU: 'Скиноклир — OLV-ролик 4'
+  - EN: 'Skinoclear — OLV video 4'
+- `s0452`
+  - RU: 'посевы в бьюти-каналах'
+  - EN: 'beauty channel seeding'
+- `s0453`
+  - RU: 'Скиноклир — пост в Telegram'
+  - EN: 'Skinoclear — Telegram post'
+- `s0454`
+  - RU: 'БАЗИРОН АС'
+  - EN: 'BASIRON AC'
+- `s0455`
+  - RU: 'Co-promo в TG с Ригла'
+  - EN: 'TG co-promo with Rigla'
+- `s0456`
+  - RU: 'Базирон АС — OLV-ролик'
+  - EN: 'Basiron AC — OLV video'
+- `s0457`
+  - RU: 'Базирон АС — co-promo в Telegram с Ригла'
+  - EN: 'Basiron AC — Telegram co-promo with Rigla'
+- `s0458`
+  - RU: 'средние баннеры в категории 1 уровня'
+  - EN: 'medium banners in a top-level category'
+- `s0459`
+  - RU: 'баннер 2 на главной странице'
+  - EN: 'banner #2 on the home page'
+- `s0460`
+  - RU: 'Базирон АС — баннер на Zdravcity'
+  - EN: 'Basiron AC — banner on Zdravcity'
+- `s0461`
+  - RU: 'Базирон АС — баннер на Apteka.ru'
+  - EN: 'Basiron AC — banner on Apteka.ru'
+- `s0462`
+  - RU: 'Источник: WIB 2026'
+  - EN: 'Source: WIB 2026'
+
+## Slide 16
+
+- `s0463`
+  - RU: 'Азелик / Search demand dynamics / 2026'
+  - EN: 'Azelik / Search demand dynamics / 2026'
+- `s0464`
+  - RU: 'Брендовый спрос Азелика заметно усиливается от Sprint к Sprint'
+  - EN: 'Azelik’s branded demand grows noticeably from Sprint to Sprint'
+- `s0465`
+  - RU: 'WORDSTAT: ДИНАМИКА ЗАПРОСОВ'
+  - EN: 'WORDSTAT: SEARCH TRENDS'
+- `s0466`
+  - RU: 'Азелаиновая кислота'
+  - EN: 'Azelaic acid'
+- `s0467`
+  - RU: 'линии — запросы в абсолютах'
+  - EN: 'lines — absolute query counts'
+- `s0468`
+  - RU: 'Wordstat · азелаиновая кислота, запросов'
+  - EN: 'Wordstat · azelaic acid, queries'
+- `s0469`
+  - RU: 'Wordstat · Скиноклир, запросов'
+  - EN: 'Wordstat · Skinoclear, queries'
+- `s0470`
+  - RU: 'Wordstat · Азелик, запросов'
+  - EN: 'Wordstat · Azelik, queries'
+- `s0471`
+  - RU: 'OZON: ДИНАМИКА ЗАПРОСОВ'
+  - EN: 'OZON: SEARCH TRENDS'
+- `s0472`
+  - RU: 'Категория'
+  - EN: 'Category'
+- `s0473`
+  - RU: 'Данные Ozon доступны с 23.03.2026'
+  - EN: 'Ozon data available from Mar 23, 2026'
+- `s0474`
+  - RU: 'Ozon · категория, запросов'
+  - EN: 'Ozon · category, queries'
+- `s0475`
+  - RU: 'Ozon · Скиноклир, запросов'
+  - EN: 'Ozon · Skinoclear, queries'
+- `s0476`
+  - RU: 'Ozon · Азелик, запросов'
+  - EN: 'Ozon · Azelik, queries'
+- `s0477`
+  - RU: 'ПОКАЗЫ КАМПАНИИ, МЛН'
+  - EN: 'CAMPAIGN IMPRESSIONS, M'
+- `s0478`
+  - RU: 'Показы кампании, млн'
+  - EN: 'Campaign impressions, M'
+- `s0479`
+  - RU: 'СРЕДНИЙ НЕДЕЛЬНЫЙ СПРОС'
+  - EN: 'AVERAGE WEEKLY DEMAND'
+- `s0480`
+  - RU: 'АЗЕЛИК'
+  - EN: 'AZELIK'
+- `s0481`
+  - RU: '**Wordstat** · Sprint 1 (март–апр) vs янв–фев'
+  - EN: '**Wordstat** · Sprint 1 (Mar–Apr) vs Jan–Feb'
+- `s0482`
+  - RU: '**Wordstat** · Sprint 2 (авг) vs янв–фев'
+  - EN: '**Wordstat** · Sprint 2 (Aug) vs Jan–Feb'
+- `s0483`
+  - RU: '**Ozon** · август vs март–апрель'
+  - EN: '**Ozon** · Aug vs Mar–Apr'
+- `s0484`
+  - RU: '**Wordstat** · Sprint 1 vs PP (март–апр 2025)'
+  - EN: '**Wordstat** · Sprint 1 vs PP (Mar–Apr 2025)'
+- `s0485`
+  - RU: '+7,7%'
+  - EN: '+7.7%'
+- `s0486`
+  - RU: '**Wordstat** · Sprint 2 vs PP (август 2025)'
+  - EN: '**Wordstat** · Sprint 2 vs PP (Aug 2025)'
+- `s0487`
+  - RU: 'ВЫВОД'
+  - EN: 'TAKEAWAY'
+- `s0488`
+  - RU: 'Второй Sprint значительно усилил брендовый спрос'
+  - EN: 'Sprint 2 sharply boosted branded demand'
+- `s0489`
+  - RU: 'В Wordstat средний недельный спрос по Азелику вырос на **+209%** к январю–февралю против **+16% в первом Sprint**, а на Ozon — на **+22%**. Это показывает существенное усиление интереса к бренду во втором периоде активности'
+  - EN: 'On Wordstat, Azelik’s average weekly demand was **+209%** vs Jan–Feb, against **+16% in Sprint\xa01**; on Ozon, **+22%**. Brand interest grew substantially in Sprint\xa02'
+- `s0490`
+  - RU: 'Азелик растёт быстрее Скиноклира'
+  - EN: 'Azelik is outgrowing Skinoclear'
+- `s0491`
+  - RU: 'Во втором Sprint рост спроса по Азелику составил **+209% в Wordstat и +22% на Ozon**, против **+116% и +11%** соответственно по Скиноклиру — бренд сохраняет более высокую динамику на обеих площадках'
+  - EN: 'In Sprint 2, Azelik’s demand growth was **+209% on Wordstat and +22% on Ozon**, vs **+116% and +11%** for Skinoclear — the brand keeps the faster pace on both platforms'
+- `s0492`
+  - RU: 'Сформированный спрос существенно выше прошлогоднего уровня'
+  - EN: 'Existing demand is well above last year’s level'
+- `s0493`
+  - RU: 'Средний недельный спрос по Азелику в августе 2026 года был на **+98% выше августа 2025 года**, подтверждая высокий уровень брендового интереса'
+  - EN: 'Azelik’s average weekly demand in August 2026 was **98% higher than in August 2025**, confirming high brand interest'
+- `s0494`
+  - RU: 'РЕКОМЕНДАЦИЯ'
+  - EN: 'RECOMMENDATION'
+- `s0495`
+  - RU: 'В 2027 году стоит масштабировать работающую сегментированную коммуникацию, поддерживать always-on Search и усиливать связку с e-commerce, чтобы конвертировать сформированный брендовый спрос в покупку'
+  - EN: 'In 2027, scale the segmented messaging that works, keep Search always-on and tie it more closely to e-commerce to turn existing branded demand into purchases'
+- `s0496`
+  - RU: 'Источник: данные Озон* и Яндекс Вордстат, данные Озона за ретроспективный период недоступны\nДинамика категории по данным Яндекс.Вордстата показана по запросу «азелаиновая кислота». Этот запрос менее частотный, чем брендовые запросы по Азелику и Скиноклиру, поэтому линия на графике ниже'
+  - EN: 'Source: Ozon* and Yandex Wordstat data; historical Ozon data unavailable\nThe category trend in Yandex Wordstat is shown for the query “azelaic acid”. It is searched less often than the Azelik and Skinoclear brand queries, so its line on the chart is lower'
+
+## Slide 17
+
+- `s0497`
+  - RU: 'Comprehensive-подход доказал эффективность'
+  - EN: 'The Comprehensive approach has proven effective'
+- `s0498`
+  - RU: 'Подход валидирован в 2026 году: пост-клик, BHT/SL и бизнес-результаты Спринта подтверждают эффективность и готовность к масштабированию'
+  - EN: 'Validated in 2026: post-click, BHT/SL and Sprint business results confirm it works and can scale'
+- `s0499`
+  - RU: 'РОЛЬ COMPREHENSIVE-ПОДХОДА В ПРОДВИЖЕНИИ АЗЕЛИК'
+  - EN: 'ROLE OF THE COMPREHENSIVE APPROACH FOR AZELIK'
+- `s0500`
+  - RU: 'Роль comprehensive-подхода в Азелик — защита лидерства, переключение со Скиноклир и Recruitment новых аудиторий через AI-сегменты и персонализированные креативы'
+  - EN: 'For Azelik, Comprehensive means defending leadership, driving switching from Skinoclear and recruiting new audiences through AI segments and personalized creatives'
+- `s0501`
+  - RU: '6 AI-сегментов + сегментные креативы'
+  - EN: '6 AI segments + segment creatives'
+- `s0502`
+  - RU: 'новые аудитории + повторный контакт'
+  - EN: 'new audiences + repeat contact'
+- `s0503`
+  - RU: '3 УРОВНЯ ДОКАЗАТЕЛЬСТВА ЭФФЕКТИВНОСТИ'
+  - EN: '3 LEVELS OF PROOF'
+- `s0504`
+  - RU: '174,4 млн ₽ продаж'
+  - EN: 'RUB 174.4M in sales'
+- `s0505`
+  - RU: '+5,8%'
+  - EN: '+5.8%'
+- `s0506`
+  - RU: 'РК vs pre-период'
+  - EN: 'campaign vs pre-period'
+- `s0507`
+  - RU: 'post-период vs pre-период'
+  - EN: 'post-period vs pre-period'
+- `s0508`
+  - RU: '+9 п.п.'
+  - EN: '+9 pp'
+- `s0509`
+  - RU: 'Prompted BA 37→43% (+6 п.п.)'
+  - EN: 'Prompted BA 37→43% (+6 pp)'
+- `s0510`
+  - RU: 'Usage 17→22% (+5 п.п.)'
+  - EN: 'Usage 17→22% (+5 pp)'
+- `s0511`
+  - RU: '4 / 6 СЕГМЕНТОВ ПРОШЛИ DECISION GATE'
+  - EN: '4 / 6 SEGMENTS PASSED THE DECISION GATE'
+- `s0512`
+  - RU: 'МАСШТАБИРОВАТЬ'
+  - EN: 'SCALE'
+- `s0513`
+  - RU: '**Social girl** — CR 0,59%; +169% post-period uplift'
+  - EN: '**Social girl** — CR 0.59%; +169% post-period uplift'
+- `s0514`
+  - RU: '**Ж 18–22 «новые средства»** — CR 0,45%; +111% post-period uplift'
+  - EN: '**F 18–22 “new products”** — CR 0.45%; +111% post-period uplift'
+- `s0515`
+  - RU: 'СОХРАНИТЬ С ИЗМЕНЕНИЕМ РОЛИ'
+  - EN: 'KEEP WITH A NEW ROLE'
+- `s0516`
+  - RU: '**М 18–25 «проблемная кожа»** — +51% post-period uplift → дообучить'
+  - EN: '**M 18–25 “problem skin”** — +51% post-period uplift → keep educating'
+- `s0517`
+  - RU: '**Sport / fitness** — CR 0,68%, но нет устойчивого SL → перенести в широкую аудиторию М 18–25'
+  - EN: '**Sport / fitness** — CR 0.68%, but no stable SL → move into the broad M 18–25 audience'
+- `s0518`
+  - RU: 'СТОП'
+  - EN: 'STOP'
+- `s0519`
+  - RU: '**Students** — CR 0,07%, база SL не сформирована → stop'
+  - EN: '**Students** — CR 0.07%, SL base not built → stop'
+- `s0520`
+  - RU: 'Внедряем новые инструменты в подход:'
+  - EN: 'New tools we’re adding to the approach:'
+- `s0521`
+  - RU: 'новые AI-подходы к таргетингу'
+  - EN: 'new AI targeting approaches'
+- `s0522`
+  - RU: 'decision gate для новых тестов: post-click + BLS / brand health + Sales Lift'
+  - EN: 'decision gate for new tests: post-click + BLS / brand health + Sales\xa0Lift'
+- `s0523`
+  - RU: 'Сохраняем comprehensive как операционную модель — масштабируем доказанные сегменты и каналы, а не всю модель целиком'
+  - EN: 'We keep Comprehensive as the operating model — and scale proven segments and channels, not the whole model'
+
+## Slide 18
+
+- `s0524`
+  - RU: 'Sprint-модель как слой масштабирования comprehensive-подхода'
+  - EN: 'Sprint model: the scaling layer of the Comprehensive approach'
+- `s0525`
+  - RU: 'Sprint #1 валидирует гипотезы, далее AON удерживает бренд в коммуникационном поле, а Sprint #2 масштабирует эффективные связки на следующем пике категории'
+  - EN: 'Sprint #1 validates hypotheses, AON then keeps the brand visible, and Sprint #2 scales the winning combinations at the next category peak'
+- `s0526`
+  - RU: '**Comprehensive:** не разовый флайт, а цикл test → learn → scale'
+  - EN: '**Comprehensive:** a test → learn → scale cycle, not a one-off'
+- `s0527`
+  - RU: '2–3 месяца: гипотезы, сегменты, креативы'
+  - EN: '2–3 months: hypotheses, segments, creatives'
+- `s0528`
+  - RU: '~2 месяца: удержание контакта + анализ'
+  - EN: '~2 months: sustained contact + analysis'
+- `s0529`
+  - RU: 'следующий пик: масштабирование эффективных связок'
+  - EN: 'next peak: scaling winning combinations'
+- `s0530`
+  - RU: 'быстрый буст медиадавления'
+  - EN: 'fast boost in media pressure'
+- `s0531`
+  - RU: 'тест AI-сегментов и креативов'
+  - EN: 'AI segment and creative tests'
+- `s0532`
+  - RU: 'оценка CTR / VTR / post-click / CR'
+  - EN: 'CTR / VTR / post-click / CR review'
+- `s0533`
+  - RU: 'бренд не выпадает из коммуникационного поля'
+  - EN: 'the brand stays visible'
+- `s0534`
+  - RU: 'анализ BHT / SL / Wordstat'
+  - EN: 'BHT / SL / Wordstat analysis'
+- `s0535`
+  - RU: 'фиксируем winners и stop-гипотезы'
+  - EN: 'log winners and hypotheses to stop'
+- `s0536`
+  - RU: 'переносим бюджет в доказанные связки'
+  - EN: 'shift budget to proven combinations'
+- `s0537`
+  - RU: 'обновляем креативы / AI-video / CTV'
+  - EN: 'refresh creatives / AI video / CTV'
+- `s0538`
+  - RU: 'замеряем инкрементальный вклад'
+  - EN: 'measure incremental contribution'
+- `s0539`
+  - RU: 'Почему важно повторение: первый спринт собирает learning, второй — закрепляет эффект и масштабирует уже проверенные связи, а не повторяет тест с нуля'
+  - EN: 'Why repetition matters: the first sprint gathers learnings, the second locks in the effect and scales what’s proven rather than re-testing from scratch'
+- `s0540`
+  - RU: 'КЕЙС АЗЕЛИК: ЧТО ДОКАЗАЛ SPRINT 1'
+  - EN: 'AZELIK CASE: WHAT SPRINT 1 PROVED'
+- `s0541`
+  - RU: 'PBA +6 п.п. | Usage +5 п.п.'
+  - EN: 'PBA +6 pp | Usage +5 pp'
+- `s0542`
+  - RU: 'winners идут в Sprint 2'
+  - EN: 'winners move to Sprint 2'
+- `s0543`
+  - RU: 'БРЕНДОВЫЙ СПРОС ПОСЛЕ SPRINT 1'
+  - EN: 'BRANDED DEMAND AFTER SPRINT 1'
+- `s0544`
+  - RU: '**Март (старт Sprint):** [[**+20%**]] к февралю'
+  - EN: '**March (Sprint start):** [[**+20%**]] vs February'
+- `s0545`
+  - RU: '**Июнь (AON-поддержка):** 130,2 тыс. запросов, [[**+64%**]] к pre-Sprint'
+  - EN: '**June (AON support):** 130.2K queries, [[**+64%**]] vs pre-Sprint'
+- `s0546`
+  - RU: '**Вывод:** динамика брендового спроса сохраняет положительный тренд в период AON-поддержки, AON может поддерживать накопленный эффект между спринтами'
+  - EN: '**Takeaway:** branded demand keeps trending up during AON support; AON can sustain the cumulative effect between sprints'
+- `s0547`
+  - RU: 'ЭФФЕКТ SPRINT АЗЕЛИКА (10–18 НЕДЕЛИ)'
+  - EN: 'AZELIK SPRINT EFFECT (WEEKS 10–18)'
+- `s0548`
+  - RU: '**Во время Sprint:** [[**+20%**]] в рублях / [[**+19%**]] в упаковках vs pre-Sprint'
+  - EN: '**During Sprint:** [[**+20%**]] in value / [[**+19%**]] in units vs pre-Sprint'
+- `s0549`
+  - RU: '**После Sprint:** рост продолжился, пик на 20 неделе — 21,7 млн ₽ / 28,1 тыс. упаковок'
+  - EN: '**After Sprint:** growth continued, peaking in week 20 at RUB 21.7M / 28.1K units'
+- `s0550`
+  - RU: '**Вывод:** Sprint формирует накопительный эффект — спрос растёт после завершения флайта при сохранении присутствия бренда'
+  - EN: '**Takeaway:** Sprint builds a cumulative effect — demand keeps growing after the flight ends while the brand stays present'
+- `s0551`
+  - RU: 'ОТЛОЖЕННЫЙ ЭФФЕКТ: BRAND SEARCH ПРОДОЛЖАЕТ РАСТИ'
+  - EN: 'DELAYED EFFECT: BRAND SEARCH KEEPS GROWING'
+- `s0552`
+  - RU: 'ПРОДАЖИ СОХРАНЯЮТСЯ ПОСЛЕ SPRINT'
+  - EN: 'SALES HOLD UP AFTER SPRINT'
+- `s0553`
+  - RU: 'ДВА СПРИНТА = БОЛЬШЕ, ЧЕМ ДВА ФЛАЙТА'
+  - EN: 'TWO SPRINTS = MORE THAN TWO FLIGHTS'
+- `s0554`
+  - RU: 'Проверить гипотезы'
+  - EN: 'Test hypotheses'
+- `s0555`
+  - RU: 'первый Sprint закладывает тесты сегментов, креативов и каналов'
+  - EN: 'Sprint 1 sets up segment, creative and channel tests'
+- `s0556`
+  - RU: 'Закрепить эффект'
+  - EN: 'Lock in the effect'
+- `s0557`
+  - RU: 'AON сохраняет контакт, пока читаем результаты и видим lag в спросе'
+  - EN: 'AON keeps contact while we read results and see the lag in demand'
+- `s0558`
+  - RU: 'Масштабировать winners'
+  - EN: 'Scale winners'
+- `s0559`
+  - RU: 'второй Sprint масштабирует проверенные связки, сокращая объем повторного тестирования'
+  - EN: 'Sprint 2 scales what’s proven, with less re-testing'
+- `s0560`
+  - RU: 'РЕКОМЕНДАЦИЯ 2027'
+  - EN: '2027 RECOMMENDATION'
+- `s0561`
+  - RU: 'Планировать sprint как цикл управления эффективностью'
+  - EN: 'Plan sprints as a performance management cycle'
+- `s0562`
+  - RU: 'Source: Azelik Sprint review 2026; Akrikhin x OMD Derma Review H1’26; анализ динамики Wordstat по брендовым запросам Азелика'
+  - EN: 'Source: Azelik Sprint review 2026; Akrikhin x OMD Derma Review H1’26; Wordstat trend analysis of Azelik branded queries'
+
+## Slide 19
+
+- `s0563`
+  - RU: '2026 подтвердил работоспособность full-funnel Digital-системы'
+  - EN: '2026 proved the full-funnel digital system works'
+- `s0564`
+  - RU: 'Каналы выполняют разные роли, резерв роста — в масштабировании доказанных связок и измерении новых инструментов'
+  - EN: 'Channels play different roles; growth lies in scaling proven combinations and measuring new tools'
+- `s0565`
+  - RU: 'КАК ОТРАБОТАЛИ DIGITAL-КАНАЛЫ В H1 2026'
+  - EN: 'HOW DIGITAL CHANNELS PERFORMED IN H1 2026'
+- `s0566`
+  - RU: 'VTR/CTR выше плана; новый ролик стал лучшим по post-click'
+  - EN: 'VTR/CTR above plan; the new video was best on post-click'
+- `s0567`
+  - RU: 'брендовые, конкурентные и аптечные сценарии дают измеримый action'
+  - EN: 'brand, competitor and pharmacy scenarios deliver measurable action'
+- `s0568`
+  - RU: 'CTR выше плана; post-click разделяет сильные и слабые сегменты'
+  - EN: 'CTR above plan; post-click separates strong and weak segments'
+- `s0569`
+  - RU: 'доли H1-конверсий «Где\xa0купить»'
+  - EN: 'of H1 “Where to buy” conversions'
+- `s0570`
+  - RU: 'H2 — масштабирование связки аудитория × креатив × поставщик'
+  - EN: 'H2 — scale the audience × creative × vendor combination'
+- `s0571`
+  - RU: 'H2 — усиление purchase-intent, оптимизация РСЯ по качеству'
+  - EN: 'H2 — more purchase intent; tune YAN for quality'
+- `s0572`
+  - RU: 'H2 — масштабирование аудитории после post-click + business validation проверки'
+  - EN: 'H2 — scale audiences after post-click + business validation checks'
+- `s0573`
+  - RU: 'добавление больших экранов в видеомикс'
+  - EN: 'adding big screens to the video mix'
+- `s0574`
+  - RU: 'rating 4,7; выдача «Азелик отзывы» в июне — 100% позитивный TOP'
+  - EN: 'rating 4.7; “Azelik reviews” search in June: 100% positive top results'
+- `s0575`
+  - RU: 'top-creators перевыполняют план, часть интеграций дает высокую волатильность'
+  - EN: 'top creators beat the plan; some integrations are highly volatile'
+- `s0576`
+  - RU: '5,2M | 4,1M'
+  - EN: '5.2M | 4.1M'
+- `s0577`
+  - RU: 'H2 — отдельный замер качества контакта и incremental brand effect'
+  - EN: 'H2 — separately measure contact quality and incremental brand effect'
+- `s0578`
+  - RU: 'брендовый поиск к марту'
+  - EN: 'branded search vs March'
+- `s0579`
+  - RU: 'Роль подтверждена: поддерживать доверие и защищать брендовый спрос'
+  - EN: 'Role confirmed: sustain trust and protect branded demand'
+- `s0580`
+  - RU: 'выполнение Sprint / AON'
+  - EN: 'Sprint / AON delivery'
+- `s0581`
+  - RU: 'H2 — резерв авторов, быстрые замены и прогноз по стабильности просмотров'
+  - EN: 'H2 — backup creators, quick swaps and a view-stability forecast'
+- `s0582`
+  - RU: 'master vs AI-адаптации в OLV/CTV; VTR, CTR,\npost-click + BLS / Sales Lift'
+  - EN: 'master vs AI adaptations in OLV/CTV; VTR, CTR,\npost-click + BLS / Sales Lift'
+- `s0583`
+  - RU: 'сравнение инвентаря / поставщиков по качеству контакта; BLS / Search Lift'
+  - EN: 'inventory / vendor comparison by contact quality; BLS / Search Lift'
+- `s0584`
+  - RU: 'проверка нового lower-funnel слоя вокруг горячего спроса и поиска'
+  - EN: 'testing a new lower-funnel layer for high-intent demand and search'
+- `s0585`
+  - RU: 'Архитектура отработала хорошо: OLV и Search доказали вклад на нижнем этапе воронки, Programmatic — потенциал recruitment, ORM — роль в доверии. Зона роста — лучше измерять и масштабировать сильные связки.'
+  - EN: 'The architecture worked well: OLV and Search proved their lower-funnel contribution, Programmatic its recruitment potential, ORM its role in trust. Room to grow: measure better and scale strong combinations.'
+
+## Slide 20
+
+- `s0586`
+  - RU: 'Стратегический подход'
+  - EN: 'Strategic approach'
+
+## Slide 21
+
+- `s0587`
+  - RU: 'Азелик: Цели и задачи 2027'
+  - EN: 'Azelik: 2027 objectives'
+- `s0588`
+  - RU: 'Ускорить рост бренда и защитить лидерство'
+  - EN: 'Accelerate growth and defend leadership'
+- `s0589`
+  - RU: 'Обеспечить рост Азелика выше рынка: **+14,9% в упаковках и +22,2% в деньгах**, продолжая защищать бренд от переключения на Скиноклир'
+  - EN: 'Grow Azelik ahead of the market: **+14.9% in units and +22.2% in value**, while still guarding against switching to Skinoclear'
+- `s0590`
+  - RU: 'Растить проникновение и частоту покупки'
+  - EN: 'Grow penetration and purchase frequency'
+- `s0591`
+  - RU: 'Продолжать привлекать новых пользователей категории — прежде всего 18–25 и аудиторию 25–40 — и одновременно формировать привычку **регулярного ежедневного применения Азелика**'
+  - EN: 'Keep recruiting new category users — above all 18–25 and 25–40 — while building a habit of **regular daily use of Azelik**'
+- `s0592`
+  - RU: 'Закрепить территорию долгосрочного контроля акне'
+  - EN: 'Own the long-term acne control territory'
+- `s0593`
+  - RU: 'Перевести восприятие бренда от средства для борьбы с отдельными высыпаниями к **надежному решению для ежедневного контроля акне**, которое сочетает эффективность лечения и бережный уход за кожей'
+  - EN: 'Shift brand perception from a spot treatment for breakouts to a **reliable solution for daily acne control** that combines effective treatment with gentle skincare'
+
+## Slide 22
+
+- `s0594`
+  - RU: 'Ключевые элементы стратегии Азелик в 2026 году'
+  - EN: 'Key elements of Azelik’s 2026 strategy'
+- `s0595`
+  - RU: 'Переключать аудиторию потребителей косметических и медицинских средств как основной источник роста бизнеса и доли рынка'
+  - EN: 'Switch users of cosmetic and medicated products to Azelik as the main source of business and market share growth'
+- `s0596`
+  - RU: 'Увеличение частоты использования за счёт обучения аудитории и частоты контакта'
+  - EN: 'Increase frequency of use through audience education and repeat exposure'
+- `s0597`
+  - RU: 'Защититься от основного конкурента Скиноклир через переключение молодой аудитории на Азелик'
+  - EN: 'Defend against Skinoclear, the main competitor, by switching younger users to Azelik'
+
+## Slide 23
+
+- `s0598`
+  - RU: 'Эволюция стратегии Азелик: от защиты к агрессивной экспансии'
+  - EN: 'Azelik’s strategy: from defense to aggressive expansion'
+- `s0599`
+  - RU: 'Мы остановили потерю доли и доказали эффективность сегментного подхода'
+  - EN: 'We stopped share loss and proved the segment approach works'
+- `s0600`
+  - RU: 'Перехватываем больше пользователей у Скиноклира и расширяем категорию Азелика'
+  - EN: 'We win more users from Skinoclear and expand Azelik’s category'
+- `s0601`
+  - RU: 'Фокус на защите лидерства'
+  - EN: 'Focus on defending the lead'
+- `s0602`
+  - RU: 'Более агрессивное конкурентное наступление'
+  - EN: 'A more aggressive competitive push'
+- `s0603`
+  - RU: 'Подтверждена эффективность персонализированной коммуникации'
+  - EN: 'Personalized communication proved effective'
+- `s0604`
+  - RU: 'Экспансия в новые сегменты и сценарии'
+  - EN: 'Moving into new segments and scenarios'
+- `s0605`
+  - RU: 'Переход от защиты к экспансии'
+  - EN: 'From defense to expansion'
+- `s0606`
+  - RU: 'Масштабирование AI-сегментов и персонализации'
+  - EN: 'Scaling AI segments and personalization'
+- `s0607`
+  - RU: 'Фундамент'
+  - EN: 'Foundation'
+- `s0608`
+  - RU: 'Рост и лидерство'
+  - EN: 'Growth & leadership'
+
+## Slide 24
+
+- `s0609`
+  - RU: 'В 2027 году важно не просто удержать бренд, а обеспечить рост выше рынка'
+  - EN: 'In 2027, holding our position is not enough — we must outgrow the market'
+- `s0610`
+  - RU: 'и продолжить защищать лидерство Азелика от Скиноклира'
+  - EN: 'and keep defending Azelik’s lead against Skinoclear'
+- `s0611`
+  - RU: 'Привлечь новые аудитории из косметики и новых пользователей акне'
+  - EN: 'Recruit cosmetics users and people who are new to acne treatment'
+- `s0612`
+  - RU: 'Забрать пользователей у Скиноклира и усилить защиту лидерства'
+  - EN: 'Win users from Skinoclear and step up the defense of our lead'
+- `s0613`
+  - RU: 'Увеличить частоту использования через дообучение, блогеров и специнтеграции'
+  - EN: 'Grow use frequency via ongoing education, influencers and custom integrations'
+
+## Slide 25
+
+- `s0614`
+  - RU: 'В 2027 году сохраняем проверенную сегментацию и расширяем её новыми аудиториями и сценариями'
+  - EN: 'In 2027 we keep the proven segmentation and extend it with new audiences and scenarios'
+- `s0615`
+  - RU: 'Анализ 2026 подтверждает актуальность выбранных сегментов. В 2027 **сохраняем основную архитектуру** и продолжаем развивать её через поведенческие и потребностные признаки.'
+  - EN: 'The 2026 analysis confirms the chosen segments are still relevant. In 2027 we **keep the core architecture** and build it out with behavioral and need-based signals.'
+- `s0616`
+  - RU: '**Долгосрочный контроль акне** становится отдельным фокусом коммуникации. Через дообучение и повторные контакты **формируем привычку регулярного применения**, особенно у аудиторий с длительной историей проблемы.'
+  - EN: '**Long-term acne control** becomes a separate communication focus. Through ongoing education and repeat contacts we **build a habit of regular use**, especially among people with long-standing acne.'
+- `s0617`
+  - RU: 'Добавляем **женщин 40+ с акне, акне\xa0+\xa0чувствительная кожа** и тестируем новые ситуативные сценарии — **Back\xa0to\xa0School, выпускные, начало учебного года** и другие периоды повышенного внимания к внешности.'
+  - EN: 'We add **women 40+ with acne, acne\xa0+\xa0sensitive skin** and test new occasion-based scenarios — **Back\xa0to\xa0School, proms, start of the school year** and other times when looks matter more.'
+- `s0618`
+  - RU: 'Сегментация подтверждается — сохраняем ядро'
+  - EN: 'Segmentation confirmed — keeping the core'
+- `s0619`
+  - RU: 'Усиливаем сценарий регулярного применения'
+  - EN: 'Reinforcing regular use'
+- `s0620`
+  - RU: 'Расширяем охват новыми аудиториями и occasions'
+  - EN: 'Extending reach to new audiences and occasions'
+
+## Slide 26
+
+- `s0621`
+  - RU: 'Структура аудитории в 2027'
+  - EN: 'Audience structure in 2027'
+- `s0622`
+  - RU: '18–40 — основная аудитория Азелика'
+  - EN: '18–40 — Azelik’s core audience'
+- `s0623`
+  - RU: '40+: новый тестовый сценарий — акне в контексте зрелого ухода'
+  - EN: '40+: new test scenario — acne in a mature-skin routine'
+- `s0624`
+  - RU: 'Акне\xa0+ чувствительная кожа'
+  - EN: 'Acne\xa0+ sensitive skin'
+- `s0625`
+  - RU: 'Social girl, «новые средства», мужчины с проблемной кожей, переключение со Скиноклира'
+  - EN: 'Social girl, “new products”, men with problem skin, switching from Skinoclear'
+- `s0626`
+  - RU: 'акне / постакне, косметический и медицинский уход, регулярный контроль'
+  - EN: 'acne / post-acne, cosmetic and medicated care, regular control'
+- `s0627`
+  - RU: 'Женщины 40–55 — крупная потенциальная аудитория'
+  - EN: 'Women 40–55 — a large potential audience'
+- `s0628`
+  - RU: 'Для неё актуально сочетание акне и привычного ухода за зрелой кожей, поэтому коммуникацию можно строить вокруг решения проблемы без отказа от уже сформированного ухода.'
+  - EN: 'They deal with acne alongside an established mature-skin routine, so messaging can focus on solving the problem without giving up the routine they already have.'
+- `s0629`
+  - RU: '[[**Инсайт:**]] **«Хочу решить проблему, но не хочу ухудшить состояние кожи»**'
+  - EN: '[[**Insight:**]] **“I want to fix the problem without making my skin worse”**'
+- `s0630`
+  - RU: '18–40 М/Ж с акне, для которых чувствительность, сухость или раздражение кожи — отдельный барьер выбора.'
+  - EN: '18–40 M+F with acne, for whom sensitive, dry or irritated skin is a barrier to choice in its own right.'
+- `s0631`
+  - RU: 'Уже ищут уход для чувствительной / проблемной кожи и хотят сочетать решение проблемы с комфортным уходом.'
+  - EN: 'Already looking for sensitive / problem-skin care and want to treat acne while keeping skin comfortable.'
+- `s0632`
+  - RU: 'Сохраняем доказанные сегменты → усиливаем наиболее эффективные → добавляем 40+, «чувствительную кожу» и ситуативные сценарии*'
+  - EN: 'Keep proven segments → boost the most effective ones → add 40+, “sensitive skin” and occasion-based scenarios*'
+- `s0633`
+  - RU: '* Back to School, особые случаи и др.'
+  - EN: '* Back to School, special events, etc.'
+
+## Slide 27
+
+- `s0634`
+  - RU: 'Размеры аудиторий'
+  - EN: 'Audience sizes'
+- `s0635`
+  - RU: 'АУДИТОРИЯ'
+  - EN: 'AUDIENCE'
+- `s0636`
+  - RU: 'ОЦЕНКА ЁМКОСТИ'
+  - EN: 'SIZE ESTIMATE'
+- `s0637`
+  - RU: 'РОЛЬ В СТРАТЕГИИ 2027'
+  - EN: 'ROLE IN 2027 STRATEGY'
+- `s0638`
+  - RU: '18–40, вся база'
+  - EN: '18–40, full base'
+- `s0639`
+  - RU: '~35 млн'
+  - EN: '~35M'
+- `s0640`
+  - RU: 'Базовый охват категории, работа через Always-on инструменты'
+  - EN: 'Base category reach through always-on tools'
+- `s0641`
+  - RU: '18–40 с акне / постакне'
+  - EN: '18–40, acne / post-acne'
+- `s0642`
+  - RU: '~9 млн'
+  - EN: '~9M'
+- `s0643`
+  - RU: 'Основная категория пользователей Азелика, база для всех коммуникационных сценариев'
+  - EN: 'Azelik’s core user group, the base for all communication scenarios'
+- `s0644`
+  - RU: '18–34 с акне'
+  - EN: '18–34, acne'
+- `s0645`
+  - RU: '~7 млн'
+  - EN: '~7M'
+- `s0646`
+  - RU: 'Главный growth-сегмент: расширение категории и защита лидерства'
+  - EN: 'Main growth segment: category expansion and leadership defense'
+- `s0647`
+  - RU: 'Ж 18–34: новые средства /\nSocial girl / switching'
+  - EN: 'F 18–34: new products /\nSocial girl / switching'
+- `s0648`
+  - RU: '~3,5–4 млн'
+  - EN: '~3.5–4M'
+- `s0649`
+  - RU: 'Молодая женская аудитория с потребностью в новом решении: переход от косметики к более эффективному уходу'
+  - EN: 'Young women looking for a new solution: moving from cosmetics to more effective care'
+- `s0650`
+  - RU: 'М 18–34 с проблемной кожей'
+  - EN: 'M 18–34 with problem skin'
+- `s0651`
+  - RU: '~1,5–1,7 млн'
+  - EN: '~1.5–1.7M'
+- `s0652`
+  - RU: 'Сценарий простого решения проблемы кожи, конкурентный перехват'
+  - EN: 'Simple-fix scenario for problem skin, competitive conquest'
+- `s0653`
+  - RU: 'Подростки 12–18'
+  - EN: 'Teens 12–18'
+- `s0654`
+  - RU: '~3–4 млн*'
+  - EN: '~3–4M*'
+- `s0655`
+  - RU: 'Формирование потребности в категории, работа с подростками'
+  - EN: 'Building category need, engaging teens'
+- `s0656`
+  - RU: 'Ж 40–55 с акне (пременопауза)'
+  - EN: 'F 40–55, acne (perimenopause)'
+- `s0657`
+  - RU: '~4 млн'
+  - EN: '~4M'
+- `s0658`
+  - RU: 'Расширение категории за счёт взрослой аудитории, поиск новых пользователей Азелика'
+  - EN: 'Category expansion via an older audience, finding new Azelik users'
+- `s0659`
+  - RU: '~3 млн'
+  - EN: '~3M'
+- `s0660`
+  - RU: 'Расширение аудитории за счёт потребности и образовательной коммуникации'
+  - EN: 'Audience growth through need-based and educational messaging'
+
+## Slide 28
+
+- `s0661`
+  - RU: 'Женщины 40+ — значимый потенциал для расширения аудитории Азелика'
+  - EN: 'Women 40+ — a major opportunity to grow Azelik’s audience'
+- `s0662`
+  - RU: 'Женщины 40+'
+  - EN: 'Women 40+'
+- `s0663`
+  - RU: 'Акне во взрослом возрасте остаётся частой и чувствительной проблемой'
+  - EN: 'Adult acne remains a common and sensitive issue'
+- `s0664`
+  - RU: 'Женщины 40–55 ищут эффективные, но при этом мягкие решения, которые можно сочетать с привычным уходом за зрелой кожей'
+  - EN: 'Women 40–55 want effective yet gentle solutions that fit their usual mature-skin routine'
+- `s0665`
+  - RU: 'ОБЪЁМ АУДИТОРИИ'
+  - EN: 'AUDIENCE SIZE'
+- `s0666`
+  - RU: 'женщин 40–55 в России (≈16% женского населения)'
+  - EN: 'women 40–55 in Russia (≈16% of all women)'
+- `s0667`
+  - RU: 'потенциальная аудитория женщин 40–55 с акне (≈23% от всех женщин 40–55)'
+  - EN: 'potential audience: women 40–55 with acne (≈23% of all women 40–55)'
+- `s0668`
+  - RU: '~17,5 млн'
+  - EN: '~17.5M'
+- `s0669`
+  - RU: 'Решение проблемы без отказа от привычного ухода'
+  - EN: 'Fix the problem, keep the routine'
+- `s0670`
+  - RU: 'Азелик помогает справляться с акне и легко вписывается в текущий уход за кожей.'
+  - EN: 'Azelik helps manage acne and fits easily into an existing skincare routine.'
+- `s0671`
+  - RU: 'Забота о коже в любом возрасте'
+  - EN: 'Skincare at any age'
+- `s0672`
+  - RU: 'Чистая и здоровая кожа — не только про молодость, но и про уверенность сегодня.'
+  - EN: 'Clear, healthy skin is about confidence today, not youth alone.'
+- `s0673`
+  - RU: 'Экспертность и доверие'
+  - EN: 'Expertise and trust'
+- `s0674`
+  - RU: 'Поддержка врачей-дерматологов и понятные рекомендации по применению.'
+  - EN: 'Dermatologist backing and clear directions for use.'
+- `s0675`
+  - RU: 'КЛЮЧЕВЫЕ ИНСАЙТЫ'
+  - EN: 'KEY INSIGHTS'
+- `s0676`
+  - RU: 'Акне во взрослом возрасте — реальная и частая проблема'
+  - EN: 'Adult acne is a real and common problem'
+- `s0677`
+  - RU: 'Каждая 4-я женщина 40–49 и каждая 6-я 50+ сталкивается с акне.'
+  - EN: 'One in 4 women aged 40–49 and one in 6 aged 50+ has acne.'
+- `s0678`
+  - RU: 'Влияет на качество жизни и уверенность'
+  - EN: 'Affects quality of life and confidence'
+- `s0679`
+  - RU: 'Высыпания ассоциируются не только с внешним видом, но и с гормональными изменениями, стрессом, образом жизни.'
+  - EN: 'Breakouts are linked to appearance — and to hormonal changes, stress and lifestyle.'
+- `s0680`
+  - RU: 'Нужны решения, совместимые с уходом за зрелой кожей'
+  - EN: 'They need solutions that suit mature-skin care'
+- `s0681`
+  - RU: 'Важно эффективное, но мягкое средство, которое не конфликтует с антивозрастным уходом.'
+  - EN: 'They want an effective but gentle product that doesn’t clash with anti-aging care.'
+- `s0682`
+  - RU: 'ПОТРЕБНОСТИ И МОТИВАЦИЯ'
+  - EN: 'NEEDS AND MOTIVATION'
+- `s0683`
+  - RU: 'Чистая кожа без раздражения'
+  - EN: 'Clear skin, no irritation'
+- `s0684`
+  - RU: 'Эффективное решение для высыпаний, которое не пересушивает кожу.'
+  - EN: 'An effective breakout treatment that doesn’t dry out skin.'
+- `s0685`
+  - RU: 'Совместимость с антивозрастным уходом'
+  - EN: 'Compatible with anti-aging care'
+- `s0686`
+  - RU: 'Возможность использовать средство в рамках привычного ухода за зрелой кожей.'
+  - EN: 'Can be used as part of an existing mature-skin routine.'
+- `s0687`
+  - RU: 'Уверенность в себе'
+  - EN: 'Self-confidence'
+- `s0688`
+  - RU: 'Снижение видимости высыпаний и постакне, комфорт в повседневной жизни.'
+  - EN: 'Less visible breakouts and post-acne marks, comfort in everyday life.'
+
+## Slide 29
+
+- `s0689`
+  - RU: 'Акне + чувствительная кожа — новый сегмент для расширения аудитории Азелика'
+  - EN: 'Acne + sensitive skin — a new segment to grow Azelik’s audience'
+- `s0690`
+  - RU: 'Акне и чувствительная кожа'
+  - EN: 'Acne and sensitive skin'
+- `s0691`
+  - RU: 'При акне чувствительность кожи — частая сопутствующая проблема'
+  - EN: 'Sensitive skin often comes with acne'
+- `s0692`
+  - RU: 'Аудитория ищет эффективное решение, но опасается сухости и раздражения и хочет сохранить привычный уход за кожей'
+  - EN: 'They look for an effective fix, worry about dryness and irritation, and want to keep their usual skincare routine'
+- `s0693`
+  - RU: 'людей 18–35 с акне / постакне'
+  - EN: 'people aged 18–35 with acne / post-acne'
+- `s0694`
+  - RU: 'потенциальная аудитория с акне и чувствительной кожей'
+  - EN: 'potential audience with acne and sensitive skin'
+- `s0695`
+  - RU: 'до ~3 млн'
+  - EN: 'up to ~3M'
+- `s0696`
+  - RU: 'Решение проблемы без отказа от комфортного ухода'
+  - EN: 'Fix the problem, keep the comfort'
+- `s0697`
+  - RU: 'Проблемная кожа требует решения'
+  - EN: 'Problem skin needs a solution'
+- `s0698`
+  - RU: 'Чувствительность повышает требования к комфортности ухода.'
+  - EN: 'Sensitivity raises the bar for gentle care.'
+- `s0699`
+  - RU: 'Акцент коммуникации'
+  - EN: 'Message focus'
+- `s0700`
+  - RU: 'Эффективное решение + привычный уход за кожей.'
+  - EN: 'Effective solution + usual skincare routine.'
+- `s0701`
+  - RU: 'Понятная коммуникация снижает страх'
+  - EN: 'Clear messaging reduces fear'
+- `s0702`
+  - RU: 'Мягкая подача помогает решиться на использование.'
+  - EN: 'A gentle tone helps people decide to try it.'
+- `s0703`
+  - RU: 'Акне + чувствительность — двойная потребность'
+  - EN: 'Acne + sensitivity — a double need'
+- `s0704`
+  - RU: 'Человек хочет работать с высыпаниями, но сохранить комфорт кожи.'
+  - EN: 'People want to treat breakouts but keep their skin comfortable.'
+- `s0705`
+  - RU: 'Страх сухости и раздражения'
+  - EN: 'Fear of dryness and irritation'
+- `s0706`
+  - RU: 'Переносимость и комфорт становятся отдельным критерием выбора.'
+  - EN: 'Tolerability and comfort become choice factors in their own right.'
+- `s0707`
+  - RU: 'Привычный уход нельзя ломать'
+  - EN: 'Don’t break the routine'
+- `s0708`
+  - RU: 'Нужно решение, которое можно встроить в уже сформированный уход.'
+  - EN: 'They need a product that fits into the routine they already have.'
+- `s0709`
+  - RU: 'Эффективное решение для высыпаний без ощущения ухудшения состояния кожи.'
+  - EN: 'An effective breakout treatment that doesn’t leave skin feeling worse.'
+- `s0710`
+  - RU: 'Совместимость с привычным уходом'
+  - EN: 'Compatible with the usual routine'
+- `s0711`
+  - RU: 'Возможность сохранить привычные этапы ухода за чувствительной кожей.'
+  - EN: 'Keep the usual steps of a sensitive-skin routine.'
+- `s0712`
+  - RU: 'Комфорт и уверенность'
+  - EN: 'Comfort and confidence'
+- `s0713`
+  - RU: 'Снижение страха перед раздражением и возвращение уверенности в повседневной жизни.'
+  - EN: 'Less fear of irritation and renewed confidence in everyday life.'
+
+## Slide 30
+
+- `s0714`
+  - RU: 'Для усиления коммуникации рекомендуется добавить событийную актуальность'
+  - EN: 'We recommend adding event-driven relevance to strengthen messaging'
+- `s0715`
+  - RU: 'ПОТРЕБНОСТЬ / ТРИГГЕР'
+  - EN: 'NEED / TRIGGER'
+- `s0716`
+  - RU: 'КОММУНИКАЦИЯ'
+  - EN: 'MESSAGING'
+- `s0717`
+  - RU: 'ПОДХОДЯЩИЕ СЕГМЕНТЫ'
+  - EN: 'RELEVANT SEGMENTS'
+- `s0718`
+  - RU: 'Back to School / начало учебного года'
+  - EN: 'Back to School / start of school year'
+- `s0719`
+  - RU: 'август–сентябрь'
+  - EN: 'August–September'
+- `s0720`
+  - RU: 'Возвращение в школу / университет, желание выглядеть уверенно после каникул, усиление внимания к внешности'
+  - EN: 'Back to school / university, wanting to look confident after the break, more focus on appearance'
+- `s0721`
+  - RU: '«Подготовь кожу к новому учебному году»'
+  - EN: '“Prep your skin for the new school year”'
+- `s0722`
+  - RU: '**Фокус:** уверенность, чистая кожа, регулярный уход'
+  - EN: '**Focus:** confidence, clear skin, regular care'
+- `s0723`
+  - RU: 'Ж 18–34 — Social girl'
+  - EN: 'F 18–34 — Social girl'
+- `s0724`
+  - RU: 'Ж 18–34 — «новые средства»'
+  - EN: 'F 18–34 — “new products”'
+- `s0725`
+  - RU: 'Подготовка к важным событиям'
+  - EN: 'Getting ready for big events'
+- `s0726`
+  - RU: 'май–июль'
+  - EN: 'May–July'
+- `s0727`
+  - RU: 'Потребность быстро улучшить внешний вид перед важным событием'
+  - EN: 'Need to look better fast before a big event'
+- `s0728`
+  - RU: '«Хочу выглядеть уверенно в важный день»'
+  - EN: '“I want to look confident on the big day”'
+- `s0729`
+  - RU: '**Фокус:** решение проблемы акне без экспериментов'
+  - EN: '**Focus:** treating acne without trial and error'
+- `s0730`
+  - RU: 'Ж 18–40 — акне / постакне, косметический и медицинский уход'
+  - EN: 'F 18–40 — acne / post-acne, cosmetic and medicated skincare'
+- `s0731`
+  - RU: 'М 18–34 — проблемная кожа'
+  - EN: 'M 18–34 — problem skin'
+- `s0732`
+  - RU: 'После стресса / изменений образа жизни'
+  - EN: 'After stress / lifestyle changes'
+- `s0733`
+  - RU: 'Стресс, изменение режима, гормональные факторы могут провоцировать ухудшение состояния кожи'
+  - EN: 'Stress, a new schedule or hormonal factors can trigger skin flare-ups'
+- `s0734`
+  - RU: '«Когда кожа меняется — нужен понятный уход и контроль»'
+  - EN: '“When skin changes, you need simple care and control”'
+- `s0735`
+  - RU: '**Фокус:** сохранить привычный уход и вернуть контроль над состоянием кожи'
+  - EN: '**Focus:** keep the usual routine and get their skin back under control'
+- `s0736`
+  - RU: 'Женщины 40–55 — новый тестовый сценарий'
+  - EN: 'Women 40–55 — new test scenario'
+- `s0737`
+  - RU: 'Акне + чувствительная кожа, 18–34 М/Ж'
+  - EN: 'Acne + sensitive skin, 18–34 M+F'
+
+## Slide 31
+
+- `s0738`
+  - RU: 'Сезонность в категории'
+  - EN: 'Category seasonality'
+- `s0739`
+  - RU: 'Запросы категории «акне» (индекс)'
+  - EN: '“Acne” category searches (index)'
+- `s0740`
+  - RU: 'Продажи Азелик (₽ индекс)'
+  - EN: 'Azelik sales (RUB index)'
+- `s0741`
+  - RU: 'Продажи Скиноклир (₽ индекс)'
+  - EN: 'Skinoclear sales (RUB index)'
+- `s0742`
+  - RU: 'ВЕСНА'
+  - EN: 'SPRING'
+- `s0743`
+  - RU: 'ЛЕТО'
+  - EN: 'SUMMER'
+- `s0744`
+  - RU: 'Весенний рост интереса к категории'
+  - EN: 'Category interest rises in spring'
+- `s0745`
+  - RU: 'Запросы растут раньше продаж → формируется **окно для усиления медиа**'
+  - EN: 'Searches rise before sales → a **window to step up media** opens'
+- `s0746`
+  - RU: 'Летом усиливаются продажи категории'
+  - EN: 'Category sales climb in summer'
+- `s0747`
+  - RU: 'Летний период является **ключевым окном потребления**'
+  - EN: 'Summer is the **key consumption window**'
+- `s0748`
+  - RU: 'Конкурентное давление усиливается в период пикового спроса'
+  - EN: 'Competitive pressure grows at peak demand'
+- `s0749`
+  - RU: 'При росте спроса усиливается **борьба за пользователей категории**'
+  - EN: 'As demand rises, the **fight for category users** heats up'
+
+## Slide 32
+
+- `s0750`
+  - RU: 'Флайтинг 2027: периоды, сегменты и роль коммуникации'
+  - EN: 'Flighting 2027: periods, segments and messaging roles'
+- `s0751`
+  - RU: 'Янв'
+  - EN: 'Jan'
+- `s0752`
+  - RU: 'Фев'
+  - EN: 'Feb'
+- `s0753`
+  - RU: 'Мар'
+  - EN: 'Mar'
+- `s0754`
+  - RU: 'Апр'
+  - EN: 'Apr'
+- `s0755`
+  - RU: 'Май'
+  - EN: 'May'
+- `s0756`
+  - RU: 'Июн'
+  - EN: 'Jun'
+- `s0757`
+  - RU: 'Июл'
+  - EN: 'Jul'
+- `s0758`
+  - RU: 'Авг'
+  - EN: 'Aug'
+- `s0759`
+  - RU: 'Сен'
+  - EN: 'Sep'
+- `s0760`
+  - RU: 'Окт'
+  - EN: 'Oct'
+- `s0761`
+  - RU: 'Ноя'
+  - EN: 'Nov'
+- `s0762`
+  - RU: 'Дек'
+  - EN: 'Dec'
+- `s0763`
+  - RU: 'Все 18–40 акне, постакне'
+  - EN: 'All aged 18–40: acne, post-acne'
+- `s0764`
+  - RU: 'Ж 18–34 пробуют новые средства'
+  - EN: 'F 18–34 trying new products'
+- `s0765`
+  - RU: 'Skinoclear 18–34 негативный опыт'
+  - EN: 'Skinoclear 18–34 bad experience'
+- `s0766`
+  - RU: 'NEW — пилотный запуск'
+  - EN: 'NEW — pilot launch'
+- `s0767`
+  - RU: 'Ж 40+ акне, предменопауза'
+  - EN: 'F 40+ acne, perimenopause'
+- `s0768`
+  - RU: '+ Ж 18–34 чувствительная кожа'
+  - EN: '+ F 18–34 sensitive skin'
+- `s0769`
+  - RU: 'Формирование потребности'
+  - EN: 'Building need'
+- `s0770`
+  - RU: 'Конкурентная защита'
+  - EN: 'Competitive defense'
+- `s0771`
+  - RU: 'Поддержание знания и напоминание'
+  - EN: 'Keeping awareness up with reminders'
+- `s0772`
+  - RU: 'Возврат внимания, рост применения, конкурентная защита'
+  - EN: 'Regaining attention, growing use, competitive defense'
+- `s0773`
+  - RU: 'Закрепление регулярного использования'
+  - EN: 'Locking in regular use'
+- `s0774`
+  - RU: 'ПЕРИОД И ФОРМАТ'
+  - EN: 'PERIOD & FORMAT'
+- `s0775`
+  - RU: 'СЕГМЕНТЫ'
+  - EN: 'SEGMENTS'
+- `s0776`
+  - RU: 'РОЛЬ'
+  - EN: 'ROLE'
+- `s0777`
+  - RU: 'СОБЫТИЯ'
+  - EN: 'EVENTS'
+- `s0778`
+  - RU: 'Январь – февраль'
+  - EN: 'January – February'
+- `s0779`
+  - RU: 'Always-on: подготовка спроса'
+  - EN: 'Always-on: priming demand'
+- `s0780`
+  - RU: 'Новый год и новые привычки'
+  - EN: 'New Year, new habits'
+- `s0781`
+  - RU: 'Забота о себе, планирование ухода в новом году'
+  - EN: 'Self-care, planning skincare for the new year'
+- `s0782`
+  - RU: '2-я пол. февраля – май'
+  - EN: 'Mid-February – May'
+- `s0783`
+  - RU: 'Ж 40+ акне, предменопауза\n+ Ж 18–34 чувствительная кожа'
+  - EN: 'F 40+ acne, perimenopause\n+ F 18–34 sensitive skin'
+- `s0784`
+  - RU: 'Весна, выпускные, лето, сезон активности внешности'
+  - EN: 'Spring, proms, summer: looks matter most'
+- `s0785`
+  - RU: 'Май – июль'
+  - EN: 'May – July'
+- `s0786`
+  - RU: 'Поддержка'
+  - EN: 'Support'
+- `s0787`
+  - RU: 'Летний сезон'
+  - EN: 'Summer season'
+- `s0788`
+  - RU: 'Отпуск, путешествия, фотографии, активная социальная жизнь'
+  - EN: 'Vacations, travel, photos, busy social life'
+- `s0789`
+  - RU: '2-я пол. июля – 1-я пол. октября'
+  - EN: 'Mid-July – mid-October'
+- `s0790`
+  - RU: 'Возвращение в школу/университет, желание выглядеть уверенно, усиление внимания к внешности'
+  - EN: 'Back to school/university, wanting to look confident, more focus on appearance'
+- `s0791`
+  - RU: 'Ноябрь – декабрь'
+  - EN: 'November – December'
+- `s0792`
+  - RU: 'Конец года'
+  - EN: 'Year-end'
+- `s0793`
+  - RU: 'Подведение итогов, закрепление результата, поддержка регулярного ухода'
+  - EN: 'Taking stock, locking in results, supporting a regular skincare routine'
+
+## Slide 33
+
+- `s0794`
+  - RU: 'Выбор каналов для поддержки'
+  - EN: 'Choosing support channels'
+- `s0795`
+  - RU: 'ЭТАП РОСТА'
+  - EN: 'GROWTH STAGE'
+- `s0796`
+  - RU: 'РОЛЬ В СТРАТЕГИИ'
+  - EN: 'ROLE IN STRATEGY'
+- `s0797`
+  - RU: 'Привлекаем новых пользователей в категорию'
+  - EN: 'Bringing new users into the category'
+- `s0798`
+  - RU: 'Спецпроекты'
+  - EN: 'Special projects'
+- `s0799`
+  - RU: 'Расширяем охват за пределы текущих digital-аудиторий, формируем знание о проблеме акне и создаём **новые входы в категорию**'
+  - EN: 'We extend reach beyond current digital audiences, build acne awareness and create **new entry points to the category**'
+- `s0800`
+  - RU: 'Перехватываем пользователей у конкурентов'
+  - EN: 'Winning users from competitors'
+- `s0801`
+  - RU: 'Блогеры'
+  - EN: 'Influencers'
+- `s0802`
+  - RU: 'Усиливаем переключение с альтернативных решений, объясняем преимущества Азелика и помогаем **выбрать бренд вместо конкурентов**'
+  - EN: 'We boost switching from alternatives, explain Azelik’s benefits and help people **choose the brand over competitors**'
+- `s0803`
+  - RU: 'Формируем регулярное использование'
+  - EN: 'Building regular use'
+- `s0804`
+  - RU: 'Дообучаем пользователей, поддерживаем сценарий длительного контроля акне и повышаем **вероятность повторного применения**'
+  - EN: 'We keep educating users, support long-term acne control and raise the **likelihood of repeat use**'
+
+## Slide 34
+
+- `s0805`
+  - RU: 'Азелик и Клиндовит: различия в сегментах и потребностях'
+  - EN: 'Azelik and Clindovit: different segments and needs'
+- `s0806`
+  - RU: 'ШИРОКАЯ АУДИТОРИЯ И ДЛИТЕЛЬНЫЙ СЦЕНАРИЙ'
+  - EN: 'BROAD AUDIENCE, LONG-TERM USE'
+- `s0807`
+  - RU: 'Основная аудитория: акне / постакне, косметический и медицинский уход'
+  - EN: 'Core audience: acne / post-acne, cosmetic and medicated skincare'
+- `s0808`
+  - RU: 'Ж 18–34'
+  - EN: 'F 18–34'
+- `s0809`
+  - RU: 'Social girl, новые средства, переключение со Скиноклира'
+  - EN: 'Social girl, new products, switching from Skinoclear'
+- `s0810`
+  - RU: 'М 18–34'
+  - EN: 'M 18–34'
+- `s0811`
+  - RU: 'Проблемная кожа, запрос на простое решение'
+  - EN: 'Problem skin, looking for a simple fix'
+- `s0812`
+  - RU: 'Формирование понимания ухода у подростков — вход в категорию'
+  - EN: 'Teaching teens about skincare — category entry'
+- `s0813`
+  - RU: 'Ж 40–55'
+  - EN: 'F 40–55'
+- `s0814`
+  - RU: 'Новый сценарий: акне в контексте зрелого ухода'
+  - EN: 'New scenario: acne in a mature-skin routine'
+- `s0815`
+  - RU: 'Чувствительная кожа'
+  - EN: 'Sensitive skin'
+- `s0816`
+  - RU: 'Ж 18–35; важен комфортный уход без усиления сухости и раздражения'
+  - EN: 'F 18–35; want gentle care that won’t add dryness or irritation'
+- `s0817`
+  - RU: 'КЛИНДОВИТ'
+  - EN: 'CLINDOVIT'
+- `s0818`
+  - RU: 'ТОЧЕЧНЫЕ СЕГМЕНТЫ С ОСТРОЙ ПОТРЕБНОСТЬЮ'
+  - EN: 'TARGETED SEGMENTS WITH ACUTE NEED'
+- `s0819`
+  - RU: 'Ж 18–25'
+  - EN: 'F 18–25'
+- `s0820`
+  - RU: 'Появились прыщи → хочу быстро их убрать; сильный социальный дискомфорт'
+  - EN: 'Pimples show up → want them gone fast; strong social discomfort'
+- `s0821`
+  - RU: 'Матери 35–55'
+  - EN: 'Moms 35–55'
+- `s0822`
+  - RU: 'Покупатель для подростка 12–17; нужен быстрый и понятный вариант'
+  - EN: 'Buying for a teen 12–17; need a fast, clear option'
+- `s0823`
+  - RU: 'Ж 25–40'
+  - EN: 'F 25–40'
+- `s0824`
+  - RU: 'Нет времени на прыщи; нужно быстрое решение, чтобы не выпадать из ритма жизни'
+  - EN: 'No time for pimples; need a fast fix to keep life on track'
+- `s0825`
+  - RU: 'ОБЩЕЕ ПОЛЕ'
+  - EN: 'COMMON GROUND'
+- `s0826`
+  - RU: '18–40 с акне — общая категорийная база'
+  - EN: '18–40 with acne — shared category base'
+- `s0827`
+  - RU: '→ Поэтому коммуникацию разделяем по потребности, а не только по демографии'
+  - EN: '→ So we split messaging by need, not by demographics alone'
+- `s0828`
+  - RU: 'Появившиеся / повторяющиеся прыщи влияют на уверенность и внешний вид'
+  - EN: 'New / recurring pimples hurt confidence and looks'
+- `s0829`
+  - RU: '[[**Клиндовит**]] — быстрее решить острую проблему'
+  - EN: '[[**Clindovit**]] — fix the acute problem faster'
+- `s0830`
+  - RU: '**Азелик** — контролировать акне и поддерживать результат'
+  - EN: '**Azelik** — control acne and maintain results'
+- `s0831`
+  - RU: 'ОБЩАЯ ПРОБЛЕМА'
+  - EN: 'SHARED PROBLEM'
+- `s0832`
+  - RU: 'НО РАЗНЫЙ ЗАПРОС'
+  - EN: 'BUT DIFFERENT NEEDS'
+- `s0833`
+  - RU: 'СТРАТЕГИЧЕСКИЙ ВЫВОД'
+  - EN: 'STRATEGIC TAKEAWAY'
+- `s0834`
+  - RU: 'Азелик масштабирует и расширяет категорию, Клиндовит точечно забирает сформированную потребность — это позволяет использовать общий рынок акне для синергии, не дублируя коммуникацию.'
+  - EN: 'Azelik scales and expands the category while Clindovit precisely captures existing demand — so the brands share one acne market and reinforce each other without duplicating messaging.'
+
+## Slide 35
+
+- `s0835`
+  - RU: 'Азелик + Клиндовит: синергия без каннибализации'
+  - EN: 'Azelik + Clindovit: synergy without cannibalization'
+- `s0836`
+  - RU: 'Азелик создаёт масштаб, Клиндовит решает острую проблему — последовательный контакт переводит пользователя между брендами'
+  - EN: 'Azelik builds scale, Clindovit solves the acute problem — sequential contact moves users from one brand to the other'
+- `s0837`
+  - RU: 'ЕДИНЫЙ ПУТЬ ПОЛЬЗОВАТЕЛЯ'
+  - EN: 'ONE USER JOURNEY'
+- `s0838`
+  - RU: 'МАСШТАБ КАТЕГОРИИ'
+  - EN: 'CATEGORY SCALE'
+- `s0839`
+  - RU: '18–40 + расширение аудитории'
+  - EN: '18–40 + audience expansion'
+- `s0840`
+  - RU: 'Контроль акне • регулярность • комфорт'
+  - EN: 'Acne control • regular use • comfort'
+- `s0841`
+  - RU: '15,9'
+  - EN: '15.9'
+- `s0842`
+  - RU: 'ОСТРАЯ ПОТРЕБНОСТЬ'
+  - EN: 'ACUTE NEED'
+- `s0843`
+  - RU: 'Поиск / баннеры / блогеры / ORM'
+  - EN: 'Search / Banners / Influence / ORM'
+- `s0844`
+  - RU: 'Social girl 18–25\nРодители подростков\nЖ 25–40 офис / бизнес'
+  - EN: 'Social girl 18–25\nParents of teens\nF 25–40 office / business'
+- `s0845`
+  - RU: 'Быстрое решение от прыщей'
+  - EN: 'Quick fix for pimples'
+- `s0846`
+  - RU: 'Следующий шаг'
+  - EN: 'Next step'
+- `s0847`
+  - RU: 'ВОЗВРАТ И УДЕРЖАНИЕ'
+  - EN: 'WIN-BACK & RETENTION'
+- `s0848`
+  - RU: 'Retargeting / Внешние публикации + Native'
+  - EN: 'Retargeting / External publications + Native'
+- `s0849`
+  - RU: 'Посетители Клиндовита + поведенческие сигналы'
+  - EN: 'Clindovit visitors + behavioral signals'
+- `s0850`
+  - RU: 'Возврат к регулярному контролю'
+  - EN: 'Back to regular acne control'
+- `s0851`
+  - RU: 'ТАКТИЧЕСКАЯ СВЯЗКА'
+  - EN: 'TACTICAL PAIRING'
+- `s0852`
+  - RU: '1-й этап — Клиндовит\n2-й этап — Азелик'
+  - EN: 'Stage 1 — Clindovit\nStage 2 — Azelik'
+- `s0853`
+  - RU: 'Programmatic + РСЯ\nСайт Клиндовита + видевшие коммуникацию с общим креативом'
+  - EN: 'Programmatic + YAN (Yandex Advertising Network)\nClindovit site visitors + those who saw the shared creative'
+- `s0854`
+  - RU: 'ВНЕШНИЕ ПУБЛИКАЦИИ + NATIVE'
+  - EN: 'EXTERNAL PUBLICATIONS + NATIVE'
+- `s0855`
+  - RU: 'Показываем сценарий в момент выбора решения с общим креативом'
+  - EN: 'One shared creative shows the scenario at the point of choice'
+- `s0856`
+  - RU: 'КАК ПОЛУЧАЕМ ХАЛО-ЭФФЕКТ БЕЗ СИЛЬНОГО ПЕРЕСЕЧЕНИЯ'
+  - EN: 'HOW WE GET A HALO EFFECT WITHOUT HEAVY OVERLAP'
+- `s0857`
+  - RU: 'РАЗНЫЕ РОЛИ'
+  - EN: 'DISTINCT ROLES'
+- `s0858`
+  - RU: '**Азелик** — масштаб, контроль и регулярность.\n**Клиндовит** — быстрый ответ на острую проблему'
+  - EN: '**Azelik** — scale, control and regular use.\n**Clindovit** — a quick answer to an acute problem'
+- `s0859`
+  - RU: 'РАЗНЫЕ ВХОДЫ'
+  - EN: 'SEPARATE ENTRY POINTS'
+- `s0860`
+  - RU: 'Не дублируем контакт: Клиндовит работает на сформированной потребности, Азелик — на следующем шаге'
+  - EN: 'No duplicated contact: Clindovit addresses existing demand, Azelik handles the next step'
+- `s0861`
+  - RU: 'ПОСЛЕДОВАТЕЛЬНЫЙ КОНТАКТ'
+  - EN: 'SEQUENTIAL CONTACT'
+- `s0862`
+  - RU: 'Переход между брендами по триггеру: визит, взаимодействие или интерес к решению'
+  - EN: 'Brand-to-brand handoff on a trigger: visit, interaction or interest in a solution'
+
+## Slide 36
+
+- `s0863`
+  - RU: 'Бренд-сайты 2027: из кросс-ссылок в персонализированные разделы'
+  - EN: 'Brand websites 2027: from cross-links to personalized sections'
+- `s0864`
+  - RU: 'Каждый сайт не просто рассказывает о втором бренде, он объясняет следующую задачу пользователя и переводит в релевантный контентный маршрут'
+  - EN: 'Instead of simply mentioning the other brand, each site explains the user’s next task and leads them to a relevant content path'
+- `s0865`
+  - RU: 'ДВА ЗЕРКАЛЬНЫХ МАРШРУТА — ОДНА ЛОГИКА CJM'
+  - EN: 'TWO MIRRORED PATHS — ONE CJM LOGIC'
+- `s0866`
+  - RU: 'Активное воспаление: что важно понимать'
+  - EN: 'Active inflammation: what to know'
+- `s0867`
+  - RU: 'Основной контент страницы закрывает текущий запрос пользователя и объясняет роль клиндамицина в рамках утверждённой медицинской коммуникации'
+  - EN: 'The main page content answers the user’s current query and explains the role of clindamycin within approved medical messaging'
+- `s0868`
+  - RU: 'Длительный контроль и постакне'
+  - EN: 'Long-term control and post-acne marks'
+- `s0869`
+  - RU: 'Основной контент страницы поддерживает регулярность, долгосрочную логику и работу с последствиями акне'
+  - EN: 'The main page content supports regular use, a long-term approach and treatment of post-acne marks'
+- `s0870`
+  - RU: 'Next step: что дальше после снижения воспаления?'
+  - EN: 'Next step: what to do once inflammation eases?'
+- `s0871`
+  - RU: 'Next step: что делать при новом активном воспалении?'
+  - EN: 'Next step: what to do if active inflammation returns?'
+- `s0872`
+  - RU: 'Почему контроль акне не заканчивается одним этапом\n→ роль азелаиновой кислоты\n→ постакне / регулярность / дальнейший контроль'
+  - EN: 'Why acne control doesn’t end after one stage\n→ the role of azelaic acid\n→ post-acne / regular use / ongoing control'
+- `s0873`
+  - RU: 'Образовательный разбор воспалительной фазы\n→ когда нужен другой подход\n→ переход в релевантный материал Клиндовита'
+  - EN: 'Explainer on the inflammatory phase\n→ when another approach is needed\n→ link to relevant Clindovit content'
+- `s0874`
+  - RU: '**Персонализация:** показываем модуль только на релевантных страницах и пользователям с соответствующим намерением или предыдущим контактом с брендом'
+  - EN: '**Personalization:** we show the module only on relevant pages and to users with matching intent or prior brand contact'
+- `s0875`
+  - RU: '**Персонализация:** не показываем второй бренд всем подряд — только когда содержание страницы и поведенческий сигнал делают переход логичным'
+  - EN: '**Personalization:** we don’t show the other brand to everyone — only when page content and a behavioral signal make the move logical'
+- `s0876`
+  - RU: 'Клиндовит'
+  - EN: 'Clindovit'
+- `s0877`
+  - RU: 'клиндамицин 1%'
+  - EN: 'clindamycin 1%'
+- `s0878`
+  - RU: 'азелаиновая кислота 15%'
+  - EN: 'azelaic acid 15%'
+- `s0879`
+  - RU: 'Подробнее'
+  - EN: 'Learn more'
+- `s0880`
+  - RU: 'ДАННЫЕ ДЛЯ ПЕРСОНАЛИЗАЦИИ'
+  - EN: 'PERSONALIZATION DATA'
+- `s0881`
+  - RU: 'КАК ЗАМЕРЯЕМ ЭФФЕКТ'
+  - EN: 'HOW WE MEASURE IMPACT'
+
+## Slide 37
+
+- `s0882`
+  - RU: 'Обучающие AI-видео: одна система контента, разные копии с персонализацией под бренд'
+  - EN: 'Educational AI videos: one content system, brand-personalized versions'
+- `s0883`
+  - RU: 'AI-video позволяет быстро производить обучающие ролики без рекламных призывов и менять акценты в зависимости от симптома, активного компонента, роли терапии'
+  - EN: 'AI video lets us produce educational videos fast, with no promotional calls to action, and shift the focus by symptom, active ingredient or the role of therapy'
+- `s0884`
+  - RU: 'ЕДИНАЯ СЕРИЯ: ЧТО ОБЪЯСНЯЕМ'
+  - EN: 'ONE SERIES: WHAT WE EXPLAIN'
+- `s0885`
+  - RU: 'Активное воспаление vs долгосрочный контроль'
+  - EN: 'Active inflammation vs long-term control'
+- `s0886`
+  - RU: 'Две разные задачи внутри одного пути пользователя в терапии акне'
+  - EN: 'Two different tasks within one user journey in acne treatment'
+- `s0887`
+  - RU: 'Что происходит после снижения воспаления'
+  - EN: 'What happens after inflammation eases'
+- `s0888`
+  - RU: 'Почему следующая задача — удерживать контроль'
+  - EN: 'Why the next task is to maintain control'
+- `s0889`
+  - RU: 'Почему акне может возвращаться'
+  - EN: 'Why acne can come back'
+- `s0890`
+  - RU: 'Триггеры, регулярность, новые воспалительные эпизоды'
+  - EN: 'Triggers, regular use, new inflammatory episodes'
+- `s0891`
+  - RU: 'Терапия + ежедневный уход'
+  - EN: 'Treatment + daily care'
+- `s0892`
+  - RU: 'Как выстроить понятную последовательность действий'
+  - EN: 'How to build a clear step-by-step routine'
+- `s0893`
+  - RU: 'МОДУЛЬНАЯ АРХИТЕКТУРА AI-VIDEO'
+  - EN: 'MODULAR AI VIDEO ARCHITECTURE'
+- `s0894`
+  - RU: 'Что происходит с кожей?'
+  - EN: 'What happens to the skin?'
+- `s0895`
+  - RU: 'Активные компоненты и роли'
+  - EN: 'Active ingredients and roles'
+- `s0896`
+  - RU: 'Что делать дальше?'
+  - EN: 'What to do next?'
+- `s0897`
+  - RU: 'ПЕРСОНАЛИЗАЦИЯ ПОД БРЕНД'
+  - EN: 'BRAND PERSONALIZATION'
+- `s0898`
+  - RU: 'CLINDOVIT АКЦЕНТЫ'
+  - EN: 'CLINDOVIT FOCUS'
+- `s0899`
+  - RU: 'активное воспаление\n→ персо-LP/статья\n→ где купить'
+  - EN: 'active inflammation\n→ custom LP/article\n→ “Where to buy”'
+- `s0900`
+  - RU: 'AZELIK АКЦЕНТЫ'
+  - EN: 'AZELIK FOCUS'
+- `s0901`
+  - RU: 'контроль / постакне\n→ персо-LP/статья\n→ где купить'
+  - EN: 'control / post-acne\n→ custom LP/article\n→ “Where to buy”'
+- `s0902`
+  - RU: 'ГДЕ МОЖЕМ ИСПОЛЬЗОВАТЬ'
+  - EN: 'WHERE WE CAN USE IT'
+- `s0903`
+  - RU: '* Ролики работают как экспертный источник внутри стриминговых платформ: AI-система получает корректный видео-контент, транскрипт и метаданные, а бренд получает измеряемую основу для будущей мультимодальной видимости'
+  - EN: '* The videos act as an expert source inside streaming platforms: AI systems get accurate video content, transcripts and metadata, and the brand gets a measurable base for future multimodal visibility'
+
+## Slide 38
+
+- `s0904`
+  - RU: 'AI visibility + e-com: два бренда — одна система видимости и покупки'
+  - EN: 'AI visibility + e-com: two brands — one system for discovery and purchase'
+- `s0905`
+  - RU: 'Разделяем семантические территории брендов, связываем общие темы и измеряем не только переход между сайтами, но и действие пользователя на следующем этапе воронки'
+  - EN: 'We separate the brands’ semantic territories, link shared topics and measure both the cross-site click and the user’s action at the next funnel stage'
+- `s0906`
+  - RU: 'СЕМАНТИЧЕСКИЕ ТЕРРИТОРИИ'
+  - EN: 'SEMANTIC TERRITORIES'
+- `s0907`
+  - RU: 'активное воспаление • воспалительная форма акне • клиндамицин • «что делать сейчас?»'
+  - EN: 'active inflammation • inflammatory acne • clindamycin • “what do I do now?”'
+- `s0908`
+  - RU: 'азелаиновая кислота • долгосрочный контроль • постакне • регулярное применение • «как удержать результат?»'
+  - EN: 'azelaic acid • long-term control • post-acne • regular use • “how do I keep the results?”'
+- `s0909`
+  - RU: 'ОБЩИЕ ТЕМЫ, КОТОРЫЕ СВЯЗЫВАЮТ CJM'
+  - EN: 'SHARED TOPICS THAT LINK THE CJM'
+- `s0910`
+  - RU: 'почему акне возвращается • что делать после снижения воспаления • когда меняется задача терапии • консультация специалиста'
+  - EN: 'why acne comes back • what to do after inflammation eases • when the treatment goal changes • specialist consultation'
+- `s0911`
+  - RU: 'ЕДИНЫЙ ПУТЬ ОТ НАМЕРЕНИЯ ДО ПОКУПКИ'
+  - EN: 'ONE PATH FROM INTENT TO PURCHASE'
+- `s0912`
+  - RU: 'ЧТО ОТСЛЕЖИВАЕМ В КРОСС-БРЕНДОВОМ CJM'
+  - EN: 'WHAT WE TRACK IN THE CROSS-BRAND CJM'
+- `s0913`
+  - RU: 'бренд присутствует в нужных темах и ответах'
+  - EN: 'brand shows up in the right topics and answers'
+- `s0914`
+  - RU: 'доля пользователей, посетивших оба сайта за 7/30 дней'
+  - EN: 'share of users who visited both sites within 7/30 days'
+- `s0915`
+  - RU: 'конверсия после кросс-брендового взаимодействия'
+  - EN: 'conversion after cross-brand interaction'
+- `s0916`
+  - RU: 'переход / корзины / заказ, где доступно'
+  - EN: 'clicks / carts / orders, where available'
+- `s0917`
+  - RU: 'путь пользователя vs контакт только с одним брендом'
+  - EN: 'cross-brand journey vs single-brand contact'
+- `s0918`
+  - RU: 'если sequential journey повышает действие пользователя на следующем этапе воронки'
+  - EN: 'if the sequential journey lifts user action at the next funnel stage'
+- `s0919`
+  - RU: 'если есть переход, но нет качества, конверсии'
+  - EN: 'if there are clicks but low quality and no conversions'
+- `s0920`
+  - RU: 'если связка добавляет клики, но не ценность'
+  - EN: 'if the two-brand pairing adds clicks but no value'
+- `s0921`
+  - RU: 'КЛЮЧЕВОЙ ПРИНЦИП'
+  - EN: 'KEY PRINCIPLE'
+- `s0922`
+  - RU: 'Пользователь не обязан проходить весь маршрут. Система показывает следующий релевантный шаг там, где появляется новый вопрос / новое намерение.'
+  - EN: 'Users don’t have to complete the whole path. The system shows the next relevant step wherever a new question / new intent appears.'
+
+## Slide 39
+
+- `s0923`
+  - RU: 'Азелик 2027: архитектура кампании vs 2026'
+  - EN: 'Azelik 2027: campaign architecture vs 2026'
+- `s0924`
+  - RU: 'млн ₽*'
+  - EN: 'RUB M*'
+- `s0925`
+  - RU: '32,8 млн ₽'
+  - EN: 'RUB 32.8M'
+- `s0926`
+  - RU: 'Recruitment: использование сегментов пилота 2025'
+  - EN: 'Recruitment: using the 2025 pilot segments'
+- `s0927`
+  - RU: '34,5 млн ₽'
+  - EN: 'RUB 34.5M'
+- `s0928`
+  - RU: 'Expand: удерживаем спрос между спринтами и расширяем аудиторию'
+  - EN: 'Expand: sustain demand between sprints and widen the audience'
+- `s0929`
+  - RU: '57,5 млн ₽'
+  - EN: 'RUB 57.5M'
+- `s0930`
+  - RU: 'Sprint: усиливаем защиту лидерства от Skinoclear среди молодой аудитории'
+  - EN: 'Sprint: defend our lead over Skinoclear among younger audiences'
+- `s0931`
+  - RU: 'мар–апр; авг–сен: широкий тест сегментов'
+  - EN: 'Mar–Apr; Aug–Sep: broad segment test'
+- `s0932`
+  - RU: '98,7 млн ₽'
+  - EN: 'RUB 98.7M'
+- `s0933`
+  - RU: 'фев–май; июл–окт: фокус на проверенные сегменты'
+  - EN: 'Feb–May; Jul–Oct: focus on proven segments'
+- `s0934`
+  - RU: '10,2 млн ₽'
+  - EN: 'RUB 10.2M'
+- `s0935`
+  - RU: 'Frequency: повторный контакт и поддержка спроса'
+  - EN: 'Frequency: repeat contact and demand support'
+- `s0936`
+  - RU: '14,9 млн ₽'
+  - EN: 'RUB 14.9M'
+- `s0937`
+  - RU: 'Frequency: увеличиваем частоту использования через дообучение'
+  - EN: 'Frequency: grow frequency of use through ongoing education'
+- `s0938`
+  - RU: 'Ж 25–44 с акне и постакне'
+  - EN: 'F 25–44, acne & post-acne'
+- `s0939`
+  - RU: 'Ж 18–40 делают пилинг'
+  - EN: 'F 18–40 who get peels'
+- `s0940`
+  - RU: 'Ж 30–50 с розацеа'
+  - EN: 'F 30–50 with rosacea'
+- `s0941`
+  - RU: 'Потребители cosmetic & medical care'
+  - EN: 'Cosmetic & medical care consumers'
+- `s0942`
+  - RU: '+1,7 млн ₽'
+  - EN: '+RUB 1.7M'
+- `s0943`
+  - RU: 'Студенты 18–34 самостоятельный уход'
+  - EN: 'Students 18–34, DIY skincare'
+- `s0944`
+  - RU: 'М 18–25 с проблемной кожей'
+  - EN: 'M 18–25 with problem skin'
+- `s0945`
+  - RU: 'М 18–25 спортуход'
+  - EN: 'M 18–25 sport & skincare'
+- `s0946`
+  - RU: 'Ж 18–34 чувствительная кожа'
+  - EN: 'F 18–34 sensitive skin'
+- `s0947`
+  - RU: '+41,2 млн ₽'
+  - EN: '+RUB 41.2M'
+- `s0948`
+  - RU: 'Programmatic retargeting | ОФД'
+  - EN: 'Programmatic retargeting | receipt data (OFD)'
+- `s0949`
+  - RU: '+4,7 млн ₽'
+  - EN: '+RUB 4.7M'
+- `s0950`
+  - RU: '*Бюджеты тотал представлены с учетом тех костов, АК и РС, бюджеты блоков указаны с АК и РС без учета тех костов. Приросты 2027 vs 2026 — расчёт OMD'
+  - EN: '*Totals include tech costs, agency commission and ad levy; block budgets include agency commission and ad levy but not tech costs. 2027 vs 2026 growth: OMD calculation'
+
+## Slide 40
+
+- `s0951`
+  - RU: 'DOOH в 2027: новая территория персонализированной коммуникации Азелик'
+  - EN: 'DOOH in 2027: new ground for personalized Azelik communication'
+- `s0952`
+  - RU: 'Переносим comprehensive-логику из digital в физическую среду и проверяем, может ли новый контакт усилить интерес к бренду'
+  - EN: 'We carry the Comprehensive logic from digital into physical space and test whether a new touchpoint can lift brand interest'
+- `s0953`
+  - RU: 'ПОЧЕМУ ТЕСТИРУЕМ СЕЙЧАС'
+  - EN: 'WHY TEST NOW'
+- `s0954`
+  - RU: 'Новый для Азелика формат позволяет продолжить сегментную коммуникацию за пределами digital — [[в релевантных повседневных контекстах]]'
+  - EN: 'A new format for Azelik takes segment communication beyond digital — [[into relevant everyday contexts]]'
+- `s0955`
+  - RU: 'РАСШИРЯЕМ ТОЧКИ КОНТАКТА'
+  - EN: 'EXPANDING TOUCHPOINTS'
+- `s0956`
+  - RU: 'УСИЛИВАЕМ\nCONQUEST-ЛОГИКУ'
+  - EN: 'REINFORCING\nCONQUEST LOGIC'
+- `s0957`
+  - RU: 'ТЕСТИРУЕМ НОВУЮ МЕХАНИКУ'
+  - EN: 'TESTING A NEW MECHANIC'
+- `s0958`
+  - RU: 'DOOH добавляет физическое присутствие бренда в течение дня и дополняет охват digital-инвентаря'
+  - EN: 'DOOH adds physical brand presence through the day and complements digital inventory reach'
+- `s0959`
+  - RU: 'Используем новый контакт для молодой аудитории и потенциальных switchers — там, где бренд может встретить их вне digital'
+  - EN: 'We use the new touchpoint for young audiences and potential switchers — where the brand can meet them outside digital'
+- `s0960`
+  - RU: 'Переносим принцип «сегмент → контекст → сообщение» в DOOH и заранее задаём измеримый decision gate'
+  - EN: 'We apply “segment → context → message” to DOOH and set a measurable decision gate upfront'
+- `s0961`
+  - RU: 'Связываем digital intent с местом / моментом и доступностью продукта — один CJM вместо разрозненных активаций'
+  - EN: 'We link digital intent to place / moment and product availability — one CJM instead of scattered activations'
+- `s0962`
+  - RU: 'Добавляем физический контекст: где и когда сообщение наиболее уместно'
+  - EN: 'We add physical context: where and when the message fits best'
+- `s0963`
+  - RU: 'ПАРАМЕТРЫ ТЕСТА'
+  - EN: 'TEST PARAMETERS'
+- `s0964`
+  - RU: '1,5 млн ₽'
+  - EN: 'RUB 1.5M'
+- `s0965`
+  - RU: 'тестовый бюджет / **июнь**'
+  - EN: 'test budget / **June**'
+- `s0966`
+  - RU: '27,16 млн'
+  - EN: '27.16M'
+- `s0967`
+  - RU: '5,96 млн'
+  - EN: '5.96M'
+- `s0968`
+  - RU: 'показы'
+  - EN: 'impressions'
+- `s0969`
+  - RU: 'экранов'
+  - EN: 'screens'
+- `s0970`
+  - RU: 'цена за 1 000 OTS'
+  - EN: 'cost per 1,000 OTS'
+- `s0971`
+  - RU: 'ПОЧЕМУ ИМЕННО ИЮНЬ'
+  - EN: 'WHY JUNE'
+- `s0972`
+  - RU: 'Анализ продаж'
+  - EN: 'Sales analysis'
+- `s0973`
+  - RU: 'В 2026 году в июне наблюдается небольшое проседание продаж'
+  - EN: 'Sales dipped slightly in June 2026'
+- `s0974`
+  - RU: 'Сезонность спроса'
+  - EN: 'Demand seasonality'
+- `s0975`
+  - RU: 'Июнь — период умеренной активности, что позволяет оценить дополнительный эффект теста'
+  - EN: 'June is a moderate-activity period, so we can measure the test’s incremental effect'
+- `s0976`
+  - RU: 'Оценка результатов отдельно от спринтов'
+  - EN: 'Results measured separately from sprints'
+- `s0977`
+  - RU: 'В июне нет активных спринтов, что позволяет провести чистую оценку влияния DOOH'
+  - EN: 'There are no active sprints in June, so we get a clean read on DOOH impact'
+- `s0978`
+  - RU: '**Наша гипотеза:**\nтест в июне даст прирост в ключевых регионах по продажам **(Москва и Санкт-Петербург)**'
+  - EN: '**Our hypothesis:**\na June test will lift sales in the key regions **(Moscow and St. Petersburg)**'
+- `s0979`
+  - RU: 'ГИПОТЕЗА ТЕСТА'
+  - EN: 'TEST HYPOTHESIS'
+- `s0980`
+  - RU: 'Персонализированный контакт в релевантном контексте даст дополнительный инкремент к поисковому интересу, визитам и целевым действиям'
+  - EN: 'Personalized contact in a relevant context will add incremental search interest, visits and conversions'
+- `s0981`
+  - RU: 'Следующий шаг: ограниченный тест с заранее определёнными сценариями результата и критериями масштабирования.'
+  - EN: 'Next step: a limited test with predefined outcome scenarios and scaling criteria.'
+
+## Slide 41
+
+- `s0982`
+  - RU: 'DOOH в 2027: дополнительная точка контакта для роста аудитории Азелика и укрепления позиции бренда'
+  - EN: 'DOOH in 2027: an extra touchpoint to grow Azelik’s audience and strengthen the brand’s position'
+- `s0983`
+  - RU: 'Тест Яндекс DOOH в Москве и Санкт-Петербурге позволит встретить целевые сегменты в релевантных повседневных контекстах, усилить знание бренда и оценить вклад канала в рост интереса и действий пользователей'
+  - EN: 'A Yandex DOOH test in Moscow and St. Petersburg will reach target segments in relevant everyday contexts, build brand awareness and measure the channel’s contribution to user interest and actions'
+- `s0984`
+  - RU: 'КОМУ И ГДЕ ПОКАЗЫВАЕМ'
+  - EN: 'WHO SEES IT AND WHERE'
+- `s0985`
+  - RU: 'Персонализация: сегмент — кому говорим → контекст — где встречаем → креатив — что говорим'
+  - EN: 'Personalization: segment — who we target → context — where we meet them → creative — what we say'
+- `s0986`
+  - RU: 'ГДЕ?'
+  - EN: 'WHERE?'
+- `s0987`
+  - RU: 'КОМУ?'
+  - EN: 'WHO?'
+- `s0988`
+  - RU: 'Медицина'
+  - EN: 'Medical'
+- `s0989`
+  - RU: 'аптеки и медицинские точки'
+  - EN: 'pharmacies and clinics'
+- `s0990`
+  - RU: 'Почта и ПВЗ'
+  - EN: 'Post & pickup points'
+- `s0991`
+  - RU: 'высокая ежедневная проходимость'
+  - EN: 'high daily foot traffic'
+- `s0992`
+  - RU: 'beauty и skincare'
+  - EN: 'beauty & skincare'
+- `s0993`
+  - RU: 'массовый охват и регулярные касания'
+  - EN: 'mass reach and regular contact'
+- `s0994`
+  - RU: 'М/Ж 18–40'
+  - EN: 'M+F 18–40'
+- `s0995`
+  - RU: 'ЧТО?'
+  - EN: 'WHAT?'
+- `s0996`
+  - RU: '**ИИ-Ролик «Негативный опыт после других продуктов»**\nПро сухость и увлажняющий компонент Азелик'
+  - EN: '**AI video “Bad experience with other products”**\nAbout dryness and Azelik’s hydrating ingredient'
+- `s0997`
+  - RU: '**ИИ-Ролик «Новые средства»**\nПро активные компоненты и формулу для борьбы с акне'
+  - EN: '**AI video “New products”**\nAbout the active ingredients and anti-acne formula'
+- `s0998`
+  - RU: '**ИИ-Ролик «Social girl»**\nПро меньшую маскировку кожи благодаря Азелик'
+  - EN: '**AI video “Social girl”**\nAbout needing less cover-up thanks to Azelik'
+- `s0999`
+  - RU: '**Ролик «Советы»**\nРолик с «вредными» советами для женщин по борьбе с акне. Классический продакшн'
+  - EN: '**Video “Tips”**\nIronic “bad\xa0advice” to women on fighting acne. Traditional production'
+- `s1000`
+  - RU: 'ПРИМЕР ВИЗУАЛИЗАЦИИ'
+  - EN: 'SAMPLE VISUALS'
+- `s1001`
+  - RU: 'КАК ПОЙМЁМ, ЧТО ТЕСТ ЭФФЕКТИВЕН'
+  - EN: 'HOW WE’LL KNOW THE TEST WORKS'
+- `s1002`
+  - RU: 'Сценарный прогноз строим от нормализованного результата релевантного кейса Яндекс DOOH и сознательно дисконтируем benchmark.'
+  - EN: 'We base the scenario forecast on the normalized result of a relevant Yandex DOOH case and deliberately discount the benchmark.'
+- `s1003`
+  - RU: '**40%** — консервативный\n**70%** — оптимальный'
+  - EN: '**40%** — conservative\n**70%** — optimal'
+- `s1004`
+  - RU: 'наиболее прогнозируемый KPI'
+  - EN: 'the most predictable KPI'
+- `s1005`
+  - RU: '+7,8 тыс.'
+  - EN: '+7.8K'
+- `s1006`
+  - RU: '+13,6 тыс.'
+  - EN: '+13.6K'
+- `s1007`
+  - RU: 'дополнительные визиты'
+  - EN: 'incremental visits'
+- `s1008`
+  - RU: '+4,1 тыс.'
+  - EN: '+4.1K'
+- `s1009`
+  - RU: '+7,2 тыс.'
+  - EN: '+7.2K'
+- `s1010`
+  - RU: 'целевые действия'
+  - EN: 'conversions'
+- `s1011`
+  - RU: 'Decision gate: фактический lift сравниваем с прогнозным диапазоном → масштабируем / оптимизируем / не масштабируем'
+  - EN: 'Decision gate: we compare actual lift with the forecast range → scale / optimize / don’t scale'
+- `s1012`
+  - RU: 'Источник benchmark: кейс Яндекс DOOH «Центр флебологии», 2026. Сценарные коэффициенты — рабочие assumptions.'
+  - EN: 'Benchmark source: Yandex DOOH case “Phlebology Center”, 2026. Scenario coefficients are working assumptions.'
+
+## Slide 42
+
+- `s1013`
+  - RU: 'Синхронизация / Жизнь кожи'
+  - EN: 'Synchronization / Skin Life'
+- `s1014`
+  - RU: 'РЕФЕРЕНС МЕХАНИКИ'
+  - EN: 'MECHANIC REFERENCE'
+- `s1015`
+  - RU: '«Интерактивный лонгрид»'
+  - EN: '“Interactive longread”'
+- `s1016`
+  - RU: 'Референс механики «Интерактивный лонгрид»'
+  - EN: 'Mechanic reference: “Interactive longread”'
+- `s1017`
+  - RU: 'Проект помогает понять, почему иногда кожа меняется, как на неё влияет наш образ жизни, какие процессы являются нормой, а где действительно стоит подключать лечение.'
+  - EN: 'The project helps explain why skin sometimes changes, how our lifestyle affects it, what’s normal, and when treatment is really needed.'
+- `s1018`
+  - RU: 'МЕХАНИКА ПРОЕКТА'
+  - EN: 'PROJECT MECHANICS'
+- `s1019`
+  - RU: 'Интерактивный путеводитель в формате лендинга со статьями и видеокружочками от экспертов'
+  - EN: 'An interactive landing-page guide with articles and expert video notes'
+- `s1020`
+  - RU: 'Можно начать с выбора своего образа жизни пользовательницы: **Блогер / Возрастной уход / Мужской уход и т.д.**'
+  - EN: 'Users start by choosing their lifestyle: **Influencer / Mature skincare / Men’s skincare, etc.**'
+- `s1021`
+  - RU: 'После выбора открываются — особенности кожи, рекомендации от дерматолога в формате видеокружочка, научные объяснения'
+  - EN: 'Then they see what’s specific to their skin, a dermatologist’s tips in a video note, and the science behind it'
+- `s1022`
+  - RU: 'Отдельный блок: «Если воспаления становятся регулярными — решить проблему за счет изменения лайфстайла уже недостаточно.»'
+  - EN: 'A separate block: “If breakouts keep coming back, lifestyle changes alone are no longer enough.”'
+- `s1023`
+  - RU: 'Рассказываем про регулярную терапию Азеликом.'
+  - EN: 'We talk about regular treatment with Azelik.'
+- `s1024`
+  - RU: 'Роль: **expand & frequency**'
+  - EN: 'Role: **expand & frequency**'
+- `s1025`
+  - RU: 'Период: **мар–апр**'
+  - EN: 'Period: **Mar–Apr**'
+- `s1026`
+  - RU: 'Синхронизация'
+  - EN: 'Synchronization'
+- `s1027`
+  - RU: 'Опция'
+  - EN: 'Option'
+- `s1028`
+  - RU: 'Показы'
+  - EN: 'Impr.'
+- `s1029`
+  - RU: 'Прогноз кликов'
+  - EN: 'Forecast clicks'
+- `s1030`
+  - RU: 'Бюджет до НДС*'
+  - EN: 'Budget excl. VAT*'
+- `s1031`
+  - RU: 'Срок продакшена'
+  - EN: 'Production time'
+- `s1032`
+  - RU: 'Лонгрид'
+  - EN: 'Longread'
+- `s1033`
+  - RU: '6 млн'
+  - EN: '6M'
+- `s1034`
+  - RU: '40 тыс.'
+  - EN: '40K'
+- `s1035`
+  - RU: '1,9 млн'
+  - EN: '1.9M'
+- `s1036`
+  - RU: '4–5 недель'
+  - EN: '4–5 weeks'
+- `s1037`
+  - RU: '317 руб.'
+  - EN: 'RUB 317'
+- `s1038`
+  - RU: '0,67%'
+  - EN: '0.67%'
+- `s1039`
+  - RU: '*Бюджет и показатели — эстимация, потребуется пересмотр при детализации и доработке предложения.'
+  - EN: '*Budget and metrics are estimates and will be revised as the proposal is detailed and refined.'
+
+## Slide 43
+
+- `s1040`
+  - RU: 'Clatch / Трекер цикла'
+  - EN: 'Clatch / Cycle tracker'
+- `s1041`
+  - RU: 'Многим девушкам знакома ситуация, когда перед началом нового цикла появляются воспаления на лице. Вместе с Клатчем разберемся, как можно помочь своей коже в этот период, а также улучшить качество кожи в целом.'
+  - EN: 'Many young women know the feeling: breakouts flare up right before a new cycle. Together with Clatch, we’ll look at how to help your skin through this phase and improve it overall.'
+- `s1042`
+  - RU: 'Для вовлечения пользователей и привлечения внимания к продукту рекомендуем обратить внимание на следующие опции:'
+  - EN: 'To engage users and draw attention to the product, we recommend these options:'
+- `s1043`
+  - RU: '**Контентный нативный формат** — Сториз.'
+  - EN: '**Native content format** — Stories.'
+- `s1044`
+  - RU: 'Это может быть как полезная обучающая коммуникация, так и сторителлинг в стиле комикса, через который продемонстрируем ситуации, где поможет использование геля Азелик.'
+  - EN: 'This can be useful educational content or comic-style storytelling that shows situations where Azelik gel helps.'
+- `s1045`
+  - RU: '**Игровой контент.** Например, игра в стиле 2048 с брендированными элементами.'
+  - EN: '**Game content.** For example, a 2048-style game with branded elements.'
+- `s1046`
+  - RU: 'Игровая механика стимулирует контактировать с продуктом чаще, позволяет получать промокоды, скидки и другие бонусы бренда.'
+  - EN: 'Gameplay brings users back to the product more often and earns them promo codes, discounts and perks.'
+- `s1047`
+  - RU: 'Референс формата\n**«Серия сториз»**'
+  - EN: 'Format reference\n**“Story series”**'
+- `s1048`
+  - RU: 'Референс формата «Серия сториз»'
+  - EN: 'Format reference: “Story series”'
+- `s1049`
+  - RU: 'Референс\n**визуала комикса**'
+  - EN: 'Reference for\n**comic visuals**'
+- `s1050`
+  - RU: 'Референс визуала комикса'
+  - EN: 'Comic visuals reference'
+- `s1051`
+  - RU: 'Референс\n**интерактивных форматов**'
+  - EN: 'Reference for\n**interactive formats**'
+- `s1052`
+  - RU: 'Референс интерактивных форматов'
+  - EN: 'Interactive formats reference'
+- `s1053`
+  - RU: 'Период: **авг/сен**'
+  - EN: 'Period: **Aug/Sep**'
+- `s1054`
+  - RU: 'Охват'
+  - EN: 'Reach'
+- `s1055`
+  - RU: 'Уники'
+  - EN: 'Uniques'
+- `s1056`
+  - RU: 'CPT (охват)'
+  - EN: 'CPT (reach)'
+- `s1057`
+  - RU: 'Сториз'
+  - EN: 'Stories'
+- `s1058`
+  - RU: '7,4 млн'
+  - EN: '7.4M'
+- `s1059`
+  - RU: '1 млн'
+  - EN: '1M'
+- `s1060`
+  - RU: '4,3 тыс.'
+  - EN: '4.3K'
+- `s1061`
+  - RU: '2,9 млн'
+  - EN: '2.9M'
+- `s1062`
+  - RU: '392 руб.'
+  - EN: 'RUB 392'
+- `s1063`
+  - RU: '0,06%'
+  - EN: '0.06%'
+- `s1064`
+  - RU: '2900 руб.'
+  - EN: 'RUB 2,900'
+- `s1065`
+  - RU: 'Игра'
+  - EN: 'Game'
+- `s1066`
+  - RU: '605 тыс.'
+  - EN: '605K'
+- `s1067`
+  - RU: '135 тыс.'
+  - EN: '135K'
+- `s1068`
+  - RU: '3,4 тыс.'
+  - EN: '3.4K'
+- `s1069`
+  - RU: '1,4 млн'
+  - EN: '1.4M'
+- `s1070`
+  - RU: '2314 руб.'
+  - EN: 'RUB 2,314'
+- `s1071`
+  - RU: '0,56%'
+  - EN: '0.56%'
+- `s1072`
+  - RU: '10 370 руб.'
+  - EN: 'RUB 10,370'
+
+## Slide 44
+
+- `s1073`
+  - RU: 'Персонализация креатива как основа comprehensive-подхода: единая бренд-система и разные сообщения для сегментов'
+  - EN: 'Creative personalization underpins the Comprehensive approach: one brand system, different messages by segment'
+- `s1074`
+  - RU: 'В 2027 обновляем баннерные креативы в единой визуальной стилистике Азелика и адаптируем коммуникацию под новые аудитории с помощью AI-ускоренного производства'
+  - EN: 'In 2027 we refresh banners in one Azelik style and adapt messaging to new audiences with AI-accelerated production'
+- `s1075`
+  - RU: 'Принципы производства баннеров/видео'
+  - EN: 'Banner/video production principles'
+- `s1076`
+  - RU: 'Единая логика помогает быстро масштабировать коммуникацию без распада бренда на разные визуальные стили'
+  - EN: 'A shared logic lets us scale messaging fast without the brand splitting into different visual styles'
+- `s1077`
+  - RU: 'Фиксируем общий брендовый каркас: визуальный язык, тональность, пэкшот, CTA и фарм. корректность'
+  - EN: 'We lock a shared brand framework: visual language, tone, packshot, CTA and pharma compliance'
+- `s1078`
+  - RU: 'Меняем то, что связано с сегментом: инсайт, триггер выбора, жизненный контекст и визуальную метафору'
+  - EN: 'We change what is segment-specific: insight, choice trigger, life context and visual metaphor'
+- `s1079`
+  - RU: 'AI ускоряет генерацию ресайзов и анимаций, но человек задаёт стратегию и проверяет результат'
+  - EN: 'AI speeds up resizes and animation, while people set the strategy and check the output'
+- `s1080`
+  - RU: 'РАБОЧАЯ СХЕМА АДАПТАЦИИ'
+  - EN: 'ADAPTATION WORKFLOW'
+- `s1081`
+  - RU: 'Сегмент'
+  - EN: 'Segment'
+- `s1082`
+  - RU: 'Инсайт'
+  - EN: 'Insight'
+- `s1083`
+  - RU: 'Триггер'
+  - EN: 'Trigger'
+- `s1084`
+  - RU: 'AI-раскадровка'
+  - EN: 'AI storyboard'
+- `s1085`
+  - RU: 'Анимация'
+  - EN: 'Animation'
+- `s1086`
+  - RU: 'Финальные ресайзы/ролики'
+  - EN: 'Final resizes/videos'
+- `s1087`
+  - RU: 'АУДИТОРНЫЕ СЕГМЕНТЫ 2027'
+  - EN: '2027 AUDIENCE SEGMENTS'
+- `s1088`
+  - RU: 'Сегмент ЦА'
+  - EN: 'TA segment'
+- `s1089`
+  - RU: '**Ж 25–40 с акне и постакне** — «Хочу убрать видимые следы, чтобы вернуть уверенность»'
+  - EN: '**F 25–40, acne and post-acne marks** — “I want the marks gone and my confidence back”'
+- `s1090`
+  - RU: '**Подростки 12–18, лёгкое/среднее акне, самостоятельный уход** — «Хочу красиво, но без ущерба здоровью»'
+  - EN: '**Teens 12–18, mild to moderate acne, DIY skincare** — “I want to look good without harming my health”'
+- `s1091`
+  - RU: '**Ж 40+ с акне в предменопаузу** — «Хочу чистую кожу без отказа от привычного ухода»'
+  - EN: '**F 40+, perimenopausal acne** — “I want clear skin without giving up my usual routine”'
+- `s1092`
+  - RU: 'Креатив 2027'
+  - EN: '2027 creative'
+- `s1093`
+  - RU: 'Креатив 2026'
+  - EN: '2026 creative'
+- `s1094`
+  - RU: 'Визуал для сегмента Ж 40+'
+  - EN: 'Visual for the F 40+ segment'
+
+## Slide 45
+
+- `s1095`
+  - RU: 'Sprint 2027: каналы и инструменты по сегментам'
+  - EN: 'Sprint 2027: channels and tools by segment'
+- `s1096`
+  - RU: 'CTV становится новым элементом Sprint 2027, усиливая персонализированную работу\nс core-аудиторией'
+  - EN: 'CTV is new in Sprint 2027, adding weight to personalized messaging\nfor the core audience'
+- `s1097`
+  - RU: 'КАНАЛЫ И ИНСТРУМЕНТЫ SPRINT фев–май; июл–окт 2027'
+  - EN: 'SPRINT CHANNELS AND TOOLS Feb–May; Jul–Oct 2027'
+- `s1098`
+  - RU: '23,8 млн'
+  - EN: '23.8M'
+- `s1099`
+  - RU: 'Бюджет Sprint сконцентрирован на 5 сегментах: Social girl и Ж 18–34, которые масштабируют знание, Skinoclear и М 18–34 отрабатывают барьеры выбора. Ж 18–34 Этап Purchase intent закрывает горячий спрос'
+  - EN: 'The Sprint budget focuses on 5 segments: Social girl and F 18–34 scale awareness, Skinoclear and M 18–34 tackle choice barriers. F 18–34 at the Purchase intent stage captures high-intent demand'
+- `s1100`
+  - RU: '18,6 млн'
+  - EN: '18.6M'
+- `s1101`
+  - RU: '6,7 млн ₽'
+  - EN: 'RUB 6.7M'
+- `s1102`
+  - RU: '3,2 млн ₽'
+  - EN: 'RUB 3.2M'
+- `s1103`
+  - RU: '8,5 млн ₽'
+  - EN: 'RUB 8.5M'
+- `s1104`
+  - RU: 'Ж 18–34: новые средства'
+  - EN: 'F 18–34: new products'
+- `s1105`
+  - RU: '15,9 млн'
+  - EN: '15.9M'
+- `s1106`
+  - RU: '5,8 млн ₽'
+  - EN: 'RUB 5.8M'
+- `s1107`
+  - RU: '6,9 млн ₽'
+  - EN: 'RUB 6.9M'
+- `s1108`
+  - RU: '18–34 Скиноклир: негативный опыт'
+  - EN: '18–34: bad Skinoclear experience'
+- `s1109`
+  - RU: '13,1 млн'
+  - EN: '13.1M'
+- `s1110`
+  - RU: '3,9 млн ₽'
+  - EN: 'RUB 3.9M'
+- `s1111`
+  - RU: '6,0 млн ₽'
+  - EN: 'RUB 6.0M'
+- `s1112`
+  - RU: 'М 18–34: проблемная кожа'
+  - EN: 'M 18–34: problem skin'
+- `s1113`
+  - RU: '9,9 млн'
+  - EN: '9.9M'
+- `s1114`
+  - RU: '4,3 млн'
+  - EN: '4.3M'
+- `s1115`
+  - RU: 'Paid Search / РСЯ'
+  - EN: 'Paid Search / YAN'
+- `s1116`
+  - RU: 'СПЛИТ БЮДЖЕТА SPRINT 2027'
+  - EN: 'SPRINT 2027 BUDGET SPLIT'
+- `s1117`
+  - RU: 'по каналам / инструментам, с АК и РС'
+  - EN: 'by channel / tool, incl. fees & ad levy'
+- `s1118`
+  - RU: 'Медиасплит сбалансирован между охватом и\nperformance-логикой: видео с персонализацией дает охват, Bloggers — обучает аудиторию и отрабатывает барьеры сегментов, programmatic banners — трафик на сайт, Search — работает с горячим спросом'
+  - EN: 'The media split balances reach and performance:\npersonalized video delivers reach, Bloggers educate the audience and tackle segment barriers, programmatic banners drive site traffic, Search captures high-intent demand'
+- `s1119`
+  - RU: 'Сплит бюджета Sprint 2027, млн ₽'
+  - EN: 'Sprint 2027 budget split, RUB M'
+- `s1120`
+  - RU: 'Итого'
+  - EN: 'Total'
+- `s1121`
+  - RU: '98,7'
+  - EN: '98.7'
+- `s1122`
+  - RU: '23,8 млн ₽'
+  - EN: 'RUB 23.8M'
+- `s1123`
+  - RU: '24,1 млн ₽'
+  - EN: 'RUB 24.1M'
+- `s1124`
+  - RU: '12,8 млн ₽'
+  - EN: 'RUB 12.8M'
+- `s1125`
+  - RU: '33,6 млн ₽'
+  - EN: 'RUB 33.6M'
+- `s1126`
+  - RU: 'Search/РСЯ — 4%'
+  - EN: 'Search/YAN — 4%'
+- `s1127`
+  - RU: '4,3 млн ₽'
+  - EN: 'RUB 4.3M'
+- `s1128`
+  - RU: 'Большие экраны добавляют качественный охват и частоту контакта, а остальные каналы последовательно отрабатывают барьеры и спрос по сегментам'
+  - EN: 'Big screens add quality reach and contact frequency, while the other channels work through barriers and demand segment by segment'
+
+## Slide 46
+
+- `s1129`
+  - RU: 'От тестирования сегментов к управлению инвестициями: используем Sales Lift для выбора приоритетных аудиторий'
+  - EN: 'From testing segments to managing investment: we use Sales Lift to pick priority audiences'
+- `s1130`
+  - RU: 'В H1’26 проверили вклад сегментов в бизнес-результат, перераспределили фокус в рамках Sprint 2 2026 и продолжаем применять подход Sales Lift для оптимизации коммуникации в 2027 году'
+  - EN: 'In H1’26 we measured each segment’s contribution to business results, shifted focus within Sprint 2 2026, and will keep using Sales Lift to optimize communication in 2027'
+- `s1131`
+  - RU: 'МЕТОДОЛОГИЯ ЭКСТРАПОЛЯЦИИ SALES LIFT'
+  - EN: 'SALES LIFT EXTRAPOLATION METHOD'
+- `s1132`
+  - RU: 'Сравнили объем продаж по данным ВТБ и внутренним данным Акрихина'
+  - EN: 'We compared sales volume in VTB data with Akrikhin’s internal data'
+- `s1133`
+  - RU: 'Доля ВТБ в продажах составила 15,3%; базовый коэффициент пересчёта\xa0=\xa0×6,53'
+  - EN: 'VTB accounted for 15.3% of sales; base scaling factor = ×6.53'
+- `s1134`
+  - RU: '×6,53'
+  - EN: '×6.53'
+- `s1135`
+  - RU: 'базовый коэффициент экстраполяции результатов'
+  - EN: 'base factor for extrapolating results'
+- `s1136`
+  - RU: 'рк vs pre-период'
+  - EN: 'campaign vs pre-period'
+- `s1137`
+  - RU: 'up-lift по конверсии покупателя тестовой группы к контрольной'
+  - EN: 'buyer conversion uplift, test vs control group'
+- `s1138`
+  - RU: 'ПРИРОСТ УНИКАЛЬНЫХ ПОКУПАТЕЛЕЙ В POST-ПЕРИОДЕ VS PRE-ПЕРИОДЕ'
+  - EN: 'UNIQUE BUYER GROWTH: POST-PERIOD VS PRE-PERIOD'
+- `s1139`
+  - RU: 'Приоритет'
+  - EN: 'Priority'
+- `s1140`
+  - RU: 'Комментарий'
+  - EN: 'Comment'
+- `s1141`
+  - RU: 'Ж 18–25, новые средства'
+  - EN: 'F 18–25, new products'
+- `s1142`
+  - RU: '0,20%'
+  - EN: '0.20%'
+- `s1143`
+  - RU: '0,45%'
+  - EN: '0.45%'
+- `s1144`
+  - RU: 'Сохраняем в сплите: большой сегмент, отложенный эффект и потенциал с учетом корректировки креатива'
+  - EN: 'Keep in the split: large segment, delayed effect and potential once the creative is adjusted'
+- `s1145`
+  - RU: '0,19%'
+  - EN: '0.19%'
+- `s1146`
+  - RU: '0,59%'
+  - EN: '0.59%'
+- `s1147`
+  - RU: 'Один из ключевых сегментов для Sprint 2: высокий post-click и сильный post-period uplift'
+  - EN: 'One of the key segments for Sprint 2: high post-click and strong post-period uplift'
+- `s1148`
+  - RU: '0,32%'
+  - EN: '0.32%'
+- `s1149`
+  - RU: '+800% — максимальный uplift, но на малой базе; сегмент используем как defense/switch-триггер, а не как основной масштабный growth-сегмент'
+  - EN: '+800% — the highest uplift, but on a small base; we use the segment as a defense/switch trigger, not a core growth segment at scale'
+- `s1150`
+  - RU: 'М 18–25 проблемная кожа'
+  - EN: 'M 18–25 problem skin'
+- `s1151`
+  - RU: '0,43%'
+  - EN: '0.43%'
+- `s1152`
+  - RU: 'Широкий мужской сегмент для дообучения через верх воронки и awareness-коммуникацию'
+  - EN: 'Broad male segment for ongoing education via upper-funnel and awareness messaging'
+- `s1153`
+  - RU: 'М 18–28 спорт / уход'
+  - EN: 'M 18–28 sport / skincare'
+- `s1154`
+  - RU: '0,21%'
+  - EN: '0.21%'
+- `s1155`
+  - RU: '0,68%'
+  - EN: '0.68%'
+- `s1156`
+  - RU: 'Сегмент показал сильный post-click интерес, но не подтвердил устойчивый business-effect в Sales Lift. Поэтому не ведем его отдельным закупочным сегментом, а коммуницируем через широкую аудиторию М 18–25 проблемная кожа'
+  - EN: 'Strong post-click interest, but no stable business effect confirmed in Sales Lift. So we don’t buy it as a separate segment but reach it through the broad M 18–25 problem skin audience'
+- `s1157`
+  - RU: 'Студенты 18–25'
+  - EN: 'Students 18–25'
+- `s1158`
+  - RU: '0,07%'
+  - EN: '0.07%'
+- `s1159`
+  - RU: 'Был отключен в ходе рк; не имеет весомой базы для SL аналитики. Эффект лучше собирать внутри более широких сегментов того же соц-дема'
+  - EN: 'Switched off mid-campaign; base too small for SL analysis. The effect is better captured in broader segments of the same demographic'
+- `s1160`
+  - RU: '* Uplift по сегментам — прирост количества уникальных покупателей post-периода относительно pre-периода; «—» означает отсутствие прироста или базы для расчёта'
+  - EN: '* Segment uplift — growth in unique buyers in the post-period vs the pre-period; “—” means no growth or no base for calculation'
+
+## Slide 47
+
+- `s1161`
+  - RU: 'Анализ Sprint 1 выявил потенциал расширения ЦА: аудитория 25–34 включается в ядро коммуникации в 2027'
+  - EN: 'Sprint 1 analysis showed room to widen the TA: 25–34s join the communication core in 2027'
+- `s1162`
+  - RU: 'Сравнение результатов внутри сегментов показало более высокий потенциал старшей возрастной группы — поэтому в H2’26 расширили соцдем-фокус и закрепили 18–34 как основу Sprint-активаций и в 2027 году'
+  - EN: 'Within-segment comparison showed higher potential in the older age group — so in H2’26 we widened the demographic focus and locked in 18–34 as the basis of Sprint activations for 2027 as well'
+- `s1163`
+  - RU: '25–34 системно лучше конвертируется в женских сегментах и сегменте пользователей с негативным опытом Skinoclear'
+  - EN: '25–34 consistently converts better in the female segments and among users with a bad Skinoclear experience'
+- `s1164`
+  - RU: '18–24 релевантна для верхнего контакта, но слабее по purchase-сигналу'
+  - EN: '18–24 works for upper-funnel contact but gives a weaker purchase signal'
+- `s1165`
+  - RU: 'ОБЩИЙ ЛЕРНИНГ ПО 4 СЕГМЕНТАМ'
+  - EN: 'KEY LEARNING ACROSS 4 SEGMENTS'
+- `s1166`
+  - RU: '0,47%'
+  - EN: '0.47%'
+- `s1167`
+  - RU: '0,17%'
+  - EN: '0.17%'
+- `s1168`
+  - RU: 'CR 25–34 в «Где купить»'
+  - EN: 'CR 25–34, “Where to buy”'
+- `s1169`
+  - RU: 'CR 18–24 в «Где купить»'
+  - EN: 'CR 18–24, “Where to buy”'
+- `s1170`
+  - RU: 'Что это значит'
+  - EN: 'What it means'
+- `s1171`
+  - RU: 'CR «ГДЕ КУПИТЬ»: 25–34 СИЛЬНЕЕ 18–24'
+  - EN: 'CR “WHERE TO BUY”: 25–34 BEATS 18–24'
+- `s1172`
+  - RU: 'Ж 18–22'
+  - EN: 'F 18–22'
+- `s1173`
+  - RU: 'М 18–25'
+  - EN: 'M 18–25'
+- `s1174`
+  - RU: 'РЕКОМЕНДАЦИИ ПО ДОУТОЧНЕНИЮ СОЦ-ДЕМ ГРУПП В H2'
+  - EN: 'RECOMMENDATIONS: REFINING DEMO GROUPS IN H2'
+- `s1175`
+  - RU: 'Что показал Sprint 1'
+  - EN: 'What Sprint 1 showed'
+- `s1176`
+  - RU: 'Рекомендация H2'
+  - EN: 'H2 recommendation'
+- `s1177`
+  - RU: '«новые средства»'
+  - EN: '“new products”'
+- `s1178`
+  - RU: '**CR 0,46% (25–34)** vs 0,15% (18–24)'
+  - EN: '**CR 0.46% (25–34)** vs 0.15% (18–24)'
+- `s1179`
+  - RU: '25–34 дает более высокий CR в действие'
+  - EN: '25–34 converts better'
+- `s1180`
+  - RU: 'Расширить перформанс-ядро до **Ж 18–34**'
+  - EN: 'Expand the performance core to **F 18–34**'
+- `s1181`
+  - RU: '**CR 0,47% (25–34)** vs 0,18% (18–24)'
+  - EN: '**CR 0.47% (25–34)** vs 0.18% (18–24)'
+- `s1182`
+  - RU: 'проблемная кожа'
+  - EN: 'problem skin'
+- `s1183`
+  - RU: '**CR 0,15% (25–34)** vs 0,07% (18–24)'
+  - EN: '**CR 0.15% (25–34)** vs 0.07% (18–24)'
+- `s1184`
+  - RU: 'Тестировать **М 18–34** как perf-гипотезу'
+  - EN: 'Test **M 18–34** as a performance hypothesis'
+- `s1185`
+  - RU: 'МЖ 18–25'
+  - EN: 'M+F 18–25'
+- `s1186`
+  - RU: 'негативный опыт Skinoclear'
+  - EN: 'bad Skinoclear experience'
+- `s1187`
+  - RU: '**CR 0,49% (25–34)** vs 0,16% (18–24)'
+  - EN: '**CR 0.49% (25–34)** vs 0.16% (18–24)'
+- `s1188`
+  - RU: 'самый высокий результат среди сегментов 25–34'
+  - EN: 'best result among the 25–34 segments'
+- `s1189`
+  - RU: 'Расширить перформанс-ядро до **МЖ 18–34**'
+  - EN: 'Expand the performance core to **M+F 18–34**'
+- `s1190`
+  - RU: 'Ж 18–22\n«новые средства»'
+  - EN: 'F 18–22\n“new products”'
+- `s1191`
+  - RU: '**CR 0,46% (25–34)** vs 0,15% (18–24)\n25–34 дает более высокий CR в действие'
+  - EN: '**CR 0.46% (25–34)** vs 0.15% (18–24)\n25–34 converts better'
+- `s1192`
+  - RU: 'Ж 18–25\nSocial girl'
+  - EN: 'F 18–25\nSocial girl'
+- `s1193`
+  - RU: '**CR 0,47% (25–34)** vs 0,18% (18–24)\n25–34 дает более высокий CR в действие'
+  - EN: '**CR 0.47% (25–34)** vs 0.18% (18–24)\n25–34 converts better'
+- `s1194`
+  - RU: '**CR 0,15% (25–34)** vs 0,07% (18–24)\n25–34 дает более высокий CR в действие'
+  - EN: '**CR 0.15% (25–34)** vs 0.07% (18–24)\n25–34 converts better'
+- `s1195`
+  - RU: 'МЖ 18–25\nнегативный опыт Skinoclear'
+  - EN: 'M+F 18–25\nbad Skinoclear experience'
+- `s1196`
+  - RU: '**CR 0,49% (25–34)** vs 0,16% (18–24)\nсамый высокий результат среди сегментов 25–34'
+  - EN: '**CR 0.49% (25–34)** vs 0.16% (18–24)\nbest result among the 25–34 segments'
+
+## Slide 48
+
+- `s1197`
+  - RU: 'AI-креативы Азелика 2027: масштабируем comprehensive-персонализацию без роста стоимости продакшена'
+  - EN: 'Azelik AI creatives 2027: scaling Comprehensive personalization without higher production costs'
+- `s1198`
+  - RU: 'A/B-тест показал: AI-ролики дают сопоставимый результат с роликами классического продакшена — это открывает возможность масштабировать сегментированные коммуникации'
+  - EN: 'The A/B test showed AI videos perform on par with traditionally produced ones — so we can scale segmented messaging'
+- `s1199`
+  - RU: '**Персонализированные AI-ролики** должны сильнее **вовлекать** аудиторию и давать дополнительный эффект **аплифта** по бренд-метрикам — прежде всего по **рассмотрению бренда при покупке**.'
+  - EN: '**Personalized AI videos** should **engage** the audience more and deliver extra **uplift** in brand metrics — above all in **brand consideration at purchase**.'
+- `s1200`
+  - RU: 'A/B-ТЕСТ: AI VS КЛАССИЧЕСКИЙ ПРОДАКШН'
+  - EN: 'A/B TEST: AI VS TRADITIONAL PRODUCTION'
+- `s1201`
+  - RU: 'Не AI'
+  - EN: 'Non-AI'
+- `s1202`
+  - RU: 'Скиноклир 18–34\nнегативный опыт'
+  - EN: 'Skinoclear 18–34\nbad experience'
+- `s1203`
+  - RU: '**77%** VTR\n**0,59%** CTR\n**0,34%** CR'
+  - EN: '**77%** VTR\n**0.59%** CTR\n**0.34%** CR'
+- `s1204`
+  - RU: '**77%** VTR\n**0,58%** CTR\n**0,34%** CR'
+  - EN: '**77%** VTR\n**0.58%** CTR\n**0.34%** CR'
+- `s1205`
+  - RU: 'М 18–34\nпроблемная кожа'
+  - EN: 'M 18–34\nproblem skin'
+- `s1206`
+  - RU: '**76%** VTR\n**0,58%** CTR\n**0,33%** CR'
+  - EN: '**76%** VTR\n**0.58%** CTR\n**0.33%** CR'
+- `s1207`
+  - RU: '**76%** VTR\n**0,58%** CTR\n**0,34%** CR'
+  - EN: '**76%** VTR\n**0.58%** CTR\n**0.34%** CR'
+- `s1208`
+  - RU: 'СТАТУС'
+  - EN: 'STATUS'
+- `s1209`
+  - RU: '**Доказали:** AI-ролики не уступают классическому продакшену по медийным метрикам'
+  - EN: '**Proven:** AI videos match traditional production on media metrics'
+- `s1210`
+  - RU: '**Следующий шаг:** BLS покажет влияние персонализации на бренд-метрики'
+  - EN: '**Next step:** BLS will show how personalization affects brand metrics'
+- `s1211`
+  - RU: 'Аудиторные сегменты 2027'
+  - EN: '2027 audience segments'
+- `s1212`
+  - RU: 'Превью кадров'
+  - EN: 'Frame previews'
+- `s1213`
+  - RU: 'Ж 18–34 любящие пробовать новые средства'
+  - EN: 'F 18–34 who like trying new products'
+- `s1214`
+  - RU: 'Ж 18–34 Social girl, маскирующие кожу'
+  - EN: 'F 18–34 Social girl, hiding skin flaws'
+- `s1215`
+  - RU: 'Все 18–34 негативный опыт Скиноклир'
+  - EN: 'All 18–34, bad Skinoclear experience'
+- `s1216`
+  - RU: 'Превью кадра AI-ролика'
+  - EN: 'AI video frame preview'
+- `s1217`
+  - RU: 'СЕГМЕНТ 1'
+  - EN: 'SEGMENT 1'
+- `s1218`
+  - RU: '«Хочу результат без побочек»'
+  - EN: '“I want results, no side effects”'
+- `s1219`
+  - RU: 'СЕГМЕНТ 2'
+  - EN: 'SEGMENT 2'
+- `s1220`
+  - RU: '«Хочу перейти на более легкий макияж, улучшим качество кожи»'
+  - EN: '“Better skin, so I can switch to lighter makeup”'
+- `s1221`
+  - RU: 'СЕГМЕНТ 3'
+  - EN: 'SEGMENT 3'
+- `s1222`
+  - RU: '«Не могу длительно использовать другие продукты из-за сухости кожи»'
+  - EN: '“Other products dry my skin out, so I can’t use them for long”'
+- `s1223`
+  - RU: 'СЕГМЕНТ 4'
+  - EN: 'SEGMENT 4'
+- `s1224`
+  - RU: '«Мне нужно простое и быстрое решение, чтобы не разбираться в сложных схемах нанесения»'
+  - EN: '“I need something quick and simple — no complicated routines”'
+- `s1225`
+  - RU: 'СЕГМЕНТ 5'
+  - EN: 'SEGMENT 5'
+- `s1226`
+  - RU: '«Когда кожа реагирует — особенно важен комфортный уход»'
+  - EN: '“When my skin reacts, gentle care matters most”'
+
+## Slide 49
+
+- `s1227`
+  - RU: 'В 2027 переводим CTV из точечного канала в часть комплексной персонализированной коммуникации'
+  - EN: 'In 2027 CTV turns from a selective channel into part of integrated, personalized communication'
+- `s1228`
+  - RU: 'От единого ролика для приоритетных сегментов — к персонализированным сообщениям\nдля core-аудитории 18–34, работающим с ключевыми барьерами POME'
+  - EN: 'From one video for priority segments to personalized messages\nthat tackle key POME barriers for the 18–34 core audience'
+- `s1229`
+  - RU: 'Ж 18–34 Social girl'
+  - EN: 'F 18–34 Social girl'
+- `s1230`
+  - RU: 'Ж 18–40'
+  - EN: 'F 18–40'
+- `s1231`
+  - RU: 'Единый студийный ролик для всех ЦА'
+  - EN: 'One studio video for all TAs'
+- `s1232`
+  - RU: 'Персонализированные креативы, отрабатывающие основные барьеры POME аудитории'
+  - EN: 'Personalized creatives tackling the audience’s main POME barriers'
+- `s1233`
+  - RU: '**Роль:** дополнительный охват на больших экранах'
+  - EN: '**Role:** extra reach on big screens'
+- `s1234`
+  - RU: '**Роль:** продолжение единой коммуникации бренда на больших экранах — с тем же инсайтом и сообщением, что в других digital-каналах'
+  - EN: '**Role:** carrying the brand’s single message onto big screens — same insight and message as in other digital channels'
+- `s1235`
+  - RU: '2026 — ТОЧЕЧНОЕ ИСПОЛЬЗОВАНИЕ CTV'
+  - EN: '2026 — SELECTIVE CTV USE'
+- `s1236`
+  - RU: 'Где использовали'
+  - EN: 'Where we used it'
+- `s1237`
+  - RU: 'Ж 18–34 любящие пробовать новые средства\nЖ 18–34 Social girl'
+  - EN: 'F 18–34 who like trying new products\nF 18–34 Social girl'
+- `s1238`
+  - RU: 'Подход к креативу'
+  - EN: 'Creative approach'
+- `s1239`
+  - RU: 'Креатив Азелика 2026 на экранах Smart TV'
+  - EN: 'Azelik 2026 creative on Smart TV screens'
+- `s1240`
+  - RU: 'Где используем'
+  - EN: 'Where we use it'
+- `s1241`
+  - RU: 'Ж 18–34 любящие пробовать новые средства\nЖ 18–34 Social girl\nВсе 18–34 негативный опыт Скиноклир\nМ 18–34 проблемная кожа'
+  - EN: 'F 18–34 who like trying new products\nF 18–34 Social girl\nAll 18–34, bad Skinoclear experience\nM 18–34 problem skin'
+- `s1242`
+  - RU: 'ЧТО ДАЕТ ПЕРЕХОД К COMPREHENSIVE'
+  - EN: 'WHAT WE GAIN BY GOING COMPREHENSIVE'
+- `s1243`
+  - RU: 'Сообщение + инсайт + креатив соответствует конкретной потребности, а не просто общей ЦА'
+  - EN: 'Message + insight + creative fit a specific need, not a generic TA'
+- `s1244`
+  - RU: 'CTV продолжает ту же логику, что digital, а не существует отдельным роликом'
+  - EN: 'CTV follows the same logic as digital instead of running as a standalone video'
+- `s1245`
+  - RU: 'Больше сегментов и сообщений без пропорционального роста стоимости продакшена за студийный ролик'
+  - EN: 'More segments and messages without a proportional rise in studio production costs'
+- `s1246`
+  - RU: 'РЕЛЕВАНТНОСТЬ'
+  - EN: 'RELEVANCE'
+- `s1247`
+  - RU: 'ЕДИНАЯ КОММУНИКАЦИЯ'
+  - EN: 'UNIFIED MESSAGING'
+- `s1248`
+  - RU: 'МАСШТАБИРУЕМАЯ ПЕРСОНАЛИЗАЦИЯ'
+  - EN: 'SCALABLE PERSONALIZATION'
+
+## Slide 50
+
+- `s1249`
+  - RU: 'Масштабируем CTV и формируем пул поставщиков под разные задачи'
+  - EN: 'We scale CTV and build a vendor pool for different tasks'
+- `s1250`
+  - RU: 'Единый скоринг помогает выбрать качественный инвентарь, роли поставщиков — обеспечить масштаб, заметный контакт и дополнительные возможности таргетинга'
+  - EN: 'A single scoring model helps pick quality inventory; vendor roles secure scale, visible exposure and extra targeting options'
+- `s1251`
+  - RU: 'Единая роль CTV в 2027'
+  - EN: 'Unified role of CTV in 2027'
+- `s1252`
+  - RU: 'большой экран и высокое качество контакта'
+  - EN: 'big screen, high-quality exposure'
+- `s1253`
+  - RU: 'Smart TV среда'
+  - EN: 'Smart TV screens'
+- `s1254`
+  - RU: 'основной формат для видеоконтакта'
+  - EN: 'main format for video exposure'
+- `s1255`
+  - RU: 'Multi-roll база'
+  - EN: 'Multi-roll base'
+- `s1256`
+  - RU: 'единая модель для сравнения эффективности'
+  - EN: 'one model for comparing performance'
+- `s1257`
+  - RU: 'CPM закупка'
+  - EN: 'CPM buying'
+- `s1258`
+  - RU: 'Замер эффективности'
+  - EN: 'Impact measurement'
+- `s1259`
+  - RU: 'ПОЧЕМУ CTV'
+  - EN: 'WHY CTV'
+- `s1260`
+  - RU: 'Больший экран связан с более качественным видеоконтактом'
+  - EN: 'Bigger screens mean higher-quality video exposure'
+- `s1261`
+  - RU: '0–49% площади экрана'
+  - EN: '0–49% of screen area'
+- `s1262`
+  - RU: '90–100% площади экрана'
+  - EN: '90–100% of screen area'
+- `s1263`
+  - RU: 'заметный контакт в среде больших экранов'
+  - EN: 'visible exposure on big screens'
+- `s1264`
+  - RU: 'более высокая досматриваемость и видимость видео'
+  - EN: 'higher video completion and viewability'
+- `s1265`
+  - RU: 'качественный охват поверх mobile / desktop'
+  - EN: 'quality reach on top of mobile / desktop'
+- `s1266`
+  - RU: 'единая оценка: CPM-сравнение + lift-замеры'
+  - EN: 'one evaluation: CPM comparison + lift studies'
+- `s1267`
+  - RU: 'При 90–100% экрана VA более чем в 2 раза выше; VTR выше на 17,7 п.п.'
+  - EN: 'At 90–100% of screen, VA is over 2× higher; VTR is up 17.7 pp'
+- `s1268`
+  - RU: 'Что это дает бренду'
+  - EN: 'What the brand gets'
+- `s1269`
+  - RU: 'КАК ПЕРЕВОДИМ ЭТО В ПЛАН 2027'
+  - EN: 'TURNING IT INTO THE 2027 PLAN'
+- `s1270`
+  - RU: 'Пул поставщиков для поддержки спринт-активаций'
+  - EN: 'Vendor pool to support Sprint activations'
+- `s1271`
+  - RU: 'Критерии рейтинга'
+  - EN: 'Scoring criteria'
+- `s1272`
+  - RU: 'Внимание ×1,5'
+  - EN: 'Attention ×1.5'
+- `s1273`
+  - RU: 'Стоимость ×1'
+  - EN: 'Cost ×1'
+- `s1274`
+  - RU: 'Ёмкость ×1'
+  - EN: 'Capacity ×1'
+- `s1275`
+  - RU: 'Рейтинг для ранжирования'
+  - EN: 'Ranking score'
+- `s1276`
+  - RU: '5,94'
+  - EN: '5.94'
+- `s1277`
+  - RU: '5,67'
+  - EN: '5.67'
+- `s1278`
+  - RU: 'Экран'
+  - EN: 'Ekran'
+- `s1279`
+  - RU: '5,47'
+  - EN: '5.47'
+- `s1280`
+  - RU: '5,36'
+  - EN: '5.36'
+- `s1281`
+  - RU: '5,28'
+  - EN: '5.28'
+- `s1282`
+  - RU: '**Период:** активация параллельно Sprint 1 и Sprint 2'
+  - EN: '**Period:** runs alongside Sprint 1 and Sprint 2'
+- `s1283`
+  - RU: '**Роль:** усиление видимости в моменты пикового спроса для защиты от Skinoclear и конкурентов'
+  - EN: '**Role:** more visibility at peak demand to defend against Skinoclear and other competitors'
+- `s1284`
+  - RU: 'МТС'
+  - EN: 'MTS'
+- `s1285`
+  - RU: '**Smart TV/VOD.** Достройка таргетинга через контент + соц-дем'
+  - EN: '**Smart TV/VOD.** Targeting refined via content + demographics'
+- `s1286`
+  - RU: '**Роль:** качественный видеоконтакт в Smart TV'
+  - EN: '**Role:** quality video exposure on Smart TV'
+- `s1287`
+  - RU: '**Streaming.** Достройка таргетинга через каналы GPM + соц-дем'
+  - EN: '**Streaming.** Targeting refined via GPM channels + demographics'
+- `s1288`
+  - RU: '**Роль:** качественный видеоконтакт в Online TV'
+  - EN: '**Role:** quality video exposure on Online TV'
+- `s1289`
+  - RU: '**Smart TV/VOD.** Достройка таргетинга через контент + соц-дем + интересы'
+  - EN: '**Smart TV/VOD.** Targeting refined via content + demographics + interests'
+- `s1290`
+  - RU: '* Источник: AdRiver, видео size split, 06.02–06.09.'
+  - EN: '* Source: AdRiver, video size split, Feb 6–Sep 6.'
+
+## Slide 51
+
+- `s1291`
+  - RU: 'CTV → TRP: как интегрировать CTV в TTL-video блок'
+  - EN: 'CTV → TRP: how to fold CTV into the TTL video block'
+- `s1292`
+  - RU: 'Плановый eTRP позволяет включить CTV в общий TV-блок,\nсохраняя digital-логику закупки и измерения'
+  - EN: 'Planned eTRP lets CTV join the overall TV block\nwhile keeping digital buying and measurement logic'
+- `s1293`
+  - RU: 'ЭСТИМАЦИЯ 2027'
+  - EN: '2027 ESTIMATE'
+- `s1294`
+  - RU: '23,8M ₽'
+  - EN: 'RUB 23.8M'
+- `s1295`
+  - RU: 'Объем инвестиций'
+  - EN: 'Investment'
+- `s1296`
+  - RU: 'с АК/РС; вкл. BLS tech'
+  - EN: 'incl. fees, ad levy & BLS tech'
+- `s1297`
+  - RU: '53,5M'
+  - EN: '53.5M'
+- `s1298`
+  - RU: 'Объем показов Streaming + VOD'
+  - EN: 'Streaming + VOD impressions'
+- `s1299`
+  - RU: '26,5M'
+  - EN: '26.5M'
+- `s1300`
+  - RU: 'Показы фев–май'
+  - EN: 'Impressions Feb–May'
+- `s1301`
+  - RU: '27,0M'
+  - EN: '27.0M'
+- `s1302`
+  - RU: 'Показы июл–окт'
+  - EN: 'Impressions Jul–Oct'
+- `s1303`
+  - RU: 'Показы пул поставщиков · Ж 18–45 · f=5'
+  - EN: 'Vendor pool impressions · F 18–45 · f=5'
+- `s1304`
+  - RU: 'MTS 17,5M'
+  - EN: 'MTS 17.5M'
+- `s1305`
+  - RU: 'GPM 18,0M'
+  - EN: 'GPM 18.0M'
+- `s1306`
+  - RU: 'Everest 18,0M'
+  - EN: 'Everest 18.0M'
+- `s1307`
+  - RU: 'ЛОГИКА ПЕРЕВОДА CTV → eTRP'
+  - EN: 'CTV → eTRP CONVERSION LOGIC'
+- `s1308`
+  - RU: 'TV UNIVERSE Ж 18–45 = 26,0 млн'
+  - EN: 'TV UNIVERSE F 18–45 = 26.0M'
+- `s1309`
+  - RU: 'КАК СЧИТАЕМ'
+  - EN: 'HOW WE COUNT'
+- `s1310`
+  - RU: 'Одна ЦА'
+  - EN: 'One TA'
+- `s1311`
+  - RU: 'CTV и TV считаем на одном target/universe'
+  - EN: 'CTV and TV share one target/universe'
+- `s1312`
+  - RU: 'VTR не умножаем на TRP — это отдельный quality KPI'
+  - EN: 'VTR stays out of TRP — it’s a separate quality KPI'
+- `s1313`
+  - RU: 'Без double count reach'
+  - EN: 'No double-counted reach'
+- `s1314`
+  - RU: 'суммируем показы поставщиков, но не их reach'
+  - EN: 'we sum vendor impressions, not their reach'
+- `s1315`
+  - RU: 'OUTPUT ДЛЯ TTL-VIDEO БЛОКА'
+  - EN: 'OUTPUT FOR TTL VIDEO BLOCK'
+- `s1316`
+  - RU: '26,5M / 26,0M ×100'
+  - EN: '26.5M / 26.0M ×100'
+- `s1317`
+  - RU: '27,0M / 26,0M ×100'
+  - EN: '27.0M / 26.0M ×100'
+- `s1318`
+  - RU: '53,5M / 26,0M ×100'
+  - EN: '53.5M / 26.0M ×100'
+- `s1319`
+  - RU: 'единая gross-оценка'
+  - EN: 'single gross estimate'
+- `s1320`
+  - RU: '23,8M ₽ / 206 eTRP; сравниваем с TV только при одинаковом составе затрат в бюджете'
+  - EN: 'RUB 23.8M / 206 eTRP; compare with TV only when budgets include the same cost items'
+- `s1321`
+  - RU: 'eTRP — planning equivalent для интеграции CTV в TV-план; это не рейтинг MediaScope. Universe Ж 18–45 = 26,0 млн используется как база расчета. Post-campaign используем valid Smart TV impressions после верификации AdRiver.'
+  - EN: 'eTRP is a planning equivalent for integrating CTV into the TV plan, not a Mediascope rating. The calculation base is the F\xa018–45 universe of 26.0M. Post-campaign we use valid Smart TV impressions verified by AdRiver.'
+- `s1322`
+  - RU: '* CPP — стоимость одного рейтингового пункта CTV.'
+  - EN: '* CPP — cost per CTV rating point.'
+
+## Slide 52
+
+- `s1323`
+  - RU: 'AI-таргетинг: от экспорта данных к экспорту методов'
+  - EN: 'AI targeting: from exporting data to exporting methods'
+- `s1324`
+  - RU: 'Переход от точечных закупок заранее сформированных аудиторий к постоянному поиску пользователей с высокой вероятностью отклика с использованием AI-возможностей DSP'
+  - EN: 'From one-off buys of pre-built audiences to an ongoing search for users likely to respond, using the DSP’s AI capabilities'
+- `s1325`
+  - RU: 'AI DMP: ПОДХОД H1 2026'
+  - EN: 'AI DMP: H1 2026 APPROACH'
+- `s1326`
+  - RU: 'AI DMP как базовый маршрут в 2026 году'
+  - EN: 'AI DMP as the default route in 2026'
+- `s1327`
+  - RU: 'Заранее сформированные сегменты аудиторий'
+  - EN: 'Pre-built audience segments'
+- `s1328`
+  - RU: 'Фиксированные условия для активации'
+  - EN: 'Fixed activation conditions'
+- `s1329`
+  - RU: 'Стабильный, но менее адаптивный таргетинг'
+  - EN: 'Stable but less adaptive targeting'
+- `s1330`
+  - RU: 'Применение по ключевым сегментам'
+  - EN: 'Applied to key segments'
+- `s1331`
+  - RU: 'Единые медианастройки'
+  - EN: 'Uniform media settings'
+- `s1332`
+  - RU: 'Использование как база для сравнения'
+  - EN: 'Used as a baseline for comparison'
+- `s1333`
+  - RU: 'Что мы использовали'
+  - EN: 'What we used'
+- `s1334`
+  - RU: 'Как мы работали'
+  - EN: 'How we worked'
+- `s1335`
+  - RU: 'AI DSP: ТЕСТ H2 2026'
+  - EN: 'AI DSP: H2 2026 TEST'
+- `s1336`
+  - RU: 'A/B-тест на двух сегментах аудиторий'
+  - EN: 'A/B test on two audience segments'
+- `s1337`
+  - RU: 'Изменён источник данных, остальные настройки оставались равными'
+  - EN: 'Data source changed; all other settings kept equal'
+- `s1338`
+  - RU: 'РЕЗУЛЬТАТЫ ТЕСТА H2 2026'
+  - EN: 'H2 2026 TEST RESULTS'
+- `s1339`
+  - RU: '**AI DSP показал лучшие результаты,**\nчем AI DMP, на обоих тестируемых сегментах'
+  - EN: '**AI DSP performed better**\nthan AI DMP on both test segments'
+- `s1340`
+  - RU: '0,45% vs 0,40%'
+  - EN: '0.45% vs 0.40%'
+- `s1341`
+  - RU: 'Лучшее качество пост-клика'
+  - EN: 'Better post-click quality'
+- `s1342`
+  - RU: 'Bounce -3,6 п.п. | Глубина +12% | Время на сайте +55%'
+  - EN: 'Bounce -3.6 pp | Page depth +12% | Time on site +55%'
+- `s1343`
+  - RU: 'Более вовлечённая аудитория'
+  - EN: 'More engaged audience'
+- `s1344`
+  - RU: '«Где купить» CR ×2,6 | 2,0% vs 0,8%'
+  - EN: '“Where to buy” CR ×2.6 | 2.0% vs 0.8%'
+- `s1345`
+  - RU: 'Ниже стоимость трафика'
+  - EN: 'Lower traffic cost'
+- `s1346`
+  - RU: '2027: СЛЕДУЮЩИЙ ЭТАП'
+  - EN: '2027: NEXT STAGE'
+- `s1347`
+  - RU: 'Продолжаем тестирование и масштабируем возможности AI DSP'
+  - EN: 'We keep testing and scaling AI DSP capabilities'
+- `s1348`
+  - RU: 'Снижение стоимости за дату'
+  - EN: 'Lower data costs'
+- `s1349`
+  - RU: 'Использование AI-возможностей DSP позволяет эффективнее распределять бюджет и снижать стоимость за дату'
+  - EN: 'The DSP’s AI capabilities let us allocate budget more efficiently and cut data costs'
+- `s1350`
+  - RU: 'Постоянный поиск новых аудиторий'
+  - EN: 'Ongoing search for new audiences'
+- `s1351`
+  - RU: 'AI DSP находит пользователей с высокой вероятностью отклика в реальном времени'
+  - EN: 'AI DSP finds users likely to respond in real time'
+- `s1352`
+  - RU: 'Масштабирование'
+  - EN: 'Scaling'
+- `s1353`
+  - RU: 'Тестируем AI-подбор аудиторий и кластеризацию, масштабируем на весь бренд'
+  - EN: 'We test AI audience selection and clustering, then scale to the whole brand'
+- `s1354`
+  - RU: 'От экспорта данных к экспорту методов'
+  - EN: 'From exporting data to exporting methods'
+- `s1355`
+  - RU: 'Переходим от использования готовых сегментов к экспорту AI-методов подбора аудиторий — это более гибкий и эффективный подход для нас'
+  - EN: 'We move from ready-made segments to exporting AI audience-selection methods — a more flexible, effective approach for us'
+- `s1356`
+  - RU: 'ОЦЕНКА ЭФФЕКТИВНОСТИ'
+  - EN: 'MEASURING PERFORMANCE'
+- `s1357`
+  - RU: '**Метрики:** CTR • Качество пост-клика (bounce rate / глубина / время на сайте) • Конверсии (целевые действия)'
+  - EN: '**Metrics:** CTR • Post-click quality (bounce rate / page depth / time on site) • Conversions (target actions)'
+
+## Slide 53
+
+- `s1358`
+  - RU: 'Блогеры 2027: comprehensive-персонализация'
+  - EN: 'Influencers 2027: Comprehensive personalization'
+- `s1359`
+  - RU: 'Подбираем конкретных блогеров под сегменты и задачи благодаря AI-скорингу\nи превращаем охваты в измеримый post-click'
+  - EN: 'We use AI scoring to match specific influencers to segments and goals\nand turn reach into measurable post-click results'
+- `s1360`
+  - RU: 'Анализ аудитории и контента блогеров'
+  - EN: 'Audience and content analysis'
+- `s1361`
+  - RU: 'Оценка соответствия сегментам и KPI'
+  - EN: 'Fit with segments and KPIs'
+- `s1362`
+  - RU: 'Выбор оптимального формата и тональности сообщения под каждый сегмент'
+  - EN: 'Best format and tone of voice for each segment'
+- `s1363`
+  - RU: 'Прогноз эффективности и минимизация рисков'
+  - EN: 'Performance forecast and risk reduction'
+- `s1364`
+  - RU: 'Сюжеты и форматы, релевантные интересам сегмента'
+  - EN: 'Stories and formats matched to segment interests'
+- `s1365`
+  - RU: 'Нативная интеграция продукта в опыт блогера'
+  - EN: 'Native integration into influencer routines'
+- `s1366`
+  - RU: 'Переход на выбранную площадку и измерение post-click'
+  - EN: 'Clicks to the chosen platform and post-click tracking'
+- `s1367`
+  - RU: 'AI-скоринг блогеров'
+  - EN: 'AI influencer scoring'
+- `s1368`
+  - RU: 'Персонализированное сообщение'
+  - EN: 'Personalized message'
+- `s1369`
+  - RU: 'Используемые площадки'
+  - EN: 'Platforms we use'
+- `s1370`
+  - RU: 'Дзен'
+  - EN: 'Dzen'
+- `s1371`
+  - RU: 'Не закладываем в медиаплан 2027'
+  - EN: 'Not in the 2027 media plan'
+- `s1372`
+  - RU: 'ФАС обозначила переходный период для рекламы на этих ресурсах только до конца 2026 года. Рекламу на этих площадках не планируем.'
+  - EN: 'FAS set a transition period for ads on these platforms only until the end of 2026. We don’t plan ads there.'
+- `s1373`
+  - RU: '4 сегмента → конкретные блогеры и задачи'
+  - EN: '4 segments → specific influencers and goals'
+- `s1374`
+  - RU: 'Отбираем по соответствию сегменту, естественности опыта и способности дать измеримый результат'
+  - EN: 'Chosen for segment fit, authentic experience and ability to deliver measurable results'
+- `s1375`
+  - RU: 'Lifestyle / beauty / fashion; часть повседневности'
+  - EN: 'Lifestyle / beauty / fashion; part of everyday life'
+- `s1376`
+  - RU: '«Не маскировать, а контролировать акне в привычную рутину»'
+  - EN: '“Don’t mask acne — control it in your routine”'
+- `s1377`
+  - RU: 'Вертикальное видео + кликабельный пост'
+  - EN: 'Vertical video + clickable post'
+- `s1378`
+  - RU: 'Уход за кожей, разборы средств и составов'
+  - EN: 'Skincare, product and ingredient reviews'
+- `s1379`
+  - RU: 'Азелик как регулярный аптечный уход рядом с привычным уходом'
+  - EN: 'Azelik as regular pharmacy care that sits alongside the usual routine'
+- `s1380`
+  - RU: 'Заявленная кислота + увлажняющая основа, разбор рутины + ссылка'
+  - EN: 'Active acid + moisturizing base, a breakdown of the routine + link'
+- `s1381`
+  - RU: 'Личный опыт проблемной кожи и использования аптечных anti-acne'
+  - EN: 'Own experience with problem skin and pharmacy anti-acne products'
+- `s1382`
+  - RU: 'Объективный опыт сухости/чувствительной кожи, сравнение с конкурентами'
+  - EN: 'Honest take on dryness and sensitive skin, compared with competitors'
+- `s1383`
+  - RU: 'Эффективность + бережность, переход со Skinoclear'
+  - EN: 'Effective + gentle, switching from Skinoclear'
+- `s1384`
+  - RU: 'Фитнес / лайфстайл / фэшн'
+  - EN: 'Fitness / lifestyle / fashion'
+- `s1385`
+  - RU: 'Мужская аудитория — ядро, чистая минималистичная подача'
+  - EN: 'Male audience at the core, clean minimalist style'
+- `s1386`
+  - RU: 'Короткая понятная рутина, уход без лишних шагов, креатив + ссылка'
+  - EN: 'Short, simple routine, no extra steps, creative + link'
+- `s1387`
+  - RU: 'Юля Гаврилина'
+  - EN: 'Yulia Gavrilina'
+- `s1388`
+  - RU: 'ЗАДАЧА'
+  - EN: 'GOAL'
+- `s1389`
+  - RU: 'Повысить интерес и вовлечённость молодой аудитории, стимулировать переходы на брендовый сайт/«Где купить»'
+  - EN: 'Grow interest and engagement among young audiences; drive clicks to “Where\xa0to\xa0buy” and the brand site'
+- `s1390`
+  - RU: 'Адель Мифтахова'
+  - EN: 'Adel Miftakhova'
+- `s1391`
+  - RU: 'Формировать знание и доверие, обучать правильному применению, давать кликабельную ссылку'
+  - EN: 'Build awareness and trust, teach correct use, share a clickable link'
+- `s1392`
+  - RU: 'Настя Дашкевич'
+  - EN: 'Nastya Dashkevich'
+- `s1393`
+  - RU: 'Ж 18–34 · опыт аптечных anti-acne'
+  - EN: 'F 18–34 · tried pharmacy anti-acne'
+- `s1394`
+  - RU: 'Помочь аудитории с негативным опытом конкурента рассмотреть Азелик и перейти на покупку'
+  - EN: 'Help people with a bad competitor experience consider Azelik and buy it'
+- `s1395`
+  - RU: 'Дима Ермузевич'
+  - EN: 'Dima Ermuzevich'
+- `s1396`
+  - RU: 'Повысить знание и интерес среди мужской аудитории, показать простую и эффективную рутину, стимулировать кликабельные переходы'
+  - EN: 'Build awareness and interest among men, show a simple routine that works, drive click-throughs'
+- `s1397`
+  - RU: 'РЕЗУЛЬТАТЫ 2026'
+  - EN: '2026 RESULTS'
+- `s1398`
+  - RU: '−14 п.п.'
+  - EN: '−14 pp'
+- `s1399`
+  - RU: '+0,1'
+  - EN: '+0.1'
+- `s1400`
+  - RU: '1,7'
+  - EN: '1.7'
+- `s1401`
+  - RU: ' / 1,6'
+  - EN: ' / 1.6'
+- `s1402`
+  - RU: ' / 2,7%'
+  - EN: ' / 2.7%'
+- `s1403`
+  - RU: 'CR% «где купить»'
+  - EN: 'CR% “Where to buy”'
+- `s1404`
+  - RU: 'БЮДЖЕТ 2027'
+  - EN: '2027 BUDGET'
+- `s1405`
+  - RU: '12 млн ₽'
+  - EN: 'RUB 12M'
+- `s1406`
+  - RU: 'на 2 спринта'
+  - EN: 'for 2 sprints'
+- `s1407`
+  - RU: 'ОЖИДАЕМЫЙ РЕЗУЛЬТАТ'
+  - EN: 'EXPECTED RESULT'
+- `s1408`
+  - RU: 'Масштабируем успешные связки 2026, усиливаем post-click и обеспечиваем рост интереса к бренду за счёт персонализированного подхода.'
+  - EN: 'We scale the winning 2026 combinations, strengthen post-click performance and grow brand interest through personalization.'
+
+## Slide 54
+
+- `s1409`
+  - RU: 'AI Visibility Stream усиливает присутствие Азелика в момент поиска решения'
+  - EN: 'AI Visibility Stream boosts Azelik’s presence when people look for a solution'
+- `s1410`
+  - RU: 'Внешние публикации и контентная выдача помогают занять релевантный контекст в поиске и AI-системах и закрепить связку: «Азелик — препарат с азелаиновой кислотой для терапии акне и постакне».'
+  - EN: 'External publications and content results help us own the relevant context in search and AI systems and lock in the association: “Azelik — an azelaic acid drug for acne and post-acne marks.”'
+- `s1411`
+  - RU: 'Почему слой внешних публикаций работает'
+  - EN: 'Why the external publications layer works'
+- `s1412`
+  - RU: 'Экспертная нейтральная подача'
+  - EN: 'Expert, neutral tone'
+- `s1413`
+  - RU: 'Контент объясняет роль активных компонентов, сценарии применения и различия между подходами без рекламной тональности.'
+  - EN: 'Content explains the role of active ingredients, use cases and how approaches differ, without sounding like an ad.'
+- `s1414`
+  - RU: 'Релевантность поисковому намерению'
+  - EN: 'Relevance to search intent'
+- `s1415`
+  - RU: 'Материалы отвечают на реальные запросы пользователей: «чем мазать прыщи на лице», «азелаиновая кислота от акне», «что помогает от постакне».'
+  - EN: 'Materials answer real user queries: “what to put on pimples”, “azelaic acid for acne”, “what helps post-acne marks”.'
+- `s1416`
+  - RU: 'Видимость в Search и AI'
+  - EN: 'Search and AI visibility'
+- `s1417`
+  - RU: 'Статьи, обзоры и карточки ответов повышают вероятность появления бренда в органической выдаче, AI-ответах и рекомендательных блоках.'
+  - EN: 'Articles, reviews and answer cards make the brand more likely to appear in organic results, AI answers and recommendation blocks.'
+- `s1418`
+  - RU: 'Закрепление бренд-ассоциации'
+  - EN: 'Stronger brand association'
+- `s1419`
+  - RU: 'Повторяемая связка «Азелик = азелаиновая кислота = терапия акне и постакне» формирует понятную роль бренда в категории.'
+  - EN: 'The repeated association “Azelik = azelaic acid = acne and post-acne treatment” gives the brand a clear category role.'
+- `s1420`
+  - RU: 'Пример: экспертная статья и AI-ответ в поиске'
+  - EN: 'Example: expert article and AI answer in search'
+- `s1421`
+  - RU: 'РОЛЬ В AI VISIBILITY STREAM'
+  - EN: 'ROLE IN AI VISIBILITY STREAM'
+- `s1422`
+  - RU: 'Акне / постакне / азелаиновая кислота'
+  - EN: 'Acne / post-acne / azelaic acid'
+- `s1423`
+  - RU: 'Экспертные статьи, разборы, ответы'
+  - EN: 'Expert articles, explainers, answers'
+- `s1424`
+  - RU: 'Азелик = азелаиновая кислота = терапия акне и постакне'
+  - EN: 'Azelik = azelaic acid = acne and post-acne treatment'
+- `s1425`
+  - RU: 'Фокус'
+  - EN: 'Focus'
+- `s1426`
+  - RU: 'Целевые интенты'
+  - EN: 'Target intents'
+- `s1427`
+  - RU: 'Контентный формат'
+  - EN: 'Content format'
+- `s1428`
+  - RU: 'Целевая связка'
+  - EN: 'Key association'
+- `s1429`
+  - RU: 'ДЛЯ АЗЕЛИКА'
+  - EN: 'FOR AZELIK'
+- `s1430`
+  - RU: 'Слой внешних публикаций помогает бренду быть найденным в момент выбора решения и формирует экспертную роль в категории.'
+  - EN: 'External publications help the brand get found at the moment of choice and build its expert role in the category.'
+- `s1431`
+  - RU: 'РЕЗУЛЬТАТ'
+  - EN: 'RESULT'
+- `s1432`
+  - RU: 'Бренд присутствует внутри релевантного контента и AI-ответов, укрепляя узнаваемую связку активного компонента, показания и бренда.'
+  - EN: 'The brand shows up in relevant content and AI answers, reinforcing a recognizable ingredient–indication–brand association.'
+
+## Slide 55
+
+- `s1433`
+  - RU: 'Промостраницы 2027: поддерживаем регулярность применения и возвращаем аудиторию к бренду'
+  - EN: 'Promo Pages 2027: supporting regular use and bringing the audience back to the brand'
+- `s1434`
+  - RU: 'Сервис Яндекса для создания и размещения рекламных статей с вовлекающим контактом'
+  - EN: 'A Yandex service for creating and running sponsored articles that engage readers'
+- `s1435`
+  - RU: 'Scroll to Site переводит пользователя со статьи на сайт клиента'
+  - EN: 'Scroll to Site sends readers from the article to the client site'
+- `s1436`
+  - RU: 'Показы в РСЯ/Поиске с автотаргетингом по интересам и контенту'
+  - EN: 'Shown in YAN/Search with auto-targeting by interests and content'
+- `s1437`
+  - RU: 'Возможна настройка GEO'
+  - EN: 'Geo-targeting available'
+- `s1438`
+  - RU: 'ЧТО ТАКОЕ ПРОМОСТРАНИЦЫ?'
+  - EN: 'WHAT ARE PROMO PAGES?'
+- `s1439`
+  - RU: 'КАК ИСПОЛЬЗУЕМ В 2027'
+  - EN: 'HOW WE USE THEM IN 2027'
+- `s1440`
+  - RU: 'Размещаем статьи на базе контента сайта — это ускоряет подготовку и процесс согласования'
+  - EN: 'We build articles from existing site content — this speeds up production and approval'
+- `s1441`
+  - RU: 'Формируем привычку регулярного использования азелаиновой кислоты'
+  - EN: 'Building a habit of regular azelaic acid use'
+- `s1442`
+  - RU: 'Стимул к repeat purchase'
+  - EN: 'Prompting repeat purchase'
+- `s1443`
+  - RU: 'Привлечение «тёплой» аудитории'
+  - EN: 'Attracting a “warm” audience'
+- `s1444`
+  - RU: 'Поддержание спроса между Sprint-флайтами'
+  - EN: 'Sustaining demand between Sprint flights'
+- `s1445`
+  - RU: 'Промостраницы работают как [[поддерживающий контентный слой]]: повышают осведомленность о продукте и механике его применения, сохраняют интерес к теме между флайтами и возвращают пользователя к бренду'
+  - EN: 'Promo Pages work as a [[supporting content layer]]: they raise awareness of the product and how to use it, keep interest in the topic alive between flights and bring users back to the brand'
+- `s1446`
+  - RU: 'Пример промостраницы'
+  - EN: 'Promo Page example'
+- `s1447`
+  - RU: 'KPI И ПАРАМЕТРЫ РАЗМЕЩЕНИЯ'
+  - EN: 'KPI AND PLACEMENT SETTINGS'
+- `s1448`
+  - RU: '300К'
+  - EN: '300K'
+- `s1449`
+  - RU: '~1 млн'
+  - EN: '~1M'
+- `s1450`
+  - RU: 'бюджет в месяц'
+  - EN: 'monthly budget'
+- `s1451`
+  - RU: 'CPC на сайт клиента'
+  - EN: 'CPC to client site'
+- `s1452`
+  - RU: 'охват за 1 месяц'
+  - EN: 'reach in 1 month'
+- `s1453`
+  - RU: 'цена дочитывания'
+  - EN: 'cost per full read'
+
+## Slide 56
+
+- `s1454`
+  - RU: 'Азелик 2027: контекстный подход — разделяем роль Поиска и РСЯ'
+  - EN: 'Azelik 2027: PPC approach — separate roles for Search and YAN'
+- `s1455`
+  - RU: 'Поиск забирает наиболее конверсионный спрос, РСЯ расширяет и возвращает аудиторию'
+  - EN: 'Search takes the highest-converting demand; YAN expands and re-engages the audience'
+- `s1456`
+  - RU: 'ОБЩИЙ СПЛИТ 2027'
+  - EN: '2027 TOTAL SPLIT'
+- `s1457`
+  - RU: '7,0 млн ₽'
+  - EN: 'RUB 7.0M'
+- `s1458`
+  - RU: '**Поиск 46%** · 3,2 млн ₽'
+  - EN: '**Search 46%** · RUB 3.2M'
+- `s1459`
+  - RU: '**Поиск** — горячий спрос и целевые действия'
+  - EN: '**Search** — high-intent demand and conversions'
+- `s1460`
+  - RU: '**РСЯ 54%** · 3,8 млн ₽'
+  - EN: '**YAN 54%** · RUB 3.8M'
+- `s1461`
+  - RU: '**РСЯ** — масштабирование и возврат'
+  - EN: '**YAN** — scale and retargeting'
+- `s1462`
+  - RU: 'Бренд отдельно: выше CR и прозрачнее контроль спроса. Сплит тактик — по ёмкости и фактической CPA.'
+  - EN: 'Brand runs separately: higher CR and clearer demand control. Tactic split by capacity and actual CPA.'
+- `s1463`
+  - RU: 'Конкуренты + продукт + проблематика объединены: больше данных для обучения и гибкое перераспределение бюджета для привлечения новой ЦА. Ретаргетинг — возвращает аудиторию Азелика и Клиндовита.'
+  - EN: 'Competitors + product + skin concerns combined: more training data and flexible budget shifts to attract new audiences. Retargeting brings back Azelik and Clindovit audiences.'
+- `s1464`
+  - RU: '«Где купить» + контроль качества трафика'
+  - EN: '“Where to buy” + traffic quality control'
+- `s1465`
+  - RU: 'Бренд ведём на аптеку; продуктовые, конкурентные и проблемные запросы — на сайт. Для небрендового спроса оцениваем не только конверсию, но и глубину, время на сайте и роботность.'
+  - EN: 'Brand queries go to the pharmacy; product, competitor and concern queries to the site. For non-brand demand we look beyond conversion: page depth, time on site and bot traffic.'
+- `s1466`
+  - RU: '«Где купить» + качество трафика + возврат аудитории'
+  - EN: '“Where to buy” + traffic quality + retargeting'
+- `s1467`
+  - RU: 'Ретаргетинг и бренд оставляем отдельными контурами; общая РК даёт алгоритму больше свободы перераспределять бюджет.'
+  - EN: 'Retargeting and brand run as separate campaigns; the combined campaign gives the algorithm more room to shift budget.'
+- `s1468`
+  - RU: '1. Поиск — забираем спрос'
+  - EN: '1. Search — capture demand'
+- `s1469`
+  - RU: 'Азелик действие, Азелик помогает при'
+  - EN: 'Azelik how it works, Azelik helps with'
+- `s1470`
+  - RU: 'Купить гель от акне, от угрей'
+  - EN: 'Buy acne gel, pimple gel'
+- `s1471`
+  - RU: 'Либридерм, Аравия, Базирон'
+  - EN: 'Librederm, Aravia, Basiron'
+- `s1472`
+  - RU: 'Азелаиновая кислота, гель от угрей'
+  - EN: 'Azelaic acid, pimple gel'
+- `s1473`
+  - RU: 'Воспаление, чёрные точки, жирная кожа'
+  - EN: 'Inflammation, blackheads, oily skin'
+- `s1474`
+  - RU: 'Бренд + бренд-транзакция'
+  - EN: 'Brand + brand transactional'
+- `s1475`
+  - RU: 'АПТЕКА'
+  - EN: 'PHARMACY'
+- `s1476`
+  - RU: 'Транзакционная'
+  - EN: 'Transactional'
+- `s1477`
+  - RU: 'Конкуренты'
+  - EN: 'Competitors'
+- `s1478`
+  - RU: 'САЙТ'
+  - EN: 'SITE'
+- `s1479`
+  - RU: 'Продукт'
+  - EN: 'Product'
+- `s1480`
+  - RU: 'Проблематика'
+  - EN: 'Skin concerns'
+- `s1481`
+  - RU: 'ПОЧЕМУ ТАК'
+  - EN: 'RATIONALE'
+- `s1482`
+  - RU: 'ЦЕЛЬ'
+  - EN: 'GOAL'
+- `s1483`
+  - RU: '2. РСЯ — расширяем и возвращаем'
+  - EN: '2. YAN — expand and retarget'
+- `s1484`
+  - RU: 'Посетители сайта Азелик + Клиндовит'
+  - EN: 'Azelik + Clindovit site visitors'
+- `s1485`
+  - RU: 'Бренд + бренд-транзакционный'
+  - EN: 'Brand + brand transactional'
+- `s1486`
+  - RU: 'Конкуренты + продукт + проблематика'
+  - EN: 'Competitors + product + skin concerns'
+- `s1487`
+  - RU: 'Ретаргетинг'
+  - EN: 'Retargeting'
+- `s1488`
+  - RU: 'Брендовая'
+  - EN: 'Brand'
+- `s1489`
+  - RU: 'Общая оптимизированная'
+  - EN: 'Combined optimized'
+- `s1490`
+  - RU: '* Общий сплит Поиск / РСЯ — по сводному медиаплану; сплит тактик — по структуре соответствующих кампаний.'
+  - EN: '* Total Search / YAN split per the consolidated media plan; tactic split per the structure of each campaign.'
+
+## Slide 57
+
+- `s1491`
+  - RU: 'Как переносим comprehensive подход в e-com'
+  - EN: 'Taking the Comprehensive approach into e-com'
+- `s1492`
+  - RU: 'Масштабируем связку «сегмент → e-com сигнал → персонализированный креатив»\nи тестируем новые креативные механики маркетплейсов'
+  - EN: 'We scale the “segment → e-com signal → personalized creative” chain\nand test new marketplace creative mechanics'
+- `s1493`
+  - RU: '01  ПЕРСОНАЛИЗИРУЕМ E-COM КОНТАКТ'
+  - EN: '01  PERSONALIZING E-COM TOUCHPOINTS'
+- `s1494`
+  - RU: '02  ТЕСТИРУЕМ НОВЫЕ МЕХАНИКИ'
+  - EN: '02  TESTING NEW MECHANICS'
+- `s1495`
+  - RU: 'берём из digital-стратегии'
+  - EN: 'from the digital strategy'
+- `s1496`
+  - RU: 'Контекст'
+  - EN: 'Context'
+- `s1497`
+  - RU: 'подбираем e-com сигнал'
+  - EN: 'pick the e-com signal'
+- `s1498`
+  - RU: 'Креатив'
+  - EN: 'Creative'
+- `s1499`
+  - RU: 'повторяем 360° message'
+  - EN: 'repeat the 360° message'
+- `s1500`
+  - RU: 'Ж 18–34 · Новые средства'
+  - EN: 'F 18–34 · New products'
+- `s1501`
+  - RU: 'Ищут новое решение и готовы пробовать альтернативы привычному уходу (анти-акне уход + проф. косметологические процедуры)'
+  - EN: 'Looking for a new solution, open to alternatives to their usual routine (anti-acne care + pro aesthetic treatments)'
+- `s1502`
+  - RU: 'Switchers МЖ 18–34 (Skinoclear)'
+  - EN: 'Switchers M+F 18–34 (Skinoclear)'
+- `s1503`
+  - RU: 'Пользователи / потенциальные switchers конкурентов'
+  - EN: 'Competitor users / potential switchers'
+- `s1504`
+  - RU: 'МЖ 18–40 · акне / постакне'
+  - EN: 'M+F 18–40 · acne / post-acne'
+- `s1505`
+  - RU: 'Важно не только убрать воспаления, но и работать с последствиями'
+  - EN: 'Want to clear inflammation — and treat the marks it leaves'
+- `s1506`
+  - RU: 'Покупки / интересы к средствам/лекарствам категории «уход за лицом, проблемная кожа, аптечная косметика»; покупки смежных SKU'
+  - EN: 'Purchases / interest in products/drugs in “face care, problem skin, pharmacy cosmetics”; adjacent SKU purchases'
+- `s1507`
+  - RU: 'Персонализированный креатив'
+  - EN: 'Personalized creative'
+- `s1508`
+  - RU: 'Покупки / интерес к конкурентным брендам и anti-acne SKU; ретаргетинг по релевантным карточкам'
+  - EN: 'Purchases / interest in competitor brands and anti-acne SKUs; retargeting on relevant pages'
+- `s1509`
+  - RU: 'Повторные покупки; просмотр / корзина derm-SKU'
+  - EN: 'Repeat purchases; derm-SKU views / add-to-cart'
+- `s1510`
+  - RU: 'Как оценить эффективность персонализации в e-com'
+  - EN: 'How to measure personalization impact in e-com'
+- `s1511`
+  - RU: '**Контроль:** тот же сегмент + тот же e-com сигнал + базовый креатив\n**Тест:** тот же сегмент/контекст + персонализированный 360° message'
+  - EN: '**Control:** same segment + same e-com signal + base creative\n**Test:** same segment/context + personalized 360° message'
+- `s1512`
+  - RU: 'Сравниваем uplift: CTR → Add-to-cart → To buy\n**Decision gate: масштабируем связку при uplift по CTR/корзине/заказам**'
+  - EN: 'We compare uplift: CTR → Add-to-cart → Purchase\n**Decision gate: scale the chain on CTR/cart/order uplift**'
+- `s1513`
+  - RU: 'A/B-тест главного фото: проверяем креатив уже внутри карточки'
+  - EN: 'Main image A/B test: testing creative right on the product page'
+- `s1514`
+  - RU: '**Переносим персонализацию внутрь карточки:** для одного SKU показываем разные главные фото разным сегментам аудитории. Сегмент задаём по параметрам **пол, возраст, семейное положение и регион**, а WB автоматически подбирает наиболее релевантных пользователей. Так связка **«сегмент → персонализированный креатив»** продолжается уже в e-com'
+  - EN: '**We bring personalization into the product page:** one SKU shows different main images to different audience segments. We define segments by **gender, age, marital status and region**, and Wildberries automatically finds the most relevant users. This way the **“segment → personalized creative”** chain carries on into e-com'
+- `s1515`
+  - RU: '* Фактический состав аудитории может частично отличаться от заданных параметров.'
+  - EN: '* The actual audience may partly differ from the set parameters.'
+- `s1516`
+  - RU: 'Карточки товара для разных сегментов'
+  - EN: 'Product pages for different segments'
+- `s1517`
+  - RU: 'Как оценить эффективность карточки для целевой аудитории'
+  - EN: 'How to measure product page impact on the target audience'
+- `s1518`
+  - RU: 'МЕТОДОЛОГИЯ A/B-ТЕСТА'
+  - EN: 'A/B TEST METHODOLOGY'
+- `s1519`
+  - RU: 'Делим аудиторию 50/50'
+  - EN: 'Split the audience 50/50'
+- `s1520`
+  - RU: 'Параллельно тестируем **текущее фото (A)** и **новый персонализированный креатив (B)** на сопоставимых группах пользователей'
+  - EN: 'We test the **current image (A)** vs a **new personalized creative (B)** on comparable user groups'
+- `s1521`
+  - RU: 'Фиксируем условия теста'
+  - EN: 'Lock the test conditions'
+- `s1522`
+  - RU: 'Тест идет **1–8 недель**. В этот период не меняем главное фото вручную и поддерживаем наличие товара, чтобы результат отражал именно эффект креатива'
+  - EN: 'The test runs **1–8 weeks**. Meanwhile we don’t change the main image manually and keep the product in stock, so the result reflects the creative alone'
+- `s1523`
+  - RU: 'Масштабируем только подтвержденный вариант'
+  - EN: 'Scale only the proven variant'
+- `s1524`
+  - RU: 'Сравниваем варианты по воронке **переход в карточку → корзина → заказ**. При статистически значимом uplift масштабируем победивший креатив; если разницы нет — **продлеваем тест или проверяем новую гипотезу**.'
+  - EN: 'We compare variants along the funnel **page visit → cart → order**. With a statistically significant uplift we scale the winning creative; if not — **we extend the test or try a new hypothesis**.'
+- `s1525`
+  - RU: 'Scale: победивший visual → default на карточке'
+  - EN: 'Scale: winning visual → default main image'
+- `s1526`
+  - RU: '* Метрики — по доступности данных площадки / поставщика'
+  - EN: '* Metrics subject to platform / vendor data availability'
+- `s1527`
+  - RU: 'Источник: Wildberries Seller, «А/Б-тестирование главного фото в карточке товара», обновлено 27.08.2026'
+  - EN: 'Source: Wildberries Seller, “A/B testing the main product image”, updated Aug 27, 2026'
+
+## Slide 58
+
+- `s1528`
+  - RU: 'БЮДЖЕТНЫЙ СПЛИТ*'
+  - EN: 'BUDGET SPLIT*'
+- `s1529`
+  - RU: '148,1M'
+  - EN: '148.1M'
+- `s1530`
+  - RU: '11,9M'
+  - EN: '11.9M'
+- `s1531`
+  - RU: '2,8M'
+  - EN: '2.8M'
+- `s1532`
+  - RU: 'Grow purchase frequency 1,5 → 1,6'
+  - EN: 'Grow purchase frequency 1.5 → 1.6'
+- `s1533`
+  - RU: '+234 млн ₽\n(+22,2%)'
+  - EN: '+RUB 234M\n(+22.2%)'
+- `s1534`
+  - RU: '7,8M'
+  - EN: '7.8M'
+- `s1535`
+  - RU: '5,5'
+  - EN: '5.5'
+- `s1536`
+  - RU: '2,4M'
+  - EN: '2.4M'
+- `s1537`
+  - RU: '31 тыс.'
+  - EN: '31K'
+- `s1538`
+  - RU: 'Conversion\n«Где купить»'
+  - EN: 'Conversions\n“Where to buy”'
+- `s1539`
+  - RU: 'All 18–45, акне пост-акне\n12–18 Подростки\nЖ 40+'
+  - EN: 'All 18–45, acne / post-acne\nTeens 12–18\nF 40+'
+- `s1540`
+  - RU: 'Синхронизация, Clatch'
+  - EN: 'Synchronization, Clatch'
+- `s1541`
+  - RU: 'All 18–45 покупатели анти-акне косметики\nРетаргетинг'
+  - EN: 'All 18–45 anti-acne skincare buyers\nRetargeting'
+- `s1542`
+  - RU: 'ЭТАП'
+  - EN: 'STAGE'
+- `s1543`
+  - RU: 'КАНАЛ'
+  - EN: 'CHANNEL'
+- `s1544`
+  - RU: 'ПОСТАВЩИКИ'
+  - EN: 'VENDORS'
+- `s1545`
+  - RU: 'СЕГМЕНТ'
+  - EN: 'SEGMENT'
+- `s1546`
+  - RU: 'БЮДЖЕТ'
+  - EN: 'BUDGET'
+- `s1547`
+  - RU: '18,1M'
+  - EN: '18.1M'
+- `s1548`
+  - RU: '12,3%'
+  - EN: '12.3%'
+- `s1549`
+  - RU: '3,6M'
+  - EN: '3.6M'
+- `s1550`
+  - RU: '2,4%'
+  - EN: '2.4%'
+- `s1551`
+  - RU: '3,5M'
+  - EN: '3.5M'
+- `s1552`
+  - RU: '2,3%'
+  - EN: '2.3%'
+- `s1553`
+  - RU: '1,6M'
+  - EN: '1.6M'
+- `s1554`
+  - RU: '1,2%'
+  - EN: '1.2%'
+- `s1555`
+  - RU: '5,0M'
+  - EN: '5.0M'
+- `s1556`
+  - RU: '3,4%'
+  - EN: '3.4%'
+- `s1557`
+  - RU: '2,7M'
+  - EN: '2.7M'
+- `s1558`
+  - RU: '1,8%'
+  - EN: '1.8%'
+- `s1559`
+  - RU: '23,8M'
+  - EN: '23.8M'
+- `s1560`
+  - RU: '16,2%'
+  - EN: '16.2%'
+- `s1561`
+  - RU: '24,1M'
+  - EN: '24.1M'
+- `s1562`
+  - RU: '16,3%'
+  - EN: '16.3%'
+- `s1563`
+  - RU: '33,6M'
+  - EN: '33.6M'
+- `s1564`
+  - RU: '22,7%'
+  - EN: '22.7%'
+- `s1565`
+  - RU: '12,9M'
+  - EN: '12.9M'
+- `s1566`
+  - RU: '8,7%'
+  - EN: '8.7%'
+- `s1567`
+  - RU: '4,3M'
+  - EN: '4.3M'
+- `s1568`
+  - RU: '2,9%'
+  - EN: '2.9%'
+- `s1569`
+  - RU: '9,0M'
+  - EN: '9.0M'
+- `s1570`
+  - RU: '6,0%'
+  - EN: '6.0%'
+- `s1571`
+  - RU: '3,1M'
+  - EN: '3.1M'
+- `s1572`
+  - RU: '2,0%'
+  - EN: '2.0%'
+- `s1573`
+  - RU: 'Ж 18–34 новые средства\nЖ 18–34 Social girl\nВсе 18–34 Скиноклир\nМ 18–34 проблемная кожа\nЖ 18–34 чувствительная кожа'
+  - EN: 'F 18–34 new products\nF 18–34 Social girl\nAll 18–34 Skinoclear users\nM 18–34 problem skin\nF 18–34 sensitive skin'
+- `s1574`
+  - RU: 'буст / приоритетный флайт'
+  - EN: 'boost / priority flight'
+- `s1575`
+  - RU: 'активный период'
+  - EN: 'active period'
+- `s1576`
+  - RU: '*Бюджет до НДС, включая АК/РС'
+  - EN: '*Budget excl. VAT, incl. agency commission and ad levy'
+
+## Slide 59
+
+- `s1577`
+  - RU: 'Азелик 2027'
+  - EN: 'Azelik 2027'
+- `s1578`
+  - RU: 'Что дает рост инвестиций vs 2026'
+  - EN: 'What the increased spend vs 2026 delivers'
+- `s1579`
+  - RU: 'БИЗНЕС-ЦЕЛЬ 2027'
+  - EN: '2027 BUSINESS GOAL'
+- `s1580`
+  - RU: '+14,9%'
+  - EN: '+14.9%'
+- `s1581`
+  - RU: '+22,2%'
+  - EN: '+22.2%'
+- `s1582`
+  - RU: '1,365 → 1,569 млн уп.'
+  - EN: '1.365M → 1.569M units'
+- `s1583`
+  - RU: '1,053 → 1,287 млрд ₽'
+  - EN: 'RUB 1.053 bn → 1.287 bn'
+- `s1584`
+  - RU: 'ИНВЕСТИЦИИ'
+  - EN: 'INVESTMENT'
+- `s1585`
+  - RU: '110 → 160 млн ₽'
+  - EN: 'RUB 110M → 160M'
+- `s1586`
+  - RU: '+45% к 2026'
+  - EN: '+45% vs 2026'
+- `s1587`
+  - RU: 'УНИКАЛЬНЫЙ ОХВАТ'
+  - EN: 'UNIQUE REACH'
+- `s1588`
+  - RU: '6M → 7,8M'
+  - EN: '6M → 7.8M'
+- `s1589`
+  - RU: '87% Universe 18–40 акне'
+  - EN: '87% of acne universe 18–40'
+- `s1590`
+  - RU: 'КАК МАСШТАБИРУЕМ COMPREHENSIVE В 2027'
+  - EN: 'HOW WE SCALE COMPREHENSIVE IN 2027'
+- `s1591`
+  - RU: 'янв–фев'
+  - EN: 'Jan–Feb'
+- `s1592`
+  - RU: '3,5 мес'
+  - EN: '3.5 months'
+- `s1593`
+  - RU: 'май–июл'
+  - EN: 'May–Jul'
+- `s1594`
+  - RU: '3 месяца'
+  - EN: '3 months'
+- `s1595`
+  - RU: 'ноя–дек'
+  - EN: 'Nov–Dec'
+- `s1596`
+  - RU: 'AON + 2 расширенных demand windows + поддержка в летний сезон (Graduation / BTS)'
+  - EN: 'AON + 2 extended demand windows + summer support (Graduation / BTS)'
+- `s1597`
+  - RU: 'Раньше входим в сезон'
+  - EN: 'Enter the season earlier'
+- `s1598`
+  - RU: 'Дольше удерживаем спрос'
+  - EN: 'Hold demand longer'
+- `s1599`
+  - RU: 'Sprint 2 масштабирует winners'
+  - EN: 'Sprint 2 scales winners'
+- `s1600`
+  - RU: 'ЗОНЫ РАСШИРЕНИЯ'
+  - EN: 'EXPANSION AREAS'
+- `s1601`
+  - RU: '4 AI-сегмента валидированы в 2026 + 2 новых сегмента на T&L (Ж 40+ акне, Ж 18–34 чувствительная кожа)'
+  - EN: '4 AI segments validated in 2026 + 2 new segments in T&L (F 40+ acne, F 18–34 sensitive skin)'
+- `s1602`
+  - RU: '2 AI-video 2026 + 3 новых perso-video; 4 + 3 новых пакета perso-creatives'
+  - EN: 'AI videos: 2 from 2026 + 3 new personalized; creative packs: 4 + 3 new personalized'
+- `s1603`
+  - RU: 'Большой экран CTV → Search/AI → e-com → repeat'
+  - EN: 'CTV big screen → Search/AI → e-com → repeat'
+- `s1604`
+  - RU: 'КАК РАСШИРЯЕМ COMPREHENSIVE В 2027'
+  - EN: 'HOW WE EXPAND COMPREHENSIVE IN 2027'
+- `s1605`
+  - RU: 'Единый CJM'
+  - EN: 'Unified CJM'
+- `s1606`
+  - RU: '**CTV** добавляет большой экран, **DOOH** — физические контексты, **Paid Search + GEO/AEO + ORM** становятся единым контуром видимости, **e-com** продолжает персонализированный путь до покупки. Каналы работают не независимо, а по ролям **EXPAND → WIN → FREQUENCY**.'
+  - EN: '**CTV** adds the big screen, **DOOH** real-world contexts, **Paid Search + GEO/AEO + ORM** become one visibility system, and **e-com** carries the personalized path through to purchase. Channels work by role, not in isolation: **EXPAND → WIN → FREQUENCY**.'

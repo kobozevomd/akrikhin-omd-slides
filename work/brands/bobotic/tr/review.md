@@ -1,0 +1,2516 @@
+# Review RU → EN
+
+
+## Slide 0
+
+- `s0000`
+  - RU: 'Bobotic — стратегия 2027 · Акрихин × OMD'
+  - EN: 'Bobotic — 2027 strategy · Akrikhin × OMD'
+- `s0001`
+  - RU: 'Знак Акрихин'
+  - EN: 'Akrikhin logo'
+
+## Slide 1
+
+- `s0002`
+  - RU: 'Акрихин + OMD'
+  - EN: 'Akrikhin + OMD'
+- `s0003`
+  - RU: 'Классификация документа: конфиденциальная информация для внутреннего использования'
+  - EN: 'Document classification: confidential, for internal use only'
+
+## Slide 2
+
+- `s0004`
+  - RU: 'Цели и задачи для Боботик в 2027 году'
+  - EN: 'Bobotic 2027: goals and objectives'
+- `s0005`
+  - RU: 'Достичь продаж [[**705 тысяч упаковок**]] и [[**296 млн рублей**]] в 2027 году'
+  - EN: 'Reach sales of [[**705K units**]] and [[**RUB 296M**]] in 2027'
+- `s0006`
+  - RU: 'Иконка'
+  - EN: 'Icon'
+- `s0007`
+  - RU: 'Стать **первым выбором у новых мам**, когда у ребенка появились колики'
+  - EN: 'Become **new moms’ first choice** when their baby gets colic'
+- `s0008`
+  - RU: 'Растить **бренд-метрики** (знание, рассмотрение и т.д.) и убедить маму, что Боботик является **лучшим выбором от колик**, ведь он надежный, эффективный, качественный и удобный в применении, созданный специально для малышей'
+  - EN: 'Grow **brand metrics** (awareness, consideration, etc.) and convince moms that Bobotic is **the best choice for colic**: reliable, effective, high-quality, easy to use and made especially for babies'
+
+## Slide 3
+
+- `s0009`
+  - RU: 'Боботик / Competitive Landscape / 2026'
+  - EN: 'Bobotic / Competitive Landscape / 2026'
+- `s0010`
+  - RU: 'Ограниченная digital-поддержка H1 позволила Боботику\nсохранить стабильную бизнес-динамику'
+  - EN: 'Limited digital support in H1 was enough for Bobotic\nto keep its business stable'
+- `s0011`
+  - RU: 'Динамика инвестиций в digital-медиа и продаж'
+  - EN: 'Digital media spend and sales trends'
+- `s0012`
+  - RU: 'ДИНАМИКА ИНВЕСТИЦИЙ В DIGITAL-МЕДИА И ПРОДАЖ'
+  - EN: 'DIGITAL MEDIA SPEND AND SALES TRENDS'
+- `s0013`
+  - RU: 'Боботик'
+  - EN: 'Bobotic'
+- `s0014`
+  - RU: 'Лактазар'
+  - EN: 'Laktazar'
+- `s0015`
+  - RU: 'Эспумизан'
+  - EN: 'Espumisan'
+- `s0016`
+  - RU: 'Продажи, млн ₽'
+  - EN: 'Sales, RUB M'
+- `s0017`
+  - RU: 'Боботик, млн ₽'
+  - EN: 'Bobotic, RUB M'
+- `s0018`
+  - RU: 'янв 2025'
+  - EN: 'Jan 2025'
+- `s0019`
+  - RU: 'фев 2025'
+  - EN: 'Feb 2025'
+- `s0020`
+  - RU: 'мар 2025'
+  - EN: 'Mar 2025'
+- `s0021`
+  - RU: 'апр 2025'
+  - EN: 'Apr 2025'
+- `s0022`
+  - RU: 'май 2025'
+  - EN: 'May 2025'
+- `s0023`
+  - RU: 'июн 2025'
+  - EN: 'Jun 2025'
+- `s0024`
+  - RU: 'июл 2025'
+  - EN: 'Jul 2025'
+- `s0025`
+  - RU: 'авг 2025'
+  - EN: 'Aug 2025'
+- `s0026`
+  - RU: 'сен 2025'
+  - EN: 'Sep 2025'
+- `s0027`
+  - RU: 'окт 2025'
+  - EN: 'Oct 2025'
+- `s0028`
+  - RU: 'ноя 2025'
+  - EN: 'Nov 2025'
+- `s0029`
+  - RU: 'дек 2025'
+  - EN: 'Dec 2025'
+- `s0030`
+  - RU: 'янв 2026'
+  - EN: 'Jan 2026'
+- `s0031`
+  - RU: 'фев 2026'
+  - EN: 'Feb 2026'
+- `s0032`
+  - RU: 'мар 2026'
+  - EN: 'Mar 2026'
+- `s0033`
+  - RU: 'апр 2026'
+  - EN: 'Apr 2026'
+- `s0034`
+  - RU: 'май 2026'
+  - EN: 'May 2026'
+- `s0035`
+  - RU: 'июн 2026'
+  - EN: 'Jun 2026'
+- `s0036`
+  - RU: 'Лактазар, млн ₽'
+  - EN: 'Laktazar, RUB M'
+- `s0037`
+  - RU: 'Эспумизан, млн ₽'
+  - EN: 'Espumisan, RUB M'
+- `s0038`
+  - RU: 'Baby Calm, млн ₽'
+  - EN: 'Baby Calm, RUB M'
+- `s0039`
+  - RU: '36,0'
+  - EN: '36.0'
+- `s0040`
+  - RU: '24,0'
+  - EN: '24.0'
+- `s0041`
+  - RU: '114,0'
+  - EN: '114.0'
+- `s0042`
+  - RU: '32,8'
+  - EN: '32.8'
+- `s0043`
+  - RU: '23,9'
+  - EN: '23.9'
+- `s0044`
+  - RU: '111,8'
+  - EN: '111.8'
+- `s0045`
+  - RU: '34,0'
+  - EN: '34.0'
+- `s0046`
+  - RU: '25,9'
+  - EN: '25.9'
+- `s0047`
+  - RU: '109,4'
+  - EN: '109.4'
+- `s0048`
+  - RU: '32,4'
+  - EN: '32.4'
+- `s0049`
+  - RU: '25,7'
+  - EN: '25.7'
+- `s0050`
+  - RU: '104,5'
+  - EN: '104.5'
+- `s0051`
+  - RU: '31,4'
+  - EN: '31.4'
+- `s0052`
+  - RU: '25,2'
+  - EN: '25.2'
+- `s0053`
+  - RU: '101,3'
+  - EN: '101.3'
+- `s0054`
+  - RU: '30,6'
+  - EN: '30.6'
+- `s0055`
+  - RU: '24,4'
+  - EN: '24.4'
+- `s0056`
+  - RU: '96,2'
+  - EN: '96.2'
+- `s0057`
+  - RU: '32,9'
+  - EN: '32.9'
+- `s0058`
+  - RU: '26,2'
+  - EN: '26.2'
+- `s0059`
+  - RU: '103,6'
+  - EN: '103.6'
+- `s0060`
+  - RU: '33,5'
+  - EN: '33.5'
+- `s0061`
+  - RU: '26,4'
+  - EN: '26.4'
+- `s0062`
+  - RU: '110,7'
+  - EN: '110.7'
+- `s0063`
+  - RU: '32,7'
+  - EN: '32.7'
+- `s0064`
+  - RU: '27,6'
+  - EN: '27.6'
+- `s0065`
+  - RU: '108,9'
+  - EN: '108.9'
+- `s0066`
+  - RU: '35,1'
+  - EN: '35.1'
+- `s0067`
+  - RU: '32,2'
+  - EN: '32.2'
+- `s0068`
+  - RU: '119,2'
+  - EN: '119.2'
+- `s0069`
+  - RU: '34,3'
+  - EN: '34.3'
+- `s0070`
+  - RU: '30,9'
+  - EN: '30.9'
+- `s0071`
+  - RU: '114,4'
+  - EN: '114.4'
+- `s0072`
+  - RU: '34,8'
+  - EN: '34.8'
+- `s0073`
+  - RU: '31,7'
+  - EN: '31.7'
+- `s0074`
+  - RU: '119,5'
+  - EN: '119.5'
+- `s0075`
+  - RU: '32,1'
+  - EN: '32.1'
+- `s0076`
+  - RU: '30,7'
+  - EN: '30.7'
+- `s0077`
+  - RU: '112,5'
+  - EN: '112.5'
+- `s0078`
+  - RU: '30,2'
+  - EN: '30.2'
+- `s0079`
+  - RU: '27,4'
+  - EN: '27.4'
+- `s0080`
+  - RU: '109,1'
+  - EN: '109.1'
+- `s0081`
+  - RU: '34,5'
+  - EN: '34.5'
+- `s0082`
+  - RU: '31,2'
+  - EN: '31.2'
+- `s0083`
+  - RU: '117,2'
+  - EN: '117.2'
+- `s0084`
+  - RU: '31,6'
+  - EN: '31.6'
+- `s0085`
+  - RU: '120,7'
+  - EN: '120.7'
+- `s0086`
+  - RU: '30,3'
+  - EN: '30.3'
+- `s0087`
+  - RU: '31,8'
+  - EN: '31.8'
+- `s0088`
+  - RU: '116,7'
+  - EN: '116.7'
+- `s0089`
+  - RU: '30,4'
+  - EN: '30.4'
+- `s0090`
+  - RU: '29,2'
+  - EN: '29.2'
+- `s0091`
+  - RU: '115,5'
+  - EN: '115.5'
+- `s0092`
+  - RU: '14,6'
+  - EN: '14.6'
+- `s0093`
+  - RU: '13,2'
+  - EN: '13.2'
+- `s0094`
+  - RU: '14,1'
+  - EN: '14.1'
+- `s0095`
+  - RU: '13,6'
+  - EN: '13.6'
+- `s0096`
+  - RU: '13,9'
+  - EN: '13.9'
+- `s0097`
+  - RU: '13,8'
+  - EN: '13.8'
+- `s0098`
+  - RU: '14,4'
+  - EN: '14.4'
+- `s0099`
+  - RU: '16,0'
+  - EN: '16.0'
+- `s0100`
+  - RU: '17,5'
+  - EN: '17.5'
+- `s0101`
+  - RU: '15,8'
+  - EN: '15.8'
+- `s0102`
+  - RU: '15,9'
+  - EN: '15.9'
+- `s0103`
+  - RU: '15,3'
+  - EN: '15.3'
+- `s0104`
+  - RU: '14,2'
+  - EN: '14.2'
+- `s0105`
+  - RU: 'Доля продаж, %'
+  - EN: 'Sales share, %'
+- `s0106`
+  - RU: '14,5'
+  - EN: '14.5'
+- `s0107`
+  - RU: '14,8'
+  - EN: '14.8'
+- `s0108`
+  - RU: '14,7'
+  - EN: '14.7'
+- `s0109`
+  - RU: '13,5'
+  - EN: '13.5'
+- `s0110`
+  - RU: '13,3'
+  - EN: '13.3'
+- `s0111`
+  - RU: '13,1'
+  - EN: '13.1'
+- `s0112`
+  - RU: '12,4'
+  - EN: '12.4'
+- `s0113`
+  - RU: '10,3'
+  - EN: '10.3'
+- `s0114`
+  - RU: '10,6'
+  - EN: '10.6'
+- `s0115`
+  - RU: '11,3'
+  - EN: '11.3'
+- `s0116`
+  - RU: '11,6'
+  - EN: '11.6'
+- `s0117`
+  - RU: '11,5'
+  - EN: '11.5'
+- `s0118`
+  - RU: '11,7'
+  - EN: '11.7'
+- `s0119`
+  - RU: '11,2'
+  - EN: '11.2'
+- `s0120`
+  - RU: '11,8'
+  - EN: '11.8'
+- `s0121`
+  - RU: '12,7'
+  - EN: '12.7'
+- `s0122`
+  - RU: '12,6'
+  - EN: '12.6'
+- `s0123`
+  - RU: '12,9'
+  - EN: '12.9'
+- `s0124`
+  - RU: '12,1'
+  - EN: '12.1'
+- `s0125`
+  - RU: '13,0'
+  - EN: '13.0'
+- `s0126`
+  - RU: '48,6'
+  - EN: '48.6'
+- `s0127`
+  - RU: '49,4'
+  - EN: '49.4'
+- `s0128`
+  - RU: '47,6'
+  - EN: '47.6'
+- `s0129`
+  - RU: '47,1'
+  - EN: '47.1'
+- `s0130`
+  - RU: '46,4'
+  - EN: '46.4'
+- `s0131`
+  - RU: '46,0'
+  - EN: '46.0'
+- `s0132`
+  - RU: '46,2'
+  - EN: '46.2'
+- `s0133`
+  - RU: '46,9'
+  - EN: '46.9'
+- `s0134`
+  - RU: '46,8'
+  - EN: '46.8'
+- `s0135`
+  - RU: '47,7'
+  - EN: '47.7'
+- `s0136`
+  - RU: '47,4'
+  - EN: '47.4'
+- `s0137`
+  - RU: '48,2'
+  - EN: '48.2'
+- `s0138`
+  - RU: '47,3'
+  - EN: '47.3'
+- `s0139`
+  - RU: '47,8'
+  - EN: '47.8'
+- `s0140`
+  - RU: '49,8'
+  - EN: '49.8'
+- `s0141`
+  - RU: '6,2'
+  - EN: '6.2'
+- `s0142`
+  - RU: '5,8'
+  - EN: '5.8'
+- `s0143`
+  - RU: '6,1'
+  - EN: '6.1'
+- `s0144`
+  - RU: '6,3'
+  - EN: '6.3'
+- `s0145`
+  - RU: '6,6'
+  - EN: '6.6'
+- `s0146`
+  - RU: '6,4'
+  - EN: '6.4'
+- `s0147`
+  - RU: '6,8'
+  - EN: '6.8'
+- `s0148`
+  - RU: '6,9'
+  - EN: '6.9'
+- `s0149`
+  - RU: '6,5'
+  - EN: '6.5'
+- `s0150`
+  - RU: '6,7'
+  - EN: '6.7'
+- `s0151`
+  - RU: '5,9'
+  - EN: '5.9'
+- `s0152`
+  - RU: 'Digital-бюджет, млн ₽'
+  - EN: 'Digital budget, RUB M'
+- `s0153`
+  - RU: '0,00'
+  - EN: '0.00'
+- `s0154`
+  - RU: '0,02'
+  - EN: '0.02'
+- `s0155`
+  - RU: '0,03'
+  - EN: '0.03'
+- `s0156`
+  - RU: '0,56'
+  - EN: '0.56'
+- `s0157`
+  - RU: '0,22'
+  - EN: '0.22'
+- `s0158`
+  - RU: '0,24'
+  - EN: '0.24'
+- `s0159`
+  - RU: '0,10'
+  - EN: '0.10'
+- `s0160`
+  - RU: '0,07'
+  - EN: '0.07'
+- `s0161`
+  - RU: '0,16'
+  - EN: '0.16'
+- `s0162`
+  - RU: '0,09'
+  - EN: '0.09'
+- `s0163`
+  - RU: '0,21'
+  - EN: '0.21'
+- `s0164`
+  - RU: '0,52'
+  - EN: '0.52'
+- `s0165`
+  - RU: '0,08'
+  - EN: '0.08'
+- `s0166`
+  - RU: '0,30'
+  - EN: '0.30'
+- `s0167`
+  - RU: '0,44'
+  - EN: '0.44'
+- `s0168`
+  - RU: '0,32'
+  - EN: '0.32'
+- `s0169`
+  - RU: '0,17'
+  - EN: '0.17'
+- `s0170`
+  - RU: '0,20'
+  - EN: '0.20'
+- `s0171`
+  - RU: '0,35'
+  - EN: '0.35'
+- `s0172`
+  - RU: '0,28'
+  - EN: '0.28'
+- `s0173`
+  - RU: '0,04'
+  - EN: '0.04'
+- `s0174`
+  - RU: '0,05'
+  - EN: '0.05'
+- `s0175`
+  - RU: '0,53'
+  - EN: '0.53'
+- `s0176`
+  - RU: '0,42'
+  - EN: '0.42'
+- `s0177`
+  - RU: '0,37'
+  - EN: '0.37'
+- `s0178`
+  - RU: '0,25'
+  - EN: '0.25'
+- `s0179`
+  - RU: '0,38'
+  - EN: '0.38'
+- `s0180`
+  - RU: '0,45'
+  - EN: '0.45'
+- `s0181`
+  - RU: '0,39'
+  - EN: '0.39'
+- `s0182`
+  - RU: '0,12'
+  - EN: '0.12'
+- `s0183`
+  - RU: '0,15'
+  - EN: '0.15'
+- `s0184`
+  - RU: '0,11'
+  - EN: '0.11'
+- `s0185`
+  - RU: '0,06'
+  - EN: '0.06'
+- `s0186`
+  - RU: '0,01'
+  - EN: '0.01'
+- `s0187`
+  - RU: 'янв'
+  - EN: 'Jan'
+- `s0188`
+  - RU: 'фев'
+  - EN: 'Feb'
+- `s0189`
+  - RU: 'мар'
+  - EN: 'Mar'
+- `s0190`
+  - RU: 'апр'
+  - EN: 'Apr'
+- `s0191`
+  - RU: 'май'
+  - EN: 'May'
+- `s0192`
+  - RU: 'июн'
+  - EN: 'Jun'
+- `s0193`
+  - RU: 'июл'
+  - EN: 'Jul'
+- `s0194`
+  - RU: 'авг'
+  - EN: 'Aug'
+- `s0195`
+  - RU: 'сен'
+  - EN: 'Sep'
+- `s0196`
+  - RU: 'окт'
+  - EN: 'Oct'
+- `s0197`
+  - RU: 'ноя'
+  - EN: 'Nov'
+- `s0198`
+  - RU: 'дек'
+  - EN: 'Dec'
+- `s0199`
+  - RU: '2,3 млн ₽'
+  - EN: 'RUB 2.3M'
+- `s0200`
+  - RU: '1,9 млн ₽'
+  - EN: 'RUB 1.9M'
+- `s0201`
+  - RU: 'Эспумизан*'
+  - EN: 'Espumisan*'
+- `s0202`
+  - RU: '0,4 млн ₽'
+  - EN: 'RUB 0.4M'
+- `s0203`
+  - RU: '0,09 млн ₽'
+  - EN: 'RUB 0.09M'
+- `s0204`
+  - RU: 'Боботик **сохраняет позиции при минимальной поддержке**. При digital-инвестициях ниже ключевых конкурентов бренд удерживает **стабильную долю продаж 12–14%**, подтверждая устойчивость текущего спроса и возможность масштабирования'
+  - EN: 'Bobotic **holds its ground on minimal support**. It spends less on digital than key competitors yet keeps a **stable 12–14% sales share**: current demand is resilient and there is room to scale'
+- `s0205`
+  - RU: 'Активность конкурентов усиливается в периоды **сезонного роста категории (весна–лето)**, при этом наиболее заметные инвестиционные пики сопровождаются **увеличением доли голоса**'
+  - EN: 'Competitor activity picks up in **the category’s seasonal growth period (spring–summer)**, and the biggest spend peaks come with **a rise in share of voice**'
+- `s0206`
+  - RU: 'ВЫВОД'
+  - EN: 'TAKEAWAY'
+- `s0207`
+  - RU: 'В H2 масштабный сезонный флайт с применением comprehensive-подхода позволит оценить потенциал дополнительного роста продаж'
+  - EN: 'In H2, a large seasonal flight using the Comprehensive approach will show how much further sales can grow'
+- `s0208`
+  - RU: 'Источник: DigitalBudget, IQVIA. Digital budgets — сумма за январь–июль 2026 (расчёт OMD по помесячным данным)'
+  - EN: 'Source: DigitalBudget, IQVIA. Digital budgets — total for January–July 2026 (OMD calculation from monthly data)'
+- `s0209`
+  - RU: '*Небольшие бюджеты Эспумизан по данным мониторинга связаны с низкой посещаемостью сайта (38 визитов за период с января по июнь 2026 г.) по данным Similarweb'
+  - EN: '*Espumisan’s small monitored budgets reflect low website traffic (38 visits from January to June 2026, per Similarweb)'
+
+## Slide 4
+
+- `s0210`
+  - RU: 'По данным мониторинга, конкуренты преимущественно используют охватные форматы, тогда как подтверждённая поддержка Боботика сочетала Paid Search, баннерные и social-размещения'
+  - EN: 'Monitoring shows competitors rely mainly on reach formats, while Bobotic’s confirmed support combined Paid Search, banners and social placements'
+- `s0211`
+  - RU: 'Доля инвестиций по каналам'
+  - EN: 'Share of spend by channel'
+- `s0212`
+  - RU: 'ДОЛЯ ИНВЕСТИЦИЙ ПО КАНАЛАМ'
+  - EN: 'SHARE OF SPEND BY CHANNEL'
+- `s0213`
+  - RU: 'Доля Online Video требует методологической оговорки*'
+  - EN: 'Online Video share needs a methodology caveat*'
+- `s0214`
+  - RU: 'По оценке DigitalBudget, основная часть активности Эспумизана, Лактазара и Baby Calm классифицируется как **Online Video —\xa092%, 97% и\xa094%**. Стоит учитывать, что данные мониторинга являются оценочными и зависят от классификации источников трафика'
+  - EN: 'DigitalBudget classifies most Espumisan, Laktazar and Baby Calm activity as **Online Video —\xa092%, 97% and\xa094%**. Monitoring data are estimates and depend on how traffic sources are classified'
+- `s0215`
+  - RU: '**48% активности Боботика** отнесено мониторингом к Online Video, хотя фактических видеозапусков в H1 не было. Подтверждённый медиамикс бренда включал **Paid\xa0Search —\xa031%**, баннерные форматы —\xa04% и Paid\xa0Social —\xa03%'
+  - EN: 'Monitoring assigns **48% of Bobotic’s activity** to Online Video, although no video actually ran in H1. The brand’s confirmed media mix included **Paid\xa0Search —\xa031%**, banners —\xa04% and Paid\xa0Social —\xa03%'
+- `s0216`
+  - RU: 'H1 корректнее характеризовать как сочетание **захвата сформированного спроса** с точечной медийной и social-поддержкой'
+  - EN: 'H1 is better described as **capturing existing demand** with targeted display and social support'
+- `s0217`
+  - RU: '*Online Video в DigitalBudget может включать реферальный трафик с ресурсов, классифицированных Similarweb как видеоплощадки или видеохостинги. Данные не подтверждают фактическое размещение видеорекламы Боботика'
+  - EN: '*Online Video in DigitalBudget may include referral traffic from sites that Similarweb classifies as video platforms or video hosting. The data do not confirm that Bobotic actually ran video ads'
+
+## Slide 5
+
+- `s0218`
+  - RU: 'Эспумизан Бэби'
+  - EN: 'Espumisan Baby'
+- `s0219`
+  - RU: 'В e-pharm замечен Эспумизан Бэби (Еаптека).'
+  - EN: 'Espumisan Baby spotted in e-pharm (Eapteka).'
+- `s0220`
+  - RU: 'поиск'
+  - EN: 'search'
+- `s0221`
+  - RU: 'Лактазар активно использует контекстное продвижение Яндекса.'
+  - EN: 'Laktazar is active in Yandex PPC advertising.'
+- `s0222`
+  - RU: 'Эспумизан Бэби — креатив в e-pharm'
+  - EN: 'Espumisan Baby — e-pharm creative'
+- `s0223`
+  - RU: 'Лактазар — поисковое объявление'
+  - EN: 'Laktazar — search ad'
+- `s0224`
+  - RU: 'Симеотик'
+  - EN: 'Simeotic'
+- `s0225`
+  - RU: 'Симеотик — баннер в e-pharm'
+  - EN: 'Simeotic — e-pharm banner'
+- `s0226`
+  - RU: 'Симеотик и Экофурил — совместный креатив'
+  - EN: 'Simeotic and Ecofuril — joint creative'
+- `s0227`
+  - RU: 'Симеотик размещался\nв e-pharm и совместной кампании с Экофурил с продвижением взрослого формата капсул.'
+  - EN: 'Simeotic ran ads\nin e-pharm and in a joint campaign with Ecofuril promoting its adult capsules.'
+- `s0228`
+  - RU: 'Симетикотик'
+  - EN: 'Simethicotic'
+- `s0229`
+  - RU: 'промостраницы'
+  - EN: 'Promo Pages'
+- `s0230`
+  - RU: 'Симетикотик — нативная статья в Промостраницах'
+  - EN: 'Simethicotic — native article on Promo Pages'
+- `s0231`
+  - RU: 'Симетикотик продвигается в формате нативных статей в Промостраницах.'
+  - EN: 'Simethicotic is promoted via native articles on Promo Pages.'
+
+## Slide 6
+
+- `s0232`
+  - RU: 'Лактазар в коммуникации пытается выйти за рамки показаний'
+  - EN: 'Laktazar’s messaging tries to reach beyond its indications'
+- `s0233`
+  - RU: 'UGC-КОНТЕНТ'
+  - EN: 'UGC'
+- `s0234`
+  - RU: 'Также при поиске бренда заметно количество UGC-контента. В нем также нет основного мотива про лактазу, фокус идет на колики, спокойный сон, демонстрацию использования.'
+  - EN: 'Brand searches also bring up a lot of UGC. It doesn’t lead with lactase either: the focus is on colic, restful sleep and showing how to use the product.'
+- `s0235`
+  - RU: 'Лактазар — UGC-видео 1'
+  - EN: 'Laktazar — UGC video 1'
+- `s0236`
+  - RU: 'Лактазар — UGC-видео 2'
+  - EN: 'Laktazar — UGC video 2'
+- `s0237`
+  - RU: 'КРЕАТИВЫ БРЕНДА'
+  - EN: 'BRAND CREATIVES'
+- `s0238`
+  - RU: 'Лактазар и Ацидол Малыш — баннер'
+  - EN: 'Laktazar and Acipol Malysh — banner'
+- `s0239`
+  - RU: 'Лактазар — креатив «Воздействует на причину колик»'
+  - EN: 'Laktazar — “Targets the cause of colic” creative'
+- `s0240`
+  - RU: 'Лактазар — карточка бренда'
+  - EN: 'Laktazar — brand card'
+- `s0241`
+  - RU: 'Лактазар в своей коммуникации пытается выходить за рамки недостатка лактазы через обтекаемые формулировки.'
+  - EN: 'Laktazar uses vague wording to stretch its message beyond lactase deficiency.'
+- `s0242`
+  - RU: '**«Наиболее частые причины колик»**'
+  - EN: '**“Most common causes\xa0of\xa0colic”**'
+- `s0243`
+  - RU: 'Подчеркивает цветом'
+  - EN: 'Highlighted in color'
+- `s0244`
+  - RU: '**«Воздействует на причину колик»**'
+  - EN: '**“Targets the cause of colic”**'
+
+## Slide 7
+
+- `s0245`
+  - RU: 'В медиа поле мы должны перекрыть нашим УТП и усиливающуюся конкуренцию за проблематику колик'
+  - EN: 'In media, our USP must cut through the growing competition around colic'
+- `s0246`
+  - RU: 'Причин колик множество, и конкуренция за эту проблему усиливается: мамы ищут решения у разных брендов, но даже зная это, продолжают искать более комплексную помощь'
+  - EN: 'Colic has many causes, and competition around it is growing: moms try solutions from different brands, yet keep looking for more complete help'
+- `s0247`
+  - RU: 'Мы можем помочь при любых видах колик и связанных симптомах (газики, вздутие), и это наше ключевое преимущество — [[Боботик]]'
+  - EN: 'We can help with any type of colic and related symptoms (tummy gas, bloating), and that is our key advantage — [[Bobotic]]'
+- `s0248`
+  - RU: 'Мамы сталкиваются с разными причинами колик и газообразования — не только с лактазной недостаточностью. В медиаполе присутствуют бренды с разными механизмами действия, и каждый из них предлагает свое решение.'
+  - EN: 'Moms face many causes of colic and gas — lactase deficiency is only one of them. Brands with different mechanisms of action are active in media, each offering its own solution.'
+- `s0249`
+  - RU: 'Показываем более полную картину проблемы и нашу экспертизу.'
+  - EN: 'We show a fuller picture of the problem and our expertise.'
+- `s0250`
+  - RU: 'Мамы выбирают продукты, которые помогают быстро и безопасно облегчить состояние ребенка. Важно говорить о простоте применения Боботика (капли, можно с первых дней жизни), надежности и эффективности — это ключевые факторы выбора.'
+  - EN: 'Moms choose products that relieve their baby quickly and safely. We need to talk about how easy Bobotic is to use (drops, suitable from the first days of life) and how reliable and effective it is — these drive the choice.'
+- `s0251`
+  - RU: 'Подчеркиваем простоту, удобство и надежность Боботика.'
+  - EN: 'We stress how simple, convenient and reliable Bobotic is.'
+- `s0252`
+  - RU: 'Ряд брендов, включая Лактазар, усиливают присутствие в теме колик через UGC, более широкое позиционирование и образовательный контент. Мы видим рост интереса к категории и смещение коммуникации конкурентов в сторону комплексного подхода к комфорту животика.'
+  - EN: 'Several brands, including Laktazar, are building their presence in the colic space through UGC, broader positioning and educational content. We see rising interest in the category and competitors shifting to an all-round approach to tummy comfort.'
+- `s0253`
+  - RU: 'Отвечаем сильным контентом, экспертизой и заметным присутствием в ключевых каналах.'
+  - EN: 'We respond with strong content, expertise and a visible presence in key channels.'
+- `s0254`
+  - RU: 'Работать по ключевым запросам: брендовые (Боботик, колики у новорожденных и т.д.) / категорийные (колики, газики, вздутие, мучают колики и т.д.) / конкурентные (включая Лактазар и др.). Использовать поиск, контент, отзывы, экспертные материалы и карточки товара.'
+  - EN: 'Target key queries: branded (Bobotic, newborn colic, etc.) / category (colic, tummy gas, bloating, baby suffering from colic, etc.) / competitor (incl. Laktazar, etc.). Use search, content, reviews, expert materials and product pages.'
+- `s0255`
+  - RU: 'Быть заметными на всем пути мамы — от первого вопроса до покупки.'
+  - EN: 'Be visible across mom’s journey — from first question to purchase.'
+- `s0256`
+  - RU: 'Коммуникационно: колики не только из-за лактазы'
+  - EN: 'Message: lactase isn’t the only cause of colic'
+- `s0257`
+  - RU: 'Мы надежный удобный помощник маме — простое решение в сложный момент'
+  - EN: 'We’re mom’s reliable, handy helper — a simple fix when things get tough'
+- `s0258`
+  - RU: 'Конкуренты расширяют коммуникацию и заходят на территорию колик'
+  - EN: 'Competitors are broadening their messaging and moving into colic'
+- `s0259`
+  - RU: 'Перехватить весь категорийный спрос на решение от колик'
+  - EN: 'Capture all category demand for colic relief'
+
+## Slide 8
+
+- `s0260`
+  - RU: 'Категория демонстрирует замедление в 1ПГ, но выравнивается по всему году'
+  - EN: 'The category slows in H1 but\xa0evens out over the full year'
+- `s0261`
+  - RU: 'ЛЕТО–ЗИМА'
+  - EN: 'SUMMER–WINTER'
+- `s0262`
+  - RU: '«КОЛИКИ У НОВОРОЖДЕННОГО»'
+  - EN: '“NEWBORN COLIC”'
+- `s0263`
+  - RU: '«ГАЗИКИ У НОВОРОЖДЕННОГО»'
+  - EN: '“NEWBORN TUMMY GAS”'
+- `s0264`
+  - RU: 'Колики у новорожденного'
+  - EN: 'Newborn colic'
+- `s0265`
+  - RU: 'янв 2024'
+  - EN: 'Jan 2024'
+- `s0266`
+  - RU: 'фев 2024'
+  - EN: 'Feb 2024'
+- `s0267`
+  - RU: 'мар 2024'
+  - EN: 'Mar 2024'
+- `s0268`
+  - RU: 'апр 2024'
+  - EN: 'Apr 2024'
+- `s0269`
+  - RU: 'май 2024'
+  - EN: 'May 2024'
+- `s0270`
+  - RU: 'июн 2024'
+  - EN: 'Jun 2024'
+- `s0271`
+  - RU: 'июл 2024'
+  - EN: 'Jul 2024'
+- `s0272`
+  - RU: 'авг 2024'
+  - EN: 'Aug 2024'
+- `s0273`
+  - RU: 'сен 2024'
+  - EN: 'Sep 2024'
+- `s0274`
+  - RU: 'окт 2024'
+  - EN: 'Oct 2024'
+- `s0275`
+  - RU: 'ноя 2024'
+  - EN: 'Nov 2024'
+- `s0276`
+  - RU: 'дек 2024'
+  - EN: 'Dec 2024'
+- `s0277`
+  - RU: 'Газики у новорожденного'
+  - EN: 'Newborn tummy gas'
+- `s0278`
+  - RU: 'ЗА 1 ПОЛУГОДИЕ:'
+  - EN: 'IN H1:'
+- `s0279`
+  - RU: '«Колики у новорожденного» **сокращались**'
+  - EN: '“Newborn colic” **declined**'
+- `s0280`
+  - RU: 'При этом в тотале 24 vs 25 год падения около 1%.'
+  - EN: 'Yet full-year 2025 was down about 1% vs 2024.'
+- `s0281`
+  - RU: '−4,7%'
+  - EN: '−4.7%'
+- `s0282`
+  - RU: 'в 2025'
+  - EN: 'in 2025'
+- `s0283`
+  - RU: '−10,0%'
+  - EN: '−10.0%'
+- `s0284`
+  - RU: 'в 2026'
+  - EN: 'in 2026'
+- `s0285`
+  - RU: '«Газики у новорожденного» также **упали**'
+  - EN: '“Newborn tummy gas” also **fell**'
+- `s0286`
+  - RU: 'При этом в тотале 24 vs 25 год рост 17%.'
+  - EN: 'Yet full-year 2025 was up 17% vs 2024.'
+- `s0287`
+  - RU: '+16,2%'
+  - EN: '+16.2%'
+- `s0288`
+  - RU: '−15,4%'
+  - EN: '−15.4%'
+- `s0289`
+  - RU: 'В 1ПГ 26 года категорийный рост также **замедляется −10% и 18%**.'
+  - EN: 'In H1 2026, category growth also **slows: −10% and 18%**.'
+- `s0290`
+  - RU: '**Сезонность спроса** немного меняется из года в год, но период **лето–зима** остаётся наиболее высоким.'
+  - EN: '**Demand seasonality** shifts slightly from year to year, but **summer–winter** remains the peak period.'
+- `s0291`
+  - RU: 'В то время как **весной** наблюдается снижение интереса.'
+  - EN: 'Interest, by contrast, dips in **spring**.'
+
+## Slide 9
+
+- `s0292`
+  - RU: 'География Digital: усиливаем ядро и точки роста, сохраняя национальное присутствие'
+  - EN: 'Digital geography: boost the core and growth\xa0pockets while keeping a national presence'
+- `s0293`
+  - RU: 'ЯДРО DIGITAL'
+  - EN: 'DIGITAL CORE'
+- `s0294`
+  - RU: '50,0%'
+  - EN: '50.0%'
+- `s0295`
+  - RU: 'продаж H1’26 в 14\xa0регионах'
+  - EN: 'of H1’26 sales in 14\xa0regions'
+- `s0296`
+  - RU: 'АКТУАЛЬНЫЙ СПРОС'
+  - EN: 'CURRENT DEMAND'
+- `s0297`
+  - RU: '53,9%'
+  - EN: '53.9%'
+- `s0298`
+  - RU: 'июльских продаж в ядре'
+  - EN: 'of July sales in the core'
+- `s0299`
+  - RU: 'DI* ЯДРА'
+  - EN: 'CORE DI*'
+- `s0300`
+  - RU: '83,6%'
+  - EN: '83.6%'
+- `s0301`
+  - RU: 'средневзвешенный DI H1’26'
+  - EN: 'weighted average DI, H1’26'
+- `s0302`
+  - RU: 'ПЛАНИРОВОЧНАЯ ГИПОТЕЗА'
+  - EN: 'PLANNING HYPOTHESIS'
+- `s0303`
+  - RU: 'digital-инвестиций — ядро'
+  - EN: 'of digital spend to\xa0the\xa0core'
+- `s0304`
+  - RU: 'Крупный объём продаж + достаточная доступность / защита позиции'
+  - EN: 'Large sales volume + sufficient availability / defend\xa0position'
+- `s0305`
+  - RU: 'Разный вес по устойчивости спроса и DI'
+  - EN: 'Weighted by demand stability and DI'
+- `s0306`
+  - RU: 'Логика выбора'
+  - EN: 'Selection logic'
+- `s0307`
+  - RU: 'Ядро Digital'
+  - EN: 'Digital core'
+- `s0308`
+  - RU: 'Москва'
+  - EN: 'Moscow'
+- `s0309`
+  - RU: 'Нижегородская обл.'
+  - EN: 'Nizhny Novgorod Oblast'
+- `s0310`
+  - RU: 'МО'
+  - EN: 'Moscow Oblast'
+- `s0311`
+  - RU: 'Татарстан'
+  - EN: 'Tatarstan'
+- `s0312`
+  - RU: 'Краснодарский край'
+  - EN: 'Krasnodar Krai'
+- `s0313`
+  - RU: 'СПб+ЛО'
+  - EN: 'St. Petersburg + region'
+- `s0314`
+  - RU: 'Ростовская обл.'
+  - EN: 'Rostov Oblast'
+- `s0315`
+  - RU: 'Красноярский край'
+  - EN: 'Krasnoyarsk Krai'
+- `s0316`
+  - RU: 'Свердловская обл.'
+  - EN: 'Sverdlovsk Oblast'
+- `s0317`
+  - RU: 'Новосибирская обл.'
+  - EN: 'Novosibirsk Oblast'
+- `s0318`
+  - RU: 'Челябинская обл.'
+  - EN: 'Chelyabinsk Oblast'
+- `s0319`
+  - RU: 'Иркутская обл.'
+  - EN: 'Irkutsk Oblast'
+- `s0320`
+  - RU: 'Башкортостан'
+  - EN: 'Bashkortostan'
+- `s0321`
+  - RU: 'Кемеровская обл.'
+  - EN: 'Kemerovo Oblast'
+- `s0322`
+  - RU: 'продаж, янв.–июль 2026'
+  - EN: 'of sales, Jan–Jul 2026'
+- `s0323`
+  - RU: 'Рост'
+  - EN: 'Growth'
+- `s0324`
+  - RU: 'Ставропольский край'
+  - EN: 'Stavropol Krai'
+- `s0325`
+  - RU: 'Ивановская обл.'
+  - EN: 'Ivanovo Oblast'
+- `s0326`
+  - RU: 'Курская обл.'
+  - EN: 'Kursk Oblast'
+- `s0327`
+  - RU: 'Владимирская обл.'
+  - EN: 'Vladimir Oblast'
+- `s0328`
+  - RU: 'Вологодская обл.'
+  - EN: 'Vologda Oblast'
+- `s0329`
+  - RU: 'Ярославская обл.'
+  - EN: 'Yaroslavl Oblast'
+- `s0330`
+  - RU: 'Ульяновская обл.'
+  - EN: 'Ulyanovsk Oblast'
+- `s0331`
+  - RU: 'Оренбургская обл.'
+  - EN: 'Orenburg Oblast'
+- `s0332`
+  - RU: 'Брянская обл.'
+  - EN: 'Bryansk Oblast'
+- `s0333`
+  - RU: 'Тюменская обл.'
+  - EN: 'Tyumen Oblast'
+- `s0334`
+  - RU: '10,0%'
+  - EN: '10.0%'
+- `s0335`
+  - RU: 'Планировочная гипотеза'
+  - EN: 'Planning hypothesis'
+- `s0336`
+  - RU: '**Ядро = 50% продаж → максимальный вес 55–60% инвестиций**: доказанный спрос + достаточная доступность позволяют эффективно конвертировать медиадавление'
+  - EN: '**Core = 50% of sales → top weight, 55–60% of spend**: proven demand + sufficient availability turn media pressure into sales efficiently'
+- `s0337`
+  - RU: '**Рост = 10% продаж → перевзвешиваем инвестиции до 20–25%**, чтобы ускорить территории с положительной динамикой и потенциалом; DI используем как фильтр готовности, а не как жесткое ограничение.'
+  - EN: '**Growth = 10% of sales → overweight to 20–25% of spend** to accelerate regions with positive momentum and potential; DI is a readiness filter, not a hard limit.'
+- `s0338`
+  - RU: '**Остальная РФ = 40% продаж → сохраняем 15–20% базового присутствия**: спрос значим, но распределен между большим количеством регионов без достаточного масштаба каждого отдельного GEO'
+  - EN: '**Rest of Russia = 40% of sales → keep 15–20% as baseline presence**: demand is significant but spread across many regions, none of which is big enough on its own'
+- `s0339`
+  - RU: 'География задает разный вес инвестиций, а не ограничивает кампанию: защищаем 50% продаж в ядре, ускоряем точки роста в рамках медиа-флайтов, сохраняем национальное присутствие для 40% продаж в long tail с AON инструментами'
+  - EN: 'Geography sets spend weights rather than limiting the campaign: we defend 50% of sales in the core, speed up growth pockets during media flights and keep national presence for the 40% of long-tail sales with AON tools'
+- `s0340`
+  - RU: '*DI — Distribution Index = показатель аптечной дистрибуции препарата'
+  - EN: '*DI — Distribution Index = pharmacy distribution of the drug'
+
+## Slide 10
+
+- `s0341`
+  - RU: 'Боботик / Search demand dynamics / 2026'
+  - EN: 'Bobotic / Search demand dynamics / 2026'
+- `s0342`
+  - RU: 'WORDSTAT: ДИНАМИКА ЗАПРОСОВ'
+  - EN: 'WORDSTAT: SEARCH TRENDS'
+- `s0343`
+  - RU: 'Wordstat: динамика запросов'
+  - EN: 'Wordstat: search trends'
+- `s0344`
+  - RU: 'линии — индекс запросов'
+  - EN: 'lines — query index'
+- `s0345`
+  - RU: 'категория'
+  - EN: 'category'
+- `s0346`
+  - RU: 'янв–фев'
+  - EN: 'Jan–Feb'
+- `s0347`
+  - RU: 'июнь–август'
+  - EN: 'Jun–Aug'
+- `s0348`
+  - RU: 'Wordstat · категория, индекс'
+  - EN: 'Wordstat · category, index'
+- `s0349`
+  - RU: 'Wordstat · Боботик, индекс'
+  - EN: 'Wordstat · Bobotic, index'
+- `s0350`
+  - RU: 'OZON: ДИНАМИКА ЗАПРОСОВ'
+  - EN: 'OZON: SEARCH TRENDS'
+- `s0351`
+  - RU: 'Ozon: динамика запросов'
+  - EN: 'Ozon: search trends'
+- `s0352`
+  - RU: 'март–апрель'
+  - EN: 'Mar–Apr'
+- `s0353`
+  - RU: 'август'
+  - EN: 'Aug'
+- `s0354`
+  - RU: 'Данные Ozon доступны с 23.03.2026'
+  - EN: 'Ozon data from Mar 23, 2026'
+- `s0355`
+  - RU: 'Ozon · категория, индекс'
+  - EN: 'Ozon · category, index'
+- `s0356`
+  - RU: 'Ozon · Боботик, индекс'
+  - EN: 'Ozon · Bobotic, index'
+- `s0357`
+  - RU: 'ПОКАЗЫ КАМПАНИИ, МЛН'
+  - EN: 'CAMPAIGN IMPRESSIONS, M'
+- `s0358`
+  - RU: 'Показы кампании, млн'
+  - EN: 'Campaign impressions, M'
+- `s0359`
+  - RU: 'Средний недельный спрос июнь–август vs янв–фев'
+  - EN: 'Average weekly demand, Jun–Aug vs Jan–Feb'
+- `s0360`
+  - RU: 'Поисковый спрос на Боботик вырос на 33%, но категория росла быстрее (+77%) — разница в темпах составляет 44 п.п. В 2027 важно усиливать присутствие Боботика в категорийном поиске и закреплять связь между потребностью «колики/животик» и брендом. Эффект оценивать по динамике брендовых запросов, доле поиска и CR'
+  - EN: 'Search demand for Bobotic grew 33%, but the category grew faster (+77%) — a 44 pp gap. In 2027, Bobotic needs a stronger presence in category search and a firmer link between the “colic/tummy” need and the brand. Track the impact through branded query trends, search share and CR'
+- `s0361`
+  - RU: 'На Ozon спрос на Боботик остался стабильным при небольшом росте категории (2%), что говорит о необходимости поддерживать брендовый спрос. В 2027 важно усилить видимость карточки товара через внешнюю коммуникацию, контент и инструменты продвижения внутри Ozon'
+  - EN: 'On Ozon, Bobotic demand held flat while the category grew slightly (+2%), so brand demand needs support. In 2027, raise product page visibility through external communication, content and Ozon’s own promotion tools'
+- `s0362`
+  - RU: 'Боботик · Wordstat'
+  - EN: 'Bobotic · Wordstat'
+- `s0363`
+  - RU: 'Категория · Wordstat'
+  - EN: 'Category · Wordstat'
+- `s0364`
+  - RU: 'Боботик · Ozon'
+  - EN: 'Bobotic · Ozon'
+- `s0365`
+  - RU: 'Категория · Ozon'
+  - EN: 'Category · Ozon'
+- `s0366`
+  - RU: 'Средний недельный спрос август vs март–апрель'
+  - EN: 'Average weekly demand, Aug vs Mar–Apr'
+- `s0367`
+  - RU: 'КЛЮЧЕВОЙ ВЫВОД'
+  - EN: 'KEY TAKEAWAY'
+- `s0368`
+  - RU: 'Боботик по средненедельному уровню спроса за июнь–август опережает показатели января–февраля на 33%, однако категория растёт быстрее в поиске (+77%), что требует усиления присутствия бренда в категорийном поле'
+  - EN: 'Bobotic’s average weekly demand in June–August was 33% higher than in January–February, but category search grew faster (+77%), so the brand needs a stronger presence in category search'
+- `s0369`
+  - RU: 'Источник: данные Ozon* и Яндекс Вордстат. Индекс запросов = значение недели / значение предыдущей недели × 100\nДля сравнения в выводах: Wordstat — средняя неделя июнь–август vs январь–февраль; Ozon — средний недельный спрос август vs март–апрель'
+  - EN: 'Source: Ozon* and Yandex Wordstat data. Query index = week value / previous week value × 100\nComparisons in takeaways: Wordstat — average week, Jun–Aug vs Jan–Feb; Ozon — average weekly demand, Aug vs Mar–Apr'
+
+## Slide 11
+
+- `s0370`
+  - RU: 'Comprehensive-подход Боботика подтвердил эффективность occasion-based модели'
+  - EN: 'Bobotic’s Comprehensive approach proved the occasion-based model works'
+- `s0371`
+  - RU: 'AI-сегментация по сценариям мам стала базой для paid media,\nперсонализированных креативов, ORM и Search-валидации'
+  - EN: 'AI segmentation by mom scenarios underpinned paid media,\npersonalized creatives, ORM and Search validation'
+- `s0372`
+  - RU: 'РОЛЬ COMPREHENSIVE-ПОДХОДА В ПРОДВИЖЕНИИ БОБОТИК'
+  - EN: 'ROLE OF THE COMPREHENSIVE APPROACH FOR BOBOTIC'
+- `s0373`
+  - RU: 'Роль comprehensive-подхода в Боботик — стимулирование продаж и рост знания через персонализацию под поведенческие триггеры мам в момент колик: «перепробовали всё», кормление, длительные ночные колики'
+  - EN: 'For Bobotic, Comprehensive means driving sales and awareness through personalization around moms’ behavioral triggers during colic: “Tried everything”, feeding, prolonged night-time colic'
+- `s0374`
+  - RU: '3 сценария: Колики / Сон / Кормление'
+  - EN: '3 scenarios: Colic / Sleep / Feeding'
+- `s0375`
+  - RU: 'Paid media + креативы + ORM + блогеры\xa0(H2)'
+  - EN: 'Paid media + creatives + ORM + influencers\xa0(H2)'
+- `s0376`
+  - RU: '3 УРОВНЯ ДОКАЗАТЕЛЬСТВА ЭФФЕКТИВНОСТИ'
+  - EN: '3 LEVELS OF PROOF'
+- `s0377`
+  - RU: '1,15%'
+  - EN: '1.15%'
+- `s0378`
+  - RU: '+47% vs plan  |  143 тыс. кликов'
+  - EN: '+47% vs plan  |  143K clicks'
+- `s0379`
+  - RU: '94 тыс. качественных визитов  |  +14% vs plan'
+  - EN: '94K quality visits  |  +14% vs plan'
+- `s0380`
+  - RU: 'доля H1-конверсий в «Где купить»'
+  - EN: 'of H1 “Where to buy” conversions'
+- `s0381`
+  - RU: 'оккейжена'
+  - EN: 'occasions'
+- `s0382`
+  - RU: 'показали синхронность ORM-активности и спроса'
+  - EN: 'showed ORM activity in sync with demand'
+- `s0383`
+  - RU: 'r=0,96'
+  - EN: 'r=0.96'
+- `s0384`
+  - RU: 'длительные / сильные колики'
+  - EN: 'prolonged / severe colic'
+- `s0385`
+  - RU: '«перепробовали всё» к базе янв.–фев.'
+  - EN: '“Tried everything” vs Jan–Feb base'
+- `s0386`
+  - RU: 'новая семантика ГВ / ИВ'
+  - EN: 'new breastfed / formula-fed keywords'
+- `s0387`
+  - RU: '3 OCCASIONS ДАЛИ ОСНОВУ ДЛЯ DECISION GATE'
+  - EN: '3 OCCASIONS INFORMED THE DECISION GATE'
+- `s0388`
+  - RU: '**«Колики»** — главный драйвер первичного отклика: CTR\xa02,65%; сценарий подходит для первого контакта и построения охватного пула для ретаргетинга'
+  - EN: '**“Colic”** — the main driver of first response: CTR\xa02.65%; works for first contact and for building a reach pool for retargeting'
+- `s0389`
+  - RU: 'Сценарий показывает результат не только с точки зрения медийных показателей, но и демонстрирует наиболее яркую синхронность с поисковым спросом'
+  - EN: 'The scenario delivers on media metrics — and shows the strongest sync with search demand'
+- `s0390`
+  - RU: '**«Кормление»** — самый конверсионный сценарий: CR «Где купить» 3,5%, корзина 0,80%, лучшее время на сайте 00:41 → приоритет в нижней воронке'
+  - EN: '**“Feeding”** — the highest-converting scenario: CR “Where to buy” 3.5%, add-to-cart 0.80%, best time on site 00:41 →\xa0priority for the lower\xa0funnel'
+- `s0391`
+  - RU: '**Результат:** 2 из 3 оккейженов показали синхронность с тематическим спросом, зафиксированы новые формулировки в ГВ/ИВ'
+  - EN: '**Result:** 2 of 3 occasions moved in sync with related search demand; new wording found in breastfed/formula-fed queries'
+- `s0392`
+  - RU: '**Рекомендация:** сегментировать ORM-сценарии и продуктовые аргументы по оккейженам + еженедельный трекинг Wordstat (3 корзины запросов) с привязкой к ORM, медиа и сезонности'
+  - EN: '**Recommendation:** segment ORM scenarios and product messaging by occasion + weekly Wordstat tracking (3 query baskets) tied to ORM, media and seasonality'
+- `s0393`
+  - RU: 'МАСШТАБИРОВАТЬ'
+  - EN: 'SCALE'
+- `s0394`
+  - RU: 'УСИЛИВАЕТ ДЕЙСТВИЕ'
+  - EN: 'DRIVES ACTION'
+- `s0395`
+  - RU: 'РАЗВИВАЕМ ПЕРСОНАЛИЗАЦИЮ В H2 И 2027 ГОДУ'
+  - EN: 'GROWING PERSONALIZATION IN H2 AND 2027'
+- `s0396`
+  - RU: 'Масштабируем occasion-based comprehensive как рабочую модель — Paid media и Search отвечают за трафик и конверсию, ORM закрепляет доверие, а Sales Lift валидирует бизнес-вклад'
+  - EN: 'We scale occasion-based Comprehensive as a working model — Paid media and Search bring traffic and conversions, ORM reinforces trust, and Sales Lift validates business impact'
+
+## Slide 12
+
+- `s0397`
+  - RU: '2026: падение замедлилось, но этого пока недостаточно для восстановления доли рынка'
+  - EN: '2026: the decline slowed, but not yet enough to win back market share'
+- `s0398`
+  - RU: '2027: превращаем стабилизацию в рост за счет масштаба, точности и управляемого пути к покупке'
+  - EN: '2027: turning stability into growth through scale, precision and a managed path to purchase'
+- `s0399`
+  - RU: 'CTR 1,15%'
+  - EN: 'CTR 1.15%'
+- `s0400`
+  - RU: '143 тыс.'
+  - EN: '143K'
+- `s0401`
+  - RU: 'кликов'
+  - EN: 'clicks'
+- `s0402`
+  - RU: '94 тыс.'
+  - EN: '94K'
+- `s0403`
+  - RU: 'ЧТО ДОКАЗАЛ 2026'
+  - EN: 'WHAT 2026 PROVED'
+- `s0404`
+  - RU: 'Медиаконтакт и качество трафика превысили план'
+  - EN: 'Media response and traffic quality exceeded the plan'
+- `s0405`
+  - RU: 'Occasion-based механика подтвердила релевантный отклик'
+  - EN: 'Occasion-based mechanics delivered a relevant response'
+- `s0406`
+  - RU: 'Search / performance + ORM уверенно закрывают сформированный спрос'
+  - EN: 'Search / performance + ORM reliably capture existing demand'
+- `s0407`
+  - RU: 'ЧТО НУЖНО ДОСТРОИТЬ'
+  - EN: 'WHAT’S STILL MISSING'
+- `s0408`
+  - RU: 'Occasion-based механику протестировали преимущественно в нижней части воронки'
+  - EN: 'Occasion-based mechanics were tested mostly in the lower funnel'
+- `s0409`
+  - RU: 'Требуется усилить присутствие бренда на более ранних этапах пути мамы'
+  - EN: 'The brand needs a stronger presence earlier in mom’s journey'
+- `s0410`
+  - RU: 'Media → Search / content → purchase ещё не связаны в единую систему'
+  - EN: 'Media → Search / content → purchase aren’t yet linked into one system'
+- `s0411`
+  - RU: 'ЧТО МЕНЯЕТСЯ В 2027'
+  - EN: 'WHAT CHANGES IN 2027'
+- `s0412`
+  - RU: 'Масштабируем точный контакт на большее число релевантных мам'
+  - EN: 'We scale precise targeting to reach more relevant moms'
+- `s0413`
+  - RU: 'Добавляем видеослой для построения знания и доверия до Search'
+  - EN: 'We add a video layer to build awareness and trust before Search'
+- `s0414`
+  - RU: 'Связываем media → Search / content → purchase в управляемый путь выбора'
+  - EN: 'We link media → Search / content → purchase into a managed choice path'
+- `s0415`
+  - RU: 'От точечного эффективного контакта **к масштабируемой системе влияния на выбор**'
+  - EN: 'From targeted, effective contact **to a scalable system that shapes choice**'
+
+## Slide 13
+
+- `s0416`
+  - RU: 'Тренды современной мамы: осознанность, рациональность и поиск идеала'
+  - EN: 'Modern mom trends: mindfulness, pragmatism and chasing the ideal'
+- `s0417`
+  - RU: 'Современная мама сегодня — это больше знаний, больше ответственности и больше вызовов. Она стремится быть лучшей, принимает взвешенные решения и ищет баланс между идеалом и реальной жизнью.'
+  - EN: 'Today’s mom has more knowledge, more responsibility and more challenges. She strives to be the best, makes considered decisions and looks for a balance between the ideal and real life.'
+- `s0418`
+  - RU: 'Хорошая мама и недостижимый идеал'
+  - EN: 'A good mom and an impossible ideal'
+- `s0419`
+  - RU: 'Материнство — это счастье и серьезная работа'
+  - EN: 'Motherhood is both joy and hard work'
+- `s0420`
+  - RU: 'Осознанное материнство и попытка контролировать'
+  - EN: 'Mindful motherhood and the urge to control'
+- `s0421`
+  - RU: 'Семьи экономят рационально, но не хотят жертвовать качеством'
+  - EN: 'Families save wisely but won’t sacrifice quality'
+- `s0422`
+  - RU: 'Современное родительство становится более интенсивным: нужно знать, читать, развивать, правильно кормить, правильно лечить и ничего не упустить. Установки на интенсивное родительство связаны с большим родительским стрессом, тогда как осознанное родительство с меньшим. Поэтому коммуникация, которая еще сильнее говорит маме «ты должна делать правильно», может усиливать напряжение.'
+  - EN: 'Parenting is getting more intensive: read up, know everything, support development, feed and treat the right way, miss nothing. Intensive parenting attitudes are linked to higher parental stress, mindful parenting to lower stress. So messaging that pushes “you\xa0must\xa0do\xa0it\xa0right” even harder can add to the strain.'
+- `s0423`
+  - RU: '[[**86%**]] россиян считают материнство трудной работой, а [[**39%**]] — что сегодня быть матерью сложнее, чем 20 лет назад.\n\nРоссийские исследования также фиксируют родительский стресс и особенно эмоциональное истощение у матерей. Поэтому маме особенно ценны решения, которые снимают часть нагрузки.'
+  - EN: '[[**86%**]] of Russians see motherhood as hard work, and [[**39%**]] say being a mother is harder today than 20 years ago.\n\nRussian studies also document parental stress, especially emotional exhaustion among mothers. So moms particularly value solutions that take some of the load off.'
+- `s0424`
+  - RU: 'Осознанное материнство и попытка контролировать всевозможные риски, финансы, беременность, жилье, понимание родительства, все нюансы воспитания.\n\nТакже и в лекарствах — мама слушает врача, но все перепроверяет еще раз, сравнивает.'
+  - EN: 'Mindful motherhood means trying to control every risk: finances, pregnancy, housing, parenting know-how, every detail of raising their child.\n\nMedicines too: mom listens to the doctor but double-checks and compares everything.'
+- `s0425`
+  - RU: 'В России растет «умное потребление». При этом родители реже остальных выбирают товар только потому, что он самый дешевый; важнее баланс цены, качества и надежности.\n\nДля детского препарата это особенно важно.'
+  - EN: '“Smart consumption” is growing in Russia. Parents are less likely than others to buy on price alone: the balance of price, quality and reliability matters more.\n\nFor a baby medicine, this is especially true.'
+- `s0426`
+  - RU: 'Мама с малышом'
+  - EN: 'Mom with baby'
+- `s0427`
+  - RU: 'Меньше стресса'
+  - EN: 'Less stress'
+- `s0428`
+  - RU: 'Больше уверенности'
+  - EN: 'More confidence'
+- `s0429`
+  - RU: 'Больше времени для важного'
+  - EN: 'More time for what matters'
+- `s0430`
+  - RU: 'Современная мама стремится к осознанному, спокойному и уверенному родительству, где есть место и любви, и разумному подходу.'
+  - EN: 'Today’s mom wants mindful, calm and confident parenting, with room for both love and common sense.'
+
+## Slide 14
+
+- `s0431`
+  - RU: 'Анализ сегментов и оккейженов Боботика'
+  - EN: 'Bobotic segment and occasion analysis'
+- `s0432`
+  - RU: 'СЕГМЕНТАЦИЯ'
+  - EN: 'SEGMENTATION'
+- `s0433`
+  - RU: 'КОММУНИКАЦИЯ'
+  - EN: 'COMMUNICATION'
+- `s0434`
+  - RU: 'Мамы первенцев'
+  - EN: 'First-time moms'
+- `s0435`
+  - RU: 'Все типы вскармливания: ГВ\xa0/\xa0СВ\xa0/\xa0ИВ'
+  - EN: 'All feeding types: BF\xa0/\xa0MF\xa0/\xa0FF'
+- `s0436`
+  - RU: 'Длительные колики'
+  - EN: 'Prolonged colic'
+- `s0437`
+  - RU: 'Текущий выбор подтвержден'
+  - EN: 'Current choice confirmed'
+- `s0438`
+  - RU: 'Коммуникационная территория остается актуальной'
+  - EN: 'Communication territory remains relevant'
+- `s0439`
+  - RU: 'Свежие отзывы демонстрируют высокую релевантность выбранных сегментов и оккейженов — они отражают реальные потребности мам и остаются актуальными.'
+  - EN: 'Recent reviews confirm the chosen segments and occasions are highly relevant: they reflect moms’ real needs and still apply.'
+- `s0440`
+  - RU: 'Мамы ищут надежного и понятного помощника от колик, который работает в конкретной ситуации и которому можно доверять.'
+  - EN: 'Moms want a reliable, straightforward colic helper that works in their specific situation and that they can trust.'
+- `s0441`
+  - RU: 'Мы работаем с основными сегментами и ключевыми оккейженами:'
+  - EN: 'We work with the core segments and key occasions:'
+- `s0442`
+  - RU: 'Текущая сегментация полностью покрывает ключевые потребности аудитории. Новых значимых сегментов или оккейженов, которые можно было бы выделить отдельно и использовать в медиа, не обнаружено.'
+  - EN: 'The current segmentation fully covers the audience’s key needs. We found no significant new segments or occasions worth splitting out and using in media.'
+- `s0443`
+  - RU: 'Продолжаем транслировать ключевую идею бренда'
+  - EN: 'We keep communicating the core brand idea'
+- `s0444`
+  - RU: 'Боботик — проверенное, удобное и рациональное решение от газиков и колик, которому мамы доверяют и которое помогает в повседневных ситуациях.'
+  - EN: 'Bobotic — a proven, convenient and sensible remedy for tummy gas and colic, trusted by moms and helpful day to day.'
+
+## Slide 15
+
+- `s0445`
+  - RU: 'Выбор средств от колик в большинстве случаев происходит в момент этой проблемы'
+  - EN: 'Most colic remedies are chosen when the problem strikes'
+- `s0446`
+  - RU: 'КОГДА ПОКУПАЮТ'
+  - EN: 'WHEN THEY BUY'
+- `s0447`
+  - RU: 'КАК ПРОИСХОДИТ ВЫБОР'
+  - EN: 'HOW THEY CHOOSE'
+- `s0448`
+  - RU: 'НА ЧТО ОБРАЩАЮТ ВНИМАНИЕ'
+  - EN: 'WHAT THEY LOOK FOR'
+- `s0449`
+  - RU: 'Во время беременности, при сборе аптечки'
+  - EN: 'In pregnancy, when stocking a\xa0baby medicine kit'
+- `s0450`
+  - RU: 'Могут стать [[**тестовым сегментом**]] для построения знания, чтобы в дальнейшем в момент поиска не оставалось только напомнить про **Боботик**.'
+  - EN: 'Expectant moms could be a [[**test segment**]] for building awareness, so that at the search stage a reminder about **Bobotic** is all it takes.'
+- `s0451`
+  - RU: 'В качестве теста при ограниченном медиабюджете размещаемся на аудиторию беременных на 3 триместре через программатики на ресурсах для мам.'
+  - EN: 'As a test on a limited media budget, we target women in their third trimester via programmatic on parenting sites.'
+- `s0452`
+  - RU: 'Когда колики уже начались'
+  - EN: 'Once colic has started'
+- `s0453`
+  - RU: 'В большинстве явных пользовательских сценариев указывают на сиюминутную покупку или реактивный поиск: сначала проблема, затем сравнение средств и покупка.'
+  - EN: 'Most explicit user scenarios point to an on-the-spot purchase or reactive search: problem first, then comparing remedies, then buying.'
+- `s0454`
+  - RU: 'Доля покупок'
+  - EN: 'Purchase share'
+- `s0455`
+  - RU: 'Доля'
+  - EN: 'Share'
+- `s0456`
+  - RU: 'Остальное'
+  - EN: 'Other'
+- `s0457`
+  - RU: 'Педиатр, советы других мам и бренд из памяти часто помогают сформировать **шорт-лист брендов** для сравнения. Финальный выбор уже строится через отзывы, наличие и удобство покупки.'
+  - EN: 'A pediatrician, other moms’ advice and brand recall often shape a **brand shortlist** to compare. The final choice comes down to reviews, availability and ease of purchase.'
+- `s0458`
+  - RU: '**Поиск**'
+  - EN: '**Search**'
+- `s0459`
+  - RU: '**Сообщества в соцсетях (сравнить опыт)** или **отзывы на маркетплейсах** (убедиться в выборе)'
+  - EN: '**Social media groups (compare notes)** or **marketplace reviews** (confirm\xa0the\xa0choice)'
+- `s0460`
+  - RU: '**Покупка**'
+  - EN: '**Purchase**'
+- `s0461`
+  - RU: 'В первую очередь мама смотрит, **помог ли он другим детям в похожей ситуации**'
+  - EN: 'First, mom checks **whether it helped other babies in a similar situation**'
+- `s0462`
+  - RU: 'Затем проверяют **безопасность и возраст применения**, понятность механизма действия и схему приема.'
+  - EN: 'Then she checks **safety and age suitability**, and whether the mechanism of action and dosing are clear.'
+- `s0463`
+  - RU: 'Важны также удобство применения, возможность **встроить капли в кормление**, скорость заметного облегчения и наличие препарата.'
+  - EN: 'Also important: ease of use, availability, how fast relief comes and the option to **fit the drops\xa0into\xa0feeding**.'
+- `s0464`
+  - RU: '**Цена влияет**, но при острой проблеме становится вторичной, если мама уже доверяет бренду и видит подтверждения его эффективности.'
+  - EN: '**Price matters**, but with an acute problem it comes second if mom already trusts the brand and sees proof it works.'
+
+## Slide 16
+
+- `s0465`
+  - RU: 'Привычка делать детскую аптечку есть, но для средств от колик она прослеживается реже'
+  - EN: 'Baby medicine kits are a habit — less so for colic remedies'
+- `s0466`
+  - RU: 'Аптечка дома'
+  - EN: 'Home kit'
+- `s0467`
+  - RU: 'Только у **~7%** нет детской аптечки, **52%** хранят детские средства вместе со взрослой аптечкой, еще **41%** имеют отдельную детскую. При формировании аптечки **80%** ориентируются на врача, **69%** дополнительно используют интернет, **65%** — поиск. Основа аптечки по рекомендациям и отзывам — жаропонижающие, антигистаминные и энтеросорбенты.'
+  - EN: 'Only **~7%** have no baby medicine kit; **52%** keep baby medicines in the family kit, and another **41%** have a separate one. When stocking it, **80%** rely on a doctor, **69%** also go online and **65%** use search. Based on recommendations and reviews, the staples are fever reducers, antihistamines and enterosorbents.'
+- `s0468`
+  - RU: 'Аптечка против газиков'
+  - EN: 'Kit for tummy gas'
+- `s0469`
+  - RU: 'Небольшая доля мам действительно собирают аптечку заранее **~15%**. Но что важно: в ветках обсуждений вырисовывается следующий паттерн рекомендаций — [[**«не покупайте лишнего заранее — докупите по необходимости»**]]. Причины очень практичные: колик может не быть, конкретное средство может не подойти, заранее невозможно угадать, что поможет именно этому ребенку, а аптека/e-com обычно доступны быстро.'
+  - EN: 'Only a small share of moms (**~15%**) actually stock up in advance. The key point: discussion threads keep giving the same advice — [[**“don’t buy extra ahead of time — get it if you need it”**]]. The reasons are practical: colic may never come, a given remedy may not work, there’s no way to tell in advance what will help this particular baby, and pharmacies and e-com are usually close at hand.'
+- `s0470`
+  - RU: 'Под рукой'
+  - EN: 'On hand'
+- `s0471`
+  - RU: 'В нашей категории это чаще происходит после знакомства с проблемой или продуктом. Например: колики начались, мама нашла средство, которое ребенку подходит, после этого его уже логично держать дома и не оставаться без него ночью.'
+  - EN: 'In our category, this usually comes after mom has faced the problem or tried the product. Say colic starts and she finds a remedy that works for her baby — then it makes sense to keep it at home and never run out at night.'
+
+## Slide 17
+
+- `s0472`
+  - RU: 'Короткое окно релевантности выбора'
+  - EN: 'Choice has a short relevance window'
+- `s0473`
+  - RU: 'Мы должны находить маму максимально близко к моменту возникновения колик, а не просто охватывать широкую аудиторию родителей детей до года'
+  - EN: 'We need to find mom as close to colic onset as possible, not just reach all parents of babies under\xa01'
+- `s0474`
+  - RU: 'Чем короче окно релевантности, тем дороже ошибка в выборе аудитории.\n[[Точность таргетинга становится бизнес-фактором]]'
+  - EN: 'The shorter the relevance window, the costlier the wrong audience.\n[[Targeting precision becomes business-critical]]'
+- `s0475`
+  - RU: 'Мамы детей первого года жизни с релевантными оккейженами. «Только первенцы» убираем как фильтр; мамы с первенцами остаются внутри пула'
+  - EN: 'Moms of babies in their first year with relevant occasions. We drop “first baby only” as a filter; first-time moms stay in the pool'
+- `s0476`
+  - RU: 'Сравниваем 0–6/8 мес. vs 0–12 мес. по reach, CPM, post-click и CR%. Возрастную рамку 2027 фиксируем по результатам 1-го теста.'
+  - EN: 'We compare 0–6/8 mo vs 0–12 mo on reach, CPM, post-click and CR%. The 2027 age range will be locked after the first test.'
+- `s0477`
+  - RU: 'Беременность — не развиваем. Для старших детей внутри первого года — отдельное сообщение'
+  - EN: 'Pregnancy — not pursued. Older babies within the first year get a separate message'
+- `s0478`
+  - RU: 'РОЖДЕНИЕ'
+  - EN: 'BIRTH'
+- `s0479`
+  - RU: 'аудитория обновляется'
+  - EN: 'audience constantly renews'
+- `s0480`
+  - RU: 'ПЕРВЫЕ НЕДЕЛИ'
+  - EN: 'FIRST WEEKS'
+- `s0481`
+  - RU: 'не у всех есть проблема'
+  - EN: 'not every baby has colic'
+- `s0482`
+  - RU: 'ОКНО КОЛИК'
+  - EN: 'COLIC WINDOW'
+- `s0483`
+  - RU: 'максимальная релевантность'
+  - EN: 'peak relevance'
+- `s0484`
+  - RU: '6–8 МЕС.'
+  - EN: '6–8 MO'
+- `s0485`
+  - RU: 'узкий таргетинг\ntest'
+  - EN: 'narrow targeting\ntest'
+- `s0486`
+  - RU: 'ДО 12 МЕС.'
+  - EN: 'UP TO 12 MO'
+- `s0487`
+  - RU: 'расширенный пул\nrelevance test'
+  - EN: 'wider pool\nrelevance test'
+
+## Slide 18
+
+- `s0488`
+  - RU: 'Боботик 2027: корректировка креативной стратегии'
+  - EN: 'Bobotic 2027: adjusting the creative strategy'
+- `s0489`
+  - RU: 'В 2026 году в рамках креативной концепции был рекомендован уход от феи как главного сюжета к рациональной персонализации под ситуацию.'
+  - EN: 'The 2026 creative concept recommended moving away from the fairy as the lead story toward rational, situation-based personalization.'
+- `s0490`
+  - RU: '**Тест показал:** разные оккейжены решают разные задачи воронки — поэтому в 2027 [[**не меняем всё сразу**]], а точечно [[**усиливаем визуальные связки**]]'
+  - EN: '**Test result:** different occasions do different jobs in the funnel — so in 2027 we [[**don’t change it all at once**]] but selectively [[**strengthen visual links**]]'
+- `s0491`
+  - RU: 'Что поменяли в 2026'
+  - EN: 'What changed in 2026'
+- `s0492`
+  - RU: 'Фея как эмоциональный бренд-код'
+  - EN: 'Fairy as an emotional brand\xa0code'
+- `s0493`
+  - RU: 'Рациональные УТП + ситуация применения'
+  - EN: 'Rational USPs + usage\xa0situation'
+- `s0494`
+  - RU: 'БЫЛО'
+  - EN: 'BEFORE'
+- `s0495`
+  - RU: 'СТАЛО'
+  - EN: 'AFTER'
+- `s0496`
+  - RU: '**Новая персонализация:** оккейжен → предмет → клейм'
+  - EN: '**New personalization:** occasion → object → claim'
+- `s0497`
+  - RU: '**Смысл:** от единого образа — к креативам, где мама считывает конкретный момент применения, и подходящее под оккейжен УТП продукта'
+  - EN: '**The idea:** from a single image to creatives where mom recognizes a specific moment of use and the product USP that fits the occasion'
+- `s0498`
+  - RU: 'Креатив Боботик 2026'
+  - EN: 'Bobotic 2026 creative'
+- `s0499`
+  - RU: 'Лошадка-качелька, как синоним повторяющихся симптомов + направленное действие на причину колик'
+  - EN: 'Rocking horse = recurring symptoms + targeted action on the cause of colic'
+- `s0500`
+  - RU: 'Колики'
+  - EN: 'Colic'
+- `s0501`
+  - RU: 'Бутылочка + удобная форма применения независимо от типа вскармливания'
+  - EN: 'Bottle + easy to give, however baby is fed'
+- `s0502`
+  - RU: 'Кормление'
+  - EN: 'Feeding'
+- `s0503`
+  - RU: 'Ночник, как ориентир на ночные колики + простой способ применения'
+  - EN: 'Night light as a cue for night-time colic + simple to use'
+- `s0504`
+  - RU: 'Сон'
+  - EN: 'Sleep'
+- `s0505`
+  - RU: 'Новые vs старый креатив'
+  - EN: 'New vs old creative'
+- `s0506`
+  - RU: 'Креатив Боботик с феей'
+  - EN: 'Bobotic fairy creative'
+- `s0507`
+  - RU: 'OLD с феей как бенчмарк:'
+  - EN: 'OLD fairy (benchmark):'
+- `s0508`
+  - RU: '1,77%'
+  - EN: '1.77%'
+- `s0509`
+  - RU: 'CR ГК'
+  - EN: 'CR WTB'
+- `s0510`
+  - RU: '0,6%'
+  - EN: '0.6%'
+- `s0511`
+  - RU: 'корзина'
+  - EN: 'cart'
+- `s0512`
+  - RU: '0,49%'
+  - EN: '0.49%'
+- `s0513`
+  - RU: 'покупка'
+  - EN: 'purchase'
+- `s0514`
+  - RU: '0,26%'
+  - EN: '0.26%'
+- `s0515`
+  - RU: 'Условие сравнения'
+  - EN: 'Test condition'
+- `s0516`
+  - RU: 'CR ГК %'
+  - EN: 'CR WTB %'
+- `s0517`
+  - RU: 'CR% корзина / покупка*'
+  - EN: 'CR% cart / purchase*'
+- `s0518`
+  - RU: '**Вывод из теста:** новые креативы лучше раскрывают [[ситуацию и приводят к «Где купить», но финальную покупку пока лучше удерживает старый узнаваемый код]].'
+  - EN: '**Test takeaway:** new creatives show [[the situation better and drive “Where to buy” clicks, but the familiar old code still does better on final purchase for now]].'
+- `s0519`
+  - RU: 'лучший вход'
+  - EN: 'best hook'
+- `s0520`
+  - RU: '2,64 '
+  - EN: '2.64 '
+- `s0521`
+  - RU: '1,4 '
+  - EN: '1.4 '
+- `s0522`
+  - RU: '0,29 '
+  - EN: '0.29 '
+- `s0523`
+  - RU: 'сценарий действия'
+  - EN: 'drives action'
+- `s0524`
+  - RU: '1,30 '
+  - EN: '1.30 '
+- `s0525`
+  - RU: '1,9 '
+  - EN: '1.9 '
+- `s0526`
+  - RU: '0,62 '
+  - EN: '0.62 '
+- `s0527`
+  - RU: 'пересборка'
+  - EN: 'needs rework'
+- `s0528`
+  - RU: '1,16 '
+  - EN: '1.16 '
+- `s0529`
+  - RU: '1,2 '
+  - EN: '1.2 '
+- `s0530`
+  - RU: 'Инсайты и доработка 2027'
+  - EN: 'Insights & 2027 refinements'
+- `s0531`
+  - RU: '**2027:** мама + ребёнок → конкретный момент проблемы → заметная упаковка Боботик → следующий шаг'
+  - EN: '**2027:** mom + baby → a specific problem moment → visible\xa0Bobotic\xa0pack → next step'
+- `s0532`
+  - RU: '**Колики дают лучший контакт:** сюжет быстро считывается как ключевая проблема мамы и лучше удерживает внимание'
+  - EN: '**Colic connects best:** the story reads instantly as mom’s key problem and holds attention better'
+- `s0533`
+  - RU: '→ Делаем колики главным первым кадром'
+  - EN: '→ Make colic the opening shot'
+- `s0534`
+  - RU: 'Животик, плач/беспокойство, реакции мамы и продукт рядом — ситуация считывается до чтения текста'
+  - EN: 'Tummy, crying/fussing, mom’s reactions, product nearby — the situation reads before any text'
+- `s0535`
+  - RU: '**Кормление ведет к действию:** контекст применения ближе к моменту выбора и помогает перевести интерес в аптечный сценарий'
+  - EN: '**Feeding leads to action:** the usage context is closer to the moment of choice and helps move interest to the pharmacy'
+- `s0536`
+  - RU: '→ Показываем применение как ритуал'
+  - EN: '→ Show use as a ritual'
+- `s0537`
+  - RU: 'Ложка / бутылочка / кормление как бытовой момент, где Боботик встроен в заботу, а не появляется только в packshot'
+  - EN: 'Spoon / bottle / feeding as an everyday moment where Bobotic is part of care, not just a packshot'
+- `s0538`
+  - RU: '**Сон требует пересборки:** ночной сюжет вызывает интерес, но нуждается в более ясном пути от тревоги к решению'
+  - EN: '**Sleep needs a rework:** the night story sparks interest but needs a clearer path from worry to solution'
+- `s0539`
+  - RU: '→ Пересобрать «ночной сюжет»'
+  - EN: '→ Rework the “night story”'
+- `s0540`
+  - RU: 'Не просто «колики мешают сну», а путь семьи: тревожная ночь → помощь → спокойствие ребёнка и родителей'
+  - EN: 'More than “colic ruins sleep”: the family’s story — anxious night → help → a calm baby and calm parents'
+- `s0541`
+  - RU: '[[→]] Делаем колики главным первым кадром'
+  - EN: '[[→]] Make colic the opening shot'
+- `s0542`
+  - RU: '[[→]] Показываем применение как ритуал'
+  - EN: '[[→]] Show use as a ritual'
+- `s0543`
+  - RU: '[[→]] Пересобрать «ночной сюжет»'
+  - EN: '[[→]] Rework the “night story”'
+- `s0544`
+  - RU: 'Источник: статистика кампании Боботик, август 2026; Review 1H’26. ГК = «Где купить». *Корзина/покупка — транзакционные запросы apteka.ru.'
+  - EN: 'Source: Bobotic campaign stats, August 2026; Review 1H’26. WTB = “Where to buy”. *Cart/purchase: apteka.ru transaction data.'
+
+## Slide 19
+
+- `s0545`
+  - RU: 'Календарь 2027: постоянно находим новые аудитории в коротком окне выбора'
+  - EN: '2027 calendar: always finding new audiences in the short choice window'
+- `s0546`
+  - RU: 'и масштабируем доказанные comprehensive-связки'
+  - EN: 'and scaling proven Comprehensive combinations'
+- `s0547`
+  - RU: 'ПРИНЦИП КАЛЕНДАРЯ'
+  - EN: 'CALENDAR PRINCIPLE'
+- `s0548`
+  - RU: 'Каждый месяц перехватываем новые когорты мам в окне выбора после 28 дней жизни ребёнка. Флайты усиливают охват там, где поисковый спрос и давление конкурентов дают дополнительный сигнал, но не являются единственным основанием для присутствия'
+  - EN: 'Every month we catch new cohorts of moms in the choice window after the baby’s first 28 days. Flights add reach where search demand and competitor pressure give an extra signal, but these signals are not the only reason to be on air'
+- `s0549`
+  - RU: 'Летние пики повторяются, но не доказаны как стабильная сезонность. Дети рождаются круглый год — окно релевантности постоянно обновляется'
+  - EN: 'Summer peaks recur, but stable seasonality isn’t proven. Babies are born year-round, so the relevance window keeps reopening'
+- `s0550`
+  - RU: 'В июле виден всплеск поискового интереса; конкуренты усиливают активность весной–летом. Поэтому первый Sprint начинаем заранее с мая'
+  - EN: 'Search interest spikes in July; competitors step up in spring–summer. So the first Sprint starts early, in May'
+- `s0551`
+  - RU: 'Reach 1+ / эффективный охват / VTR/CTR → Brand\xa0Search → BLS → CR\xa0«Где купить» / e-pharm → Sales\xa0Lift'
+  - EN: 'Reach 1+ / effective reach / VTR/CTR → Brand\xa0Search → BLS → CR\xa0“Where to buy” / e-pharm → Sales\xa0Lift'
+- `s0552`
+  - RU: 'Paid Search / GEO&AEO / ORM occasion-based / Внешние публикации'
+  - EN: 'Paid Search / GEO&AEO / ORM occasion-based / External publications'
+- `s0553`
+  - RU: 'перераспределение бюджета в наиболее эффективные решения без OLV'
+  - EN: 'budget moved to the best performers, without OLV'
+- `s0554`
+  - RU: 'ПОЧЕМУ НЕ ЖЁСТКАЯ СЕЗОННОСТЬ'
+  - EN: 'WHY NOT RIGID SEASONALITY'
+- `s0555`
+  - RU: 'ПОЧЕМУ УСИЛИВАЕМ ЛЕТОМ'
+  - EN: 'WHY WE BOOST IN SUMMER'
+- `s0556`
+  - RU: 'ЧТО ФИКСИРУЕМ В DECISION GATE'
+  - EN: 'WHAT THE DECISION GATE TRACKS'
+
+## Slide 20
+
+- `s0557`
+  - RU: 'Боботик 2027: от первого контакта к выбору и покупке — четыре роли инвестиций в единой системе'
+  - EN: 'Bobotic 2027: from first contact to choice and purchase — four investment roles in one system'
+- `s0558`
+  - RU: 'Создаём знание о бренде → попадаем в момент потребности →\nусиливаем доверие → превращаем интерес в покупку'
+  - EN: 'We build brand awareness → hit the moment of need →\nstrengthen trust → turn interest into purchase'
+- `s0559`
+  - RU: 'ПУТЬ МАМЫ К ВЫБОРУ БОБОТИКА'
+  - EN: 'MOM’S PATH TO BOBOTIC'
+- `s0560`
+  - RU: 'УЗНАТЬ'
+  - EN: 'DISCOVER'
+- `s0561`
+  - RU: 'о бренде'
+  - EN: 'the brand'
+- `s0562`
+  - RU: 'УЗНАТЬ СЕБЯ'
+  - EN: 'RECOGNIZE'
+- `s0563`
+  - RU: 'в ситуации'
+  - EN: 'her situation'
+- `s0564`
+  - RU: 'ДОВЕРИТЬСЯ'
+  - EN: 'TRUST'
+- `s0565`
+  - RU: 'при выборе'
+  - EN: 'when choosing'
+- `s0566`
+  - RU: 'КУПИТЬ'
+  - EN: 'BUY'
+- `s0567`
+  - RU: 'подходящее решение'
+  - EN: 'the right solution'
+- `s0568`
+  - RU: 'AI Visibility + Paid Search + релевантные посадочные страницы'
+  - EN: 'AI Visibility + Paid Search + relevant landing pages'
+- `s0569`
+  - RU: 'Создаём знание о Боботике до активного поиска решения через концентрированный видеоконтакт в ядре ЦА.'
+  - EN: 'We build Bobotic awareness before active search starts, with concentrated video exposure in the core TA.'
+- `s0570`
+  - RU: 'Находим маму в коротком окне потребности и переводим знание в рассмотрение бренда через релевантное ситуации сообщение.'
+  - EN: 'We find mom in the short window of need and turn awareness into consideration with a message that fits her situation.'
+- `s0571`
+  - RU: 'Усиливаем доверие через узнаваемые жизненные истории и личный опыт авторов. Добавляем эмоциональный и социальный контекст в релевантной жизненной ситуации.'
+  - EN: 'We build trust through relatable life stories and creators’ personal experience, adding emotional and social context in a relevant real-life situation.'
+- `s0572`
+  - RU: 'Перехватываем сформированный интерес, помогаем обосновать выбор и сокращаем путь от поиска решения до покупки.'
+  - EN: 'We capture existing interest, help justify the choice and shorten the path from search to purchase.'
+- `s0573`
+  - RU: 'Поддержка:'
+  - EN: 'Support:'
+- `s0574`
+  - RU: 'Не четыре независимых канала, а единая система: от формирования знания и релевантного контакта до обоснованного выбора и покупки Боботика.'
+  - EN: 'Not four separate channels — one system: from awareness and relevant contact to an informed choice and purchase of Bobotic.'
+
+## Slide 21
+
+- `s0575`
+  - RU: 'Боботик 2027: архитектура кампании vs 2026'
+  - EN: 'Bobotic 2027: campaign architecture vs 2026'
+- `s0576`
+  - RU: 'Дополнительный бюджет инвестируем не в пропорциональное увеличение медиа-веса, а в 3 новые возможности: создать новый качественный контакт → точнее найти маму → довести до выбора и покупки'
+  - EN: 'We invest the extra budget in 3 new opportunities rather than a proportional rise in media weight: add\xa0new quality exposure → find mom more precisely → lead her to choice and purchase'
+- `s0577`
+  - RU: 'млн ₽*'
+  - EN: 'RUB M*'
+- `s0578`
+  - RU: 'широкие сегменты + захват существующего спроса'
+  - EN: 'broad segments + capturing existing demand'
+- `s0579`
+  - RU: 'новый качественный охват + precise targeting + управляемый путь к покупке'
+  - EN: 'new quality reach + precise targeting + a managed path to purchase'
+- `s0580`
+  - RU: '4,6 млн ₽'
+  - EN: 'RUB 4.6M'
+- `s0581`
+  - RU: 'Концентрированный видео-контакт в ядре ЦА на эффективной частоте с персонализацией'
+  - EN: 'Concentrated, personalized video exposure in the core TA at effective frequency'
+- `s0582`
+  - RU: '5,3 млн ₽'
+  - EN: 'RUB 5.3M'
+- `s0583`
+  - RU: 'Присутствие в медиапространстве через широкие сегменты интересов'
+  - EN: 'Media presence via broad interest segments'
+- `s0584`
+  - RU: '3,3 млн ₽'
+  - EN: 'RUB 3.3M'
+- `s0585`
+  - RU: 'От широких interest-сегментов → к precise-сигналам'
+  - EN: 'From broad interest segments → to precise signals'
+- `s0586`
+  - RU: '1,3 млн ₽'
+  - EN: 'RUB 1.3M'
+- `s0587`
+  - RU: 'Формирование дополнительного доверия к бренду через авторитетную коммуникацию'
+  - EN: 'Building extra brand trust through authoritative messaging'
+- `s0588`
+  - RU: '1,8 млн ₽'
+  - EN: 'RUB 1.8M'
+- `s0589`
+  - RU: 'Масштабирование успешных коммуникационных подходов после тестирования'
+  - EN: 'Scaling the messaging approaches that worked in testing'
+- `s0590`
+  - RU: '5 млн ₽'
+  - EN: 'RUB 5M'
+- `s0591`
+  - RU: 'Перехват спроса, присутствие на всех этапах выбора'
+  - EN: 'Capturing demand at every stage of choice'
+- `s0592`
+  - RU: '7,4 млн ₽'
+  - EN: 'RUB 7.4M'
+- `s0593`
+  - RU: 'Доминирование в момент осуществления выбора'
+  - EN: 'Owning the moment of choice'
+- `s0594`
+  - RU: 'КАНАЛЫ'
+  - EN: 'CHANNELS'
+- `s0595`
+  - RU: 'ОККЕЙЖЕНЫ'
+  - EN: 'OCCASIONS'
+- `s0596`
+  - RU: 'Перепробовали все'
+  - EN: 'Tried everything'
+- `s0597`
+  - RU: '+4,6 млн ₽'
+  - EN: '+RUB 4.6M'
+- `s0598`
+  - RU: '−2,0 млн ₽'
+  - EN: '−RUB 2.0M'
+- `s0599`
+  - RU: '+0,5 млн ₽'
+  - EN: '+RUB 0.5M'
+- `s0600`
+  - RU: 'Внешние публикации'
+  - EN: 'External publications'
+- `s0601`
+  - RU: '+2,4 млн ₽'
+  - EN: '+RUB 2.4M'
+- `s0602`
+  - RU: '*Бюджеты тотал представлены с учетом тех костов, АК и РС, бюджеты блоков указаны с АК и РС без учета тех костов. Изменения 2027 vs 2026 по слоям — расчёт OMD'
+  - EN: '*Totals include tech costs, agency commission and ad levy; block budgets include agency commission and ad levy but not tech costs. 2027 vs 2026 changes by layer: OMD calculation'
+
+## Slide 22
+
+- `s0603`
+  - RU: 'OLV как концентрированный слой знания в ядре ЦА'
+  - EN: 'OLV as a focused awareness layer in the core TA'
+- `s0604`
+  - RU: 'Концентрация 75% видеовеса в географии ядра и роста позволяет достичь целевого эффективного охвата внутри регионов, формирующих основной объём продаж и потенциал ускорения'
+  - EN: 'Concentrating 75% of video weight in core and growth regions lets us hit target effective reach in the areas that generate most sales and the potential to accelerate'
+- `s0605`
+  - RU: 'Для выхода на Effective Reach 5+ на уровне 75% при Universe 1,2 млн РФ → 720K (60%) мам в географии продаж ядро + рост необходимо охватить **~540K мам**'
+  - EN: 'To hit 75% Effective Reach 5+ with a national Universe of 1.2M → 720K (60%) moms in core + growth sales regions, we need to reach **~540K moms**'
+- `s0606`
+  - RU: 'Не растягиваем бюджет на весь год; создаём рабочий 3-месячный медиавес.'
+  - EN: 'We don’t spread the budget thin across the year; we build 3 months of effective media weight.'
+- `s0607`
+  - RU: 'Удерживаем частоту 5+ в узкой ЦА, а не просто собираем reach 1+.'
+  - EN: 'We hold 5+ frequency in a narrow TA rather than chasing reach 1+.'
+- `s0608`
+  - RU: 'Получаем базу для BLS и оценки изменения знания.'
+  - EN: 'We get a baseline for BLS and awareness tracking.'
+- `s0609`
+  - RU: 'Май–июль = 3 × 4 недели концентрированного присутствия'
+  - EN: 'May–Jul = 3 × 4 weeks of concentrated presence'
+- `s0610`
+  - RU: 'Единый in-stream слой качественного контакта на эффективной частоте, а также сегментная точность благодаря precision-таргетингу и персонализации по occasion-based ситуациям в рамках AI DSPs'
+  - EN: 'A single in-stream layer of quality exposure at effective frequency, plus segment accuracy via precision targeting and occasion-based personalization within AI DSPs'
+- `s0611`
+  - RU: '**75% ядра ЦА** на эффективной частоте'
+  - EN: '**75% of core TA** at effective frequency'
+- `s0612`
+  - RU: 'От KPI к требуемому медиавесу'
+  - EN: 'From KPIs to required media weight'
+- `s0613`
+  - RU: '≈720 тыс.'
+  - EN: '≈720K'
+- `s0614`
+  - RU: 'мам детей до 1 года'
+  - EN: 'moms of babies under\xa01'
+- `s0615`
+  - RU: '540 тыс.'
+  - EN: '540K'
+- `s0616`
+  - RU: 'мам в контакте 5+'
+  - EN: 'moms reached 5+'
+- `s0617`
+  - RU: '≈13,2 млн'
+  - EN: '≈13.2M'
+- `s0618`
+  - RU: '4,3 млн ₽'
+  - EN: 'RUB 4.3M'
+- `s0619`
+  - RU: 'Почему 12 недель'
+  - EN: 'Why 12 weeks'
+- `s0620`
+  - RU: 'Что покупаем внутри OLV'
+  - EN: 'What we buy within OLV'
+- `s0621`
+  - RU: 'персонализированные occasion-based сообщения'
+  - EN: 'personalized occasion-based messages'
+- `s0622`
+  - RU: 'ближе к моменту потребности + закрепление сообщения'
+  - EN: 'closer to the moment of need + message reinforcement'
+- `s0623`
+  - RU: 'Что получает бренд'
+  - EN: 'What the brand gets'
+- `s0624`
+  - RU: 'OLV = controlled reach layer в ядре ЦА\n3 принципа: AI/context signals → relevant occasion → personalized video message'
+  - EN: 'OLV = controlled reach layer in the core TA\n3 principles: AI/context signals → relevant occasion → personalized video message'
+
+## Slide 23
+
+- `s0625`
+  - RU: 'Боботик 2027: 1 master-концепция 15 сек + 3 occasion-based адаптации'
+  - EN: 'Bobotic 2027: one 15-sec master concept + 3 occasion-based adaptations'
+- `s0626`
+  - RU: 'Единый визуальный каркас ролика, персонализация через первые/ключевые секунды и озвучку под occasion'
+  - EN: 'One visual framework; the first/key seconds and voiceover are tailored to each occasion'
+- `s0627`
+  - RU: '1. Колики'
+  - EN: '1. Colic'
+- `s0628`
+  - RU: '2. Кормление'
+  - EN: '2. Feeding'
+- `s0629`
+  - RU: '3. Сон'
+  - EN: '3. Sleep'
+- `s0630`
+  - RU: '1 master-концепция 15 сек'
+  - EN: 'One 15-sec master concept'
+- `s0631`
+  - RU: 'Единый визуальный бренд-каркас ролика.'
+  - EN: 'One visual brand framework for the video.'
+- `s0632`
+  - RU: 'Первые / ключевые секунды + озвучка'
+  - EN: 'First / key seconds + voiceover'
+- `s0633`
+  - RU: 'Создают 3 occasion-based адаптации внутри OLV.'
+  - EN: 'Create 3 occasion-based adaptations within OLV.'
+- `s0634`
+  - RU: 'Персонализация начинается с узнавания ситуации'
+  - EN: 'Personalization starts with a familiar situation'
+- `s0635`
+  - RU: 'Точный вход в occasion с первых секунд.'
+  - EN: 'Hits the occasion from the first seconds.'
+- `s0636`
+  - RU: 'НОВОЕ КАЧЕСТВО ДЛЯ БОБОТИКА'
+  - EN: 'A STEP UP FOR BOBOTIC'
+- `s0637`
+  - RU: 'Не просто разные финальные кадры, а управляемая персонализация входа в ролик'
+  - EN: 'Beyond different end frames: managed personalization of how the video opens'
+
+## Slide 24
+
+- `s0638`
+  - RU: 'Precise targeting: как попасть в короткое окно релевантности'
+  - EN: 'Precise targeting: how to hit the short relevance window'
+- `s0639`
+  - RU: 'От раннего знания к выбору: персонализация на основе данных, сигналов и реальных потребностей мам в разные периоды'
+  - EN: 'From early awareness to choice: personalization built on data, signals and moms’ real needs at each\xa0stage'
+- `s0640`
+  - RU: 'мамы новорожденных (с рождения)'
+  - EN: 'moms of newborns (from\xa0birth)'
+- `s0641`
+  - RU: 'согласно инструкции — с 28-го дня'
+  - EN: 'per the label — from\xa0day\xa028'
+- `s0642`
+  - RU: 'Персонализация:'
+  - EN: 'Personalization:'
+- `s0643`
+  - RU: 'креатив'
+  - EN: 'creative'
+- `s0644`
+  - RU: 'поисковые запросы и симптоматика'
+  - EN: 'search queries and symptoms'
+- `s0645`
+  - RU: 'контент про колики / кормление / сон'
+  - EN: 'content on colic / feeding\xa0/\xa0sleep'
+- `s0646`
+  - RU: 'обсуждения в сети'
+  - EN: 'online discussions'
+- `s0647`
+  - RU: 'поведение в e-pharm и на маркетплейсах'
+  - EN: 'behavior on e-pharm and marketplaces'
+- `s0648`
+  - RU: 'SMS-сообщения'
+  - EN: 'SMS messages'
+- `s0649`
+  - RU: 'super geo: посещение роддома 3+ дня без перерыва'
+  - EN: 'super geo: 3+ days in a row at a maternity hospital'
+- `s0650`
+  - RU: 'paid data и DMP / DSP-сегменты'
+  - EN: 'paid data and DMP / DSP segments'
+- `s0651`
+  - RU: 'retail-сигналы'
+  - EN: 'retail signals'
+- `s0652`
+  - RU: 'AI look-alike на базе occasion-based enrichment'
+  - EN: 'AI look-alike built on occasion-based enrichment'
+- `s0653`
+  - RU: 'CTR и quality visits'
+  - EN: 'CTR and quality visits'
+- `s0654`
+  - RU: 'CR / клик по кнопке «Где купить»'
+  - EN: 'CR / “Where to buy” button\xa0clicks'
+- `s0655`
+  - RU: 'Исходные вводные'
+  - EN: 'Starting inputs'
+- `s0656`
+  - RU: 'Сигналы потребности'
+  - EN: 'Need signals'
+- `s0657`
+  - RU: 'Обогащение аудиторий'
+  - EN: 'Audience enrichment'
+- `s0658`
+  - RU: 'Где можно тестировать таргетинги'
+  - EN: 'Where to test targeting'
+- `s0659`
+  - RU: 'AI-кластеры'
+  - EN: 'AI clusters'
+- `s0660`
+  - RU: 'ретейл-данные по покупкам товаров с коротким окном потребления (одежда 50–62, подгузники XS–M и др.)'
+  - EN: 'retail data on items babies quickly outgrow (clothing sizes 50–62, diapers XS–M, etc.)'
+- `s0661`
+  - RU: 'таргетинг по SMS-сообщениям (поступление маткапитала, пособий)'
+  - EN: 'SMS-based targeting (maternity capital and benefit payments)'
+- `s0662`
+  - RU: 'PIM и First Data'
+  - EN: 'PIM and First Data'
+- `s0663`
+  - RU: 'МегаФон'
+  - EN: 'MegaFon'
+- `s0664`
+  - RU: 'Подтверждаем эффективность подхода и масштабируем в 2027 году'
+  - EN: 'We prove the approach works and scale it in\xa02027'
+- `s0665`
+  - RU: 'AI/data сегменты'
+  - EN: 'AI/data segments'
+- `s0666`
+  - RU: 'тест узкого age targeting'
+  - EN: 'narrow age targeting test'
+- `s0667`
+  - RU: 'первые audience enrichment / look-alike'
+  - EN: 'first audience enrichment / look-alike'
+- `s0668`
+  - RU: 'ПОЧЕМУ ЭТО ВАЖНО'
+  - EN: 'WHY IT MATTERS'
+- `s0669`
+  - RU: 'В категории колик выигрывает тот, кто встречает маму ближе к моменту возникновения проблемы — и сопровождает ее на всем пути: от первых вопросов до осознанного выбора'
+  - EN: 'In colic, the winner is the brand that reaches mom closest to when the problem starts — and stays with her all the way, from first questions to an informed choice'
+- `s0670`
+  - RU: 'Precise targeting: механика теста сегментов и бизнес-обоснование'
+  - EN: 'Precise targeting: segment test mechanics and business case'
+- `s0671`
+  - RU: '**Узкая ЦА:** мамы новорожденных и мамы 1–12 мес.'
+  - EN: '**Narrow TA:** moms of newborns and babies 1–12 mo.'
+- `s0672`
+  - RU: '**Короткое окно возможности:** контакт важен именно в период колик'
+  - EN: '**Short window of opportunity:** contact matters most during colic'
+- `s0673`
+  - RU: '**Разные типы таргетинга дают** разную точность попадания в нужный момент'
+  - EN: '**Targeting types differ** in how precisely they hit the right moment'
+- `s0674`
+  - RU: '**Оцениваем, какие сигналы и типы таргетинга лучше попадают в узкую аудиторию**'
+  - EN: '**We assess which signals and targeting best reach the narrow TA**'
+- `s0675`
+  - RU: 'оцениваем разные типы таргетинга'
+  - EN: 'we compare different targeting types'
+- `s0676`
+  - RU: 'CTR / quality visits / CR «Где купить» / add-to-cart / e-com search / brand search / to buy / Sales Lift'
+  - EN: 'CTR / quality visits / CR “Where to buy” / add-to-cart / e-com search / brand search / to buy / Sales Lift'
+- `s0677`
+  - RU: 'понять, какие типы таргетинга дают наилучшую точность попадания в узкую аудиторию по метрикам demo 5'
+  - EN: 'identify which targeting types hit the narrow audience most accurately on demo 5 metrics'
+- `s0678`
+  - RU: 'Механика теста сегментов / бизнес-обоснование'
+  - EN: 'Segment test mechanics / business case'
+- `s0679`
+  - RU: 'Тест:'
+  - EN: 'Test:'
+- `s0680`
+  - RU: 'Смотрим:'
+  - EN: 'We track:'
+- `s0681`
+  - RU: 'Цель:'
+  - EN: 'Goal:'
+- `s0682`
+  - RU: 'Дополнительное обоснование: кейс смежной категории'
+  - EN: 'Further evidence: a case from an adjacent category'
+- `s0683`
+  - RU: 'По данным кейса клиента смежной категории, тест со сравнением стандартного таргетинга и обогащённой модели сегментации показал, что более точный подход к выявлению сегмента аудитории способен одновременно повысить качество попадания в ЦА и улучшать медийную эффективность. Для нашей задачи это важный аргумент в пользу того, что precise targeting должен рассматриваться не как техническая настройка, а как инструмент повышения качества контакта в коротком окне релевантности.'
+  - EN: 'In a client case from an adjacent category, a test of standard targeting vs an enriched segmentation model showed that identifying the audience segment more precisely can improve both TA hit rate and media efficiency. For us, this is a strong argument for treating precise targeting not as a technical setting but as a way to raise contact quality in the short relevance window.'
+- `s0684`
+  - RU: '+7,1'
+  - EN: '+7.1'
+- `s0685`
+  - RU: ' п.п.'
+  - EN: ' pp'
+- `s0686`
+  - RU: 'Источник: кейс клиента смежной категории, test standard vs enriched targeting, MediaSniper / Mediascope.'
+  - EN: 'Source: client case from an adjacent category, standard vs enriched targeting test, MediaSniper / Mediascope.'
+
+## Slide 25
+
+- `s0687`
+  - RU: 'Блогеры 2027: дополняем ORM/media/AI & Paid Search'
+  - EN: 'Influencers 2027: complementing ORM/media/AI & Paid Search'
+- `s0688`
+  - RU: 'Расширение occasion-based Comprehensive-подхода через доверительный контакт\nв релевантной жизненной ситуации'
+  - EN: 'Extending the occasion-based Comprehensive approach through trusted contact\nin a relevant life situation'
+- `s0689`
+  - RU: 'ЦА: Женщина 20–45 лет с детьми от рождения и до 6–8 месяцев'
+  - EN: 'TA: women 20–45 with babies from birth to 6–8 months'
+- `s0690`
+  - RU: 'Портрет автора под сегмент\nНативный сюжет\nПерсональный продуктовый аргумент'
+  - EN: 'Creator fit for the segment\nNative storyline\nPersonal case for the product'
+- `s0691`
+  - RU: 'VK — ядро\nMAX — тест\nДзен / RUTUBE — контекст и видео'
+  - EN: 'VK — core\nMAX — test\nDzen / RUTUBE — context and video'
+- `s0692`
+  - RU: 'UTM / кликабельная ссылка\nКачество визита\nПереход «Где купить»'
+  - EN: 'UTM / clickable link\nVisit quality\n“Where to buy” clicks'
+- `s0693`
+  - RU: 'Спринт 1: валидируем\nСпринт 2: усиливаем касание с ЦА\nНе масштабируем слабые связки'
+  - EN: 'Sprint 1: validate\nSprint 2: strengthen TA contact\nDon’t scale weak combinations'
+- `s0694`
+  - RU: 'СЕГМЕНТ'
+  - EN: 'SEGMENT'
+- `s0695`
+  - RU: 'АВТОР + КРЕАТИВ'
+  - EN: 'CREATOR + CREATIVE'
+- `s0696`
+  - RU: 'ПЛОЩАДКА'
+  - EN: 'PLATFORM'
+- `s0697`
+  - RU: '2027: Telegram и YouTube не закладываем в медиаплан'
+  - EN: '2027: no Telegram or YouTube in the media plan'
+- `s0698`
+  - RU: 'ФАС обозначила переходный период для рекламы на этих ресурсах только до конца 2026 года. Альтернативы ниже позволяют сохранять кликабельную ссылку и post-click измерение.'
+  - EN: 'The FAS transition period for ads on these platforms runs only until the end of 2026. The alternatives below keep a clickable link and post-click measurement.'
+- `s0699`
+  - RU: 'РЕКОМЕНДУЕМЫЙ СПЛИТ ПЛОЩАДОК'
+  - EN: 'RECOMMENDED PLATFORM SPLIT'
+- `s0700`
+  - RU: '**Отбираем авторов** по соответствию конкретному оккейжену, естественности опыта и способности дать измеримый переход'
+  - EN: '**We select creators** by occasion fit, authentic experience and ability to drive measurable clicks'
+- `s0701`
+  - RU: 'Основной охват + видео/посты. В форматах без внешнего клика — связка с кликабельным постом.'
+  - EN: 'Main reach + videos/posts. Formats without an outbound click are paired with a clickable post.'
+- `s0702`
+  - RU: 'Тест новой площадки: тематические каналы, видео/пост, встроенные внешние ссылки.'
+  - EN: 'New platform test: themed channels, video/post, embedded external links.'
+- `s0703`
+  - RU: 'Нативные разборы и рутины; длинный контакт + прямой переход на бренд/аптеку.'
+  - EN: 'Native explainers and routines; long dwell time + direct click to brand/pharmacy.'
+- `s0704`
+  - RU: 'Видео у авторов и тематические размещения; ссылка в описании/сопровождающем материале.'
+  - EN: 'Creator videos and themed placements; link in the description/accompanying content.'
+- `s0705`
+  - RU: 'Дзен'
+  - EN: 'Dzen'
+- `s0706`
+  - RU: 'подписчиков'
+  - EN: 'followers'
+- `s0707`
+  - RU: 'ожидаемый охват'
+  - EN: 'expected reach'
+- `s0708`
+  - RU: '813 тыс.'
+  - EN: '813K'
+- `s0709`
+  - RU: '100 тыс.'
+  - EN: '100K'
+- `s0710`
+  - RU: '18 тыс.'
+  - EN: '18K'
+- `s0711`
+  - RU: '10 тыс.'
+  - EN: '10K'
+- `s0712`
+  - RU: '460,9 тыс.'
+  - EN: '460.9K'
+- `s0713`
+  - RU: 'Виктория Касимова'
+  - EN: 'Viktoriya Kasimova'
+- `s0714`
+  - RU: 'В гости к Наде'
+  - EN: '“Visiting Nadya”'
+- `s0715`
+  - RU: 'Катя Дима'
+  - EN: 'Katya Dima'
+- `s0716`
+  - RU: '120 тыс.'
+  - EN: '120K'
+- `s0717`
+  - RU: '3 оккейжена → персонализированное сообщение → разрешённая площадка → переход → decision gate между двумя спринтами'
+  - EN: '3 occasions → personalized message → permitted platform → click → decision gate between two sprints'
+- `s0718`
+  - RU: 'ФАС России — переходный период по Telegram/YouTube до конца 2026; DIDENOK TEAM / Sostav, август 2026; eLama + Telega.in / Sostav, июнь 2026.'
+  - EN: 'Russian FAS: Telegram/YouTube transition period until end of 2026; DIDENOK TEAM / Sostav, August 2026; eLama + Telega.in / Sostav, June 2026.'
+
+## Slide 26
+
+- `s0719`
+  - RU: 'Paid Search 2027: переход от автономного Performance-канала к составляющей AI Visibility Stream'
+  - EN: 'Paid Search 2027: from a standalone performance channel to part of the AI Visibility Stream'
+- `s0720`
+  - RU: 'Paid Search и SEO синхронизируют семантику; Paid Search-инвестиции снижаются там, где бренд органически силён, и перераспределяются в зоны слабой SEO-видимости'
+  - EN: 'Paid Search and SEO sync their keywords; Paid Search spend drops where the brand is strong organically and shifts to areas of weak SEO visibility'
+- `s0721`
+  - RU: 'СТРУКТУРА СПРОСА'
+  - EN: 'DEMAND STRUCTURE'
+- `s0722`
+  - RU: 'ЛОГИКА КАМПАНИЙ'
+  - EN: 'CAMPAIGN LOGIC'
+- `s0723`
+  - RU: 'ОБЩАЯ ОПТИМИЗИРОВАННАЯ СЕМАНТИКА'
+  - EN: 'COMBINED OPTIMIZED KEYWORDS'
+- `s0724`
+  - RU: 'Доли общего Paid Search контура, 100%'
+  - EN: 'Shares of total Paid Search, 100%'
+- `s0725`
+  - RU: '34,5%'
+  - EN: '34.5%'
+- `s0726`
+  - RU: '38,3%'
+  - EN: '38.3%'
+- `s0727`
+  - RU: '13,7%'
+  - EN: '13.7%'
+- `s0728`
+  - RU: '13,5%'
+  - EN: '13.5%'
+- `s0729`
+  - RU: '**Сплит 2027: [[72,8%]] — основной спрос (категория + бренд/транзакция); 13,7% — конкуренты; 13,5% — общая оптимизированная семантика через РСЯ.**'
+  - EN: '**2027 split: [[72.8%]]\xa0— core demand (category + brand/transactional); 13.7%\xa0— competitors; 13.5%\xa0— combined optimized keywords via YAN (Yandex Advertising Network).**'
+- `s0730`
+  - RU: 'Боботик / купить / капли от колик / газики цена'
+  - EN: 'Bobotic / buy / colic drops / tummy gas price'
+- `s0731`
+  - RU: 'колики / газики / средство от колик'
+  - EN: 'colic / tummy gas / colic remedy'
+- `s0732`
+  - RU: 'Эспумизан Бэби / симетикон / бренды категории'
+  - EN: 'Espumisan Baby / simethicone / category brands'
+- `s0733`
+  - RU: 'бренд / категория / конкуренты / interests + LAL'
+  - EN: 'brand / category / competitors / interests + LAL'
+- `s0734`
+  - RU: 'БРЕНД + ТРАНЗАКЦИОННЫЕ'
+  - EN: 'BRAND + TRANSACTIONAL'
+- `s0735`
+  - RU: 'КАТЕГОРИЯ'
+  - EN: 'CATEGORY'
+- `s0736`
+  - RU: 'КОНКУРЕНТЫ'
+  - EN: 'COMPETITORS'
+- `s0737`
+  - RU: 'ОБЩАЯ ОПТИМИЗИРОВАННАЯ'
+  - EN: 'COMBINED OPTIMIZED KEYWORDS'
+- `s0738`
+  - RU: '**Единая логика:** intent определяет посадочную, а CR / CPA по движению к аптеке определяют оптимизацию.'
+  - EN: '**Shared logic:** intent sets the landing page; CR / CPA on the path to the pharmacy drive optimization.'
+- `s0739`
+  - RU: 'Бренд + транзакционные → аптечная посадочная'
+  - EN: 'Brand + transactional → pharmacy\xa0landing\xa0page'
+- `s0740`
+  - RU: 'Самый короткий путь к покупке: объединяем брендовый и транзакционный спрос и ведём напрямую к аптеке.'
+  - EN: 'Shortest path to purchase: we pool branded and transactional demand and send it straight to pharmacies.'
+- `s0741`
+  - RU: 'Категория + конкуренты → сайт'
+  - EN: 'Category + competitors → site'
+- `s0742`
+  - RU: 'Сначала раскрываем преимущества Боботика и только затем переводим пользователя к блоку аптек / «Где купить».'
+  - EN: 'First we show Bobotic’s benefits, and only then move users on to pharmacies / “Where to buy”.'
+- `s0743`
+  - RU: 'Общая оптимизированная → РСЯ / сайт'
+  - EN: 'Combined keywords → YAN / site'
+- `s0744`
+  - RU: 'Объединяем бренд, категорию, конкурентов и interests/LAL: больше данных для автостратегии и гибкое перераспределение трафика.'
+  - EN: 'We combine brand, category, competitors and interests/LAL: more data for auto-bidding and flexible traffic reallocation.'
+- `s0745`
+  - RU: 'Единая РСЯ: бренд + категория + конкуренты + interests/LAL'
+  - EN: 'Unified YAN: brand + category + competitors + interests/LAL'
+- `s0746`
+  - RU: 'ПОСАДОЧНАЯ'
+  - EN: 'LANDING PAGE'
+- `s0747`
+  - RU: 'Весь трафик РСЯ ведём на сайт: здесь ниже стоимость целевого действия и больше возможностей для post-click оптимизации'
+  - EN: 'All YAN traffic goes to the site: lower CPA and more room for post-click optimization'
+- `s0748`
+  - RU: 'РСЯ → сайт → блок аптек / «Где купить» →\ne-pharm / покупка'
+  - EN: 'YAN → site → pharmacies / “Where to buy” →\ne-pharm / purchase'
+- `s0749`
+  - RU: 'Больше данных для обучения автостратегии'
+  - EN: 'More data to train auto-bidding'
+- `s0750`
+  - RU: 'Быстрее выход из периода обучения'
+  - EN: 'Faster exit from the learning phase'
+- `s0751`
+  - RU: 'Алгоритм перераспределяет показы туда, где целевое действие дешевле'
+  - EN: 'The algorithm shifts impressions to where conversions cost less'
+- `s0752`
+  - RU: 'Не переводим РСЯ напрямую в аптеки, даём доп. контент на персонализированных посадочных страницах'
+  - EN: 'We don’t send YAN traffic straight to pharmacies — personalized landing pages add content first'
+- `s0753`
+  - RU: 'Зачем объединяем'
+  - EN: 'Why combine'
+- `s0754`
+  - RU: 'CR / CPA «Где купить + аптеки / покупка» + quality visits → perso-LPs/e-pharm'
+  - EN: 'CR / CPA “Where to buy + pharmacies / purchase” + quality visits → perso-LPs/e-pharm'
+
+## Slide 27
+
+- `s0755`
+  - RU: 'БЮДЖЕТНЫЙ СПЛИТ'
+  - EN: 'BUDGET SPLIT'
+- `s0756`
+  - RU: '17,1M'
+  - EN: '17.1M'
+- `s0757`
+  - RU: '1,9M'
+  - EN: '1.9M'
+- `s0758`
+  - RU: '6,56M'
+  - EN: '6.56M'
+- `s0759`
+  - RU: '9,6M'
+  - EN: '9.6M'
+- `s0760`
+  - RU: '225 тыс.'
+  - EN: '225K'
+- `s0761`
+  - RU: '44 тыс.'
+  - EN: '44K'
+- `s0762`
+  - RU: '1,2 тыс.'
+  - EN: '1.2K'
+- `s0763`
+  - RU: 'ORM + внешние публикации'
+  - EN: 'ORM + external publications'
+- `s0764`
+  - RU: 'Отзывы, обзоры, Q&A, дискуссии'
+  - EN: 'Reviews, write-ups, Q&A, threads'
+- `s0765`
+  - RU: 'GEO-оптимизация под AI-ответы'
+  - EN: 'GEO optimization for AI answers'
+- `s0766`
+  - RU: 'ЭТАП'
+  - EN: 'STAGE'
+- `s0767`
+  - RU: 'КАНАЛ'
+  - EN: 'CHANNEL'
+- `s0768`
+  - RU: 'ПОСТАВЩИКИ'
+  - EN: 'VENDORS'
+- `s0769`
+  - RU: 'ФОРМАТ'
+  - EN: 'FORMAT'
+- `s0770`
+  - RU: 'БЮДЖЕТ'
+  - EN: 'BUDGET'
+- `s0771`
+  - RU: '4,6M'
+  - EN: '4.6M'
+- `s0772`
+  - RU: '3,3M'
+  - EN: '3.3M'
+- `s0773`
+  - RU: '1,8M'
+  - EN: '1.8M'
+- `s0774`
+  - RU: '2,9M'
+  - EN: '2.9M'
+- `s0775`
+  - RU: '2,6M'
+  - EN: '2.6M'
+- `s0776`
+  - RU: 'спринт'
+  - EN: 'sprint'
+- `s0777`
+  - RU: 'активный период'
+  - EN: 'active period'
+- `s0778`
+  - RU: 'Бюджет до НДС, включая АК/РС. *Конверсия «Где купить»'
+  - EN: 'Budget excl. VAT, incl. agency commission and ad levy. *“Where to buy” conversions'
+
+## Slide 28
+
+- `s0779`
+  - RU: 'Боботик 2027'
+  - EN: 'Bobotic 2027'
+- `s0780`
+  - RU: 'Что даёт рост инвестиций vs 2026'
+  - EN: 'What higher spend vs 2026 delivers'
+- `s0781`
+  - RU: '296 млн ₽'
+  - EN: 'RUB 296M'
+- `s0782`
+  - RU: '13,1 → 19 млн ₽'
+  - EN: 'RUB 13.1M → 19M'
+- `s0783`
+  - RU: '1 млн UU'
+  - EN: '1M UU'
+- `s0784`
+  - RU: 'БИЗНЕС-ЦЕЛЬ 2027'
+  - EN: '2027 BUSINESS GOAL'
+- `s0785`
+  - RU: '705 тыс. упаковок'
+  - EN: '705K units'
+- `s0786`
+  - RU: 'ИНВЕСТИЦИИ'
+  - EN: 'INVESTMENT'
+- `s0787`
+  - RU: '+5,9 млн ₽ / +45% к 2026'
+  - EN: '+RUB 5.9M / +45% vs 2026'
+- `s0788`
+  - RU: 'МАСШТАБ DIGITAL'
+  - EN: 'DIGITAL SCALE'
+- `s0789`
+  - RU: 'охват 80% Universe'
+  - EN: '80% Universe reach'
+- `s0790`
+  - RU: 'OLV КАЧЕСТВО ОХВАТА'
+  - EN: 'OLV REACH QUALITY'
+- `s0791`
+  - RU: '≈540 тыс. мам ядра и роста'
+  - EN: '≈540K moms, core + growth geo'
+- `s0792`
+  - RU: 'Замедлили снижение; долю рынка ещё предстоит восстановить'
+  - EN: 'Slowed the decline; market share has\xa0yet\xa0to\xa0recover'
+- `s0793`
+  - RU: '**OLV** создаёт знание → **precise targeting** находит маму в момент потребности → **блогеры** усиливают доверие → **AI Visibility ecosystem + Paid Search** ведут к выбору и покупке'
+  - EN: '**OLV** builds awareness → **precise targeting** finds mom at the moment of need → **influencers** build trust → **AI Visibility ecosystem + Paid Search** lead to choice and purchase'
+- `s0794`
+  - RU: 'КАК РАБОТАЕТ COMPREHENSIVE В 2027'
+  - EN: 'HOW COMPREHENSIVE WORKS IN 2027'
+- `s0795`
+  - RU: 'ALWAYS-ON: SEARCH · ORM · GEO/AEO · ПУБЛИКАЦИИ'
+  - EN: 'ALWAYS-ON: SEARCH · ORM · GEO/AEO · PUBLICATIONS'
+- `s0796`
+  - RU: 'SPRINT 1 · МАЙ–ИЮЛ'
+  - EN: 'SPRINT 1 · MAY–JUL'
+- `s0797`
+  - RU: 'SPRINT 2 · ОСЕНЬ'
+  - EN: 'SPRINT 2 · FALL'
+- `s0798`
+  - RU: 'AON защищает сформированный спрос и поддерживает выбор круглый год'
+  - EN: 'AON protects existing demand and supports choice all year round'
+- `s0799`
+  - RU: 'Спринт 1: OLV + precise media + блогеры → Decision Gate по BLS, Search, CR «Где купить» и Sales Lift → перераспределение в Sprint 2 без OLV'
+  - EN: 'Sprint 1: OLV + precise media + influencers → Decision Gate on BLS, Search, CR “Where to buy” and Sales Lift → shift to Sprint 2 without OLV'
+- `s0800`
+  - RU: 'ТРИ НОВЫХ ВОЗМОЖНОСТИ ДЛЯ БРЕНДА'
+  - EN: 'THREE NEW BRAND OPPORTUNITIES'
+- `s0801`
+  - RU: '4,5 млн ₽'
+  - EN: 'RUB 4.5M'
+- `s0802`
+  - RU: '3,2 млн ₽'
+  - EN: 'RUB 3.2M'
+- `s0803`
+  - RU: 'видеоконтакт до активного поиска'
+  - EN: 'video exposure before active search'
+- `s0804`
+  - RU: 'точное попадание в окно колик'
+  - EN: 'pinpointing the colic window'
+- `s0805`
+  - RU: 'доверие через жизненные истории'
+  - EN: 'trust through real-life stories'
+- `s0806`
+  - RU: 'КАК ИНВЕСТИЦИИ ПЕРЕВОДЯТ СТАБИЛИЗАЦИЮ В РОСТ'
+  - EN: 'HOW INVESTMENT TURNS STABILIZATION INTO GROWTH'
+- `s0807`
+  - RU: '2026 · СТАБИЛИЗАЦИЯ'
+  - EN: '2026 · STABILIZATION'
+- `s0808`
+  - RU: '2027 · УПРАВЛЯЕМЫЙ РОСТ'
+  - EN: '2027 · MANAGED GROWTH'

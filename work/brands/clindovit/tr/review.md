@@ -1,0 +1,1961 @@
+# Review RU → EN
+
+
+## Slide 0
+
+- `s0000`
+  - RU: 'Clindovit — стратегия 2027 · Акрихин × OMD'
+  - EN: 'Clindovit — 2027 strategy · Akrikhin × OMD'
+- `s0001`
+  - RU: 'Знак Акрихин'
+  - EN: 'Akrikhin logo'
+
+## Slide 1
+
+- `s0002`
+  - RU: 'Акрихин + OMD'
+  - EN: 'Akrikhin + OMD'
+- `s0003`
+  - RU: 'Классификация документа: конфиденциальная информация для внутреннего использования'
+  - EN: 'Document classification: confidential, for internal use only'
+
+## Slide 2
+
+- `s0004`
+  - RU: 'Цели и задачи Клиндовит на 2027 год'
+  - EN: 'Clindovit 2027: goals and objectives'
+- `s0005`
+  - RU: 'Иконка'
+  - EN: 'Icon'
+- `s0006`
+  - RU: 'Бизнес'
+  - EN: 'Business'
+- `s0007`
+  - RU: 'Удержать рынок в упаковках на уровне 2026 года и показать рост в деньгах.'
+  - EN: 'Hold unit sales at the 2026 level and grow in value.'
+- `s0008`
+  - RU: 'Маркетинговая задача'
+  - EN: 'Marketing objective'
+- `s0009`
+  - RU: 'Сохранить позиционирование Клиндовит гель как понятного и доступного решения для легкой и средней степени акне, усиливая его роль в POME.'
+  - EN: 'Keep Clindovit gel positioned as a simple, affordable option for mild to moderate acne, and strengthen its role in POME.'
+- `s0010`
+  - RU: 'Коммуникация'
+  - EN: 'Communication'
+- `s0011`
+  - RU: 'В коммуникации транслировать ключевые УТП бренда: эффективность и антибактериальное действие, удобство благодаря форме геля, а также выгодную цену.'
+  - EN: 'Communicate the brand’s key USPs: efficacy and antibacterial action, a convenient gel form and an attractive price.'
+- `s0012`
+  - RU: 'Бренд-метрики'
+  - EN: 'Brand metrics'
+- `s0013`
+  - RU: 'Рост знания'
+  - EN: 'Awareness'
+- `s0014`
+  - RU: '**[[+2 п.п.]]** до **[[48%]]**'
+  - EN: '**[[+2 pp]]** to **[[48%]]**'
+- `s0015`
+  - RU: 'Рост использования'
+  - EN: 'Usage'
+- `s0016`
+  - RU: '**[[+2 п.п.]]** до **[[25%]]**'
+  - EN: '**[[+2 pp]]** to **[[25%]]**'
+
+## Slide 3
+
+- `s0017`
+  - RU: 'Зеркалин лидирует по digital-бюджетам, делая ставку на Paid Search, тогда как Базирон и Дифферин концентрируются преимущественно на Online Video и удерживают позиции в категории'
+  - EN: 'Zerkalin leads in digital spend, betting on Paid Search, while Basiron and Differin focus mainly on Online Video and hold their ground in the category'
+- `s0018`
+  - RU: 'ДИНАМИКА ИНВЕСТИЦИЙ В DIGITAL-МЕДИА И ПРОДАЖ'
+  - EN: 'DIGITAL MEDIA SPEND AND SALES TRENDS'
+- `s0019`
+  - RU: 'Клиндовит'
+  - EN: 'Clindovit'
+- `s0020`
+  - RU: 'Зеркалин'
+  - EN: 'Zerkalin'
+- `s0021`
+  - RU: 'Базирон'
+  - EN: 'Basiron'
+- `s0022`
+  - RU: 'Дифферин'
+  - EN: 'Differin'
+- `s0023`
+  - RU: 'Продажи, млн\xa0₽'
+  - EN: 'Sales, RUB M'
+- `s0024`
+  - RU: 'Клиндовит — продажи, млн ₽'
+  - EN: 'Clindovit — sales, RUB M'
+- `s0025`
+  - RU: 'Зеркалин — продажи, млн ₽'
+  - EN: 'Zerkalin — sales, RUB M'
+- `s0026`
+  - RU: 'Базирон — продажи, млн ₽'
+  - EN: 'Basiron — sales, RUB M'
+- `s0027`
+  - RU: 'Дифферин — продажи, млн ₽'
+  - EN: 'Differin — sales, RUB M'
+- `s0028`
+  - RU: '30,1'
+  - EN: '30.1'
+- `s0029`
+  - RU: '32,9'
+  - EN: '32.9'
+- `s0030`
+  - RU: '89,6'
+  - EN: '89.6'
+- `s0031`
+  - RU: '47,3'
+  - EN: '47.3'
+- `s0032`
+  - RU: '30,0'
+  - EN: '30.0'
+- `s0033`
+  - RU: '32,5'
+  - EN: '32.5'
+- `s0034`
+  - RU: '82,3'
+  - EN: '82.3'
+- `s0035`
+  - RU: '42,8'
+  - EN: '42.8'
+- `s0036`
+  - RU: '31,2'
+  - EN: '31.2'
+- `s0037`
+  - RU: '35,3'
+  - EN: '35.3'
+- `s0038`
+  - RU: '88,0'
+  - EN: '88.0'
+- `s0039`
+  - RU: '41,6'
+  - EN: '41.6'
+- `s0040`
+  - RU: '32,4'
+  - EN: '32.4'
+- `s0041`
+  - RU: '35,6'
+  - EN: '35.6'
+- `s0042`
+  - RU: '87,0'
+  - EN: '87.0'
+- `s0043`
+  - RU: '43,8'
+  - EN: '43.8'
+- `s0044`
+  - RU: '32,6'
+  - EN: '32.6'
+- `s0045`
+  - RU: '36,9'
+  - EN: '36.9'
+- `s0046`
+  - RU: '88,1'
+  - EN: '88.1'
+- `s0047`
+  - RU: '44,1'
+  - EN: '44.1'
+- `s0048`
+  - RU: '29,8'
+  - EN: '29.8'
+- `s0049`
+  - RU: '36,8'
+  - EN: '36.8'
+- `s0050`
+  - RU: '88,2'
+  - EN: '88.2'
+- `s0051`
+  - RU: '42,1'
+  - EN: '42.1'
+- `s0052`
+  - RU: '33,3'
+  - EN: '33.3'
+- `s0053`
+  - RU: '40,7'
+  - EN: '40.7'
+- `s0054`
+  - RU: '95,7'
+  - EN: '95.7'
+- `s0055`
+  - RU: '45,0'
+  - EN: '45.0'
+- `s0056`
+  - RU: '35,4'
+  - EN: '35.4'
+- `s0057`
+  - RU: '104,9'
+  - EN: '104.9'
+- `s0058`
+  - RU: '55,9'
+  - EN: '55.9'
+- `s0059`
+  - RU: '34,1'
+  - EN: '34.1'
+- `s0060`
+  - RU: '40,3'
+  - EN: '40.3'
+- `s0061`
+  - RU: '101,2'
+  - EN: '101.2'
+- `s0062`
+  - RU: '57,5'
+  - EN: '57.5'
+- `s0063`
+  - RU: '34,6'
+  - EN: '34.6'
+- `s0064`
+  - RU: '38,4'
+  - EN: '38.4'
+- `s0065`
+  - RU: '98,6'
+  - EN: '98.6'
+- `s0066`
+  - RU: '57,3'
+  - EN: '57.3'
+- `s0067`
+  - RU: '33,2'
+  - EN: '33.2'
+- `s0068`
+  - RU: '37,1'
+  - EN: '37.1'
+- `s0069`
+  - RU: '96,7'
+  - EN: '96.7'
+- `s0070`
+  - RU: '55,6'
+  - EN: '55.6'
+- `s0071`
+  - RU: '33,4'
+  - EN: '33.4'
+- `s0072`
+  - RU: '36,4'
+  - EN: '36.4'
+- `s0073`
+  - RU: '105,9'
+  - EN: '105.9'
+- `s0074`
+  - RU: '58,0'
+  - EN: '58.0'
+- `s0075`
+  - RU: '30,8'
+  - EN: '30.8'
+- `s0076`
+  - RU: '32,0'
+  - EN: '32.0'
+- `s0077`
+  - RU: '103,6'
+  - EN: '103.6'
+- `s0078`
+  - RU: '60,6'
+  - EN: '60.6'
+- `s0079`
+  - RU: '31,8'
+  - EN: '31.8'
+- `s0080`
+  - RU: '101,9'
+  - EN: '101.9'
+- `s0081`
+  - RU: '58,7'
+  - EN: '58.7'
+- `s0082`
+  - RU: '33,0'
+  - EN: '33.0'
+- `s0083`
+  - RU: '37,2'
+  - EN: '37.2'
+- `s0084`
+  - RU: '118,9'
+  - EN: '118.9'
+- `s0085`
+  - RU: '68,6'
+  - EN: '68.6'
+- `s0086`
+  - RU: '38,1'
+  - EN: '38.1'
+- `s0087`
+  - RU: '115,8'
+  - EN: '115.8'
+- `s0088`
+  - RU: '66,6'
+  - EN: '66.6'
+- `s0089`
+  - RU: '38,8'
+  - EN: '38.8'
+- `s0090`
+  - RU: '119,8'
+  - EN: '119.8'
+- `s0091`
+  - RU: '68,3'
+  - EN: '68.3'
+- `s0092`
+  - RU: 'Доля продаж, %'
+  - EN: 'Sales share, %'
+- `s0093`
+  - RU: '4,0'
+  - EN: '4.0'
+- `s0094`
+  - RU: '3,8'
+  - EN: '3.8'
+- `s0095`
+  - RU: '3,9'
+  - EN: '3.9'
+- `s0096`
+  - RU: '3,7'
+  - EN: '3.7'
+- `s0097`
+  - RU: '3,5'
+  - EN: '3.5'
+- `s0098`
+  - RU: '3,4'
+  - EN: '3.4'
+- `s0099`
+  - RU: '3,2'
+  - EN: '3.2'
+- `s0100`
+  - RU: '4,4'
+  - EN: '4.4'
+- `s0101`
+  - RU: '4,3'
+  - EN: '4.3'
+- `s0102`
+  - RU: '4,5'
+  - EN: '4.5'
+- `s0103`
+  - RU: '4,8'
+  - EN: '4.8'
+- `s0104`
+  - RU: '4,2'
+  - EN: '4.2'
+- `s0105`
+  - RU: '3,6'
+  - EN: '3.6'
+- `s0106`
+  - RU: '12,0'
+  - EN: '12.0'
+- `s0107`
+  - RU: '11,1'
+  - EN: '11.1'
+- `s0108`
+  - RU: '10,9'
+  - EN: '10.9'
+- `s0109`
+  - RU: '10,5'
+  - EN: '10.5'
+- `s0110`
+  - RU: '10,7'
+  - EN: '10.7'
+- `s0111`
+  - RU: '10,8'
+  - EN: '10.8'
+- `s0112`
+  - RU: '11,2'
+  - EN: '11.2'
+- `s0113`
+  - RU: '11,3'
+  - EN: '11.3'
+- `s0114`
+  - RU: '11,0'
+  - EN: '11.0'
+- `s0115`
+  - RU: '11,6'
+  - EN: '11.6'
+- `s0116`
+  - RU: '11,9'
+  - EN: '11.9'
+- `s0117`
+  - RU: '11,5'
+  - EN: '11.5'
+- `s0118`
+  - RU: '6,3'
+  - EN: '6.3'
+- `s0119`
+  - RU: '5,8'
+  - EN: '5.8'
+- `s0120`
+  - RU: '5,1'
+  - EN: '5.1'
+- `s0121`
+  - RU: '5,3'
+  - EN: '5.3'
+- `s0122`
+  - RU: '5,4'
+  - EN: '5.4'
+- `s0123`
+  - RU: '5,2'
+  - EN: '5.2'
+- `s0124`
+  - RU: '6,0'
+  - EN: '6.0'
+- `s0125`
+  - RU: '6,4'
+  - EN: '6.4'
+- `s0126`
+  - RU: '6,2'
+  - EN: '6.2'
+- `s0127`
+  - RU: '7,0'
+  - EN: '7.0'
+- `s0128`
+  - RU: '6,6'
+  - EN: '6.6'
+- `s0129`
+  - RU: '6,7'
+  - EN: '6.7'
+- `s0130`
+  - RU: 'Digital-бюджет, млн ₽'
+  - EN: 'Digital budget, RUB M'
+- `s0131`
+  - RU: '0,29'
+  - EN: '0.29'
+- `s0132`
+  - RU: '0,22'
+  - EN: '0.22'
+- `s0133`
+  - RU: '0,19'
+  - EN: '0.19'
+- `s0134`
+  - RU: '0,35'
+  - EN: '0.35'
+- `s0135`
+  - RU: '0,40'
+  - EN: '0.40'
+- `s0136`
+  - RU: '0,16'
+  - EN: '0.16'
+- `s0137`
+  - RU: '0,21'
+  - EN: '0.21'
+- `s0138`
+  - RU: '0,20'
+  - EN: '0.20'
+- `s0139`
+  - RU: '1,20'
+  - EN: '1.20'
+- `s0140`
+  - RU: '0,46'
+  - EN: '0.46'
+- `s0141`
+  - RU: '0,11'
+  - EN: '0.11'
+- `s0142`
+  - RU: '0,14'
+  - EN: '0.14'
+- `s0143`
+  - RU: '0,10'
+  - EN: '0.10'
+- `s0144`
+  - RU: '0,12'
+  - EN: '0.12'
+- `s0145`
+  - RU: '0,09'
+  - EN: '0.09'
+- `s0146`
+  - RU: '0,01'
+  - EN: '0.01'
+- `s0147`
+  - RU: '0,38'
+  - EN: '0.38'
+- `s0148`
+  - RU: '0,73'
+  - EN: '0.73'
+- `s0149`
+  - RU: '1,97'
+  - EN: '1.97'
+- `s0150`
+  - RU: '0,63'
+  - EN: '0.63'
+- `s0151`
+  - RU: '0,85'
+  - EN: '0.85'
+- `s0152`
+  - RU: '0,24'
+  - EN: '0.24'
+- `s0153`
+  - RU: '0,39'
+  - EN: '0.39'
+- `s0154`
+  - RU: '0,08'
+  - EN: '0.08'
+- `s0155`
+  - RU: '0,42'
+  - EN: '0.42'
+- `s0156`
+  - RU: '0,18'
+  - EN: '0.18'
+- `s0157`
+  - RU: '1,36'
+  - EN: '1.36'
+- `s0158`
+  - RU: '1,59'
+  - EN: '1.59'
+- `s0159`
+  - RU: '1,66'
+  - EN: '1.66'
+- `s0160`
+  - RU: '0,48'
+  - EN: '0.48'
+- `s0161`
+  - RU: '0,93'
+  - EN: '0.93'
+- `s0162`
+  - RU: '1,67'
+  - EN: '1.67'
+- `s0163`
+  - RU: '1,47'
+  - EN: '1.47'
+- `s0164`
+  - RU: '0,70'
+  - EN: '0.70'
+- `s0165`
+  - RU: '0,03'
+  - EN: '0.03'
+- `s0166`
+  - RU: '0,02'
+  - EN: '0.02'
+- `s0167`
+  - RU: '0,04'
+  - EN: '0.04'
+- `s0168`
+  - RU: '0,05'
+  - EN: '0.05'
+- `s0169`
+  - RU: '0,06'
+  - EN: '0.06'
+- `s0170`
+  - RU: '0,07'
+  - EN: '0.07'
+- `s0171`
+  - RU: '0,00'
+  - EN: '0.00'
+- `s0172`
+  - RU: 'янв'
+  - EN: 'Jan'
+- `s0173`
+  - RU: 'фев'
+  - EN: 'Feb'
+- `s0174`
+  - RU: 'мар'
+  - EN: 'Mar'
+- `s0175`
+  - RU: 'апр'
+  - EN: 'Apr'
+- `s0176`
+  - RU: 'май'
+  - EN: 'May'
+- `s0177`
+  - RU: 'июн'
+  - EN: 'Jun'
+- `s0178`
+  - RU: 'июл'
+  - EN: 'Jul'
+- `s0179`
+  - RU: 'авг'
+  - EN: 'Aug'
+- `s0180`
+  - RU: 'сен'
+  - EN: 'Sep'
+- `s0181`
+  - RU: 'окт'
+  - EN: 'Oct'
+- `s0182`
+  - RU: 'ноя'
+  - EN: 'Nov'
+- `s0183`
+  - RU: 'дек'
+  - EN: 'Dec'
+- `s0184`
+  - RU: 'ДОЛЯ ИНВЕСТИЦИЙ ПО КАНАЛАМ'
+  - EN: 'SHARE OF SPEND BY CHANNEL'
+- `s0185`
+  - RU: 'Доля инвестиций по каналам'
+  - EN: 'Share of spend by channel'
+- `s0186`
+  - RU: '16,4 млн ₽'
+  - EN: 'RUB 16.4M'
+- `s0187`
+  - RU: '4,9 млн ₽'
+  - EN: 'RUB 4.9M'
+- `s0188`
+  - RU: '1 млн ₽'
+  - EN: 'RUB 1M'
+- `s0189`
+  - RU: '0,6 млн ₽'
+  - EN: 'RUB 0.6M'
+- `s0190`
+  - RU: 'У Базирона и Дифферина подавляющая доля digital-инвестиций приходится на **Online Video (96% и 94% соответственно)** — это указывает на фокус на охват, знание и прогрев аудитории. Такая стратегия направлена на расширение базы потребителей и формирование первичного интереса к брендам.'
+  - EN: 'Basiron and Differin put the vast majority of their digital spend into **Online Video (96% and 94% respectively)**, which points to a focus on reach, awareness and audience warm-up. The aim is to widen the consumer base and build initial interest in the brands.'
+- `s0191`
+  - RU: 'У лидера категории по бюджету Зеркалина (**7,7\xa0млн\xa0₽**) сплит разделен между **Paid Search (56%)**, Online Video (34%) и Banners (8%), что соответствует перформанс-ориентированной стратегии.'
+  - EN: 'Zerkalin, the category’s biggest spender (**RUB\xa07.7M**), splits its budget between **Paid Search (56%)**, Online Video (34%) and Banners (8%) — a performance-led strategy.'
+- `s0192`
+  - RU: 'В весенне-летний период 2026 года Зеркалин демонстрирует стабильно высокий уровень инвестиций с пиком **в марте (1,66\xa0млн\xa0₽) и июне (1,67\xa0млн\xa0₽)**. При этом Клиндовит сохраняет умеренную, но стабильную медийную активность (**0,1–0,3\xa0млн\xa0₽ в месяц**), поддерживая постоянное присутствие в категории.'
+  - EN: 'In spring and summer 2026, Zerkalin keeps spend consistently high, peaking **in March (RUB\xa01.66M) and June (RUB\xa01.67M)**. Clindovit’s media activity stays moderate but steady (**RUB\xa00.1–0.3M a month**), keeping the brand constantly present in the category.'
+- `s0193`
+  - RU: 'Источник: DigitalBudget, IQVIA. Доля инвестиций по каналам — Estimated by DigitalBudget, not all channels accepted to monitoring. * Бюджет за весь период: январь 2025 – август 2026'
+  - EN: 'Source: DigitalBudget, IQVIA. Share of spend by channel — estimated by DigitalBudget; not all channels are monitored. * Budget for the full period: January 2025 – August 2026'
+
+## Slide 4
+
+- `s0194`
+  - RU: 'Clindovit / OLV & E-COM коммуникации брендов'
+  - EN: 'Clindovit / OLV & E-COM brand communications'
+- `s0195`
+  - RU: 'В OLV бренды фокусируются на эмоциональных креативах под ЦА, в e-com бренды используют размещения на сайтах e-аптек и скидки для стимулирования покупки'
+  - EN: 'In OLV, brands run emotional creatives for their target audience; in e-com, they use online pharmacy placements and discounts to spur purchases'
+- `s0196`
+  - RU: 'Креатив ориентирован на молодую женскую и мужскую аудиторию'
+  - EN: 'Creative aimed at young women and men'
+- `s0197`
+  - RU: 'Зеркалин — видео'
+  - EN: 'Zerkalin — video'
+- `s0198`
+  - RU: 'Кампания с креативом для женской ЦА и упоминанием сайта бренда'
+  - EN: 'Creative for women; mentions the brand website'
+- `s0199`
+  - RU: 'Базирон — видео'
+  - EN: 'Basiron — video'
+- `s0200`
+  - RU: 'Изображение'
+  - EN: 'Image'
+- `s0201`
+  - RU: 'Источник: Mediascope, OLV desktop, eSov, январь 2025 – август 2026'
+  - EN: 'Source: Mediascope, OLV desktop, eSov, January 2025 – August 2026'
+
+## Slide 5
+
+- `s0202`
+  - RU: 'Рынок средств против акне продолжает активно расти'
+  - EN: 'The acne treatment market keeps growing fast'
+- `s0203`
+  - RU: 'рост продаж в деньгах'
+  - EN: 'value sales growth'
+- `s0204`
+  - RU: 'рост продаж в упаковках'
+  - EN: 'unit sales growth'
+- `s0205`
+  - RU: '**В 2025 году**\nк 2024 году'
+  - EN: '**2025**\nvs 2024'
+- `s0206`
+  - RU: 'в деньгах'
+  - EN: 'in value'
+- `s0207`
+  - RU: 'в упаковках'
+  - EN: 'in units'
+- `s0208`
+  - RU: '**Январь–июль 2026 года**\n(к январю–июлю 2025)'
+  - EN: '**January–July 2026**\n(vs January–July 2025)'
+- `s0209`
+  - RU: 'Объём продаж:\nболее **13,1\xa0млрд\xa0₽** и **8\xa0млн\xa0упаковок**.'
+  - EN: 'Total sales:\nover **RUB 13.1 bn** and **8M units**.'
+- `s0210`
+  - RU: 'всех проданных упаковок — местные средства'
+  - EN: 'of all units sold are topical treatments'
+- `s0211`
+  - RU: 'выручки категории приходится на пероральные препараты (системная терапия)'
+  - EN: 'of category value comes from oral drugs (systemic therapy)'
+- `s0212`
+  - RU: 'Москва и Московская область'
+  - EN: 'Moscow and Moscow\xa0Oblast'
+- `s0213`
+  - RU: 'Санкт-Петербург'
+  - EN: 'St. Petersburg'
+- `s0214`
+  - RU: '**ТОП-5** регионов России'
+  - EN: '**Top 5** Russian regions'
+- `s0215`
+  - RU: 'Категория росла\nв 2025 году'
+  - EN: 'The category grew\nin 2025'
+- `s0216`
+  - RU: 'И продолжила рост в 2026'
+  - EN: 'And kept growing in 2026'
+- `s0217`
+  - RU: 'Наружные препараты\nпо-прежнему формируют основу потребления'
+  - EN: 'Topical treatments\nstill lead in volume'
+- `s0218`
+  - RU: 'Рост происходит\nво всех регионах России'
+  - EN: 'Growth across\nall regions of Russia'
+- `s0219`
+  - RU: 'Рынок препаратов от акне показал уверенный рост: спрос увеличился как в денежном выражении, так и в упаковках. Это подтверждает устойчивую актуальность категории и высокий интерес к решениям проблемы акне.'
+  - EN: 'The acne treatment market grew strongly in both value and units. This confirms the category’s lasting relevance and strong interest in treating acne.'
+- `s0220`
+  - RU: 'В январе–июле 2026 года продажи препаратов от акне достигли **13,1\xa0млрд\xa0₽**, что на 28% больше, чем за аналогичный период 2025 года. В натуральном выражении рынок также растёт — на **16%**.'
+  - EN: 'In January–July 2026, acne treatment sales reached **RUB 13.1 bn**, up 28% from the same period of 2025. Volume is growing too — up **16%**.'
+- `s0221`
+  - RU: 'Местные средства остаются самым популярным выбором: на них приходится 69% всех проданных упаковок категории. При этом в денежном выражении более 55% выручки уже формируют системные препараты (пероральные ретиноиды), главным драйвером которых остаётся изотретиноин.'
+  - EN: 'Topical treatments remain the most popular choice, accounting for 69% of all units sold in the category. In value, however, systemic drugs (oral retinoids) already bring in over 55% of revenue, with isotretinoin still the main driver.'
+- `s0222`
+  - RU: 'Спрос на препараты от акне растёт по всей стране — увеличение продаж зафиксировано во всех регионах. Наибольшая доля в денежном выражении приходится на Москву и Московскую область, а также\nСанкт-Петербург, при этом значительная часть рынка формируется и в других регионах.'
+  - EN: 'Demand for acne treatments is growing nationwide, with sales up in every region.\nMoscow and Moscow Oblast, along with St. Petersburg, hold the largest share in value, but other regions also make up a large part of the market.'
+- `s0223`
+  - RU: '~8,5%'
+  - EN: '~8.5%'
+- `s0224`
+  - RU: '**Источник:** RNC Pharma. Рынок препаратов для лечения угревой сыпи в России. 2024, 2025, янв.–июль 2026.'
+  - EN: '**Source:** RNC Pharma. Acne treatment market in Russia. 2024, 2025, Jan–Jul 2026.'
+
+## Slide 6
+
+- `s0225`
+  - RU: 'Потребители активно ищут решения в диджитал и хотят быстрый результат'
+  - EN: 'Consumers actively look for solutions online and want fast results'
+- `s0226`
+  - RU: 'В мире: социальные сети — неотъемлемая часть пути к решению'
+  - EN: 'Worldwide: social media is integral to finding a solution'
+- `s0227`
+  - RU: 'В России: интернет становится частью выбора лекарства'
+  - EN: 'In Russia: the internet is now part of choosing a drug'
+- `s0228`
+  - RU: 'Что говорят люди: ключевые потребности и барьеры'
+  - EN: 'What people say: key needs and barriers'
+- `s0229`
+  - RU: 'Люди с акне активно ищут информацию об уходе и лечении в цифровой среде: читают врачей и блогеров, сравнивают средства, вдохновляются опытом других и принимают реальные решения на основе увиденного.'
+  - EN: 'People with acne actively seek skincare and treatment advice online: they follow doctors and influencers, compare products, draw on others’ experience and make real decisions based on what they see.'
+- `s0230`
+  - RU: 'Российские пользователи всё чаще самостоятельно изучают препараты в интернете, сравнивают варианты и переходят от поиска информации к покупке. Цифровые источники уже работают рядом с врачом и фармацевтом, а также растёт интерес к новым технологиям, включая ИИ.'
+  - EN: 'Russian users increasingly research drugs online on their own, compare options and move from searching to buying. Digital sources now work alongside the doctor and pharmacist, and interest in new technologies, including AI, is growing.'
+- `s0231`
+  - RU: 'В обсуждениях о лечении акне пользователи чаще всего делятся такими переживаниями:'
+  - EN: 'In discussions of acne treatment, users most often share these concerns:'
+- `s0232`
+  - RU: 'пациентов с акне пользуются социальными сетями'
+  - EN: 'of acne patients use social\xa0media'
+- `s0233`
+  - RU: 'Где ищут информацию о коже?'
+  - EN: 'Where they get skin info'
+- `s0234`
+  - RU: 'Кого читают?'
+  - EN: 'Who they follow'
+- `s0235`
+  - RU: 'дерматологов'
+  - EN: 'dermatologists'
+- `s0236`
+  - RU: 'блогеров'
+  - EN: 'influencers'
+- `s0237`
+  - RU: 'специалистов по красоте'
+  - EN: 'beauty professionals'
+- `s0238`
+  - RU: 'покупали средство после того, как увидели его в социальных сетях'
+  - EN: 'bought a product after seeing it on social media'
+- `s0239`
+  - RU: 'откладывали обращение к врачу\nиз-за рекомендаций в социальных сетях'
+  - EN: 'put off seeing a doctor\nbecause of social media advice'
+- `s0240`
+  - RU: '25,5%'
+  - EN: '25.5%'
+- `s0241`
+  - RU: '18,4%'
+  - EN: '18.4%'
+- `s0242`
+  - RU: '10,0%'
+  - EN: '10.0%'
+- `s0243`
+  - RU: '44,4%'
+  - EN: '44.4%'
+- `s0244`
+  - RU: '31,4%'
+  - EN: '31.4%'
+- `s0245`
+  - RU: '17,9%'
+  - EN: '17.9%'
+- `s0246`
+  - RU: '28,2%'
+  - EN: '28.2%'
+- `s0247`
+  - RU: '34,1%'
+  - EN: '34.1%'
+- `s0248`
+  - RU: 'россиян стали чаще самостоятельно искать информацию о лекарствах в интернете.'
+  - EN: 'of Russians increasingly look up information about drugs online on their own.'
+- `s0249`
+  - RU: 'используют поисковые системы как источник информации о препаратах.'
+  - EN: 'use search engines as a source of drug information.'
+- `s0250`
+  - RU: 'покупают лекарства по рекомендациям медицинских блогов.'
+  - EN: 'buy medicines based on medical blog recommendations.'
+- `s0251`
+  - RU: 'россиян хотя бы раз за последний год использовали ИИ для предварительного определения диагноза или поиска подходящего лекарства.'
+  - EN: 'of Russians used AI at least once in the past year to get a preliminary diagnosis or find a suitable drug.'
+- `s0252`
+  - RU: '«Хочу результат быстрее»'
+  - EN: '“I want results faster”'
+- `s0253`
+  - RU: '«Хочу лечить, но боюсь испортить кожу»'
+  - EN: '“I want to treat it, not ruin my skin”'
+- `s0254`
+  - RU: '«Мне нужно, чтобы это реально работало»'
+  - EN: '“I need it to actually work”'
+- `s0255`
+  - RU: '«Прыщи влияют на меня сильнее, чем кажется»'
+  - EN: '“Breakouts affect me more than you’d think”'
+- `s0256`
+  - RU: 'Люди хотят видеть заметные улучшения в короткие сроки, особенно когда появляются воспалительные элементы. Важна простая и понятная схема применения.'
+  - EN: 'People want visible improvement fast, especially when inflamed breakouts appear. A simple, clear regimen matters.'
+- `s0257`
+  - RU: 'Пользователи переживают о возможной сухости, раздражении и ухудшении состояния кожи. Для них важно, чтобы средство было эффективным, но при этом хорошо переносилось.'
+  - EN: 'Users worry about dryness, irritation and their skin getting worse. They want a product that works and is well tolerated.'
+- `s0258`
+  - RU: 'Потребители устали от множества средств и хотят доказанной эффективности. Они сравнивают опыт других пользователей и выбирают то, чему можно доверять.'
+  - EN: 'Consumers are tired of trying product after product and want proven efficacy. They compare other users’ experiences and choose what they can trust.'
+- `s0259`
+  - RU: 'Акне затрагивает не только кожу, но и эмоциональное состояние: уверенность в себе, настроение, общение и качество жизни. Для многих это не просто косметическая проблема, а важная часть повседневной жизни.'
+  - EN: 'Acne affects both the skin and emotional well-being: self-confidence, mood, social life and quality of life. For many, it is more than a cosmetic issue — it is a big part of everyday life.'
+- `s0260`
+  - RU: '**Источник:** 1) Journal of Cosmetic Dermatology. 2026. Исследование среди 408 пациентов с акне (средний возраст 20,9 года). 2) Яндекс Реклама. Фармацевтическая отрасль: исследование и тренды. 2026 (данные опроса, сентябрь 2025). 3) Анализ отзывов и пользовательских обсуждений. 2024–2026.'
+  - EN: '**Sources:** 1) Journal of Cosmetic Dermatology. 2026. Study of 408 acne patients (mean age 20.9). 2) Yandex Ads. Pharmaceutical industry: research and trends. 2026 (survey data, September 2025). 3) Analysis of reviews and user discussions. 2024–2026.'
+
+## Slide 7
+
+- `s0261`
+  - RU: 'Для Клиндовита рыночные тренды значат: быть понятным, заметным и своевременным выбором'
+  - EN: 'What market trends mean for Clindovit: being a clear, visible, timely choice'
+- `s0262`
+  - RU: 'в моменты, когда потребитель уже ищет быстрое и эффективное решение от прыщей'
+  - EN: 'when consumers are already looking for a fast, effective fix for pimples'
+- `s0263`
+  - RU: 'Рынок средств против акне продолжает расти, но конкуренты инвестируют заметно больше. Для Клиндовита это означает не попытку конкурировать объёмом, а **необходимость точно защищать долю**: фокусироваться на самых ценных сегментах, усиливаться в периоды сезонного спроса и вкладываться в инструменты, которые реально влияют на выбор.'
+  - EN: 'The acne treatment market keeps growing, but competitors invest far more. For Clindovit, the answer is not to compete on volume but **to defend share with precision**: focus on the most valuable segments, step up in seasonal demand periods and invest in tools that actually shape choice.'
+- `s0264`
+  - RU: 'Потребитель всё чаще сам изучает препараты, читает отзывы, статьи и смотрит рекомендации в цифровой среде. Для бренда это усиливает роль **Поиска, ORM, нативных статей, блогеров и GEO** как каналов влияния на выбор.'
+  - EN: 'Consumers increasingly research treatments themselves, reading reviews, articles and online recommendations. This boosts the role of **Search, ORM, native articles, influencers and GEO** in shaping choice.'
+- `s0265`
+  - RU: 'В обсуждениях заметен устойчивый запрос: средство должно реально работать, давать быстрый эффект и не пугать лишними сложностями. Значит, коммуникация Клиндовита должна делать акцент **на лечении прыщей, эффективности, антибактериальном действии и понятном применении**.'
+  - EN: 'Online discussions show a consistent ask: the product must really work, act fast and not scare people off with extra hassle. So Clindovit’s communication should focus on **treating pimples, efficacy, antibacterial action and ease of use**.'
+- `s0266`
+  - RU: 'Конкуренты растут быстрее в брендовом спросе, поэтому Клиндовиту важно усиливать знание и быть заметным в сезонные пики спроса. Фокус — **ядро аудитории, работающие инструменты и два ключевых окна усиления**.'
+  - EN: 'Competitors are growing faster in branded demand, so Clindovit needs to build awareness and stay visible at seasonal demand peaks. Focus: **the core audience, tools that work and two key boost windows**.'
+- `s0267`
+  - RU: 'Категория растёт — нужно защищать долю точечно'
+  - EN: 'Growing category — defend share with precision'
+- `s0268`
+  - RU: 'Решение ищут в интернете'
+  - EN: 'Consumers search online'
+- `s0269`
+  - RU: 'Нужен быстрый и понятный результат'
+  - EN: 'They want fast, clear results'
+- `s0270`
+  - RU: 'Знание бренда нужно наращивать точечно'
+  - EN: 'Build brand awareness with precision'
+
+## Slide 8
+
+- `s0271`
+  - RU: 'Бизнес-вызов и наше решение'
+  - EN: 'Business challenge and our solution'
+- `s0272`
+  - RU: 'Переломить негативный тренд и сохранить долю рынка [[в\xa0упаковках]] при ограниченном бюджете.'
+  - EN: 'Reverse the decline and hold market share [[in\xa0units]] on\xa0a\xa0limited\xa0budget.'
+- `s0273`
+  - RU: 'БИЗНЕС-ВЫЗОВ'
+  - EN: 'BUSINESS CHALLENGE'
+- `s0274`
+  - RU: '**Концентрируемся на [[ядре аудитории]]**, дополняя новыми слоями в коммуникации. [[**Фокус на проверенных и эффективных инструментах**]], которые уже доказали эффективность, и выходим с охватным усилением [[**в ключевые периоды спроса**]].'
+  - EN: '**We concentrate on [[the core audience]]** and add new layers to the message. [[**We focus on proven, effective tools**]] that have already delivered, and boost reach [[**in key demand periods**]].'
+- `s0275`
+  - RU: 'НАШЕ РЕШЕНИЕ'
+  - EN: 'OUR SOLUTION'
+- `s0276`
+  - RU: 'Фокус на ядре аудитории'
+  - EN: 'Focus on the core audience'
+- `s0277`
+  - RU: 'Фокус на проверенных и эффективных инструментах и таргетингах'
+  - EN: 'Focus on proven, effective tools and targeting'
+- `s0278`
+  - RU: 'Охватное усиление в ключевые периоды спроса'
+  - EN: 'Boost reach in key demand periods'
+- `s0279`
+  - RU: 'Работаем с основными сегментами, дополняя коммуникацию новыми потребительскими слоями.'
+  - EN: 'We work with the core segments and add new consumer layers to the message.'
+- `s0280`
+  - RU: 'Усиливаем инструменты, которые уже доказали эффективность и приносят результат.'
+  - EN: 'We scale up tools that have already proven effective and deliver results.'
+- `s0281`
+  - RU: 'Выходим с широкой коммуникацией в моменты наибольшей востребованности категории.'
+  - EN: 'We go broad when category demand peaks.'
+
+## Slide 9
+
+- `s0282`
+  - RU: 'Сезонность поискового спроса в категории'
+  - EN: 'Seasonality of category search demand'
+- `s0283`
+  - RU: 'Показатель'
+  - EN: 'Metric'
+- `s0284`
+  - RU: 'Категория'
+  - EN: 'Category'
+- `s0285`
+  - RU: 'Акне'
+  - EN: 'Acne'
+- `s0286`
+  - RU: 'Прыщи'
+  - EN: 'Pimples'
+- `s0287`
+  - RU: 'Бренды'
+  - EN: 'Brands'
+- `s0288`
+  - RU: 'минимум в строке'
+  - EN: 'row minimum'
+- `s0289`
+  - RU: 'максимум в строке'
+  - EN: 'row maximum'
+- `s0290`
+  - RU: 'Категория формирует два сезонных окна спроса: [[весна и конец лета]].'
+  - EN: 'Category demand has two seasonal windows: [[spring and late summer]].'
+- `s0291`
+  - RU: 'В 2025 году заметные пики приходятся на май и июль–август; в 1ПГ\xa02026 весенняя волна была заметнее **в марте и мае**.'
+  - EN: '2025 peaks: May and July–August. In H1\xa02026, the spring wave peaked **in March and May**.'
+- `s0292`
+  - RU: 'Средний месяц 1ПГ\xa02026 vs 1ПГ\xa02025:'
+  - EN: 'Average month, H1\xa02026 vs H1\xa02025:'
+- `s0293`
+  - RU: '«акне»'
+  - EN: '“acne”'
+- `s0294`
+  - RU: '−10,8%'
+  - EN: '−10.8%'
+- `s0295`
+  - RU: '«прыщи»'
+  - EN: '“pimples”'
+- `s0296`
+  - RU: '−5,8%'
+  - EN: '−5.8%'
+- `s0297`
+  - RU: 'Несмотря на более сдержанную базу, весенний всплеск 2026 подтверждает сезонное оживление категории.'
+  - EN: 'Despite a softer base, the spring 2026 surge confirms the category’s seasonal upswing.'
+- `s0298`
+  - RU: '**В брендах лидеры растут быстрее:** средний месяц 1ПГ\xa02026 vs 1ПГ\xa02025 —'
+  - EN: '**Among brands, leaders grow faster:** average month, H1\xa02026 vs H1\xa02025 —'
+- `s0299`
+  - RU: '+20,0%'
+  - EN: '+20.0%'
+- `s0300`
+  - RU: '+28,7%'
+  - EN: '+28.7%'
+- `s0301`
+  - RU: '−5,2%'
+  - EN: '−5.2%'
+- `s0302`
+  - RU: 'Для Клиндовита важно прицельно усиливать знание бренда, чтобы догонять конкурентов.'
+  - EN: 'Clindovit needs targeted awareness building to catch up with competitors.'
+- `s0303`
+  - RU: '**Ключевые периоды для усиления коммуникации:** [[**весна**]] как первая волна спроса и [[**конец лета**]] как второй сезонный пик.'
+  - EN: '**Key periods to step up communication:** [[**spring**]] as the first demand wave and [[**late summer**]] as the second seasonal peak.'
+- `s0304`
+  - RU: 'Коммуникацию важно выводить заранее —\nсо 2-й декады июля, чтобы войти\nв август–сентябрь, уже с накопленным присутствием.'
+  - EN: 'Start communication early —\nfrom mid-July, so the brand enters\nAugust–September with presence built up.'
+- `s0305`
+  - RU: 'Источник: Wordstat, анализ динамики поискового спроса по категории и брендам, 2025 — июнь 2026. Значения в таблице — тыс. запросов.'
+  - EN: 'Source: Wordstat, search demand trends by category and brand, 2025 – June 2026. Table values in thousands of queries.'
+
+## Slide 10
+
+- `s0306`
+  - RU: 'Сохраняем фокус на трёх приоритетных сегментах'
+  - EN: 'Staying focused on three priority segments'
+- `s0307`
+  - RU: 'Усиливаем коммуникацию с учётом их потребностей и барьеров, чтобы укрепить позиции Клиндовита в момент выбора'
+  - EN: 'We tailor messaging to their needs and barriers to strengthen Clindovit at the moment of choice'
+- `s0308`
+  - RU: 'Девушки 18–25'
+  - EN: 'Young women 18–25'
+- `s0309`
+  - RU: 'Матери 35–55\nподростков 12–17'
+  - EN: 'Moms 35–55\nof teens 12–17'
+- `s0310`
+  - RU: 'Женщины 25–40'
+  - EN: 'Women 25–40'
+- `s0311`
+  - RU: '**Ключевое желание** — быстро убрать появившиеся прыщи.'
+  - EN: '**What she wants most** — to clear new pimples fast.'
+- `s0312`
+  - RU: '**Главная потребность** — найти быстрое и хорошее средство для ребенка.'
+  - EN: '**Main need** — a fast, effective treatment for her child.'
+- `s0313`
+  - RU: '**Нет времени на прыщи** — важно быстрое и рабочее решение, чтобы не выпадать из привычного ритма жизни, работы и встреч.'
+  - EN: '**No time for pimples** — needs a fast fix that works, so life, work and meetings stay on track.'
+- `s0314`
+  - RU: '**Сильный социальный дискомфорт:** прыщи влияют на уверенность, общение, фото и самоощущение.'
+  - EN: '**Strong social discomfort:** pimples affect confidence, socializing, photos and self-image.'
+- `s0315`
+  - RU: '**Мама — главный инициатор и принимающий решение.**'
+  - EN: '**Mom is the main initiator and decision-maker.**'
+- `s0316`
+  - RU: '**Устала от повторного проявления прыщей:** не хочет снова проходить круг экспериментов и искать, что сработает.'
+  - EN: '**Tired of breakouts coming back:** doesn’t want another round of trial and error to find what works.'
+- `s0317`
+  - RU: '«Когда прыщи появляются на моем лице, я хочу средство, которое сразу же уберет их».'
+  - EN: '“When pimples show up on my face, I want something that clears them right away.”'
+- `s0318`
+  - RU: '«Моему ребенку нужно быстрое и хорошее средство от прыщей, потому что вижу, как они влияют на его настроение и состояние».'
+  - EN: '“My child needs something fast and effective for pimples. I can see how they affect their mood and how they feel.”'
+- `s0319`
+  - RU: '«У меня нет времени на эти прыщи, я хочу средство, которое поможет мне убрать их как можно скорее».'
+  - EN: '“I don’t have time for these pimples. I want something that gets rid of them as fast as possible.”'
+- `s0320`
+  - RU: '**Новые слои и потребности,**\nкоторые могут усилить коммуникацию Клиндовита'
+  - EN: '**New layers and needs**\nthat can strengthen Clindovit’s communication'
+- `s0321`
+  - RU: 'Помогает, пока пользуюсь'
+  - EN: 'It works while I use it'
+- `s0322`
+  - RU: 'Переход от косметики к лекарству'
+  - EN: 'From cosmetics to medicine'
+- `s0323`
+  - RU: 'Желание быстро убрать прыщи конкурирует со страхом переборщить'
+  - EN: 'Wanting pimples gone fast competes with fear of overdoing it'
+- `s0324`
+  - RU: 'Часть аудитории сообщает о возвращении проблемы после курса и временности эффекта.'
+  - EN: 'Some say the problem comes back after the course and the effect doesn’t last.'
+- `s0325`
+  - RU: 'Многие начинают с ухода и самостоятельных экспериментов (умывалки, маски, косметика), но при отсутствии заметного результата переходят к аптечным средствам или врачу.'
+  - EN: 'Many start with skincare and DIY experiments (cleansers, masks, cosmetics), and when nothing visibly changes, they move on to pharmacy products or a doctor.'
+- `s0326`
+  - RU: 'Пользователи хотят ускорить результат, иногда наносят средство в большем количестве и получают раздражение. Этот страх важно снять в коммуникации Клиндовита.'
+  - EN: 'Users want faster results, sometimes apply too much and end up with irritation. Clindovit’s communication needs to ease this fear.'
+- `s0327`
+  - RU: '* Свежий анализ с фильтром ORM подтверждает все 3 сегмента'
+  - EN: '* Recent ORM-filtered analysis confirms all 3 segments'
+
+## Slide 11
+
+- `s0328`
+  - RU: 'Медиа-стратегия Клиндовит 2027'
+  - EN: 'Clindovit 2027 media strategy'
+- `s0329`
+  - RU: 'Фокус на: точности таргетинга, эффективных инструментах и ключевом тайминге.'
+  - EN: 'Focus on precise targeting, effective tools and the right timing.'
+- `s0330`
+  - RU: 'Концентрируемся на самых ценных контактах'
+  - EN: 'Concentrate on the highest-value contacts'
+- `s0331`
+  - RU: 'Обогащаем коммуникацию новыми слоями'
+  - EN: 'Enrich the message with new layers'
+- `s0332`
+  - RU: 'Работаем с тремя приоритетными сегментами и усиливаемся в ключевые периоды, когда спрос на решение особенно высок.'
+  - EN: 'We work with three priority segments and step up in key periods, when demand for a solution peaks.'
+- `s0333`
+  - RU: 'Основной бюджет — в проверенные инструменты, которые приводят аудиторию и влияют на выбор.'
+  - EN: 'Most of the budget goes to proven tools that bring in the audience and shape choice.'
+- `s0334`
+  - RU: 'Базовые сообщения уже неизменно остаются ядром. Новые приоритетные слои усиливают их, помогая снять дополнительные барьеры перед выбором.'
+  - EN: 'The core messages stay unchanged. New priority layers build on them, helping remove further barriers to choice.'
+- `s0335`
+  - RU: '3 приоритетных сегмента'
+  - EN: '3 priority segments'
+- `s0336`
+  - RU: 'с релевантными сообщениями и форматами.'
+  - EN: 'with relevant messages and formats.'
+- `s0337`
+  - RU: 'Два ключевых периода спроса'
+  - EN: 'Two key demand periods'
+- `s0338`
+  - RU: '**Март–май** — подготовка к лету.'
+  - EN: '**March–May** — run-up to summer.'
+- `s0339`
+  - RU: '**Август–сентябрь** — возвращение к привычному ритму и учёбе (BTS).'
+  - EN: '**August–September** — back to routine and school (BTS).'
+- `s0340`
+  - RU: '**Старт кампании — со 2-й декады июля,** чтобы быть заметными перед пиком.'
+  - EN: '**Campaign launch — from mid-July,** to be visible ahead of the peak.'
+- `s0341`
+  - RU: 'Перехватываем сформированный спрос'
+  - EN: 'Capturing existing demand'
+- `s0342`
+  - RU: 'в течение всего года через поиск.'
+  - EN: 'all year round through search.'
+- `s0343`
+  - RU: 'Максимально используем проверенные инструменты и фокусируемся на результате.'
+  - EN: 'We get the most out of proven tools and focus\xa0on\xa0results.'
+- `s0344`
+  - RU: 'Поиск'
+  - EN: 'Search'
+- `s0345`
+  - RU: 'Перехватываем тех, кто уже ищет решение.'
+  - EN: 'We capture people already seeking a fix.'
+- `s0346`
+  - RU: 'Баннерная реклама'
+  - EN: 'Banner ads'
+- `s0347`
+  - RU: 'Последовательно напоминаем о бренде и дополняем тех, кто сомневается.'
+  - EN: 'We keep reminding people of the brand and retarget the undecided.'
+- `s0348`
+  - RU: 'Блогеры'
+  - EN: 'Influencers'
+- `s0349`
+  - RU: 'Дополнительный охват и доверие через реальные истории.'
+  - EN: 'Extra reach and trust through real stories.'
+- `s0350`
+  - RU: 'Отзывы и репутация'
+  - EN: 'Reviews & reputation'
+- `s0351`
+  - RU: 'Статьи и нативный контент'
+  - EN: 'Articles & native content'
+- `s0352`
+  - RU: 'Блогеры и эксперты'
+  - EN: 'Influencers & experts'
+- `s0353`
+  - RU: 'GEO и ИИ-поиск'
+  - EN: 'GEO & AI search'
+- `s0354`
+  - RU: 'Используем форматы, которые помогают раскрыть эти темы:'
+  - EN: 'We use formats that help get these themes across:'
+- `s0355`
+  - RU: '«Помогает, пока пользуешься»'
+  - EN: '“It works while I use it”'
+- `s0356`
+  - RU: 'Рассказываем, что Клиндовит помогает быстро решить проблему, передаем эстафету длительного ухода Азелик.'
+  - EN: 'We show that Clindovit solves the problem fast, then hand over long-term care to Azelik.'
+- `s0357`
+  - RU: '«От косметики к лекарству»'
+  - EN: '“From cosmetics to medicine”'
+- `s0358`
+  - RU: 'Объясняем, когда стоит перейти от ухода к лечению и почему это разумное решение.'
+  - EN: 'We explain when to move from skincare to treatment and why it makes sense.'
+- `s0359`
+  - RU: '«Хочу быстрее, но боюсь переборщить»'
+  - EN: '“Faster, but afraid to overdo it”'
+- `s0360`
+  - RU: 'Снижаем страх раздражения и даём понятные рекомендации по применению.'
+  - EN: 'We ease fears of irritation and give clear directions for use.'
+- `s0361`
+  - RU: 'МАРТ — МАЙ'
+  - EN: 'MARCH–MAY'
+- `s0362`
+  - RU: 'Волна спроса'
+  - EN: 'Demand wave'
+- `s0363`
+  - RU: 'Подготовка к лету и важным событиям'
+  - EN: 'Run-up to summer and big events'
+- `s0364`
+  - RU: 'СО 2-Й ДЕКАДЫ ИЮЛЯ'
+  - EN: 'FROM MID-JULY'
+- `s0365`
+  - RU: 'Старт кампании'
+  - EN: 'Campaign launch'
+- `s0366`
+  - RU: 'Наращиваем присутствие перед пиком'
+  - EN: 'Building presence before the peak'
+- `s0367`
+  - RU: 'АВГУСТ — СЕНТЯБРЬ'
+  - EN: 'AUGUST–SEPTEMBER'
+- `s0368`
+  - RU: 'Пиковая волна спроса'
+  - EN: 'Peak demand wave'
+- `s0369`
+  - RU: 'Максимально используем интерес к категории'
+  - EN: 'Making the most of category interest'
+- `s0370`
+  - RU: 'Работаем с отзывами и перехватываем горячий спрос в течение всего года'
+  - EN: 'Managing reviews and capturing high-intent demand all year round'
+
+## Slide 12
+
+- `s0371`
+  - RU: 'Клиндовит 2027: архитектура кампании vs 2026'
+  - EN: 'Clindovit 2027: campaign architecture vs 2026'
+- `s0372`
+  - RU: 'В 2027 сохраняем сегментный подход, усиливая перехват спроса на этапе рассмотрения'
+  - EN: 'In 2027 we keep the segment approach and capture more demand at the consideration stage'
+- `s0373`
+  - RU: '8,9'
+  - EN: '8.9'
+- `s0374`
+  - RU: 'млн ₽*'
+  - EN: 'RUB M*'
+- `s0375`
+  - RU: '15,9'
+  - EN: '15.9'
+- `s0376`
+  - RU: '5,1 млн ₽'
+  - EN: 'RUB 5.1M'
+- `s0377`
+  - RU: 'Recruitment новой ЦА:\nмай–июнь, авг, сен–окт'
+  - EN: 'New audience recruitment:\nMay–Jun, Aug, Sep–Oct'
+- `s0378`
+  - RU: '6,2 млн ₽'
+  - EN: 'RUB 6.2M'
+- `s0379`
+  - RU: 'Recruitment новой ЦА: март–май, июль–сентябрь'
+  - EN: 'New audience recruitment: Mar–May, Jul–Sep'
+- `s0380`
+  - RU: '1,5 млн ₽'
+  - EN: 'RUB 1.5M'
+- `s0381`
+  - RU: 'ORM — единичный слой, бустящий рассмотрение к покупке'
+  - EN: 'ORM — the only layer moving consideration to purchase'
+- `s0382`
+  - RU: 'Усиливаем присутствие в момент выбора, повышаем AI-видимость, перехватываем спрос'
+  - EN: 'We boost presence at the point of choice, raise AI visibility and capture demand'
+- `s0383`
+  - RU: '1,6 млн ₽'
+  - EN: 'RUB 1.6M'
+- `s0384`
+  - RU: 'Frequency: повторный контакт и поддержка спроса'
+  - EN: 'Frequency: repeat contact and demand support'
+- `s0385`
+  - RU: '3,2 млн ₽'
+  - EN: 'RUB 3.2M'
+- `s0386`
+  - RU: 'Обрабатываем горячий спрос и приводим к покупке'
+  - EN: 'We turn high-intent demand into purchases'
+- `s0387`
+  - RU: 'КАНАЛЫ'
+  - EN: 'CHANNELS'
+- `s0388`
+  - RU: 'СЕГМЕНТЫ'
+  - EN: 'SEGMENTS'
+- `s0389`
+  - RU: 'Ж 18–25 Social girl'
+  - EN: 'F 18–25 Social girl'
+- `s0390`
+  - RU: 'Ж 35–50 родители подростков'
+  - EN: 'F 35–50 parents of teens'
+- `s0391`
+  - RU: 'Ж 25–34 бизнес/офис'
+  - EN: 'F 25–34 business/office'
+- `s0392`
+  - RU: '+1,1 млн ₽'
+  - EN: '+RUB 1.1M'
+- `s0393`
+  - RU: 'Внешние публикации — статьи'
+  - EN: 'External publications'
+- `s0394`
+  - RU: 'СЛОИ'
+  - EN: 'LAYERS'
+- `s0395`
+  - RU: 'От косметики к лекарству'
+  - EN: 'From cosmetics to medicine'
+- `s0396`
+  - RU: 'Хочу быстрее, но боюсь переборщить'
+  - EN: 'Faster, but afraid to overdo it'
+- `s0397`
+  - RU: '+3,4 млн ₽'
+  - EN: '+RUB 3.4M'
+- `s0398`
+  - RU: '+1,6 млн ₽'
+  - EN: '+RUB 1.6M'
+- `s0399`
+  - RU: '*Бюджеты тотал представлены с учетом тех костов, АК и РС, бюджеты блоков указаны с АК и РС без учета тех костов. Приросты 2027 vs 2026 — расчёт OMD'
+  - EN: '*Totals include tech costs, agency commission and ad levy; block budgets include agency commission and ad levy but not tech costs. 2027 vs 2026 growth: OMD calculation'
+
+## Slide 13
+
+- `s0400`
+  - RU: 'Comprehensive-подход: результаты 2026 подтверждают релевантность сегментов и задают learning agenda на 2027 год'
+  - EN: 'The Comprehensive approach: 2026 results confirm the segments are relevant and set the 2027 learning agenda'
+- `s0401`
+  - RU: 'Все 3 сегмента остаются рабочими. В 2027 году фокус смещается на усиление персонализации сообщений и тест новых клеймов, чтобы точнее отрабатывать мотивацию аудитории и акцентировать скорость решения проблемы.'
+  - EN: 'All 3 segments still work. In 2027 the focus shifts to more personalized messaging and testing new claims, to match audience motivation more precisely and stress fast results.'
+- `s0402`
+  - RU: 'СЕГМЕНТ'
+  - EN: 'SEGMENT'
+- `s0403`
+  - RU: 'РЕЗУЛЬТАТЫ 2026'
+  - EN: '2026 RESULTS'
+- `s0404`
+  - RU: 'Сегмент с сильным вовлечением и качественным трафиком'
+  - EN: 'Strong engagement, quality traffic'
+- `s0405`
+  - RU: '0,26%'
+  - EN: '0.26%'
+- `s0406`
+  - RU: 'конверсий «Где купить»'
+  - EN: '“Where to buy” conversions'
+- `s0407`
+  - RU: '4,38%'
+  - EN: '4.38%'
+- `s0408`
+  - RU: 'Лучше остальных приводит на сайт заинтересованную аудиторию и формирует качественный трафик.'
+  - EN: 'Best at bringing an interested audience to the site and generating quality traffic.'
+- `s0409`
+  - RU: 'Мамы подростков\n35–55'
+  - EN: 'Moms of teens\n35–55'
+- `s0410`
+  - RU: 'Наиболее сильный сегмент по конечной конверсии'
+  - EN: 'Strongest segment for final conversion'
+- `s0411`
+  - RU: '0,25%'
+  - EN: '0.25%'
+- `s0412`
+  - RU: 'конверсии «Где купить»'
+  - EN: '“Where to buy” conversions'
+- `s0413`
+  - RU: '4,77%'
+  - EN: '4.77%'
+- `s0414`
+  - RU: 'Несмотря на более дорогой визит, сегмент лучше остальных доходит до целевого действия и подтверждает роль мамы как покупателя.'
+  - EN: 'Despite a higher cost per visit, this segment converts best and confirms the mom’s role as the buyer.'
+- `s0415`
+  - RU: 'Релевантный сегмент, требующий донастройки сообщений'
+  - EN: 'Relevant, but messaging needs tuning'
+- `s0416`
+  - RU: '0,27%'
+  - EN: '0.27%'
+- `s0417`
+  - RU: '4,24%'
+  - EN: '4.24%'
+- `s0418`
+  - RU: 'Сегмент хорошо реагирует на рекламу, но требует более точного сообщения и усиления акцента на быстром решении проблемы.'
+  - EN: 'Responds well to advertising but needs sharper messaging and a stronger focus on fast results.'
+- `s0419`
+  - RU: 'ВЫВОД ПО СЕГМЕНТАМ'
+  - EN: 'SEGMENT TAKEAWAY'
+- `s0420`
+  - RU: 'Сегменты подтверждены Media & post-click результатами → в 2027 году тестируем новые клеймы с акцентом на скорость решения проблемы'
+  - EN: 'Media & post-click results confirm the segments → in 2027 we test new claims focused on fast results'
+
+## Slide 14
+
+- `s0421`
+  - RU: 'Барьеры выбора задают систему видимости Клиндовита'
+  - EN: 'Choice barriers shape Clindovit’s visibility system'
+- `s0422`
+  - RU: 'Каналы переводят реальные вопросы пользователей в понятные роли: где бренд находят, объясняют и подтверждают'
+  - EN: 'Channels turn real user questions into clear roles: where the brand is found, explained and validated'
+- `s0423`
+  - RU: 'Барьеры аудитории'
+  - EN: 'Audience barriers'
+- `s0424`
+  - RU: 'что мешает выбрать Клиндовит'
+  - EN: 'what keeps people from choosing Clindovit'
+- `s0425`
+  - RU: 'Система видимости'
+  - EN: 'Visibility system'
+- `s0426`
+  - RU: 'где закрываем вопрос пользователя'
+  - EN: 'where we answer the user’s question'
+- `s0427`
+  - RU: 'Детализация каналов'
+  - EN: 'Channel breakdown'
+- `s0428`
+  - RU: 'От барьера к сценарию выбора'
+  - EN: 'From barriers to choice scenarios'
+- `s0429`
+  - RU: 'Инструменты единой системы видимости'
+  - EN: 'Tools of a unified visibility system'
+- `s0430`
+  - RU: 'Снимаем тревогу о возврате проблемы и показываем, как поддерживать результат.'
+  - EN: 'We ease worries about acne coming back and show how to keep results.'
+- `s0431`
+  - RU: 'Помогаем перейти от бесконечных экспериментов к понятному аптечному решению.'
+  - EN: 'We help people move from endless trial and error to a clear pharmacy solution.'
+- `s0432`
+  - RU: 'Объясняем правильное применение и снимаем страх раздражения.'
+  - EN: 'We explain correct use and ease the fear of irritation.'
+- `s0433`
+  - RU: 'Фундамент поиска'
+  - EN: 'Search foundation'
+- `s0434`
+  - RU: 'Страницы и семантика под запросы о лечении, возврате и применении.'
+  - EN: 'Pages and keywords for queries on treatment, relapse and use.'
+- `s0435`
+  - RU: 'Присутствие в ИИ-ответах'
+  - EN: 'Presence in AI answers'
+- `s0436`
+  - RU: 'Факты о бренде считываются в ответах по акне и аптечному решению.'
+  - EN: 'Brand facts show up in AI answers about acne and pharmacy treatment.'
+- `s0437`
+  - RU: 'Внешние публикации'
+  - EN: 'External publications'
+- `s0438`
+  - RU: 'Независимое подтверждение'
+  - EN: 'Independent validation'
+- `s0439`
+  - RU: 'Экспертные материалы создают источники за пределами сайта бренда.'
+  - EN: 'Expert content creates sources beyond the brand website.'
+- `s0440`
+  - RU: 'ORM + сообщества'
+  - EN: 'ORM + communities'
+- `s0441`
+  - RU: 'Доверие в живых сценариях'
+  - EN: 'Trust in real conversations'
+- `s0442`
+  - RU: 'Отзывы и Q&A снимают страхи, возражения и сомнения.'
+  - EN: 'Reviews and Q&A address fears, objections and doubts.'
+- `s0443`
+  - RU: 'Захват намерения'
+  - EN: 'Intent capture'
+- `s0444`
+  - RU: 'Забирает спрос по категории, симптомам, конкурентам и e-pharm.'
+  - EN: 'Captures demand by category, symptoms, competitors and e-pharm.'
+- `s0445`
+  - RU: 'Объяснение простым языком'
+  - EN: 'Plain-language explanations'
+- `s0446`
+  - RU: 'Переводят сложный выбор в понятный опыт применения и покупки.'
+  - EN: 'Turn a complex choice into a clear use and purchase experience.'
+
+## Slide 15
+
+- `s0447`
+  - RU: 'GEO и внешние публикации — инструменты, где мы можем делать больший упор на экспертный контент'
+  - EN: 'GEO and external publications — tools where we can put more weight on expert content'
+- `s0448`
+  - RU: 'Экспертный контент позволяет подробно рассказывать о преимуществах бренда и влиять на выбор в ключевые моменты поиска решения.'
+  - EN: 'Expert content lets us explain the brand’s benefits in depth and shape choice at key moments of the search.'
+- `s0449`
+  - RU: 'Создаём экспертные внешние публикации о Клиндовите: как работает, когда применять, на что обратить внимание.'
+  - EN: 'We create expert external publications on Clindovit: how it works, when to use it, what to watch for.'
+- `s0450`
+  - RU: 'Помогаем аудитории находить верную и полезную информацию о Клиндовите в поиске и AI-сервисах.'
+  - EN: 'We help the audience find accurate, useful information on Clindovit in search and AI assistants.'
+- `s0451`
+  - RU: '**Клиндовит** — гель для лечения угревой сыпи с антибактериальным действием. Помогает уменьшить воспаления и способствует более чистой коже.'
+  - EN: '**Clindovit** is an acne treatment gel with antibacterial action. It helps reduce inflammation and promotes clearer skin.'
+- `s0452`
+  - RU: 'ВНЕШНИЕ ПУБЛИКАЦИИ'
+  - EN: 'EXTERNAL PUBLICATIONS'
+- `s0453`
+  - RU: 'Простым языком объясняем пользу и преимущества'
+  - EN: 'We explain the benefits in plain language'
+- `s0454`
+  - RU: 'Снимаем частые вопросы и сомнения'
+  - EN: 'We answer FAQs and ease doubts'
+- `s0455`
+  - RU: 'Формируем доверие к бренду через экспертный контент'
+  - EN: 'We build brand trust through expert content'
+- `s0456`
+  - RU: '«Как быстро и правильно лечить угревую сыпь?»'
+  - EN: '“How do you treat acne quickly and properly?”'
+- `s0457`
+  - RU: 'GEO-КОНТЕНТ И ОТВЕТЫ В AI-СЕРВИСАХ'
+  - EN: 'GEO CONTENT AND AI ASSISTANT ANSWERS'
+- `s0458`
+  - RU: 'Клиндовит появляется в ответах на ключевые вопросы пользователей'
+  - EN: 'Clindovit appears in answers to users’ key questions'
+- `s0459`
+  - RU: 'Доносим выгоды бренда в момент активного поиска решения'
+  - EN: 'We show brand benefits as people actively seek a solution'
+- `s0460`
+  - RU: 'Повышаем заметность бренда в новых источниках информации'
+  - EN: 'We raise brand visibility in new information sources'
+- `s0461`
+  - RU: 'ЧТО ЭТО ДАЁТ БРЕНДУ'
+  - EN: 'WHAT THE BRAND GETS'
+- `s0462`
+  - RU: 'Возможность подробно и убедительно коммуницировать ключевые выгоды Клиндовита: эффективность, антибактериальное действие, удобная форма, доступная цена'
+  - EN: 'Lets us present Clindovit’s key benefits in detail and persuasively: efficacy, antibacterial action, easy-to-use form, affordable price'
+- `s0463`
+  - RU: 'Влияет на выбор в момент, когда человек ищет информацию и сравнивает варианты'
+  - EN: 'Influences choice when people look for information and compare options'
+- `s0464`
+  - RU: 'Усиливает знание бренда и формирует доверие за счёт экспертного контента'
+  - EN: 'Builds brand awareness and trust through expert content'
+- `s0465`
+  - RU: 'Чем лечить прыщи?'
+  - EN: 'What clears pimples?'
+- `s0466`
+  - RU: 'РОЛЬ В ПУТИ ПОЛЬЗОВАТЕЛЯ'
+  - EN: 'ROLE IN THE USER JOURNEY'
+- `s0467`
+  - RU: 'Ищет информацию о проблеме'
+  - EN: 'Researches the problem'
+- `s0468`
+  - RU: 'Читает внешние публикации'
+  - EN: 'Reads external publications'
+- `s0469`
+  - RU: 'Получает ответы в GEO / AI-сервисах'
+  - EN: 'Gets answers from AI assistants (GEO)'
+- `s0470`
+  - RU: 'Узнаёт о Клиндовите и его преимуществах'
+  - EN: 'Learns about Clindovit and its benefits'
+- `s0471`
+  - RU: 'Выбирает Клиндовит'
+  - EN: 'Chooses Clindovit'
+
+## Slide 16
+
+- `s0472`
+  - RU: 'Paid Search: перехватываем горячий спрос и доводим пользователей до покупки'
+  - EN: 'Paid Search: we capture high-intent demand and lead users to purchase'
+- `s0473`
+  - RU: 'Поиск становится конверсионным ядром, а РСЯ усиливает его\nза счёт дополнительного охвата и возврата пользователей.'
+  - EN: 'Search becomes the conversion core; YAN (Yandex Advertising Network) boosts it\nwith extra reach and retargeting.'
+- `s0474`
+  - RU: 'Роль Paid Search в воронке'
+  - EN: 'Paid Search in the funnel'
+- `s0475`
+  - RU: 'Работаем на этапе **намерения**: перехватываем пользователей, которые уже ищут решение, и ведём их к покупке.'
+  - EN: 'We work at the **intent** stage: we catch people already looking for a fix and convert them.'
+- `s0476`
+  - RU: 'Знание'
+  - EN: 'Awareness'
+- `s0477`
+  - RU: 'Рассмотрение'
+  - EN: 'Consideration'
+- `s0478`
+  - RU: 'Намерение (Paid Search)'
+  - EN: 'Intent (Paid Search)'
+- `s0479`
+  - RU: 'Покупка'
+  - EN: 'Purchase'
+- `s0480`
+  - RU: 'Отрабатываем ключевые коммуникационные слои'
+  - EN: 'We cover key message layers'
+- `s0481`
+  - RU: 'Запросы о повторном появлении прыщей'
+  - EN: 'Queries about recurring breakouts'
+- `s0482`
+  - RU: 'Продуктовые и категорийные запросы'
+  - EN: 'Product and category queries'
+- `s0483`
+  - RU: 'Симптомы, опасения, побочные действия'
+  - EN: 'Symptoms, concerns, side effects'
+- `s0484`
+  - RU: '**Поиск:** конверсионное ядро'
+  - EN: '**Search:** the conversion core'
+- `s0485`
+  - RU: '2,12 млн ₽'
+  - EN: 'RUB 2.12M'
+- `s0486`
+  - RU: '3,6%'
+  - EN: '3.6%'
+- `s0487`
+  - RU: '24,7 ₽'
+  - EN: 'RUB 24.7'
+- `s0488`
+  - RU: 'бюджет'
+  - EN: 'budget'
+- `s0489`
+  - RU: 'CR (где купить)'
+  - EN: 'CR “Where to buy”'
+- `s0490`
+  - RU: '**Сайт** — сформированный категорийный спрос'
+  - EN: '**Site** — existing category demand'
+- `s0491`
+  - RU: '**Сайт** — перехват спроса по решению проблемы'
+  - EN: '**Site** — capturing demand for a solution'
+- `s0492`
+  - RU: '**Аптека** — сокращаем путь до покупки'
+  - EN: '**Pharmacy** — a shorter path to purchase'
+- `s0493`
+  - RU: '**Сайт** — перехват спроса во время поиска альтернатив'
+  - EN: '**Site** — capturing demand as people seek alternatives'
+- `s0494`
+  - RU: 'Забираем транзакционный спрос по бренду, симптоматике, категории и конкурентам.'
+  - EN: 'We capture transactional demand by brand, symptoms, category and competitors.'
+- `s0495`
+  - RU: 'Транзакционные + бренд'
+  - EN: 'Transactional + brand'
+- `s0496`
+  - RU: '«клиндовит купить в аптеке»'
+  - EN: '“clindovit buy pharmacy”'
+- `s0497`
+  - RU: 'Симптоматика'
+  - EN: 'Symptoms'
+- `s0498`
+  - RU: '«лечение акне», «черные точки»'
+  - EN: '“acne treatment”, “blackheads”'
+- `s0499`
+  - RU: 'Конкуренты'
+  - EN: 'Competitors'
+- `s0500`
+  - RU: '«дифферин крем», «зеркалин аналоги»'
+  - EN: '“differin cream”, “zerkalin alternatives”'
+- `s0501`
+  - RU: 'Продуктовая / категория'
+  - EN: 'Product / category'
+- `s0502`
+  - RU: '«средство против прыщей», «мазь от угрей»'
+  - EN: '“pimple treatment”, “acne ointment”'
+- `s0503`
+  - RU: 'Остальной бюджет'
+  - EN: 'Rest of budget'
+- `s0504`
+  - RU: 'доля бюджета'
+  - EN: 'of budget'
+- `s0505`
+  - RU: 'КАТЕГОРИЯ'
+  - EN: 'CATEGORY'
+- `s0506`
+  - RU: 'СИМПТОМАТИКА'
+  - EN: 'SYMPTOMS'
+- `s0507`
+  - RU: 'ТРАНЗАКЦИОННЫЕ'
+  - EN: 'TRANSACTIONAL'
+- `s0508`
+  - RU: 'КОНКУРЕНТЫ'
+  - EN: 'COMPETITORS'
+- `s0509`
+  - RU: 'Примеры поисковых запросов'
+  - EN: 'Search query examples'
+- `s0510`
+  - RU: '**РСЯ:** поддержка Поиска'
+  - EN: '**YAN:** Search support'
+- `s0511`
+  - RU: '1,11 млн ₽'
+  - EN: 'RUB 1.11M'
+- `s0512`
+  - RU: '1,8%'
+  - EN: '1.8%'
+- `s0513`
+  - RU: '9,6 ₽'
+  - EN: 'RUB 9.6'
+- `s0514`
+  - RU: 'Усиливаем охват и возвращаем пользователей, которые находятся на стадии выбора решения.'
+  - EN: 'We extend reach and bring back users who are still choosing a solution.'
+- `s0515`
+  - RU: 'Бренд + транзакции'
+  - EN: 'Brand + transactional'
+- `s0516`
+  - RU: 'Более выраженный интерес к покупке'
+  - EN: 'Stronger purchase intent'
+- `s0517`
+  - RU: 'Продукт / симптомы / конкуренты'
+  - EN: 'Product / symptoms / competitors'
+- `s0518`
+  - RU: 'Более широкая категорийная аудитория'
+  - EN: 'Broader category audience'
+- `s0519`
+  - RU: 'РСЯ'
+  - EN: 'YAN'
+- `s0520`
+  - RU: 'АПТЕКА'
+  - EN: 'PHARMACY'
+- `s0521`
+  - RU: 'САЙТ'
+  - EN: 'SITE'
+- `s0522`
+  - RU: 'Контролируем долю'
+  - EN: 'Share kept in check'
+- `s0523`
+  - RU: 'Качество трафика ниже Поиска — не масштабируем только ради объёма.'
+  - EN: 'Traffic quality is below Search — we don’t scale for volume alone.'
+- `s0524`
+  - RU: 'Фокус на post-click'
+  - EN: 'Post-click focus'
+- `s0525`
+  - RU: 'Глубина просмотра, время на сайте, роботность, qCPV.'
+  - EN: 'Page depth, time on site, bot traffic, qCPV.'
+- `s0526`
+  - RU: 'Разные посадочные'
+  - EN: 'Different LPs'
+- `s0527`
+  - RU: 'Выбираем по степени сформированности спроса.'
+  - EN: 'Matched to how mature the demand is.'
+
+## Slide 17
+
+- `s0528`
+  - RU: 'Блогеры в 2027: comprehensive-подход помогает обучать аудиторию и усиливать путь к покупке'
+  - EN: 'Influencers in 2027: Comprehensive helps educate audiences and strengthen the path to purchase'
+- `s0529`
+  - RU: 'Блогеры остаются важным каналом, чтобы понятным языком объяснять\nприменение Клиндовита и его преимущества.'
+  - EN: 'Influencers remain a key channel for explaining, in plain language,\nhow to use Clindovit and what its benefits are.'
+- `s0530`
+  - RU: 'Выбираем сегмент'
+  - EN: 'Choose a segment'
+- `s0531`
+  - RU: 'Подбираем релевантного блогера'
+  - EN: 'Match the right influencer'
+- `s0532`
+  - RU: 'Персонализируем сценарий и аргументы'
+  - EN: 'Tailor the script and talking points'
+- `s0533`
+  - RU: 'Размещаем на разрешённых площадках'
+  - EN: 'Publish on permitted platforms'
+- `s0534`
+  - RU: 'Отслеживаем\nпост-клик'
+  - EN: 'Track\npost-click'
+- `s0535`
+  - RU: 'Определяем целевую аудиторию и её ключевые потребности'
+  - EN: 'Define the target audience and its key needs'
+- `s0536`
+  - RU: 'Учитываем соответствие аудитории, естественность опыта и способность обеспечить переход'
+  - EN: 'Check audience fit, authentic product use and the ability to drive click-throughs'
+- `s0537`
+  - RU: 'Создаём нативный сюжет с продуктовым фокусом под мотивацию сегмента'
+  - EN: 'Write a native, product-focused story matched to segment motivation'
+- `s0538`
+  - RU: 'VK — ядро\nMAX — тест\nTikTok — дополнительный охват\nRUTUBE — контекст и видео'
+  - EN: 'VK — core\nMAX — test\nTikTok — extra reach\nRUTUBE — context and video'
+- `s0539`
+  - RU: 'Принимаем решение о сильных связках между флайтами'
+  - EN: 'Between flights, pick the strongest combinations'
+- `s0540`
+  - RU: 'Как мы реализуем comprehensive-подход в блогерах'
+  - EN: 'How we run Comprehensive with influencers'
+- `s0541`
+  - RU: 'В 2027 году мы используем comprehensive-подход: подбираем релевантного автора под каждый сегмент и персонализируем сценарий под мотивацию аудитории.'
+  - EN: 'In 2027 we use the Comprehensive approach: we match the right creator to each segment and tailor the script to the audience’s motivation.'
+- `s0542`
+  - RU: 'Почему блогеры остаются важным каналом'
+  - EN: 'Why influencers still matter'
+- `s0543`
+  - RU: 'Обучают правильному применению препарата'
+  - EN: 'Teach correct use of the drug'
+- `s0544`
+  - RU: 'Раскрывают преимущества бренда понятным и нативным языком'
+  - EN: 'Explain brand benefits in\xa0plain,\xa0natural\xa0language'
+- `s0545`
+  - RU: 'Помогают перевести интерес\nв post-click и «Где купить»'
+  - EN: 'Help turn interest\ninto post-click and “Where to buy”'
+- `s0546`
+  - RU: 'ПРИМЕРЫ БЛОГЕРОВ ПОД КЛЮЧЕВЫЕ СЕГМЕНТЫ'
+  - EN: 'INFLUENCER EXAMPLES FOR KEY SEGMENTS'
+- `s0547`
+  - RU: 'ДЕВУШКИ 18–25'
+  - EN: 'YOUNG WOMEN 18–25'
+- `s0548`
+  - RU: 'Софинка Баунти'
+  - EN: 'Sofinka Baunti'
+- `s0549`
+  - RU: 'Быстрый ответ на появившиеся прыщи, уверенность в себе.'
+  - EN: 'A quick fix for new breakouts and a confidence boost.'
+- `s0550`
+  - RU: '**Нативный сюжет:** «когда прыщи появляются на моем лице, я хочу средство, которое сразу уберет их».'
+  - EN: '**Native story:** “When pimples show up on my face, I want something that clears them right away.”'
+- `s0551`
+  - RU: 'МАМЫ ПОДРОСТКОВ 35–55'
+  - EN: 'MOMS OF TEENS 35–55'
+- `s0552`
+  - RU: 'Семейный / уход за кожей'
+  - EN: 'Family / skincare'
+- `s0553`
+  - RU: 'Понятный выбор средства для подростка, применение и преимущества.'
+  - EN: 'A clear choice of treatment for a teen: how to use it and its benefits.'
+- `s0554`
+  - RU: '**Личный опыт:** «моему ребенку нужно быстрое и хорошее средство от прыщей, потому что вижу, как они влияют на его настроение».'
+  - EN: '**Personal experience:** “My child needs something fast and effective for pimples, because I see how breakouts affect their mood.”'
+- `s0555`
+  - RU: 'ЖЕНЩИНЫ 25–40'
+  - EN: 'WOMEN 25–40'
+- `s0556`
+  - RU: 'Кристина Лясковец'
+  - EN: 'Kristina Lyaskovets'
+- `s0557`
+  - RU: 'Lifestyle / активный ритм жизни'
+  - EN: 'Lifestyle / fast-paced life'
+- `s0558`
+  - RU: 'Эффективность и удобство в насыщенном графике.'
+  - EN: 'Effective and easy to fit into a busy schedule.'
+- `s0559`
+  - RU: '**Сюжет:** «у меня нет времени на эти прыщи, я хочу средство, которое поможет мне убрать их как можно скорее».'
+  - EN: '**Story:** “I don’t have time for these pimples. I want something that gets rid of them as fast as possible.”'
+
+## Slide 18
+
+- `s0560`
+  - RU: '15,9M'
+  - EN: '15.9M'
+- `s0561`
+  - RU: 'БЮДЖЕТНЫЙ СПЛИТ*'
+  - EN: 'BUDGET SPLIT*'
+- `s0562`
+  - RU: '14,3M'
+  - EN: '14.3M'
+- `s0563`
+  - RU: '0,6M'
+  - EN: '0.6M'
+- `s0564`
+  - RU: '14,4M'
+  - EN: '14.4M'
+- `s0565`
+  - RU: '3,2M'
+  - EN: '3.2M'
+- `s0566`
+  - RU: '172 тыс.'
+  - EN: '172K'
+- `s0567`
+  - RU: '1,6 тыс.'
+  - EN: '1.6K'
+- `s0568`
+  - RU: 'Conversion\n«Где купить»'
+  - EN: 'Conversions\n“Where to buy”'
+- `s0569`
+  - RU: 'Ж 18–25 Social girl\nЖ 35–50 родители подростков\nЖ 25–34 бизнес/офис'
+  - EN: 'F 18–25 Social girl\nF 35–50 parents of teens\nF 25–34 business/office'
+- `s0570`
+  - RU: 'ЭТАП'
+  - EN: 'STAGE'
+- `s0571`
+  - RU: 'КАНАЛ'
+  - EN: 'CHANNEL'
+- `s0572`
+  - RU: 'ПОСТАВЩИКИ'
+  - EN: 'VENDORS'
+- `s0573`
+  - RU: 'БЮДЖЕТ'
+  - EN: 'BUDGET'
+- `s0574`
+  - RU: '4,1M'
+  - EN: '4.1M'
+- `s0575`
+  - RU: '28,7%'
+  - EN: '28.7%'
+- `s0576`
+  - RU: '2,1M'
+  - EN: '2.1M'
+- `s0577`
+  - RU: '14,7%'
+  - EN: '14.7%'
+- `s0578`
+  - RU: '1,7M'
+  - EN: '1.7M'
+- `s0579`
+  - RU: '11,9%'
+  - EN: '11.9%'
+- `s0580`
+  - RU: '1,5M'
+  - EN: '1.5M'
+- `s0581`
+  - RU: '10,5%'
+  - EN: '10.5%'
+- `s0582`
+  - RU: '22,3%'
+  - EN: '22.3%'
+- `s0583`
+  - RU: 'Медиапланы · прогноз'
+  - EN: 'Media plans · forecast'
+- `s0584`
+  - RU: '25,4 млн'
+  - EN: '25.4M'
+- `s0585`
+  - RU: '63,8 млн'
+  - EN: '63.8M'
+- `s0586`
+  - RU: '4,75 млн'
+  - EN: '4.75M'
+- `s0587`
+  - RU: '14,4 млн'
+  - EN: '14.4M'
+- `s0588`
+  - RU: '166 тыс.'
+  - EN: '166K'
+- `s0589`
+  - RU: '282 тыс.'
+  - EN: '282K'
+- `s0590`
+  - RU: '1,93%'
+  - EN: '1.93%'
+- `s0591`
+  - RU: '2,44%'
+  - EN: '2.44%'
+- `s0592`
+  - RU: 'Изменение: +151%'
+  - EN: 'Change: +151%'
+- `s0593`
+  - RU: 'ПОКАЗЫ'
+  - EN: 'IMPRESSIONS'
+- `s0594`
+  - RU: 'Изменение: +203%'
+  - EN: 'Change: +203%'
+- `s0595`
+  - RU: 'ОХВАТ'
+  - EN: 'REACH'
+- `s0596`
+  - RU: 'Изменение: +69%'
+  - EN: 'Change: +69%'
+- `s0597`
+  - RU: 'КЛИКИ'
+  - EN: 'CLICKS'
+- `s0598`
+  - RU: 'Изменение: +0,51 п.п.'
+  - EN: 'Change: +0.51 pp'
+- `s0599`
+  - RU: 'CR «ГДЕ КУПИТЬ»'
+  - EN: 'CR “WHERE TO BUY”'
+- `s0600`
+  - RU: 'буст / приоритетный флайт'
+  - EN: 'boost / priority flight'
+- `s0601`
+  - RU: 'активный период'
+  - EN: 'active period'
+- `s0602`
+  - RU: '*Бюджет до НДС, включая АК/РС'
+  - EN: '*Budget excl. VAT, incl. agency commission and ad levy'
+
+## Slide 19
+
+- `s0603`
+  - RU: 'Клиндовит 2027'
+  - EN: 'Clindovit 2027'
+- `s0604`
+  - RU: 'Что дает рост инвестиций vs 2026'
+  - EN: 'What higher spend vs 2026 delivers'
+- `s0605`
+  - RU: 'БИЗНЕС-ЦЕЛЬ 2027'
+  - EN: '2027 BUSINESS GOAL'
+- `s0606`
+  - RU: '338 млн ₽'
+  - EN: 'RUB 338M'
+- `s0607`
+  - RU: '+5% в деньгах      защита доли сегмента'
+  - EN: '+5% in value      defend segment share'
+- `s0608`
+  - RU: '+5% в деньгах'
+  - EN: '+5% in value'
+- `s0609`
+  - RU: 'защита доли сегмента'
+  - EN: 'defend segment share'
+- `s0610`
+  - RU: 'ИНВЕСТИЦИИ'
+  - EN: 'INVESTMENT'
+- `s0611`
+  - RU: '8,9 → 15,9 млн ₽'
+  - EN: 'RUB 8.9M → 15.9M'
+- `s0612`
+  - RU: 'МЕДИА-МАСШТАБ'
+  - EN: 'MEDIA SCALE'
+- `s0613`
+  - RU: '58M показов'
+  - EN: '58M impressions'
+- `s0614`
+  - RU: 'Tech. Reach 4+ 14,4M      Unique Reach 1+ 3,2M'
+  - EN: 'Tech. Reach 4+ 14.4M      Unique Reach 1+ 3.2M'
+- `s0615`
+  - RU: 'Tech. Reach 4+ 14,4M'
+  - EN: 'Tech. Reach 4+ 14.4M'
+- `s0616`
+  - RU: 'Unique Reach 1+ 3,2M'
+  - EN: 'Unique Reach 1+ 3.2M'
+- `s0617`
+  - RU: 'КАК РАЗВИВАЕМ COMPREHENSIVE В 2027'
+  - EN: 'HOW WE GROW COMPREHENSIVE IN 2027'
+- `s0618`
+  - RU: 'янв–фев'
+  - EN: 'Jan–Feb'
+- `s0619`
+  - RU: 'март–май'
+  - EN: 'Mar–May'
+- `s0620`
+  - RU: 'май–июль, 6 нед'
+  - EN: 'May–Jul, 6 wks'
+- `s0621`
+  - RU: 'июль–сент, 8 нед'
+  - EN: 'Jul–Sep, 8 wks'
+- `s0622`
+  - RU: 'сент–дек'
+  - EN: 'Sep–Dec'
+- `s0623`
+  - RU: 'Paid Search + GEO/AEO + ORM + внешние публикации'
+  - EN: 'Paid Search + GEO/AEO + ORM + external publications'
+- `s0624`
+  - RU: 'закрывает выбор и конверсию круглый год'
+  - EN: 'secures choice and conversion all year'
+- `s0625`
+  - RU: 'расширяет спрос в ключевые периоды и подключает новые сегменты'
+  - EN: 'expands demand in key periods and brings in new segments'
+- `s0626`
+  - RU: 'ЗОНЫ РАСШИРЕНИЯ'
+  - EN: 'EXPANSION AREAS'
+- `s0627`
+  - RU: 'Отработка барьеров выбора: «пока пользуюсь», переход от косметики к лекарству, страх раздражения'
+  - EN: 'Tackle choice barriers: “while I use it”, cosmetics → medicine, fear of irritation'
+- `s0628`
+  - RU: 'GEO/AEO, ORM и внешние публикации дают экспертный ответ в момент сравнения решений'
+  - EN: 'GEO/AEO, ORM and external publications give expert answers at\xa0the\xa0comparison\xa0stage'
+- `s0629`
+  - RU: 'Paid Search концентрируется на степени выраженности намерения к покупке'
+  - EN: 'Paid Search focuses on how strong the purchase intent is'
+- `s0630`
+  - RU: 'КАК РАСШИРЯЕМ COMPREHENSIVE В 2027'
+  - EN: 'HOW WE EXPAND COMPREHENSIVE IN 2027'
+- `s0631`
+  - RU: 'Простроенная\nсистема выбора'
+  - EN: 'A joined-up\npath to choice'
+- `s0632`
+  - RU: '**Programmatic** с сегментной коммуникацией и **блогеры** формируют охват в новых сегментах, **GEO/AEO + ORM + внешние публикации** снимают барьеры выбора, **Paid Search** переводит сформированный спрос в покупательское действие'
+  - EN: '**Programmatic** with segment messaging and **influencers** build reach in new segments, **GEO/AEO + ORM + external publications** remove choice barriers, and **Paid Search** converts existing demand into purchases'

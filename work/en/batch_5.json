@@ -1,0 +1,931 @@
+[
+ {
+  "id": "ppt/slides/slide40.xml#0",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "Использование Comprehensive-подхода в E-com"
+ },
+ {
+  "id": "ppt/slides/slide40.xml#1",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "Масштабирование связки «сегмент → e-com сигнал → персонализированный креатив» и тест новых креативных механик в рамках маркетплейсов с реализацией на стороне Акрихин"
+ },
+ {
+  "id": "ppt/slides/slide40.xml#3",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "01  ПЕРСОНАЛИЗАЦИЯ E-COM КОНТАКТА"
+ },
+ {
+  "id": "ppt/slides/slide40.xml#6",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "Сегмент"
+ },
+ {
+  "id": "ppt/slides/slide40.xml#7",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "из digital-стратегии"
+ },
+ {
+  "id": "ppt/slides/slide40.xml#11",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "Контекст"
+ },
+ {
+  "id": "ppt/slides/slide40.xml#12",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "подбор e-com сигнала"
+ },
+ {
+  "id": "ppt/slides/slide40.xml#16",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "Креатив"
+ },
+ {
+  "id": "ppt/slides/slide40.xml#17",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "повтор 360° message"
+ },
+ {
+  "id": "ppt/slides/slide40.xml#21",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "[1]Ж 18–34 · Новые средства[/1]\n[2]- Ищут новое решение и готовы пробовать альтернативы привычному уходу (анти-акне уход + проф. косметологические процедуры)[/2]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide40.xml#22",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "Покупки / интересы к средствам/лекарствам категории «уход за лицом, проблемная кожа, аптечная косметика»; покупки смежных SKU"
+ },
+ {
+  "id": "ppt/slides/slide40.xml#26",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "[1]Switchers МЖ 18–34 (Skinoclear)[/1]\n[2]- Пользователи / потенциальные switchers конкурентов[/2]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide40.xml#27",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "Покупки / интерес к конкурентным брендам и anti-acne SKU; ретаргетинг по релевантным карточкам"
+ },
+ {
+  "id": "ppt/slides/slide40.xml#31",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "[1]МЖ 18–40 · акне / постакне[/1]\n[2]- Важно не только убрать воспаления, но и работать с последствиями[/2]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide40.xml#32",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "Повторные покупки; просмотр / корзина derm-SKU"
+ },
+ {
+  "id": "ppt/slides/slide40.xml#35",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "Как оценить эффективность персонализации в e-com"
+ },
+ {
+  "id": "ppt/slides/slide40.xml#36",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "[1]Контроль:[/1][2] тот же сегмент + тот же e-com сигнал + базовый креатив[/2]\n[1]Тест:[/1][2] тот же сегмент/контекст + персонализированный 360° message[/2]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide40.xml#37",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "[1]Сравнение uplift:[/1][2] [/2][3]CTR → Add-to-cart → To buy[/3]\n[1]Decision gate:[/1][2] [/2][3]масштабирование связки при uplift по CTR/корзине/заказам[/3]",
+  "tags": 3
+ },
+ {
+  "id": "ppt/slides/slide40.xml#39",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "02  ТЕСТ НОВЫХ МЕХАНИК"
+ },
+ {
+  "id": "ppt/slides/slide40.xml#40",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "A/B-тест главного фото:\nпроверка креатива уже внутри карточки"
+ },
+ {
+  "id": "ppt/slides/slide40.xml#42",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "[1]Перенос персонализации внутрь карточки:[/1][2] для одного SKU показываются разные главные фото разным сегментам аудитории. Сегмент задаётся по параметрам [/2][1]пол, возраст, семейное положение и регион[/1][2], а WB автоматически подбирает наиболее релевантных пользователей. Так связка [/2][1]«сегмент → персонализированный креатив»[/1][2] продолжается уже в e-com[/2]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide40.xml#43",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "* Фактический состав аудитории может частично отличаться от заданных параметров."
+ },
+ {
+  "id": "ppt/slides/slide40.xml#45",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "Как оценить эффективность карточки для целевой аудитории"
+ },
+ {
+  "id": "ppt/slides/slide40.xml#46",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "МЕТОДОЛОГИЯ A/B-ТЕСТА"
+ },
+ {
+  "id": "ppt/slides/slide40.xml#49",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "Деление аудитории 50/50"
+ },
+ {
+  "id": "ppt/slides/slide40.xml#50",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "[1]Параллельно тестируется [/1][2]текущее фото (A) и новый персонализированный креатив (B)[/2][1] на сопоставимых группах пользователей[/1]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide40.xml#53",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "Фиксация условий теста"
+ },
+ {
+  "id": "ppt/slides/slide40.xml#54",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "[1]Тест [/1][2]идет 1–8 недель[/2][1]. В этот период не меняется главное фото вручную и поддерживается наличие товара, чтобы результат отражал именно эффект креатива[/1]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide40.xml#57",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "Масштабирование только подтвержденных вариантов"
+ },
+ {
+  "id": "ppt/slides/slide40.xml#58",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "[1]Сравниваются варианты по воронке [/1][2]переход в карточку → корзина → заказ[/2][1]. При статистически значимом uplift масштабируется победивший креатив; если разницы нет — [/1][2]продление теста или проверка новой гипотезы.[/2]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide40.xml#59",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "Scale: победивший visual → default на карточке"
+ },
+ {
+  "id": "ppt/slides/slide40.xml#60",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "* Метрики — по доступности данных площадки / поставщика"
+ },
+ {
+  "id": "ppt/slides/slide40.xml#61",
+  "slide": 40,
+  "kind": "slide",
+  "ru": "Источник: Wildberries Seller, «А/Б-тестирование главного фото в карточке товара», обновлено 27.08.2026"
+ },
+ {
+  "id": "ppt/notesSlides/notesSlide40.xml#1",
+  "slide": 40,
+  "kind": "notes",
+  "ru": "Слайд 37 · исходная версия (новый вариант — следующим слайдами)"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#0",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "Brand Attention Monitor: еженедельный\nсигнал о бренде между волнами BHT"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#1",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "Еженедельный сигнал органического интереса, скорректированный по BHT, чтобы бренд-команда могла управлять медиа и реагировать на конкурентов до следующей волны Brand Health"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#4",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "Регулярный тактический мониторинг, а не отдельная метрика: еженедельное внимание → калибровка по BHT → решения между волнами BHT"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#8",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "волна BHT"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#11",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "следующая волна BHT"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#20",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "перераспределить медиа-вес"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#23",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "ответить на активность конкурента"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#27",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "КАЛИБРОВКА ПО BHT"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#28",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "Веса источников обновляются после каждой волны BHT"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#31",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "ЕЖЕНЕДЕЛЬНЫЙ МОНИТОРИНГ"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#32",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "Индекс внимания, доля vs конкуренты, Paid vs Unpaid"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#35",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "РЕШЕНИЯ МЕЖДУ ВОЛНАМИ"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#36",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "Медиа-вес, каналы, реакция на конкурентов"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#40",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "ЕДИНЫЙ ИНДЕКС ВНИМАНИЯ"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#42",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "ОДНА ЕЖЕНЕДЕЛЬНАЯ ДИНАМИКА"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#43",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "Paid Search, Video, Telegram и Media объединяются в единую динамику органического интереса + доля внимания бренда vs прямые конкуренты"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#44",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "ДЛЯ КОМАНДЫ МАРКЕТИНГА"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#45",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "Органический интерес растет или снижается?"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#51",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "ОТДЕЛЯЕМ ЭФФЕКТ МЕДИА ОТ ОРГАНИКИ"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#52",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "Показы кампаний на той же временной шкале: какая часть изменения связана с Paid Media, а какая возникла органически"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#53",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "ДЛЯ КОМАНДЫ МАРКЕТИНГА"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#54",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "Поднял ли flight внимание выше базового тренда?"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#58",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "МОНИТОРИНГ КОНКУРЕНТОВ"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#60",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "РЕАГИРУЕМ ТАКТИЧЕСКИ"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#61",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "Еженедельно видим активность конкурентов. Пример: растет видеоактивность конкурента → усиливаем поддержку блогерами / TikTok"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#62",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "ДЛЯ КОМАНДЫ МАРКЕТИНГА"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#63",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "Где конкурент усиливается и как мы отвечаем?"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#67",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "МЕЖДУ ВОЛНАМИ BHT"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#69",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "ОПРЕДЕЛЯЕМ СЛЕДУЮЩИЙ ШАГ"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#70",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "Индекс, скорректированный по BHT, показывает, как Paid и Organic каналы меняют брендовые метрики до следующей волны"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#71",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "ДЛЯ КОМАНДЫ МАРКЕТИНГА"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#72",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "Какие медиа усилить до следующей волны?"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#75",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "РЕЗУЛЬТАТ"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#77",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "Индекс внимания | Доля внимания | Paid vs Unpaid | Сигналы по конкурентам | Еженедельная рекомендация по оптимизации"
+ },
+ {
+  "id": "ppt/slides/slide42.xml#78",
+  "slide": 42,
+  "kind": "slide",
+  "ru": "[1]Роль в Comprehensive:[/1][2] еженедельный сигнал → калибровка по BHT → решение для планирования[/2]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide43.xml#0",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "Brand Attention Monitor в деталях:\nисточники, индекс и пример использования"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#1",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "Автоматический ежедневный сбор из открытых источников, единый еженедельный индекс с калибровкой по BHT и доля внимания внутри конкурентного набора"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#3",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "КАК ЭТО РАБОТАЕТ"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#4",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "Открытые источники → единый еженедельный индекс → доля внимания vs конкуренты → решения для бренд-команды"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#8",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "ИСТОЧНИКИ И ВЕСА"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#9",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "стартовые веса, калибруются по BHT"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#14",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "Wordstat, поиск в online-аптеках, AI-ответы"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#19",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "YouTube, Rutube, VK Video, TikTok; голос учитывается через авто-субтитры"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#24",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "каналы врачей, педиатров и мам"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#29",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "Фармвестник, Vademecum и деловые Media"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#31",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "Вне индекса: аптечная полка и маркетплейсы как контекст покупки"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#35",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "ЕДИНЫЙ ЕЖЕНЕДЕЛЬНЫЙ ИНДЕКС"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#37",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "Индекс = 100 × Σ\n(вес × текущая неделя ÷ базовая неделя)"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#38",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "100 — нормальный уровень бренда; линия показывает рост / снижение относительно него"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#39",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "Share of Attention — доля бренда внутри конкурентного набора"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#40",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "Веса источников перекалибруются по BHT после каждой волны"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#41",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "Препарат, названный только голосом в видео, учитывается через авто-субтитры"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#45",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "ПРИМЕР · AZELIK VS SKINOCLEAR"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#46",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "Демо Акрихин, сентябрь 2026"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#51",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "Доля в поиске\n(Wordstat)"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#52",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "Доля поиска\nв online-аптеках"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#54",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "Просмотры YouTube,\n90 дней"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#56",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "[1]Вывод:[/1][2] паритет в поиске, преимущество в online-аптеках и 3× отставание в видео. Самое сильное видео конкурента — у врача-блогера → основание для DOL и интеграций с блогерами[/2]",
+  "tags": 2
+ },
+ {
+  "id": "ppt/slides/slide43.xml#61",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "Rx: инвестиции и внимание не объединяем на одном экране | работаем с агрегированными цифрами,\nа не с пользовательскими текстами | индекс не равен охвату и продажам"
+ },
+ {
+  "id": "ppt/slides/slide43.xml#62",
+  "slide": 43,
+  "kind": "slide",
+  "ru": "Пример источников: Wordstat (Россия, 4 недели до 31.08.2026), поиск в online-аптеках, YouTube (90 дней)"
+ },
+ {
+  "id": "ppt/notesSlides/notesSlide43.xml#1",
+  "slide": 43,
+  "kind": "notes",
+  "ru": "Слайд 40 · исходная версия (новый вариант — следующим слайдом)"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#0",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "AI scoring в работе с блогерами:\nотбор авторов и оценка вероятности риска"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#1",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "AI переносит выявление рисков на этап до создания сценария и съемок; команды проверяют только приоритетных авторов"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#4",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "До начала взаимодействия с блогером предварительно оцениваем соответствие и риски; AI сокращает исходный список и выделяет случаи, требующие экспертной проверки"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#8",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "СООТВЕТСТВИЕ АУДИТОРИИ И КОНТЕНТА"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#9",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "Соответствие ЦА / контента айдентике бренда"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#10",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "ER, качество аудитории, наличие ботов"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#11",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "Характер рекламы, целостность и последовательность контента"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#16",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "COMPLIANCE И ОФИЦИАЛЬНЫЙ СТАТУС"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#17",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "Регистрация в РКН / проверка официальных реестров"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#18",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "Статус иноагента и другие legal red flags"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#19",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "Политические / религиозные / запрещенные темы"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#24",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "РЕПУТАЦИЯ И КОНФЛИКТЫ"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#25",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "Недавние интеграции с конкурентами"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#26",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "Скандалы / репутационные инциденты"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#27",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "Контекст упоминаний в Media: позитивный / нейтральный / негативный"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#32",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "AI объединяет сигналы соответствия, качества, соблюдения требований и репутации в единую систему оценки для принятия решений"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#35",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "Релевантность аудитории / контента"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#38",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "Подлинность аудитории / рекламная нагрузка"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#41",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "Официальные / Legal / brand-safety риски"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#44",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "Конфликты / контекст упоминаний в медиа / инциденты"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#49",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "AI не утверждает блогера — он определяет приоритет следующего действия человека"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#54",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "Высокий fit / низкий риск → к переговорам"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#59",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "Сильный потенциал, но есть минимум один risk signal"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#64",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "Критичный compliance / reputation / fit risk"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#67",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "РЕЗУЛЬТАТ AI"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#69",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "Рейтинг приоритета  |  Вероятность риска  |  Stop-list  |  Risk flags  |  Shortlist / резервный пул"
+ },
+ {
+  "id": "ppt/slides/slide44.xml#70",
+  "slide": 44,
+  "kind": "slide",
+  "ru": "Human in the loop: финальное решение остается за Marketing / Legal"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#0",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "AI scoring в работе с блогерами: сценарий,\ncompliance pre-check и обучение на результатах кампании"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#1",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "AI ускоряет подготовку и раньше выявляет риски; финальное согласование остается за человеком на каждом критическом этапе"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#4",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "После отбора блогера повторно используем тот же подход к контролю качества  - от первого черновика до финального контента и анализа результатов кампании"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#8",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "ЗАФИКСИРОВАННЫЙ БРИФ"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#11",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "RTB / обязательные сообщения"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#15",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "Человек: фиксирует бриф / RTB"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#20",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "ПЕРВЫЙ ДРАФТ СЦЕНАРИЯ"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#22",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "AI СОЗДАЕТ"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#23",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "Структуру драфта"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#24",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "Адаптацию под стиль блогера"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#25",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "Версию под формат / платформу"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#27",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "Человек: редактирует / утверждает сценарий"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#32",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "QA ПЕРЕД ПУБЛИКАЦИЕЙ"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#34",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "AI ПРОВЕРЯЕТ"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#35",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "Соответствие RTB / брифу"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#36",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "Стоп-слова / упоминания конкурентов"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#37",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "Med / Legal / Brand маркеры риска"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#39",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "Человек: финальное Med / Legal / Brand подтверждение"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#44",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "МОНИТОРИНГ И ОБУЧЕНИЕ"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#46",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "AI ОБУЧАЕТСЯ"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#47",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "Тональность комментариев"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#48",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "Performance / аномалии CPV"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#49",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "Обновленная оценка автора"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#51",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "Человек: принимает решение о будущем рейтинге / использовании"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#53",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "ЕДИНЫЙ AI QUALITY-CONTROL СЛОЙ"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#55",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "Одна и та же логика brief / risk применяется на всех этапах: draft generation → pre-check → final content → campaign learning"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#58",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "Черновик сценария  |  QA-комментарии  |  Risk flags  |  Отклонения в контенте  |  Обновленная оценка автора"
+ },
+ {
+  "id": "ppt/slides/slide45.xml#60",
+  "slide": 45,
+  "kind": "slide",
+  "ru": "РЕЗУЛЬТАТ AI"
+ },
+ {
+  "id": "str#3",
+  "slide": 43,
+  "kind": "chartstr",
+  "ru": "Доля в поиске (Wordstat)"
+ },
+ {
+  "id": "str#4",
+  "slide": 43,
+  "kind": "chartstr",
+  "ru": "Доля поиска в online-аптеках"
+ },
+ {
+  "id": "str#18",
+  "slide": 43,
+  "kind": "chartstr",
+  "ru": "Просмотры YouTube, 90 дней"
+ }
+]
